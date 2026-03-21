@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "ID": 1,
+      "Level": 1,
+      "Coin": 3,
+      "EXP": 6,
+      "BoardCoordinate": "-1,-1/-1,0/-1,1/0,-1/0,0/0,1/1,-1/1,0/1,1",
+      "TierChances": "100,0,0,0,0"
+    },
+    {
+      "ID": 2,
+      "Level": 2,
+      "Coin": 4,
+      "EXP": 12,
+      "BoardCoordinate": "0,2/2,0/0,-2/-2,0",
+      "TierChances": "100,0,0,0,0"
+    },
+    {
+      "ID": 3,
+      "Level": 3,
+      "Coin": 5,
+      "EXP": 16,
+      "BoardCoordinate": "1,2/2,-1/-1,-2/-2,1",
+      "TierChances": "75,25,0,0,0"
+    },
+    {
+      "ID": 4,
+      "Level": 4,
+      "Coin": 6,
+      "EXP": 20,
+      "BoardCoordinate": "-1,2/2,1/1,-2/-2,-1",
+      "TierChances": "50,30,20,0,0"
+    },
+    {
+      "ID": 5,
+      "Level": 5,
+      "Coin": 7,
+      "EXP": 24,
+      "BoardCoordinate": "0,3/3,0/-3,0/0,-3",
+      "TierChances": "45,30,20,5,0"
+    },
+    {
+      "ID": 6,
+      "Level": 6,
+      "Coin": 8,
+      "EXP": 30,
+      "BoardCoordinate": "1,3/3,-1/-1,-3/-3,1",
+      "TierChances": "15,40,30,13,2"
+    },
+    {
+      "ID": 7,
+      "Level": 7,
+      "Coin": 9,
+      "EXP": 40,
+      "BoardCoordinate": "-1,3/3,1/1,-3/-3,-1",
+      "TierChances": "10,30,35,15,5"
+    },
+    {
+      "ID": 8,
+      "Level": 8,
+      "Coin": 10,
+      "EXP": 0,
+      "BoardCoordinate": "2,2/-2,2/2,-2/-2,-2",
+      "TierChances": "5,20,35,25,15"
+    }
+  ]
+}

@@ -1,0 +1,3569 @@
+{
+  "data": [
+    {
+      "Key": "SHOP_BUY",
+      "ko": "<sprite=0> {0}에 구매",
+      "en": "Buy at <sprite=0> {0}"
+    },
+    {
+      "Key": "SHOP_SELL",
+      "ko": "<sprite=0> {0}에 판매",
+      "en": "Sell at <sprite=0> {0}"
+    },
+    {
+      "Key": "SYNERGY_1",
+      "ko": "전사",
+      "en": "Warrior"
+    },
+    {
+      "Key": "SYNERGY_2",
+      "ko": "궁수",
+      "en": "Archer"
+    },
+    {
+      "Key": "SYNERGY_3",
+      "ko": "마법사",
+      "en": "Wizard"
+    },
+    {
+      "Key": "SYNERGY_4",
+      "ko": "강령술사",
+      "en": "Necromancer"
+    },
+    {
+      "Key": "SYNERGY_5",
+      "ko": "격투가",
+      "en": "Pugilist"
+    },
+    {
+      "Key": "SYNERGY_6",
+      "ko": "도적",
+      "en": "Rogue"
+    },
+    {
+      "Key": "SYNERGY_7",
+      "ko": "주술사",
+      "en": "Shaman"
+    },
+    {
+      "Key": "SYNERGY_8",
+      "ko": "화염",
+      "en": "Fire"
+    },
+    {
+      "Key": "SYNERGY_9",
+      "ko": "냉기",
+      "en": "Blizzard"
+    },
+    {
+      "Key": "SYNERGY_10",
+      "ko": "전기",
+      "en": "Electricity"
+    },
+    {
+      "Key": "SYNERGY_11",
+      "ko": "어둠",
+      "en": "Darkness"
+    },
+    {
+      "Key": "SYNERGY_12",
+      "ko": "독",
+      "en": "Poison"
+    },
+    {
+      "Key": "SYNERGY_13",
+      "ko": "찌르기",
+      "en": "Stab"
+    },
+    {
+      "Key": "SYNERGY_14",
+      "ko": "충격",
+      "en": "Shock"
+    },
+    {
+      "Key": "SYNERGY_1_DESC",
+      "ko": "확산 범위 {0}% 증가",
+      "en": "Increase Splash Range by {0}%"
+    },
+    {
+      "Key": "SYNERGY_2_DESC",
+      "ko": "스킬 쿨타임 {0}% 감소",
+      "en": "Decrease Cool Time by {0}%"
+    },
+    {
+      "Key": "SYNERGY_3_DESC",
+      "ko": "확률 {0}%로 스킬 2번 사용",
+      "en": "{0}% chance to use Skill twice"
+    },
+    {
+      "Key": "SYNERGY_4_DESC",
+      "ko": "소환수 {0}마리 추가 생성",
+      "en": "Create {0} additional Summoners"
+    },
+    {
+      "Key": "SYNERGY_5_DESC",
+      "ko": "오오라와 파동의 데미지 \n{0}% 증가",
+      "en": "Increase Aura and Wave Damage\nby {0}%"
+    },
+    {
+      "Key": "SYNERGY_6_DESC",
+      "ko": "크리티컬 확률 {0}% 증가",
+      "en": "Increase Critical rate by {0}%"
+    },
+    {
+      "Key": "SYNERGY_7_DESC",
+      "ko": "소환수가 {0}%확률로 두번 공격",
+      "en": "Summoners attack twice by {0}% chance"
+    },
+    {
+      "Key": "SYNERGY_8_DESC",
+      "ko": "화염 데미지 {0}% 증가",
+      "en": "Increase Fire damage by {0}%"
+    },
+    {
+      "Key": "SYNERGY_9_DESC",
+      "ko": "냉기 데미지 {0}% 증가",
+      "en": "Increase Blizzard damage by {0}%"
+    },
+    {
+      "Key": "SYNERGY_10_DESC",
+      "ko": "전기 데미지 {0}% 증가",
+      "en": "Increase Electricity damage by {0}%"
+    },
+    {
+      "Key": "SYNERGY_11_DESC",
+      "ko": "어둠 데미지 {0}% 증가",
+      "en": "Increase Darkness damage by {0}%"
+    },
+    {
+      "Key": "SYNERGY_12_DESC",
+      "ko": "독 데미지 {0}% 증가",
+      "en": "Increase Poison damage by {0}%"
+    },
+    {
+      "Key": "SYNERGY_13_DESC",
+      "ko": "찌르기 데미지 {0}% 증가",
+      "en": "Increase Stab damage by {0}%"
+    },
+    {
+      "Key": "SYNERGY_14_DESC",
+      "ko": "충격 데미지 {0}% 증가",
+      "en": "Increase Shock damage by {0}%"
+    },
+    {
+      "Key": "SKILLTYPE_1",
+      "ko": "타격",
+      "en": "Strike"
+    },
+    {
+      "Key": "SKILLTYPE_2",
+      "ko": "투사체",
+      "en": "Proj."
+    },
+    {
+      "Key": "SKILLTYPE_3",
+      "ko": "파동",
+      "en": "Wave"
+    },
+    {
+      "Key": "SKILLTYPE_4",
+      "ko": "오오라",
+      "en": "Aura"
+    },
+    {
+      "Key": "SKILLTYPE_5",
+      "ko": "회전",
+      "en": "Spin"
+    },
+    {
+      "Key": "SKILLTYPE_6",
+      "ko": "소환",
+      "en": "Summon"
+    },
+    {
+      "Key": "SKILLTYPE_ENFORCE",
+      "ko": "강화",
+      "en": "Enhance"
+    },
+    {
+      "Key": "SKILLTYPE_LINK",
+      "ko": "연결",
+      "en": "Link"
+    },
+    {
+      "Key": "CHACRACTER_NAME_1",
+      "ko": "모험가",
+      "en": "Adventurer"
+    },
+    {
+      "Key": "CHACRACTER_NAME_2",
+      "ko": "전사",
+      "en": "Warrior"
+    },
+    {
+      "Key": "CHACRACTER_NAME_3",
+      "ko": "궁수",
+      "en": "Archer"
+    },
+    {
+      "Key": "CHACRACTER_NAME_4",
+      "ko": "마법사",
+      "en": "Wizard"
+    },
+    {
+      "Key": "CHACRACTER_NAME_5",
+      "ko": "강령술사",
+      "en": "Necromancer"
+    },
+    {
+      "Key": "CHACRACTER_NAME_6",
+      "ko": "격투가",
+      "en": "Pugilist"
+    },
+    {
+      "Key": "CHACRACTER_NAME_7",
+      "ko": "도적",
+      "en": "Rogue"
+    },
+    {
+      "Key": "CHACRACTER_NAME_8",
+      "ko": "주술사",
+      "en": "Shaman"
+    },
+    {
+      "Key": "PUZZLE_PLACENOTICE",
+      "ko": "배치되지 않은 타일이 있습니다.",
+      "en": "There are unplaced tiles."
+    },
+    {
+      "Key": "BOARD_STARTNOTICE",
+      "ko": "배치된 타일이 하나도 없습니다.",
+      "en": "There are no tiles placed."
+    },
+    {
+      "Key": "KEEP_PLAY_TITLE",
+      "ko": "이어하기",
+      "en": "Continue"
+    },
+    {
+      "Key": "KEEP_PLAY_DESC",
+      "ko": "플레이하던 던전이 있습니다. \n계속 플레이하시겠습니까?",
+      "en": "There's a dungeon you were playing in. \nDo you want to continue playing?"
+    },
+    {
+      "Key": "KEEP_PLAY_WARNING",
+      "ko": "이어하지 않을 시 진행한 내용을 잃게 됩니다.",
+      "en": "You will lose process if you do not continue."
+    },
+    {
+      "Key": "USER_NAME_TITLE",
+      "ko": "유저 이름",
+      "en": "Player Name"
+    },
+    {
+      "Key": "USER_NAME_DESC",
+      "ko": "당신의 이름을 지어주세요.",
+      "en": "Enter your name."
+    },
+    {
+      "Key": "HERO_NAME_TITLE",
+      "ko": "용사 이름",
+      "en": "Hero Name"
+    },
+    {
+      "Key": "HERO_NAME_DESC",
+      "ko": "이 던전을 정화한 용사의 이름은 무엇인가요?",
+      "en": "What is the name of the hero who purified this Dungeon?"
+    },
+    {
+      "Key": "DUNGEON_NAME_TITLE",
+      "ko": "던전 이름",
+      "en": "Dungeon Name"
+    },
+    {
+      "Key": "DUNGEON_NAME_DESC",
+      "ko": "축하합니다! 던전을 완성했습니다.\n던전의 이름을 지어주세요.",
+      "en": "Congratulations! You have completed the Dungeon!\nPlease name the Dungeon."
+    },
+    {
+      "Key": "WARNING_SPECIALCHARACTER",
+      "ko": "특수문자는 사용할 수 없습니다.",
+      "en": "Special characters are not allowed."
+    },
+    {
+      "Key": "WARNING_INPUT_LENGTHOVER",
+      "ko": "이름이 너무 깁니다.",
+      "en": "Name is too long."
+    },
+    {
+      "Key": "PAUSE_TITLE",
+      "ko": "일시정지",
+      "en": "Pause"
+    },
+    {
+      "Key": "READYPOPUP_TITLE",
+      "ko": "용사 선택",
+      "en": "Choose Hero"
+    },
+    {
+      "Key": "READYPOPUP_PROGRESS_EXPLORE",
+      "ko": "<color=#7171C5>{0}</color><color=#9BAADF>의 던전</color>",
+      "en": "<color=#7171C5>{0}</color><color=#9BAADF>'s Dungeon</color>"
+    },
+    {
+      "Key": "READYPOPUP_PROGRESS_NORMAL",
+      "ko": "던전 진행도",
+      "en": "Dungeon Progress"
+    },
+    {
+      "Key": "READYPOPUP_GIVEUP",
+      "ko": "던전 초기화",
+      "en": "Reset Dungeon"
+    },
+    {
+      "Key": "POPUP_GIVEUP_MESSAGE",
+      "ko": "던전 진행도가 모두 초기화 됩니다. \n초기화 하시겠습니까?",
+      "en": "Dungeon progress will reset.\nAre you sure you want to reset the dungeon?"
+    },
+    {
+      "Key": "MYINFO_DUNGEON_TAB",
+      "ko": "나의 던전",
+      "en": "My Dungeon"
+    },
+    {
+      "Key": "MYINFO_DUNGEON_EMPTY",
+      "ko": "50층을 돌파하고\n던전을 완성하세요!",
+      "en": "Complete Dungeon by\nclearing 50th floor!"
+    },
+    {
+      "Key": "MYINFO_HERO_TAB",
+      "ko": "나의 영웅",
+      "en": "My Hero"
+    },
+    {
+      "Key": "MYINFO_HERO_EMPTY",
+      "ko": "랜덤 던전을 돌파하고\n용사를 만들어보세요!",
+      "en": "Create a Hero by\nclearing a random Dungeon!"
+    },
+    {
+      "Key": "NOT_ENOUGH_COIN",
+      "ko": "코인이 부족합니다.",
+      "en": "Not enough Coins."
+    },
+    {
+      "Key": "RANK_USER_TAB",
+      "ko": "유저 랭킹",
+      "en": "Player Rank"
+    },
+    {
+      "Key": "RANK_DUNGEON_TAB",
+      "ko": "던전 랭킹",
+      "en": "Dungeon Rank"
+    },
+    {
+      "Key": "INGAME_DUNGEONTYPE",
+      "ko": "신규 던전",
+      "en": "New Dungeon"
+    },
+    {
+      "Key": "TUTO_001",
+      "ko": "하단의 상점에서 카드를 드래그해\n퍼즐을 구매하세요!",
+      "en": "Buy Puzzles by dragging Cards\nfrom the Shop below!"
+    },
+    {
+      "Key": "TUTO_002",
+      "ko": "같은 퍼즐을 3개 모으면 합쳐집니다.",
+      "en": "Collect 3 of the same Puzzle to merge."
+    },
+    {
+      "Key": "TUTO_003",
+      "ko": "퍼즐을 터치하면 회전합니다.",
+      "en": "Tap to rotate Puzzle."
+    },
+    {
+      "Key": "TUTO_004",
+      "ko": "상점의 레벨이 올랐네요!\n더 좋은 카드가 등장합니다.",
+      "en": "Shop has leveled up!\nNow better Cards will appear."
+    },
+    {
+      "Key": "TUTO_005",
+      "ko": "리프레시 버튼을 누르면 \n상품이 갱신됩니다.",
+      "en": "Items will update\nif you tap Refresh button."
+    },
+    {
+      "Key": "TUTO_006",
+      "ko": "자물쇠 버튼을 눌러 \n상품을 유지할 수 있습니다.",
+      "en": "Keep Item by\npressing Lock button."
+    },
+    {
+      "Key": "TUTO_007",
+      "ko": "퍼즐을 다시 상점으로 드래그하면\n판매할 수 있습니다.",
+      "en": "You can sell Puzzle by\ndragging them back to the Shop."
+    },
+    {
+      "Key": "TUTO_008",
+      "ko": "내가 보유한 퍼즐은 상점에 표시됩니다.",
+      "en": "Puzzles you own are displayed in the Shop."
+    },
+    {
+      "Key": "TUTO_009",
+      "ko": null,
+      "en": null
+    },
+    {
+      "Key": "TUTO_010",
+      "ko": "다음은 보스 스테이지입니다!",
+      "en": "Boss Stage is next!"
+    },
+    {
+      "Key": "TUTO_011",
+      "ko": "보스를 쓰러뜨리고 부활 기회를 얻었습니다.",
+      "en": "You've defeated the boss and have a chance to respawn."
+    },
+    {
+      "Key": "TUTO_012",
+      "ko": null,
+      "en": null
+    },
+    {
+      "Key": "TUTO_013",
+      "ko": "캐릭터 아이콘을 누르면 시너지 영역을 접을 수 있습니다.",
+      "en": "Press the character icon to collapse the synergy area."
+    },
+    {
+      "Key": "TUTO_014",
+      "ko": null,
+      "en": null
+    },
+    {
+      "Key": "TUTO_015",
+      "ko": "같은 문양의 퍼즐을 모을수록\n시너지 효과가 강해집니다.",
+      "en": "The more puzzles of the same pattern\nyou collect the stronger the synergy."
+    },
+    {
+      "Key": "TUTO_016",
+      "ko": null,
+      "en": null
+    },
+    {
+      "Key": "TUTO_017",
+      "ko": "시너지 아이콘을 누르면 효과를 확인할 수 있습니다.",
+      "en": "Tap the synergy icon to see the effect."
+    },
+    {
+      "Key": "TUTO_018",
+      "ko": null,
+      "en": null
+    },
+    {
+      "Key": "TUTO_019",
+      "ko": "대량의 몬스터가 몰려옵니다!",
+      "en": "Massive Monsters coming!"
+    },
+    {
+      "Key": "TUTO_020",
+      "ko": "다음은 보스 스테이지입니다!",
+      "en": "Boss Stage is next!"
+    },
+    {
+      "Key": "TUTO_021",
+      "ko": "보스를 쓰러뜨리고 부활 기회를 얻었습니다.",
+      "en": "You've defeated the boss and have a chance to respawn."
+    },
+    {
+      "Key": "TUTO_022",
+      "ko": null,
+      "en": null
+    },
+    {
+      "Key": "TUTO_023",
+      "ko": "4코인을 내고 상점 경험치를 얻을 수 있습니다.",
+      "en": "You can get Shop Exp with 4 Coins."
+    },
+    {
+      "Key": "TUTO_024",
+      "ko": null,
+      "en": null
+    },
+    {
+      "Key": "TUTO_025",
+      "ko": "강화 퍼즐은 더 많은 면이 주변에 닿을수록 강해집니다.",
+      "en": "Enhance Puzzles get stronger as more puzzles adjacent."
+    },
+    {
+      "Key": "TUTO_026",
+      "ko": null,
+      "en": null
+    },
+    {
+      "Key": "TUTO_027",
+      "ko": "연결 퍼즐은 입구 쪽 스킬과 출구 쪽 스킬을 이어줍니다.",
+      "en": "Link Puzzle connects a skill at the input to a skill at the output."
+    },
+    {
+      "Key": "TUTO_028",
+      "ko": null,
+      "en": null
+    },
+    {
+      "Key": "TUTO_029",
+      "ko": "대량의 몬스터가 몰려옵니다!",
+      "en": "Massive Monsters coming!"
+    },
+    {
+      "Key": "TUTO_030",
+      "ko": "다음은 보스 스테이지입니다!",
+      "en": "Boss Stage is next!"
+    },
+    {
+      "Key": "TUTO_031",
+      "ko": "보스를 쓰러뜨리고 부활 기회를 얻었습니다.",
+      "en": "You've defeated the boss and have a chance to respawn."
+    },
+    {
+      "Key": "TUTO_032",
+      "ko": null,
+      "en": null
+    },
+    {
+      "Key": "TUTO_033",
+      "ko": null,
+      "en": null
+    },
+    {
+      "Key": "TUTO_034",
+      "ko": null,
+      "en": null
+    },
+    {
+      "Key": "TUTO_035",
+      "ko": null,
+      "en": null
+    },
+    {
+      "Key": "TUTO_036",
+      "ko": null,
+      "en": null
+    },
+    {
+      "Key": "TUTO_037",
+      "ko": null,
+      "en": null
+    },
+    {
+      "Key": "TUTO_038",
+      "ko": null,
+      "en": null
+    },
+    {
+      "Key": "TUTO_039",
+      "ko": "대량의 몬스터가 몰려옵니다!",
+      "en": "Massive Monsters coming!"
+    },
+    {
+      "Key": "TUTO_040",
+      "ko": "다음은 보스 스테이지입니다!",
+      "en": "Boss Stage is next!"
+    },
+    {
+      "Key": "TUTO_041",
+      "ko": "보스를 쓰러뜨리고 부활 기회를 얻었습니다.",
+      "en": "You've defeated the boss and have a chance to respawn."
+    },
+    {
+      "Key": "TUTO_042",
+      "ko": null,
+      "en": null
+    },
+    {
+      "Key": "TUTO_043",
+      "ko": null,
+      "en": null
+    },
+    {
+      "Key": "TUTO_044",
+      "ko": null,
+      "en": null
+    },
+    {
+      "Key": "TUTO_045",
+      "ko": null,
+      "en": null
+    },
+    {
+      "Key": "TUTO_046",
+      "ko": null,
+      "en": null
+    },
+    {
+      "Key": "TUTO_047",
+      "ko": null,
+      "en": null
+    },
+    {
+      "Key": "TUTO_048",
+      "ko": null,
+      "en": null
+    },
+    {
+      "Key": "TUTO_049",
+      "ko": "대량의 몬스터가 몰려옵니다!",
+      "en": "Massive Monsters coming!"
+    },
+    {
+      "Key": "TUTO_050",
+      "ko": "던전의 주인이 기다리고 있습니다...",
+      "en": "The Master of the Dungeon is waiting you..."
+    },
+    {
+      "Key": "DIALOGUE_ADVENTURE_01",
+      "ko": "던전에는 10층마다\n보스 몬스터가 도사리고 있대.",
+      "en": "They say that there are Boss Monsters\nin the Dungeon every 10 Levels."
+    },
+    {
+      "Key": "DIALOGUE_ADVENTURE_02",
+      "ko": "보스 몬스터를 처치 하면\n악마가 되어버린다는데\n진짜일까?!",
+      "en": "I heard that defeating a Boss Monster will\nturn you into a demon.\nIs that true?!"
+    },
+    {
+      "Key": "DIALOGUE_ADVENTURE_03",
+      "ko": "던전을 50층까지 완료하면\n다른 사람들이 내 던전을\n플레이할 수 있어.",
+      "en": "Other Players can play my Dungeon\nif I clear the Dungeon to Lv.50."
+    },
+    {
+      "Key": "DIALOGUE_ADVENTURE_04",
+      "ko": "연결 퍼즐은 화살표 방향을\n잘 보고 연결해야 해.",
+      "en": "Make sure to check where the arrow faces\non the connection puzzle when you connect them."
+    },
+    {
+      "Key": "DIALOGUE_ADVENTURE_05",
+      "ko": "퍼즐 카드는 상점에\n다시 가져가면 팔 수 있어.",
+      "en": "You can sell Puzzle Cards\nby taking them to the Shop."
+    },
+    {
+      "Key": "DIALOGUE_ADVENTURE_06",
+      "ko": "같은 퍼즐 3개를 모으면\n강화된대!",
+      "en": "If you collect 3 of the same Puzzle,\nit'll enhance!"
+    },
+    {
+      "Key": "DIALOGUE_ADVENTURE_07",
+      "ko": "던전의 한 층을 깨고 나면\n퍼즐을 살 수 있는\n골드를 받을 수 있어.",
+      "en": "Clear a Dungeon Levels\nand get Coins to\nbuy Puzzles."
+    },
+    {
+      "Key": "DIALOGUE_ADVENTURE_08",
+      "ko": "퍼즐마다 갖고 있는\n시너지 효과를 잘 모으면\n더 강해질 수 있어.",
+      "en": "Each puzzle has\nits own synergies\nthat can make you stronger."
+    },
+    {
+      "Key": "DIALOGUE_WARRIOR_01",
+      "ko": "50층까지만 돌파하면\n클리어야!",
+      "en": "You just need to get to\nLv.50 to clear!"
+    },
+    {
+      "Key": "DIALOGUE_WARRIOR_02",
+      "ko": "퍼즐을 들고있으면\n정보를 확인할 수 있어!",
+      "en": "You can check Puzzle info\nif you are holding it!"
+    },
+    {
+      "Key": "DIALOGUE_WARRIOR_03",
+      "ko": "다른 사람이 만든 던전을\n돌파해봐!\n메달을 얻을 수 있어!",
+      "en": "Try clearing Dungeons\nmade by others!\nYou can get Medals!"
+    },
+    {
+      "Key": "DIALOGUE_WARRIOR_04",
+      "ko": "내 시너지는 확산 피해를\n증가시키지!",
+      "en": "My synergy increases\nsplash damage!"
+    },
+    {
+      "Key": "DIALOGUE_WARRIOR_05",
+      "ko": "도끼를 들고있지만 언젠간\n검을 더 잘쓸 날이 올거야!",
+      "en": "I'm holding an Axe now,\nbut I'll be better with Swords soon!"
+    },
+    {
+      "Key": "DIALOGUE_WARRIOR_06",
+      "ko": "숙련된 검사가되면\n검기를 날릴 수 있다던데...",
+      "en": "I hear that when you become a skilled Swordsman\nyou can use a Sword Aura."
+    },
+    {
+      "Key": "DIALOGUE_WARRIOR_07",
+      "ko": "나 자신과 싸우는 느낌이야...",
+      "en": "I feel like I'm fighting myself."
+    },
+    {
+      "Key": "DIALOGUE_WARRIOR_08",
+      "ko": "어서와",
+      "en": "Welcome."
+    },
+    {
+      "Key": "DIALOGUE_ARCHER_01",
+      "ko": "상점 레벨을 올려봐\n획득하는 코인이 늘어난다구!!",
+      "en": "Level up the Shop\nto get more Coins!"
+    },
+    {
+      "Key": "DIALOGUE_ARCHER_02",
+      "ko": "나와 내 동료들은 각자의\n직업 시너지를 갖고 있지!!",
+      "en": "My friends and I have\nour own job synergies!"
+    },
+    {
+      "Key": "DIALOGUE_ARCHER_03",
+      "ko": "보스를 잡으면\n내가 악마가 된다던데..\n날 감당할 수 있겠나!!",
+      "en": "They say I'll turn into a demon\nif I capture the Boss...\nDo you think you can handle me!"
+    },
+    {
+      "Key": "DIALOGUE_ARCHER_04",
+      "ko": "내 시너지가 뭐냐구?\n당연히 활이지!!\n더 빠르게 공격한다다닷!!",
+      "en": "What's my synergy?\nIt's arrow of course!\nFast attack!"
+    },
+    {
+      "Key": "DIALOGUE_ARCHER_05",
+      "ko": "이랏샤이마세!!",
+      "en": "Welcome!!!!"
+    },
+    {
+      "Key": "DIALOGUE_ARCHER_06",
+      "ko": "내 안의 용이\n뜨겁게 끓어오른다!!",
+      "en": "The dragon inside me\nis burning hot!"
+    },
+    {
+      "Key": "DIALOGUE_ARCHER_07",
+      "ko": "네 심장에 박힌 화살..\n그거 내가 쏜거야!!",
+      "en": "The arrow on your heart...\nThat's MY arrow!"
+    },
+    {
+      "Key": "DIALOGUE_ARCHER_08",
+      "ko": "죽는게 두렵나? 두려워마라\n한 번의 기회가 더 있을테니까!!",
+      "en": "Are you afraid of death? Don't!\nYou'll have another chance!!"
+    },
+    {
+      "Key": "DIALOGUE_WIZARD_01",
+      "ko": "연결 퍼즐은 화살표의 방향을\n잘 보셔야 해요...아마도...",
+      "en": "You'll need to check where the arrow\nis facing for the connection puzzle... Maybe..."
+    },
+    {
+      "Key": "DIALOGUE_WIZARD_02",
+      "ko": "퍼즐 카드를 팔려면\n다시 상점에 가지고 가면\n된다던데...맞을 걸요?",
+      "en": "I heard that if I want to sell the puzzle cards,\nI can take them back to the Shop...\nis that right?"
+    },
+    {
+      "Key": "DIALOGUE_WIZARD_03",
+      "ko": "던전엔 10층마다\n보스 몬스터가 있대요...\n너무 무서워요.",
+      "en": "I heard... that there's a Boss Monster\nevery 10 Levels in the Dungeon...\nI'm scared..."
+    },
+    {
+      "Key": "DIALOGUE_WIZARD_04",
+      "ko": "제 시너지는 마법이에요.\n운이 좋으면 가끔 마법이\n한번 더 사용돼요.",
+      "en": "My synergy is magic.\nIf I'm lucky\nI can attack twice."
+    },
+    {
+      "Key": "DIALOGUE_WIZARD_05",
+      "ko": "위대한 마법사가 될거에요!\n...가능하다면...",
+      "en": "I'm going to be a great Wizard!\n... Hopefully...."
+    },
+    {
+      "Key": "DIALOGUE_WIZARD_06",
+      "ko": "죄송한데 마법학교 가려면\n무슨 마차를 타야하나요?",
+      "en": "Excuse me... Which carriage do I need to\nride to go to the Magic School?"
+    },
+    {
+      "Key": "DIALOGUE_WIZARD_07",
+      "ko": "골드가 없어지는\n마법을 보여줄게요",
+      "en": "I'll show you a magic that\nwill make your Coins disappear."
+    },
+    {
+      "Key": "DIALOGUE_WIZARD_08",
+      "ko": "아브라 카다브....아 아닙니다.",
+      "en": "Abracada...oh, nothing."
+    },
+    {
+      "Key": "DIALOGUE_NECROMANCER_01",
+      "ko": "퍼즐을 터치하면 돌아간다는\n전설이 있다. 크크큭",
+      "en": "There's a legend where the\nPuzzle rotates if you tap it. *cackle*"
+    },
+    {
+      "Key": "DIALOGUE_NECROMANCER_02",
+      "ko": "소환수의 공격으로는 흡혈 할 수\n없다는 것 쯤은 알고 있겠지. \n멍청이가 아니라면 말이야.",
+      "en": "You know that you can't drain\nwith summoner's attack\nunless you are an idiot."
+    },
+    {
+      "Key": "DIALOGUE_NECROMANCER_03",
+      "ko": "소환수는 종류마다\n최대 소환 숫자가 있어.",
+      "en": "There's a limit on how many\nyou can summon per type."
+    },
+    {
+      "Key": "DIALOGUE_NECROMANCER_04",
+      "ko": "나의 시너지인 해골을 바쳐라.\n하수인은 많을수록 좋거든.\n큭큭...",
+      "en": "Sacrifice my synergy, the Skull.\nThe more minions, the merrier.\n*cackle*"
+    },
+    {
+      "Key": "DIALOGUE_NECROMANCER_05",
+      "ko": "너 내 소환수가 돼라! ",
+      "en": "Become my summoner!"
+    },
+    {
+      "Key": "DIALOGUE_NECROMANCER_06",
+      "ko": "너 내 소소소솟...",
+      "en": "Become my su...su...su..."
+    },
+    {
+      "Key": "DIALOGUE_NECROMANCER_07",
+      "ko": "내 밑에서 일 할 수 있는\n영광을 주지.",
+      "en": "I'll give you the honor of\nworking for me."
+    },
+    {
+      "Key": "DIALOGUE_NECROMANCER_08",
+      "ko": "죽음은 끝이 아니니\n두려워하지 말거라.",
+      "en": "Death is not the end.\nDo not be afraid."
+    },
+    {
+      "Key": "DIALOGUE_FIGHTER_01",
+      "ko": "상점에서 쓰지 않은 돈은\n전투를 시작하면 사라져!",
+      "en": "Money not spent in the Shop\ndisappears when the battle starts!"
+    },
+    {
+      "Key": "DIALOGUE_FIGHTER_02",
+      "ko": "같은 퍼즐을 세 개 모으면\n하나의 더 강한 퍼즐로 \n합쳐진다!!",
+      "en": "Collect 3 of the same puzzle\nto merge them into\na stronger puzzle!"
+    },
+    {
+      "Key": "DIALOGUE_FIGHTER_03",
+      "ko": "내가 완성한 던전은\n다시 돌파하더라도\n랭킹에 반영되지 않아!",
+      "en": "Dungeons I've completed\ndon't count towards my Ranking,\neven if I beat them again!"
+    },
+    {
+      "Key": "DIALOGUE_FIGHTER_04",
+      "ko": "내 시너지는 주먹!\n모을수록 오오라와\n파동이 강해진다!!",
+      "en": "My synergy is my Fist!\nThe more I gather, the stronger\nthe Aura and Wave becomes!"
+    },
+    {
+      "Key": "DIALOGUE_FIGHTER_05",
+      "ko": "죽지말지~",
+      "en": "You shouldn't have died~."
+    },
+    {
+      "Key": "DIALOGUE_FIGHTER_06",
+      "ko": "나의 킹갓제네럴핵주먹맛\n좀 봐라!!",
+      "en": "TAKE MY FIST!"
+    },
+    {
+      "Key": "DIALOGUE_FIGHTER_07",
+      "ko": "이거슨 입에서 나는\n소리가 아니여 슈 슈슉",
+      "en": "*whoosh* *whoosh*\nThis isn't coming from my mouse."
+    },
+    {
+      "Key": "DIALOGUE_FIGHTER_08",
+      "ko": "당장 던전으로 떠나자!!\n보스를 뿌셔버리겠어!!!",
+      "en": "Let's go to the Dungeon NOW!!\nDEFEAT THE BOSS!!"
+    },
+    {
+      "Key": "DIALOGUE_ASSASIN_01",
+      "ko": "상점 레벨업을 하면\n더 강한 퍼즐이 나올\n확률이 높아지지...",
+      "en": "Leveling up the Shop\nincreases the chance to get \nstronger puzzle."
+    },
+    {
+      "Key": "DIALOGUE_ASSASIN_02",
+      "ko": "상점 레벨 업과 \n새로운 퍼즐 뽑기...\n자네는 무엇을 선택할건가?",
+      "en": "Leveling up the Shop...versus...\ndrawing new puzzle...\nWhich one will you choose...?"
+    },
+    {
+      "Key": "DIALOGUE_ASSASIN_03",
+      "ko": "내 필살기를 보여주지...\n암살 영역!",
+      "en": "Let me show you my finisher...\nAssassination!"
+    },
+    {
+      "Key": "DIALOGUE_ASSASIN_04",
+      "ko": "내 시너지는 단검이라네.\n적에게 치명타를 먹일 수 있지.",
+      "en": "My synergy is my dagger.\nI can give critical to my foes."
+    },
+    {
+      "Key": "DIALOGUE_ASSASIN_05",
+      "ko": "슉, 슈슉, 슈슉, 슉",
+      "en": "*whoosh* *whoosh whoosh*"
+    },
+    {
+      "Key": "DIALOGUE_ASSASIN_06",
+      "ko": "삼치회는 정말 맛있다네.",
+      "en": "Seerfish Sashimi is really delicious."
+    },
+    {
+      "Key": "DIALOGUE_ASSASIN_07",
+      "ko": "도적이 되고 싶은 자는 내게로...",
+      "en": "Those who want to become a Rogue, come to me."
+    },
+    {
+      "Key": "DIALOGUE_ASSASIN_08",
+      "ko": "어둠만이 나에게 평안을 준다네.",
+      "en": "Only darkness give me peace."
+    },
+    {
+      "Key": "DIALOGUE_SHAMAN_01",
+      "ko": "카드...갖고 싶음...\n돈..없음...상점...잠궈...",
+      "en": "Want...card...\nNo...money... Shop...closed..."
+    },
+    {
+      "Key": "DIALOGUE_SHAMAN_02",
+      "ko": "층...오르면...적...강해짐...",
+      "en": "Enemy...gets stronger...as...Level...increases..."
+    },
+    {
+      "Key": "DIALOGUE_SHAMAN_03",
+      "ko": "퍼즐...배치...나...레벨 업...\n내..레벨 업...나..강해짐...",
+      "en": "Puzzle...place... Me...level up...\nLevel up... Me...stronger..."
+    },
+    {
+      "Key": "DIALOGUE_SHAMAN_04",
+      "ko": "내...시너지...친구들...강해짐...",
+      "en": "My...synergy... Friends...stronger..."
+    },
+    {
+      "Key": "DIALOGUE_SHAMAN_05",
+      "ko": "내가...약해...? 너가...약해...!",
+      "en": "Me...weak...? You...weak...!"
+    },
+    {
+      "Key": "DIALOGUE_SHAMAN_06",
+      "ko": "토템... 친구...",
+      "en": "Totem...friend..."
+    },
+    {
+      "Key": "DIALOGUE_SHAMAN_07",
+      "ko": "벌레... 싫어...",
+      "en": "Hate...bugs..."
+    },
+    {
+      "Key": "DIALOGUE_SHAMAN_08",
+      "ko": "가면...불편해...",
+      "en": "It's...uncomfortable..."
+    },
+    {
+      "Key": "PUZZLE_110011",
+      "ko": "창찌르기",
+      "en": "Jab"
+    },
+    {
+      "Key": "PUZZLE_110012",
+      "ko": "창찌르기",
+      "en": "Jab"
+    },
+    {
+      "Key": "PUZZLE_110013",
+      "ko": "창찌르기",
+      "en": "Jab"
+    },
+    {
+      "Key": "PUZZLE_110021",
+      "ko": "도끼던지기",
+      "en": "Throw Axe"
+    },
+    {
+      "Key": "PUZZLE_110022",
+      "ko": "도끼던지기",
+      "en": "Throw Axe"
+    },
+    {
+      "Key": "PUZZLE_110023",
+      "ko": "도끼던지기",
+      "en": "Throw Axe"
+    },
+    {
+      "Key": "PUZZLE_110031",
+      "ko": "휘두르기",
+      "en": "Wield"
+    },
+    {
+      "Key": "PUZZLE_110032",
+      "ko": "휘두르기",
+      "en": "Wield"
+    },
+    {
+      "Key": "PUZZLE_110033",
+      "ko": "휘두르기",
+      "en": "Wield"
+    },
+    {
+      "Key": "PUZZLE_110041",
+      "ko": "검기",
+      "en": "Sword Slash"
+    },
+    {
+      "Key": "PUZZLE_110042",
+      "ko": "검기",
+      "en": "Sword Slash"
+    },
+    {
+      "Key": "PUZZLE_110043",
+      "ko": "검기",
+      "en": "Sword Slash"
+    },
+    {
+      "Key": "PUZZLE_110051",
+      "ko": "불꽃검의 가호",
+      "en": "Flame Sword's"
+    },
+    {
+      "Key": "PUZZLE_110052",
+      "ko": "불꽃검의 가호",
+      "en": "Flame Sword's"
+    },
+    {
+      "Key": "PUZZLE_110053",
+      "ko": "불꽃검의 가호",
+      "en": "Flame Sword's"
+    },
+    {
+      "Key": "PUZZLE_110061",
+      "ko": "지진파",
+      "en": "Earthquake"
+    },
+    {
+      "Key": "PUZZLE_110062",
+      "ko": "지진파",
+      "en": "Earthquake"
+    },
+    {
+      "Key": "PUZZLE_110063",
+      "ko": "지진파",
+      "en": "Earthquake"
+    },
+    {
+      "Key": "PUZZLE_110071",
+      "ko": "번개창",
+      "en": "Lighting Strike"
+    },
+    {
+      "Key": "PUZZLE_110072",
+      "ko": "번개창",
+      "en": "Lighting Strike"
+    },
+    {
+      "Key": "PUZZLE_110073",
+      "ko": "번개창",
+      "en": "Lighting Strike"
+    },
+    {
+      "Key": "PUZZLE_110081",
+      "ko": "사자후",
+      "en": "Roaring"
+    },
+    {
+      "Key": "PUZZLE_110082",
+      "ko": "사자후",
+      "en": "Roaring"
+    },
+    {
+      "Key": "PUZZLE_110083",
+      "ko": "사자후",
+      "en": "Roaring"
+    },
+    {
+      "Key": "PUZZLE_110091",
+      "ko": "화염 검기",
+      "en": "Flame Sword Slash"
+    },
+    {
+      "Key": "PUZZLE_110092",
+      "ko": "화염 검기",
+      "en": "Flame Sword Slash"
+    },
+    {
+      "Key": "PUZZLE_110093",
+      "ko": "화염 검기",
+      "en": "Flame Sword Slash"
+    },
+    {
+      "Key": "PUZZLE_110101",
+      "ko": "냉기 검기",
+      "en": "Ice Sword Slash"
+    },
+    {
+      "Key": "PUZZLE_110102",
+      "ko": "냉기 검기",
+      "en": "Ice Sword Slash"
+    },
+    {
+      "Key": "PUZZLE_110103",
+      "ko": "냉기 검기",
+      "en": "Ice Sword Slash"
+    },
+    {
+      "Key": "PUZZLE_120011",
+      "ko": "공중 화살",
+      "en": "Aerial Arrow"
+    },
+    {
+      "Key": "PUZZLE_120012",
+      "ko": "공중 화살",
+      "en": "Aerial Arrow"
+    },
+    {
+      "Key": "PUZZLE_120013",
+      "ko": "공중 화살",
+      "en": "Aerial Arrow"
+    },
+    {
+      "Key": "PUZZLE_120021",
+      "ko": "3연사",
+      "en": "Triple Shot"
+    },
+    {
+      "Key": "PUZZLE_120022",
+      "ko": "3연사",
+      "en": "Triple Shot"
+    },
+    {
+      "Key": "PUZZLE_120023",
+      "ko": "3연사",
+      "en": "Triple Shot"
+    },
+    {
+      "Key": "PUZZLE_120031",
+      "ko": "폭발 화살",
+      "en": "Explosive Arrow"
+    },
+    {
+      "Key": "PUZZLE_120032",
+      "ko": "폭발 화살",
+      "en": "Explosive Arrow"
+    },
+    {
+      "Key": "PUZZLE_120033",
+      "ko": "폭발 화살",
+      "en": "Explosive Arrow"
+    },
+    {
+      "Key": "PUZZLE_120041",
+      "ko": "독 화살",
+      "en": "Poison Arrow"
+    },
+    {
+      "Key": "PUZZLE_120042",
+      "ko": "독 화살",
+      "en": "Poison Arrow"
+    },
+    {
+      "Key": "PUZZLE_120043",
+      "ko": "독 화살",
+      "en": "Poison Arrow"
+    },
+    {
+      "Key": "PUZZLE_120051",
+      "ko": "곰소환",
+      "en": "Summon Bear"
+    },
+    {
+      "Key": "PUZZLE_120052",
+      "ko": "곰소환",
+      "en": "Summon Bear"
+    },
+    {
+      "Key": "PUZZLE_120053",
+      "ko": "곰소환",
+      "en": "Summon Bear"
+    },
+    {
+      "Key": "PUZZLE_120061",
+      "ko": "멀티샷",
+      "en": "Multi-Shot"
+    },
+    {
+      "Key": "PUZZLE_120062",
+      "ko": "멀티샷",
+      "en": "Multi-Shot"
+    },
+    {
+      "Key": "PUZZLE_120063",
+      "ko": "멀티샷",
+      "en": "Multi-Shot"
+    },
+    {
+      "Key": "PUZZLE_120071",
+      "ko": "감전 화살",
+      "en": "Shock Arrow"
+    },
+    {
+      "Key": "PUZZLE_120072",
+      "ko": "감전 화살",
+      "en": "Shock Arrow"
+    },
+    {
+      "Key": "PUZZLE_120073",
+      "ko": "감전 화살",
+      "en": "Shock Arrow"
+    },
+    {
+      "Key": "PUZZLE_120081",
+      "ko": "꿰뚫는 바람",
+      "en": "Piercing Wind"
+    },
+    {
+      "Key": "PUZZLE_120082",
+      "ko": "꿰뚫는 바람",
+      "en": "Piercing Wind"
+    },
+    {
+      "Key": "PUZZLE_120083",
+      "ko": "꿰뚫는 바람",
+      "en": "Piercing Wind"
+    },
+    {
+      "Key": "PUZZLE_120091",
+      "ko": "화살 난사",
+      "en": "Shooting Arrows"
+    },
+    {
+      "Key": "PUZZLE_120092",
+      "ko": "화살 난사",
+      "en": "Shooting Arrows"
+    },
+    {
+      "Key": "PUZZLE_120093",
+      "ko": "화살 난사",
+      "en": "Shooting Arrows"
+    },
+    {
+      "Key": "PUZZLE_120101",
+      "ko": "용 화살",
+      "en": "Dragon Arrow"
+    },
+    {
+      "Key": "PUZZLE_120102",
+      "ko": "용 화살",
+      "en": "Dragon Arrow"
+    },
+    {
+      "Key": "PUZZLE_120103",
+      "ko": "용 화살",
+      "en": "Dragon Arrow"
+    },
+    {
+      "Key": "PUZZLE_130011",
+      "ko": "얼음 기둥",
+      "en": "Ice Pillar"
+    },
+    {
+      "Key": "PUZZLE_130012",
+      "ko": "얼음 기둥",
+      "en": "Ice Pillar"
+    },
+    {
+      "Key": "PUZZLE_130013",
+      "ko": "얼음 기둥",
+      "en": "Ice Pillar"
+    },
+    {
+      "Key": "PUZZLE_130021",
+      "ko": "화염구",
+      "en": "Fireball"
+    },
+    {
+      "Key": "PUZZLE_130022",
+      "ko": "화염구",
+      "en": "Fireball"
+    },
+    {
+      "Key": "PUZZLE_130023",
+      "ko": "화염구",
+      "en": "Fireball"
+    },
+    {
+      "Key": "PUZZLE_130031",
+      "ko": "아이스 스피어",
+      "en": "Ice Spear"
+    },
+    {
+      "Key": "PUZZLE_130032",
+      "ko": "아이스 스피어",
+      "en": "Ice Spear"
+    },
+    {
+      "Key": "PUZZLE_130033",
+      "ko": "아이스 스피어",
+      "en": "Ice Spear"
+    },
+    {
+      "Key": "PUZZLE_130041",
+      "ko": "얼음 파편",
+      "en": "Ice Shard"
+    },
+    {
+      "Key": "PUZZLE_130042",
+      "ko": "얼음 파편",
+      "en": "Ice Shard"
+    },
+    {
+      "Key": "PUZZLE_130043",
+      "ko": "얼음 파편",
+      "en": "Ice Shard"
+    },
+    {
+      "Key": "PUZZLE_130051",
+      "ko": "프로즌 노바",
+      "en": "Frozen Nova"
+    },
+    {
+      "Key": "PUZZLE_130052",
+      "ko": "프로즌 노바",
+      "en": "Frozen Nova"
+    },
+    {
+      "Key": "PUZZLE_130053",
+      "ko": "프로즌 노바",
+      "en": "Frozen Nova"
+    },
+    {
+      "Key": "PUZZLE_130061",
+      "ko": "라이트닝 노바",
+      "en": "Lightning Nova"
+    },
+    {
+      "Key": "PUZZLE_130062",
+      "ko": "라이트닝 노바",
+      "en": "Lightning Nova"
+    },
+    {
+      "Key": "PUZZLE_130063",
+      "ko": "라이트닝 노바",
+      "en": "Lightning Nova"
+    },
+    {
+      "Key": "PUZZLE_130071",
+      "ko": "전기 위습",
+      "en": "Lightning Wisp"
+    },
+    {
+      "Key": "PUZZLE_130072",
+      "ko": "전기 위습",
+      "en": "Lightning Wisp"
+    },
+    {
+      "Key": "PUZZLE_130073",
+      "ko": "전기 위습",
+      "en": "Lightning Wisp"
+    },
+    {
+      "Key": "PUZZLE_130081",
+      "ko": "파이어 위습",
+      "en": "Fire Wisp"
+    },
+    {
+      "Key": "PUZZLE_130082",
+      "ko": "파이어 위습",
+      "en": "Fire Wisp"
+    },
+    {
+      "Key": "PUZZLE_130083",
+      "ko": "파이어 위습",
+      "en": "Fire Wisp"
+    },
+    {
+      "Key": "PUZZLE_130091",
+      "ko": "번개",
+      "en": "Lightning"
+    },
+    {
+      "Key": "PUZZLE_130092",
+      "ko": "번개",
+      "en": "Lightning"
+    },
+    {
+      "Key": "PUZZLE_130093",
+      "ko": "번개",
+      "en": "Lightning"
+    },
+    {
+      "Key": "PUZZLE_130101",
+      "ko": "메테오",
+      "en": "Meteo"
+    },
+    {
+      "Key": "PUZZLE_130102",
+      "ko": "메테오",
+      "en": "Meteo"
+    },
+    {
+      "Key": "PUZZLE_130103",
+      "ko": "메테오",
+      "en": "Meteo"
+    },
+    {
+      "Key": "PUZZLE_140011",
+      "ko": "해골 궁수",
+      "en": "Skeleton Archer"
+    },
+    {
+      "Key": "PUZZLE_140012",
+      "ko": "해골 궁수",
+      "en": "Skeleton Archer"
+    },
+    {
+      "Key": "PUZZLE_140013",
+      "ko": "해골 궁수",
+      "en": "Skeleton Archer"
+    },
+    {
+      "Key": "PUZZLE_140021",
+      "ko": "영혼 날리기",
+      "en": "Throw Spirit"
+    },
+    {
+      "Key": "PUZZLE_140022",
+      "ko": "영혼 날리기",
+      "en": "Throw Spirit"
+    },
+    {
+      "Key": "PUZZLE_140023",
+      "ko": "영혼 날리기",
+      "en": "Throw Spirit"
+    },
+    {
+      "Key": "PUZZLE_140031",
+      "ko": "뼈창",
+      "en": "Bone Spear"
+    },
+    {
+      "Key": "PUZZLE_140032",
+      "ko": "뼈창",
+      "en": "Bone Spear"
+    },
+    {
+      "Key": "PUZZLE_140033",
+      "ko": "뼈창",
+      "en": "Bone Spear"
+    },
+    {
+      "Key": "PUZZLE_140041",
+      "ko": "해골 전사",
+      "en": "Skeleton Warrior"
+    },
+    {
+      "Key": "PUZZLE_140042",
+      "ko": "해골 전사",
+      "en": "Skeleton Warrior"
+    },
+    {
+      "Key": "PUZZLE_140043",
+      "ko": "해골 전사",
+      "en": "Skeleton Warrior"
+    },
+    {
+      "Key": "PUZZLE_140051",
+      "ko": "해골 마법사",
+      "en": "Skeleton Wizard"
+    },
+    {
+      "Key": "PUZZLE_140052",
+      "ko": "해골 마법사",
+      "en": "Skeleton Wizard"
+    },
+    {
+      "Key": "PUZZLE_140053",
+      "ko": "해골 마법사",
+      "en": "Skeleton Wizard"
+    },
+    {
+      "Key": "PUZZLE_140061",
+      "ko": "포이즌 노바",
+      "en": "Poison Nova"
+    },
+    {
+      "Key": "PUZZLE_140062",
+      "ko": "포이즌 노바",
+      "en": "Poison Nova"
+    },
+    {
+      "Key": "PUZZLE_140063",
+      "ko": "포이즌 노바",
+      "en": "Poison Nova"
+    },
+    {
+      "Key": "PUZZLE_140071",
+      "ko": "시체 골렘",
+      "en": "Corpse Golem"
+    },
+    {
+      "Key": "PUZZLE_140072",
+      "ko": "시체 골렘",
+      "en": "Corpse Golem"
+    },
+    {
+      "Key": "PUZZLE_140073",
+      "ko": "시체 골렘",
+      "en": "Corpse Golem"
+    },
+    {
+      "Key": "PUZZLE_140081",
+      "ko": "피의 파동",
+      "en": "Blood Wave"
+    },
+    {
+      "Key": "PUZZLE_140082",
+      "ko": "피의 파동",
+      "en": "Blood Wave"
+    },
+    {
+      "Key": "PUZZLE_140083",
+      "ko": "피의 파동",
+      "en": "Blood Wave"
+    },
+    {
+      "Key": "PUZZLE_140091",
+      "ko": "바위 골렘 소환",
+      "en": "Rock Golem"
+    },
+    {
+      "Key": "PUZZLE_140092",
+      "ko": "바위 골렘 소환",
+      "en": "Rock Golem"
+    },
+    {
+      "Key": "PUZZLE_140093",
+      "ko": "바위 골렘 소환",
+      "en": "Rock Golem"
+    },
+    {
+      "Key": "PUZZLE_140101",
+      "ko": "망자의 땅",
+      "en": "Land of the Dead"
+    },
+    {
+      "Key": "PUZZLE_140102",
+      "ko": "망자의 땅",
+      "en": "Land of the Dead"
+    },
+    {
+      "Key": "PUZZLE_140103",
+      "ko": "망자의 땅",
+      "en": "Land of the Dead"
+    },
+    {
+      "Key": "PUZZLE_150011",
+      "ko": "화염 파동",
+      "en": "Flame Wave"
+    },
+    {
+      "Key": "PUZZLE_150012",
+      "ko": "화염 파동",
+      "en": "Flame Wave"
+    },
+    {
+      "Key": "PUZZLE_150013",
+      "ko": "화염 파동",
+      "en": "Flame Wave"
+    },
+    {
+      "Key": "PUZZLE_150021",
+      "ko": "권법",
+      "en": "Martial Arts"
+    },
+    {
+      "Key": "PUZZLE_150022",
+      "ko": "권법",
+      "en": "Martial Arts"
+    },
+    {
+      "Key": "PUZZLE_150023",
+      "ko": "권법",
+      "en": "Martial Arts"
+    },
+    {
+      "Key": "PUZZLE_150031",
+      "ko": "태극진",
+      "en": "Tai Chi"
+    },
+    {
+      "Key": "PUZZLE_150032",
+      "ko": "태극진",
+      "en": "Tai Chi"
+    },
+    {
+      "Key": "PUZZLE_150033",
+      "ko": "태극진",
+      "en": "Tai Chi"
+    },
+    {
+      "Key": "PUZZLE_150041",
+      "ko": "냉기 권법",
+      "en": "Ice Martial Arts"
+    },
+    {
+      "Key": "PUZZLE_150042",
+      "ko": "냉기 권법",
+      "en": "Ice Martial Arts"
+    },
+    {
+      "Key": "PUZZLE_150043",
+      "ko": "냉기 권법",
+      "en": "Ice Martial Arts"
+    },
+    {
+      "Key": "PUZZLE_150051",
+      "ko": "전기 장법",
+      "en": "Electric Burial Method"
+    },
+    {
+      "Key": "PUZZLE_150052",
+      "ko": "전기 장법",
+      "en": "Electric Burial Method"
+    },
+    {
+      "Key": "PUZZLE_150053",
+      "ko": "전기 장법",
+      "en": "Electric Burial Method"
+    },
+    {
+      "Key": "PUZZLE_150061",
+      "ko": "내공탄",
+      "en": "Qi Shot"
+    },
+    {
+      "Key": "PUZZLE_150062",
+      "ko": "내공탄",
+      "en": "Qi Shot"
+    },
+    {
+      "Key": "PUZZLE_150063",
+      "ko": "내공탄",
+      "en": "Qi Shot"
+    },
+    {
+      "Key": "PUZZLE_150071",
+      "ko": "냉기 장법",
+      "en": "Ice Burial Method"
+    },
+    {
+      "Key": "PUZZLE_150072",
+      "ko": "냉기 장법",
+      "en": "Ice Burial Method"
+    },
+    {
+      "Key": "PUZZLE_150073",
+      "ko": "냉기 장법",
+      "en": "Ice Burial Method"
+    },
+    {
+      "Key": "PUZZLE_150081",
+      "ko": "뇌전 태극진",
+      "en": "Electric Tai Chi"
+    },
+    {
+      "Key": "PUZZLE_150082",
+      "ko": "뇌전 태극진",
+      "en": "Electric Tai Chi"
+    },
+    {
+      "Key": "PUZZLE_150083",
+      "ko": "뇌전 태극진",
+      "en": "Electric Tai Chi"
+    },
+    {
+      "Key": "PUZZLE_150091",
+      "ko": "폭발 장법",
+      "en": "Blasting Burial Method"
+    },
+    {
+      "Key": "PUZZLE_150092",
+      "ko": "폭발 장법",
+      "en": "Blasting Burial Method"
+    },
+    {
+      "Key": "PUZZLE_150093",
+      "ko": "폭발 장법",
+      "en": "Blasting Burial Method"
+    },
+    {
+      "Key": "PUZZLE_150101",
+      "ko": "여래신장",
+      "en": "Heavenly Foot"
+    },
+    {
+      "Key": "PUZZLE_150102",
+      "ko": "여래신장",
+      "en": "Heavenly Foot"
+    },
+    {
+      "Key": "PUZZLE_150103",
+      "ko": "여래신장",
+      "en": "Heavenly Foot"
+    },
+    {
+      "Key": "PUZZLE_160011",
+      "ko": "독 찌르기",
+      "en": "Poison Jab"
+    },
+    {
+      "Key": "PUZZLE_160012",
+      "ko": "독 찌르기",
+      "en": "Poison Jab"
+    },
+    {
+      "Key": "PUZZLE_160013",
+      "ko": "독 찌르기",
+      "en": "Poison Jab"
+    },
+    {
+      "Key": "PUZZLE_160021",
+      "ko": "단검 던지기",
+      "en": "Throw Dagger"
+    },
+    {
+      "Key": "PUZZLE_160022",
+      "ko": "단검 던지기",
+      "en": "Throw Dagger"
+    },
+    {
+      "Key": "PUZZLE_160023",
+      "ko": "단검 던지기",
+      "en": "Throw Dagger"
+    },
+    {
+      "Key": "PUZZLE_160031",
+      "ko": "독검 투척",
+      "en": "Throw Poisoned Blade"
+    },
+    {
+      "Key": "PUZZLE_160032",
+      "ko": "독검 투척",
+      "en": "Throw Poisoned Blade"
+    },
+    {
+      "Key": "PUZZLE_160033",
+      "ko": "독검 투척",
+      "en": "Throw Poisoned Blade"
+    },
+    {
+      "Key": "PUZZLE_160041",
+      "ko": "회전칼날",
+      "en": "Spinning Blade"
+    },
+    {
+      "Key": "PUZZLE_160042",
+      "ko": "회전칼날",
+      "en": "Spinning Blade"
+    },
+    {
+      "Key": "PUZZLE_160043",
+      "ko": "회전칼날",
+      "en": "Spinning Blade"
+    },
+    {
+      "Key": "PUZZLE_160051",
+      "ko": "냉기 표창",
+      "en": "Cold Stars"
+    },
+    {
+      "Key": "PUZZLE_160052",
+      "ko": "냉기 표창",
+      "en": "Cold Stars"
+    },
+    {
+      "Key": "PUZZLE_160053",
+      "ko": "냉기 표창",
+      "en": "Cold Stars"
+    },
+    {
+      "Key": "PUZZLE_160061",
+      "ko": "회전 독칼날",
+      "en": "Spinning Poisoned Blade"
+    },
+    {
+      "Key": "PUZZLE_160062",
+      "ko": "회전 독칼날",
+      "en": "Spinning Poisoned Blade"
+    },
+    {
+      "Key": "PUZZLE_160063",
+      "ko": "회전 독칼날",
+      "en": "Spinning Poisoned Blade"
+    },
+    {
+      "Key": "PUZZLE_160071",
+      "ko": "수리검 난사",
+      "en": "Shuriken Rush"
+    },
+    {
+      "Key": "PUZZLE_160072",
+      "ko": "수리검 난사",
+      "en": "Shuriken Rush"
+    },
+    {
+      "Key": "PUZZLE_160073",
+      "ko": "수리검 난사",
+      "en": "Shuriken Rush"
+    },
+    {
+      "Key": "PUZZLE_160081",
+      "ko": "암습",
+      "en": "Sneak Attack"
+    },
+    {
+      "Key": "PUZZLE_160082",
+      "ko": "암습",
+      "en": "Sneak Attack"
+    },
+    {
+      "Key": "PUZZLE_160083",
+      "ko": "암습",
+      "en": "Sneak Attack"
+    },
+    {
+      "Key": "PUZZLE_160091",
+      "ko": "암살 영역",
+      "en": "Assassination Zone"
+    },
+    {
+      "Key": "PUZZLE_160092",
+      "ko": "암살 영역",
+      "en": "Assassination Zone"
+    },
+    {
+      "Key": "PUZZLE_160093",
+      "ko": "암살 영역",
+      "en": "Assassination Zone"
+    },
+    {
+      "Key": "PUZZLE_160101",
+      "ko": "가시 파동",
+      "en": "Thorn Wave"
+    },
+    {
+      "Key": "PUZZLE_160102",
+      "ko": "가시 파동",
+      "en": "Thorn Wave"
+    },
+    {
+      "Key": "PUZZLE_160103",
+      "ko": "가시 파동",
+      "en": "Thorn Wave"
+    },
+    {
+      "Key": "PUZZLE_170011",
+      "ko": "독침",
+      "en": "Poisonous Sting"
+    },
+    {
+      "Key": "PUZZLE_170012",
+      "ko": "독침",
+      "en": "Poisonous Sting"
+    },
+    {
+      "Key": "PUZZLE_170013",
+      "ko": "독침",
+      "en": "Poisonous Sting"
+    },
+    {
+      "Key": "PUZZLE_170021",
+      "ko": "그림자고양이",
+      "en": "Shadowcat"
+    },
+    {
+      "Key": "PUZZLE_170022",
+      "ko": "그림자고양이",
+      "en": "Shadowcat"
+    },
+    {
+      "Key": "PUZZLE_170023",
+      "ko": "그림자고양이",
+      "en": "Shadowcat"
+    },
+    {
+      "Key": "PUZZLE_170031",
+      "ko": "늪지대",
+      "en": "Swamp"
+    },
+    {
+      "Key": "PUZZLE_170032",
+      "ko": "늪지대",
+      "en": "Swamp"
+    },
+    {
+      "Key": "PUZZLE_170033",
+      "ko": "늪지대",
+      "en": "Swamp"
+    },
+    {
+      "Key": "PUZZLE_170041",
+      "ko": "화염 토템",
+      "en": "Fire Totem"
+    },
+    {
+      "Key": "PUZZLE_170042",
+      "ko": "화염 토템",
+      "en": "Fire Totem"
+    },
+    {
+      "Key": "PUZZLE_170043",
+      "ko": "화염 토템",
+      "en": "Fire Totem"
+    },
+    {
+      "Key": "PUZZLE_170051",
+      "ko": "번개 토템",
+      "en": "Thunder Totem"
+    },
+    {
+      "Key": "PUZZLE_170052",
+      "ko": "번개 토템",
+      "en": "Thunder Totem"
+    },
+    {
+      "Key": "PUZZLE_170053",
+      "ko": "번개 토템",
+      "en": "Thunder Totem"
+    },
+    {
+      "Key": "PUZZLE_170061",
+      "ko": "저주의 불",
+      "en": "Poisoned Fire"
+    },
+    {
+      "Key": "PUZZLE_170062",
+      "ko": "저주의 불",
+      "en": "Poisoned Fire"
+    },
+    {
+      "Key": "PUZZLE_170063",
+      "ko": "저주의 불",
+      "en": "Poisoned Fire"
+    },
+    {
+      "Key": "PUZZLE_170071",
+      "ko": "가시 줄기",
+      "en": "Thorns"
+    },
+    {
+      "Key": "PUZZLE_170072",
+      "ko": "가시 줄기",
+      "en": "Thorns"
+    },
+    {
+      "Key": "PUZZLE_170073",
+      "ko": "가시 줄기",
+      "en": "Thorns"
+    },
+    {
+      "Key": "PUZZLE_170081",
+      "ko": "도깨비불",
+      "en": "Goblin Fire"
+    },
+    {
+      "Key": "PUZZLE_170082",
+      "ko": "도깨비불",
+      "en": "Goblin Fire"
+    },
+    {
+      "Key": "PUZZLE_170083",
+      "ko": "도깨비불",
+      "en": "Goblin Fire"
+    },
+    {
+      "Key": "PUZZLE_170091",
+      "ko": "독 토템",
+      "en": "Poisoned Totem"
+    },
+    {
+      "Key": "PUZZLE_170092",
+      "ko": "독 토템",
+      "en": "Poisoned Totem"
+    },
+    {
+      "Key": "PUZZLE_170093",
+      "ko": "독 토템",
+      "en": "Poisoned Totem"
+    },
+    {
+      "Key": "PUZZLE_170101",
+      "ko": "공포 오라",
+      "en": "Horror Aura"
+    },
+    {
+      "Key": "PUZZLE_170102",
+      "ko": "공포 오라",
+      "en": "Horror Aura"
+    },
+    {
+      "Key": "PUZZLE_170103",
+      "ko": "공포 오라",
+      "en": "Horror Aura"
+    },
+    {
+      "Key": "PUZZLE_110011_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s \n[근접] [확산]",
+      "en": "DMG {0}% CD {1}s \n[Melee] [Splash]"
+    },
+    {
+      "Key": "PUZZLE_110012_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s \n[근접] [확산]",
+      "en": "DMG {0}% CD {1}s \n[Melee] [Splash]"
+    },
+    {
+      "Key": "PUZZLE_110013_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s \n[근접] [확산]",
+      "en": "DMG {0}% CD {1}s \n[Melee] [Splash]"
+    },
+    {
+      "Key": "PUZZLE_110021_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리]",
+      "en": "DMG {0}% CD {1}s \n[Distant]"
+    },
+    {
+      "Key": "PUZZLE_110022_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리]",
+      "en": "DMG {0}% CD {1}s \n[Distant]"
+    },
+    {
+      "Key": "PUZZLE_110023_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리]",
+      "en": "DMG {0}% CD {1}s \n[Distant]"
+    },
+    {
+      "Key": "PUZZLE_110031_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접]",
+      "en": "DMG {0}% CD {1}s \n[Melee]"
+    },
+    {
+      "Key": "PUZZLE_110032_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접]",
+      "en": "DMG {0}% CD {1}s \n[Melee]"
+    },
+    {
+      "Key": "PUZZLE_110033_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접]",
+      "en": "DMG {0}% CD {1}s \n[Melee]"
+    },
+    {
+      "Key": "PUZZLE_110041_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [관통]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Penetrate]"
+    },
+    {
+      "Key": "PUZZLE_110042_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [관통]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Penetrate]"
+    },
+    {
+      "Key": "PUZZLE_110043_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [관통]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Penetrate]"
+    },
+    {
+      "Key": "PUZZLE_110051_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접] [확산] [지속시간] [1개]",
+      "en": "DMG {0}% CD {1}s \n[Melee] [Duration] [1ea]"
+    },
+    {
+      "Key": "PUZZLE_110052_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접] [확산] [지속시간] [2개]",
+      "en": "DMG {0}% CD {1}s \n[Melee] [Duration] [2ea]"
+    },
+    {
+      "Key": "PUZZLE_110053_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접] [확산] [지속시간] [3개]",
+      "en": "DMG {0}% CD {1}s \n[Melee] [Duration] [3ea]"
+    },
+    {
+      "Key": "PUZZLE_110061_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접] [확산]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
+    },
+    {
+      "Key": "PUZZLE_110062_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접] [확산]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
+    },
+    {
+      "Key": "PUZZLE_110063_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접] [확산]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
+    },
+    {
+      "Key": "PUZZLE_110071_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [관통]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Penetrate]"
+    },
+    {
+      "Key": "PUZZLE_110072_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [관통]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Penetrate]"
+    },
+    {
+      "Key": "PUZZLE_110073_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [관통]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Penetrate]"
+    },
+    {
+      "Key": "PUZZLE_110081_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접] [확산]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
+    },
+    {
+      "Key": "PUZZLE_110082_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접] [확산]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
+    },
+    {
+      "Key": "PUZZLE_110083_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접] [확산]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
+    },
+    {
+      "Key": "PUZZLE_110091_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [확산]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Penetrate]"
+    },
+    {
+      "Key": "PUZZLE_110092_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [확산]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Penetrate]"
+    },
+    {
+      "Key": "PUZZLE_110093_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [확산]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Penetrate]"
+    },
+    {
+      "Key": "PUZZLE_110101_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [확산] [관통]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Penetrate]"
+    },
+    {
+      "Key": "PUZZLE_110102_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [확산] [관통]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Penetrate]"
+    },
+    {
+      "Key": "PUZZLE_110103_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [확산] [관통]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Penetrate]"
+    },
+    {
+      "Key": "PUZZLE_120011_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리]",
+      "en": "DMG {0}% CD {1}s \n[Distant]"
+    },
+    {
+      "Key": "PUZZLE_120012_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리]",
+      "en": "DMG {0}% CD {1}s \n[Distant]"
+    },
+    {
+      "Key": "PUZZLE_120013_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리]",
+      "en": "DMG {0}% CD {1}s \n[Distant]"
+    },
+    {
+      "Key": "PUZZLE_120021_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리]",
+      "en": "DMG {0}% CD {1}s \n[Distant]"
+    },
+    {
+      "Key": "PUZZLE_120022_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리]",
+      "en": "DMG {0}% CD {1}s \n[Distant]"
+    },
+    {
+      "Key": "PUZZLE_120023_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리]",
+      "en": "DMG {0}% CD {1}s \n[Distant]"
+    },
+    {
+      "Key": "PUZZLE_120031_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [확산]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
+    },
+    {
+      "Key": "PUZZLE_120032_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [확산]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
+    },
+    {
+      "Key": "PUZZLE_120033_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [확산]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
+    },
+    {
+      "Key": "PUZZLE_120041_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리]",
+      "en": "DMG {0}% CD {1}s \n[Distant]"
+    },
+    {
+      "Key": "PUZZLE_120042_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리]",
+      "en": "DMG {0}% CD {1}s \n[Distant]"
+    },
+    {
+      "Key": "PUZZLE_120043_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리]",
+      "en": "DMG {0}% CD {1}s \n[Distant]"
+    },
+    {
+      "Key": "PUZZLE_120051_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[지속시간] [1마리]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Duration]\n[1 Summon]"
+    },
+    {
+      "Key": "PUZZLE_120052_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[지속시간] [1마리]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Duration]\n[1 Summon]"
+    },
+    {
+      "Key": "PUZZLE_120053_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[지속시간] [1마리]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Duration]\n[1 Summon]"
+    },
+    {
+      "Key": "PUZZLE_120061_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [관통]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Penetrate]"
+    },
+    {
+      "Key": "PUZZLE_120062_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [관통]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Penetrate]"
+    },
+    {
+      "Key": "PUZZLE_120063_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [관통]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Penetrate]"
+    },
+    {
+      "Key": "PUZZLE_120071_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [확산]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
+    },
+    {
+      "Key": "PUZZLE_120072_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [확산]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
+    },
+    {
+      "Key": "PUZZLE_120073_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [확산]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
+    },
+    {
+      "Key": "PUZZLE_120081_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [확산] [관통]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Penetrate]"
+    },
+    {
+      "Key": "PUZZLE_120082_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [확산] [관통]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Penetrate]"
+    },
+    {
+      "Key": "PUZZLE_120083_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [확산] [관통]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Penetrate]"
+    },
+    {
+      "Key": "PUZZLE_120091_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [관통]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Penetrate]"
+    },
+    {
+      "Key": "PUZZLE_120092_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [관통]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Penetrate]"
+    },
+    {
+      "Key": "PUZZLE_120093_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [관통]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Penetrate]"
+    },
+    {
+      "Key": "PUZZLE_120101_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [확산] [관통]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Penetrate]"
+    },
+    {
+      "Key": "PUZZLE_120102_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [확산] [관통]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Penetrate]"
+    },
+    {
+      "Key": "PUZZLE_120103_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [확산] [관통]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Penetrate]"
+    },
+    {
+      "Key": "PUZZLE_130011_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [확산]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
+    },
+    {
+      "Key": "PUZZLE_130012_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [확산]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
+    },
+    {
+      "Key": "PUZZLE_130013_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [확산]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
+    },
+    {
+      "Key": "PUZZLE_130021_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [확산]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
+    },
+    {
+      "Key": "PUZZLE_130022_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [확산]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
+    },
+    {
+      "Key": "PUZZLE_130023_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [확산]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
+    },
+    {
+      "Key": "PUZZLE_130031_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [관통]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Penetrate]"
+    },
+    {
+      "Key": "PUZZLE_130032_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [관통]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Penetrate]"
+    },
+    {
+      "Key": "PUZZLE_130033_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [관통]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Penetrate]"
+    },
+    {
+      "Key": "PUZZLE_130041_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접] [확산] [지속시간] [8개]",
+      "en": "DMG {0}% CD {1}s \n[Melee] [Duration] [8ea]"
+    },
+    {
+      "Key": "PUZZLE_130042_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접] [확산] [지속시간] [10개]",
+      "en": "DMG {0}% CD {1}s \n[Melee] [Duration] [12ea]"
+    },
+    {
+      "Key": "PUZZLE_130043_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접] [확산] [지속시간] [12개]",
+      "en": "DMG {0}% CD {1}s \n[Melee] [Duration] [16ea]"
+    },
+    {
+      "Key": "PUZZLE_130051_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접]",
+      "en": "DMG {0}% CD {1}s \n[Distant]"
+    },
+    {
+      "Key": "PUZZLE_130052_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접]",
+      "en": "DMG {0}% CD {1}s \n[Distant]"
+    },
+    {
+      "Key": "PUZZLE_130053_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접]",
+      "en": "DMG {0}% CD {1}s \n[Distant]"
+    },
+    {
+      "Key": "PUZZLE_130061_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접] [확산]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
+    },
+    {
+      "Key": "PUZZLE_130062_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접] [확산]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
+    },
+    {
+      "Key": "PUZZLE_130063_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접] [확산]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
+    },
+    {
+      "Key": "PUZZLE_130071_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[지속시간] [1마리]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Duration]\n[1 Summon]"
+    },
+    {
+      "Key": "PUZZLE_130072_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[지속시간]  [2마리]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Duration]\n[2 Summon]"
+    },
+    {
+      "Key": "PUZZLE_130073_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[지속시간]  [3마리]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Duration]\n[3 Summon]"
+    },
+    {
+      "Key": "PUZZLE_130081_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[지속시간] [1마리]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Duration]\n[1 Summon]"
+    },
+    {
+      "Key": "PUZZLE_130082_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[지속시간] [1마리]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Duration]\n[1 Summon]"
+    },
+    {
+      "Key": "PUZZLE_130083_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[지속시간] [1마리]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Duration]\n[1 Summon]"
+    },
+    {
+      "Key": "PUZZLE_130091_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [확산]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
+    },
+    {
+      "Key": "PUZZLE_130092_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [확산]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
+    },
+    {
+      "Key": "PUZZLE_130093_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [확산]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
+    },
+    {
+      "Key": "PUZZLE_130101_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [확산]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
+    },
+    {
+      "Key": "PUZZLE_130102_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [확산]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
+    },
+    {
+      "Key": "PUZZLE_130103_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [확산]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
+    },
+    {
+      "Key": "PUZZLE_140011_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[지속시간] [1마리]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Duration]\n[1 Summon]"
+    },
+    {
+      "Key": "PUZZLE_140012_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[지속시간] [2마리]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Duration]\n[2 Summon]"
+    },
+    {
+      "Key": "PUZZLE_140013_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[지속시간] [3마리]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Duration]\n[3 Summon]"
+    },
+    {
+      "Key": "PUZZLE_140021_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리]",
+      "en": "DMG {0}% CD {1}s \n[Distant]"
+    },
+    {
+      "Key": "PUZZLE_140022_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리]",
+      "en": "DMG {0}% CD {1}s \n[Distant]"
+    },
+    {
+      "Key": "PUZZLE_140023_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리]",
+      "en": "DMG {0}% CD {1}s \n[Distant]"
+    },
+    {
+      "Key": "PUZZLE_140031_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [관통]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Penetrate]"
+    },
+    {
+      "Key": "PUZZLE_140032_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [관통]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Penetrate]"
+    },
+    {
+      "Key": "PUZZLE_140033_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [관통]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Penetrate]"
+    },
+    {
+      "Key": "PUZZLE_140041_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[지속시간] [2마리]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Duration]\n[2 Summon]"
+    },
+    {
+      "Key": "PUZZLE_140042_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[지속시간] [3마리]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Duration]\n[3 Summon]"
+    },
+    {
+      "Key": "PUZZLE_140043_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[지속시간] [4마리]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Duration]\n[4 Summon]"
+    },
+    {
+      "Key": "PUZZLE_140051_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[지속시간] [1마리]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Duration]\n[1 Summon]"
+    },
+    {
+      "Key": "PUZZLE_140052_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[지속시간] [1마리]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Duration]\n[1 Summon]"
+    },
+    {
+      "Key": "PUZZLE_140053_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[지속시간] [1마리]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Duration]\n[1 Summon]"
+    },
+    {
+      "Key": "PUZZLE_140061_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접]",
+      "en": "DMG {0}% CD {1}s \n[Distant]"
+    },
+    {
+      "Key": "PUZZLE_140062_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접]",
+      "en": "DMG {0}% CD {1}s \n[Distant]"
+    },
+    {
+      "Key": "PUZZLE_140063_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접]",
+      "en": "DMG {0}% CD {1}s \n[Distant]"
+    },
+    {
+      "Key": "PUZZLE_140071_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[지속시간] [1마리]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Duration]\n[1 Summon]"
+    },
+    {
+      "Key": "PUZZLE_140072_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[지속시간] [1마리]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Duration]\n[1 Summon]"
+    },
+    {
+      "Key": "PUZZLE_140073_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[지속시간] [1마리]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Duration]\n[1 Summon]"
+    },
+    {
+      "Key": "PUZZLE_140081_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접]",
+      "en": "DMG {0}% CD {1}s \n[Distant]"
+    },
+    {
+      "Key": "PUZZLE_140082_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접]",
+      "en": "DMG {0}% CD {1}s \n[Distant]"
+    },
+    {
+      "Key": "PUZZLE_140083_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접]",
+      "en": "DMG {0}% CD {1}s \n[Distant]"
+    },
+    {
+      "Key": "PUZZLE_140091_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[지속시간] [1마리]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Duration]\n[1 Summon]"
+    },
+    {
+      "Key": "PUZZLE_140092_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[지속시간] [1마리]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Duration]\n[1 Summon]"
+    },
+    {
+      "Key": "PUZZLE_140093_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[지속시간] [1마리]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Duration]\n[1 Summon]"
+    },
+    {
+      "Key": "PUZZLE_140101_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [지속시간]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Duration]"
+    },
+    {
+      "Key": "PUZZLE_140102_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [지속시간]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Duration]"
+    },
+    {
+      "Key": "PUZZLE_140103_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [지속시간]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Duration]"
+    },
+    {
+      "Key": "PUZZLE_150011_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접] [확산]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
+    },
+    {
+      "Key": "PUZZLE_150012_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접] [확산]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
+    },
+    {
+      "Key": "PUZZLE_150013_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접] [확산]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
+    },
+    {
+      "Key": "PUZZLE_150021_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접]",
+      "en": "DMG {0}% CD {1}s \n[Melee]"
+    },
+    {
+      "Key": "PUZZLE_150022_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접]",
+      "en": "DMG {0}% CD {1}s \n[Melee]"
+    },
+    {
+      "Key": "PUZZLE_150023_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접]",
+      "en": "DMG {0}% CD {1}s \n[Melee]"
+    },
+    {
+      "Key": "PUZZLE_150031_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [지속시간]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Duration]"
+    },
+    {
+      "Key": "PUZZLE_150032_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [지속시간]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Duration]"
+    },
+    {
+      "Key": "PUZZLE_150033_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [지속시간]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Duration]"
+    },
+    {
+      "Key": "PUZZLE_150041_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접]",
+      "en": "DMG {0}% CD {1}s \n[Melee]"
+    },
+    {
+      "Key": "PUZZLE_150042_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접]",
+      "en": "DMG {0}% CD {1}s \n[Melee]"
+    },
+    {
+      "Key": "PUZZLE_150043_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접]",
+      "en": "DMG {0}% CD {1}s \n[Melee]"
+    },
+    {
+      "Key": "PUZZLE_150051_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접] [확산]",
+      "en": "DMG {0}% CD {1}s \n[Melee] [Splash]"
+    },
+    {
+      "Key": "PUZZLE_150052_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접] [확산]",
+      "en": "DMG {0}% CD {1}s \n[Melee] [Splash]"
+    },
+    {
+      "Key": "PUZZLE_150053_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접] [확산]",
+      "en": "DMG {0}% CD {1}s \n[Melee] [Splash]"
+    },
+    {
+      "Key": "PUZZLE_150061_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [확산]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
+    },
+    {
+      "Key": "PUZZLE_150062_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [확산]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
+    },
+    {
+      "Key": "PUZZLE_150063_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [확산]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
+    },
+    {
+      "Key": "PUZZLE_150071_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접] [확산]",
+      "en": "DMG {0}% CD {1}s \n[Distant]"
+    },
+    {
+      "Key": "PUZZLE_150072_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접] [확산]",
+      "en": "DMG {0}% CD {1}s \n[Distant]"
+    },
+    {
+      "Key": "PUZZLE_150073_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접] [확산]",
+      "en": "DMG {0}% CD {1}s \n[Distant]"
+    },
+    {
+      "Key": "PUZZLE_150081_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [확산] [지속시간]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Splash]\n[Duration]"
+    },
+    {
+      "Key": "PUZZLE_150082_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [확산] [지속시간]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Splash]\n[Duration]"
+    },
+    {
+      "Key": "PUZZLE_150083_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [확산] [지속시간]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Splash]\n[Duration]"
+    },
+    {
+      "Key": "PUZZLE_150091_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [확산] [관통]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Penetrate]"
+    },
+    {
+      "Key": "PUZZLE_150092_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [확산] [관통]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Penetrate]"
+    },
+    {
+      "Key": "PUZZLE_150093_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [확산] [관통]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Penetrate]"
+    },
+    {
+      "Key": "PUZZLE_150101_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접] [확산]",
+      "en": "DMG {0}% CD {1}s \n[Distant]"
+    },
+    {
+      "Key": "PUZZLE_150102_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접] [확산]",
+      "en": "DMG {0}% CD {1}s \n[Distant]"
+    },
+    {
+      "Key": "PUZZLE_150103_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접] [확산]",
+      "en": "DMG {0}% CD {1}s \n[Distant]"
+    },
+    {
+      "Key": "PUZZLE_160011_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접]",
+      "en": "DMG {0}% CD {1}s \n[Melee]"
+    },
+    {
+      "Key": "PUZZLE_160012_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접]",
+      "en": "DMG {0}% CD {1}s \n[Melee]"
+    },
+    {
+      "Key": "PUZZLE_160013_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접]",
+      "en": "DMG {0}% CD {1}s \n[Melee]"
+    },
+    {
+      "Key": "PUZZLE_160021_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Penetrate]"
+    },
+    {
+      "Key": "PUZZLE_160022_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Penetrate]"
+    },
+    {
+      "Key": "PUZZLE_160023_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Penetrate]"
+    },
+    {
+      "Key": "PUZZLE_160031_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리]",
+      "en": "DMG {0}% CD {1}s \n[Distant]"
+    },
+    {
+      "Key": "PUZZLE_160032_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리]",
+      "en": "DMG {0}% CD {1}s \n[Distant]"
+    },
+    {
+      "Key": "PUZZLE_160033_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리]",
+      "en": "DMG {0}% CD {1}s \n[Distant]"
+    },
+    {
+      "Key": "PUZZLE_160041_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접] [확산] [지속시간] [2개]",
+      "en": "DMG {0}% CD {1}s \n[Melee] [Duration] [2ea]"
+    },
+    {
+      "Key": "PUZZLE_160042_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접] [확산] [지속시간] [3개]",
+      "en": "DMG {0}% CD {1}s \n[Melee] [Duration] [4ea]"
+    },
+    {
+      "Key": "PUZZLE_160043_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접] [확산] [지속시간] [4개]",
+      "en": "DMG {0}% CD {1}s \n[Melee] [Duration] [6ea]"
+    },
+    {
+      "Key": "PUZZLE_160051_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리]",
+      "en": "DMG {0}% CD {1}s \n[Distant]"
+    },
+    {
+      "Key": "PUZZLE_160052_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리]",
+      "en": "DMG {0}% CD {1}s \n[Distant]"
+    },
+    {
+      "Key": "PUZZLE_160053_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리]",
+      "en": "DMG {0}% CD {1}s \n[Distant]"
+    },
+    {
+      "Key": "PUZZLE_160061_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접] [확산] [지속시간] [3개]",
+      "en": "DMG {0}% CD {1}s \n[Melee] [Duration] [3ea]"
+    },
+    {
+      "Key": "PUZZLE_160062_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접] [확산] [지속시간] [4개]",
+      "en": "DMG {0}% CD {1}s \n[Melee] [Duration] [6ea]"
+    },
+    {
+      "Key": "PUZZLE_160063_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접] [확산] [지속시간] [5개]",
+      "en": "DMG {0}% CD {1}s \n[Melee] [Duration] [9ea]"
+    },
+    {
+      "Key": "PUZZLE_160071_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리]",
+      "en": "DMG {0}% CD {1}s \n[Distant]"
+    },
+    {
+      "Key": "PUZZLE_160072_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리]",
+      "en": "DMG {0}% CD {1}s \n[Distant]"
+    },
+    {
+      "Key": "PUZZLE_160073_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리]",
+      "en": "DMG {0}% CD {1}s \n[Distant]"
+    },
+    {
+      "Key": "PUZZLE_160081_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접]",
+      "en": "DMG {0}% CD {1}s \n[Melee]"
+    },
+    {
+      "Key": "PUZZLE_160082_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접]",
+      "en": "DMG {0}% CD {1}s \n[Melee]"
+    },
+    {
+      "Key": "PUZZLE_160083_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접]",
+      "en": "DMG {0}% CD {1}s \n[Melee]"
+    },
+    {
+      "Key": "PUZZLE_160091_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [확산] [지속시간]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Splash]\n[Duration]"
+    },
+    {
+      "Key": "PUZZLE_160092_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [확산] [지속시간]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Splash]\n[Duration]"
+    },
+    {
+      "Key": "PUZZLE_160093_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [확산] [지속시간]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Splash]\n[Duration]"
+    },
+    {
+      "Key": "PUZZLE_160101_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접]",
+      "en": "DMG {0}% CD {1}s \n[Distant]"
+    },
+    {
+      "Key": "PUZZLE_160102_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접]",
+      "en": "DMG {0}% CD {1}s \n[Distant]"
+    },
+    {
+      "Key": "PUZZLE_160103_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접]",
+      "en": "DMG {0}% CD {1}s \n[Distant]"
+    },
+    {
+      "Key": "PUZZLE_170011_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리]",
+      "en": "DMG {0}% CD {1}s \n[Distant]"
+    },
+    {
+      "Key": "PUZZLE_170012_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리]",
+      "en": "DMG {0}% CD {1}s \n[Distant]"
+    },
+    {
+      "Key": "PUZZLE_170013_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리]",
+      "en": "DMG {0}% CD {1}s \n[Distant]"
+    },
+    {
+      "Key": "PUZZLE_170021_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접] [확산] [지속시간] [1개]",
+      "en": "DMG {0}% CD {1}s \n[Melee] [Duration] [1ea]"
+    },
+    {
+      "Key": "PUZZLE_170022_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접] [확산] [지속시간] [2개]",
+      "en": "DMG {0}% CD {1}s \n[Melee] [Duration] [2ea]"
+    },
+    {
+      "Key": "PUZZLE_170023_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[근접] [확산] [지속시간] [3개]",
+      "en": "DMG {0}% CD {1}s \n[Melee] [Duration] [3ea]"
+    },
+    {
+      "Key": "PUZZLE_170031_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [지속시간]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Duration]"
+    },
+    {
+      "Key": "PUZZLE_170032_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [지속시간]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Duration]"
+    },
+    {
+      "Key": "PUZZLE_170033_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [지속시간]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Duration]"
+    },
+    {
+      "Key": "PUZZLE_170041_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[지속시간] [1마리]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Duration]\n[1 Summon]"
+    },
+    {
+      "Key": "PUZZLE_170042_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[지속시간] [1마리]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Duration]\n[1 Summon]"
+    },
+    {
+      "Key": "PUZZLE_170043_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[지속시간] [1마리]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Duration]\n[1 Summon]"
+    },
+    {
+      "Key": "PUZZLE_170051_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[지속시간] [1마리]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Duration]\n[1 Summon]"
+    },
+    {
+      "Key": "PUZZLE_170052_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[지속시간] [1마리]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Duration]\n[1 Summon]"
+    },
+    {
+      "Key": "PUZZLE_170053_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[지속시간] [1마리]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Duration]\n[1 Summon]"
+    },
+    {
+      "Key": "PUZZLE_170061_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [확산]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
+    },
+    {
+      "Key": "PUZZLE_170062_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [확산]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
+    },
+    {
+      "Key": "PUZZLE_170063_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [확산]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
+    },
+    {
+      "Key": "PUZZLE_170071_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [확산]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
+    },
+    {
+      "Key": "PUZZLE_170072_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [확산]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
+    },
+    {
+      "Key": "PUZZLE_170073_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [확산]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
+    },
+    {
+      "Key": "PUZZLE_170081_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리]",
+      "en": "DMG {0}% CD {1}s \n[Distant]"
+    },
+    {
+      "Key": "PUZZLE_170082_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리]",
+      "en": "DMG {0}% CD {1}s \n[Distant]"
+    },
+    {
+      "Key": "PUZZLE_170083_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리]",
+      "en": "DMG {0}% CD {1}s \n[Distant]"
+    },
+    {
+      "Key": "PUZZLE_170091_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[지속시간] [1마리]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Duration]\n[1 Summon]"
+    },
+    {
+      "Key": "PUZZLE_170092_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[지속시간] [1마리]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Duration]\n[1 Summon]"
+    },
+    {
+      "Key": "PUZZLE_170093_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[지속시간] [1마리]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Duration]\n[1 Summon]"
+    },
+    {
+      "Key": "PUZZLE_170101_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [확산] [지속시간]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Splash]\n[Duration]"
+    },
+    {
+      "Key": "PUZZLE_170102_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [확산] [지속시간]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Splash]\n[Duration]"
+    },
+    {
+      "Key": "PUZZLE_170103_DESC",
+      "ko": "데미지 {0}% 쿨타임 {1}s\n[원거리] [확산] [지속시간]",
+      "en": "DMG {0}% CD {1}s \n[Distant] [Splash]\n[Duration]"
+    },
+    {
+      "Key": "PUZZLE_210011",
+      "ko": "연쇄 발동",
+      "en": "Chain Trigger"
+    },
+    {
+      "Key": "PUZZLE_210021",
+      "ko": "소환수 스킬 변경",
+      "en": "Change Summoner's Skill"
+    },
+    {
+      "Key": "PUZZLE_210031",
+      "ko": "동시 공격",
+      "en": "Simultaneous Attacks"
+    },
+    {
+      "Key": "PUZZLE_210011_DESC",
+      "ko": "입력 스킬에 맞은적에게서 출력 스킬이 발동됩니다.",
+      "en": "Enemy hit by input skill will trigger output skill."
+    },
+    {
+      "Key": "PUZZLE_210021_DESC",
+      "ko": "입력 스킬로 소환된 아군이 출력 스킬을 사용합니다.",
+      "en": "Allies summoned by input skill will use output skill."
+    },
+    {
+      "Key": "PUZZLE_210031_DESC",
+      "ko": "입력 스킬이 발동될 때 출력 스킬도 발동됩니다.",
+      "en": "When an input skill is triggered, the output skill is also triggered."
+    },
+    {
+      "Key": "PUZZLE_310011",
+      "ko": "확산 범위 증가",
+      "en": "Splash Range Increase"
+    },
+    {
+      "Key": "PUZZLE_310012",
+      "ko": "확산 범위 증가",
+      "en": "Splash Range Increase"
+    },
+    {
+      "Key": "PUZZLE_310013",
+      "ko": "확산 범위 증가",
+      "en": "Splash Range Increase"
+    },
+    {
+      "Key": "PUZZLE_310021",
+      "ko": "소환체 강화",
+      "en": "Enhance Summoner"
+    },
+    {
+      "Key": "PUZZLE_310022",
+      "ko": "소환체 강화",
+      "en": "Enhance Summoner"
+    },
+    {
+      "Key": "PUZZLE_310023",
+      "ko": "소환체 강화",
+      "en": "Enhance Summoner"
+    },
+    {
+      "Key": "PUZZLE_310031",
+      "ko": "다중 투사체",
+      "en": "Multi-Proj."
+    },
+    {
+      "Key": "PUZZLE_310032",
+      "ko": "다중 투사체",
+      "en": "Multi-Proj."
+    },
+    {
+      "Key": "PUZZLE_310033",
+      "ko": "다중 투사체",
+      "en": "Multi-Proj."
+    },
+    {
+      "Key": "PUZZLE_310041",
+      "ko": "지속시간 보조",
+      "en": "Support Duration"
+    },
+    {
+      "Key": "PUZZLE_310042",
+      "ko": "지속시간 보조",
+      "en": "Support Duration"
+    },
+    {
+      "Key": "PUZZLE_310043",
+      "ko": "지속시간 보조",
+      "en": "Support Duration"
+    },
+    {
+      "Key": "PUZZLE_310051",
+      "ko": "순수한 힘",
+      "en": "Pure Strength"
+    },
+    {
+      "Key": "PUZZLE_310052",
+      "ko": "순수한 힘",
+      "en": "Pure Strength"
+    },
+    {
+      "Key": "PUZZLE_310053",
+      "ko": "순수한 힘",
+      "en": "Pure Strength"
+    },
+    {
+      "Key": "PUZZLE_310061",
+      "ko": "무자비",
+      "en": "Ruthless"
+    },
+    {
+      "Key": "PUZZLE_310062",
+      "ko": "무자비",
+      "en": "Ruthless"
+    },
+    {
+      "Key": "PUZZLE_310063",
+      "ko": "무자비",
+      "en": "Ruthless"
+    },
+    {
+      "Key": "PUZZLE_310071",
+      "ko": "치명타 피해 증가",
+      "en": "Increase Crit Damage"
+    },
+    {
+      "Key": "PUZZLE_310072",
+      "ko": "치명타 피해 증가",
+      "en": "Increase Crit Damage"
+    },
+    {
+      "Key": "PUZZLE_310073",
+      "ko": "치명타 피해 증가",
+      "en": "Increase Crit Damage"
+    },
+    {
+      "Key": "PUZZLE_310081",
+      "ko": "응축",
+      "en": "Condensate"
+    },
+    {
+      "Key": "PUZZLE_310082",
+      "ko": "응축",
+      "en": "Condensate"
+    },
+    {
+      "Key": "PUZZLE_310083",
+      "ko": "응축",
+      "en": "Condensate"
+    },
+    {
+      "Key": "PUZZLE_310091",
+      "ko": "흡혈",
+      "en": "Drain"
+    },
+    {
+      "Key": "PUZZLE_310092",
+      "ko": "흡혈",
+      "en": "Drain"
+    },
+    {
+      "Key": "PUZZLE_310093",
+      "ko": "흡혈",
+      "en": "Drain"
+    },
+    {
+      "Key": "PUZZLE_310101",
+      "ko": "다중 소환",
+      "en": "Multi Summon"
+    },
+    {
+      "Key": "PUZZLE_310102",
+      "ko": "다중 소환",
+      "en": "Multi Summon"
+    },
+    {
+      "Key": "PUZZLE_310103",
+      "ko": "다중 소환",
+      "en": "Multi Summon"
+    },
+    {
+      "Key": "PUZZLE_310111",
+      "ko": "빠른 공격",
+      "en": "Fast Attack"
+    },
+    {
+      "Key": "PUZZLE_310112",
+      "ko": "빠른 공격",
+      "en": "Fast Attack"
+    },
+    {
+      "Key": "PUZZLE_310113",
+      "ko": "빠른 공격",
+      "en": "Fast Attack"
+    },
+    {
+      "Key": "PUZZLE_310011_DESC",
+      "ko": "맞닿은 만큼 주변 퍼즐의 확산 범위 +{0}",
+      "en": "Splash Range of all Puzzles adjacent +{0}"
+    },
+    {
+      "Key": "PUZZLE_310012_DESC",
+      "ko": "맞닿은 만큼 주변 퍼즐의 확산 범위 +{0}",
+      "en": "Splash Range of all Puzzles adjacent +{0}"
+    },
+    {
+      "Key": "PUZZLE_310013_DESC",
+      "ko": "맞닿은 만큼 주변 퍼즐의 확산 범위 +{0}",
+      "en": "Splash Range of all Puzzles adjacent +{0}"
+    },
+    {
+      "Key": "PUZZLE_310021_DESC",
+      "ko": "맞닿은 만큼 주변 퍼즐의 소환수 데미지 +{0}%, 생명력 +{1}%",
+      "en": "Summoners' Damage +{0}%, HP +{1}% of all Puzzles adjacent"
+    },
+    {
+      "Key": "PUZZLE_310022_DESC",
+      "ko": "맞닿은 만큼 주변 퍼즐의 소환수 데미지 +{0}%, 생명력 +{1}%",
+      "en": "Summoners' Damage +{0}%, HP +{1}% of all Puzzles adjacent"
+    },
+    {
+      "Key": "PUZZLE_310023_DESC",
+      "ko": "맞닿은 만큼 주변 퍼즐의 소환수 데미지 +{0}%, 생명력 +{1}%",
+      "en": "Summoners' Damage +{0}%, HP +{1}% of all Puzzles adjacent"
+    },
+    {
+      "Key": "PUZZLE_310031_DESC",
+      "ko": "맞닿은 만큼 주변 퍼즐의  투사체 수 +{0}",
+      "en": "Number of Proj. of all Puzzles adjacent +{0}"
+    },
+    {
+      "Key": "PUZZLE_310032_DESC",
+      "ko": "맞닿은 만큼 주변 퍼즐의  투사체 수 +{0}",
+      "en": "Number of Proj. of all Puzzles adjacent +{0}"
+    },
+    {
+      "Key": "PUZZLE_310033_DESC",
+      "ko": "맞닿은 만큼 주변 퍼즐의  투사체 수 +{0}",
+      "en": "Number of Proj. of all Puzzles adjacent +{0}"
+    },
+    {
+      "Key": "PUZZLE_310041_DESC",
+      "ko": "맞닿은 만큼 주변 퍼즐의 지속시간 +{0}%",
+      "en": "Duration of all Puzzles adjacent +{0}%"
+    },
+    {
+      "Key": "PUZZLE_310042_DESC",
+      "ko": "맞닿은 만큼 주변 퍼즐의 지속시간 +{0}%",
+      "en": "Duration of all Puzzles adjacent +{0}%"
+    },
+    {
+      "Key": "PUZZLE_310043_DESC",
+      "ko": "맞닿은 만큼 주변 퍼즐의 지속시간 +{0}%",
+      "en": "Duration of all Puzzles adjacent +{0}%"
+    },
+    {
+      "Key": "PUZZLE_310051_DESC",
+      "ko": "맞닿은 만큼 주변 퍼즐의 데미지 +{0}%",
+      "en": "Damage of all Puzzles adjacent +{0}%"
+    },
+    {
+      "Key": "PUZZLE_310052_DESC",
+      "ko": "맞닿은 만큼 주변 퍼즐의 데미지 +{0}%",
+      "en": "Damage of all Puzzles adjacent +{0}%"
+    },
+    {
+      "Key": "PUZZLE_310053_DESC",
+      "ko": "맞닿은 만큼 주변 퍼즐의 데미지 +{0}%",
+      "en": "Damage of all Puzzles adjacent +{0}%"
+    },
+    {
+      "Key": "PUZZLE_310061_DESC",
+      "ko": "맞닿은 만큼 주변 퍼즐의 치명타 확률 +{0}%, 데미지 {1}%",
+      "en": "Crit Rate +{0}%, Damage {1}% of all Puzzles adjacent"
+    },
+    {
+      "Key": "PUZZLE_310062_DESC",
+      "ko": "맞닿은 만큼 주변 퍼즐의 치명타 확률 +{0}%, 데미지 {1}%",
+      "en": "Crit Rate +{0}%, Damage {1}% of all Puzzles adjacent"
+    },
+    {
+      "Key": "PUZZLE_310063_DESC",
+      "ko": "맞닿은 만큼 주변 퍼즐의 치명타 확률 +{0}%, 데미지 {1}%",
+      "en": "Crit Rate +{0}%, Damage {1}% of all Puzzles adjacent"
+    },
+    {
+      "Key": "PUZZLE_310071_DESC",
+      "ko": "맞닿은 만큼 주변 퍼즐의 치명타 피해 +{0}%",
+      "en": "Crit Rate of all Puzzles adjacent +{0}%"
+    },
+    {
+      "Key": "PUZZLE_310072_DESC",
+      "ko": "맞닿은 만큼 주변 퍼즐의 치명타 피해 +{0}%",
+      "en": "Crit Rate of all Puzzles adjacent +{0}%"
+    },
+    {
+      "Key": "PUZZLE_310073_DESC",
+      "ko": "맞닿은 만큼 주변 퍼즐의 치명타 피해 +{0}%",
+      "en": "Crit Rate of all Puzzles adjacent +{0}%"
+    },
+    {
+      "Key": "PUZZLE_310081_DESC",
+      "ko": "맞닿은 만큼 주변 퍼즐의 데미지 +{0}%, 쿨다운 +{1}%",
+      "en": "Damage +{0}%, Cool Down {1}% of all Puzzles adjacent"
+    },
+    {
+      "Key": "PUZZLE_310082_DESC",
+      "ko": "맞닿은 만큼 주변 퍼즐의 데미지 +{0}%, 쿨다운 +{1}%",
+      "en": "Damage +{0}%, Cool Down {1}% of all Puzzles adjacent"
+    },
+    {
+      "Key": "PUZZLE_310083_DESC",
+      "ko": "맞닿은 만큼 주변 퍼즐의 데미지 +{0}%, 쿨다운 +{1}%",
+      "en": "Damage +{0}%, Cool Down {1}% of all Puzzles adjacent"
+    },
+    {
+      "Key": "PUZZLE_310091_DESC",
+      "ko": "맞닿은 만큼 주변 퍼즐의 데미지의 {0}% 만큼 흡혈",
+      "en": "Drain {0}% amount of damage given of all Puzzles adjacent"
+    },
+    {
+      "Key": "PUZZLE_310092_DESC",
+      "ko": "맞닿은 만큼 주변 퍼즐의 데미지의 {0}% 만큼 흡혈",
+      "en": "Drain {0}% amount of damage given of all Puzzles adjacent"
+    },
+    {
+      "Key": "PUZZLE_310093_DESC",
+      "ko": "맞닿은 만큼 주변 퍼즐의 데미지의 {0}% 만큼 흡혈",
+      "en": "Drain {0}% amount of damage given of all Puzzles adjacent"
+    },
+    {
+      "Key": "PUZZLE_310101_DESC",
+      "ko": "맞닿은 만큼 주변 퍼즐의 소환체 소환 개수 +{0}",
+      "en": "Number of Summoners of all Puzzles adjacent +{0}"
+    },
+    {
+      "Key": "PUZZLE_310102_DESC",
+      "ko": "맞닿은 만큼 주변 퍼즐의 소환체 소환 개수 +{0}",
+      "en": "Number of Summoners of all Puzzles adjacent +{0}"
+    },
+    {
+      "Key": "PUZZLE_310103_DESC",
+      "ko": "맞닿은 만큼 주변 퍼즐의 소환체 소환 개수 +{0}",
+      "en": "Number of Summoners of all Puzzles adjacent +{0}"
+    },
+    {
+      "Key": "PUZZLE_310111_DESC",
+      "ko": "맞닿은 만큼 주변 퍼즐의 쿨다운 {0}%",
+      "en": "Cool Down time of all Puzzles adjacent {0}%"
+    },
+    {
+      "Key": "PUZZLE_310112_DESC",
+      "ko": "맞닿은 만큼 주변 퍼즐의 쿨다운 {0}%",
+      "en": "Cool Down time of all Puzzles adjacent {0}%"
+    },
+    {
+      "Key": "PUZZLE_310113_DESC",
+      "ko": "맞닿은 만큼 주변 퍼즐의 쿨다운 {0}%",
+      "en": "Cool Down time of all Puzzles adjacent {0}%"
+    },
+    {
+      "Key": "MESSAGEBOX_CONFIRM",
+      "ko": "확인",
+      "en": "CONFIRM"
+    },
+    {
+      "Key": "MESSAGEBOX_CANCEL",
+      "ko": "취소",
+      "en": "CANCEL"
+    },
+    {
+      "Key": "MYINFO_HERODESC",
+      "ko": "<color=#568BF6>{0}</color>의 던전 <color=#FFF692>{1}</color> 정화",
+      "en": "Purified <color=#FFF692>{1}</color> made by <color=#568BF6>{0}</color>"
+    },
+    {
+      "Key": "IGCLEARUI_DESC",
+      "ko": "당신의 캐릭터가 {0}층의 보스가 되었습니다.",
+      "en": "You're the boss \non the {0}th floor."
+    },
+    {
+      "Key": "PUZZLE_1001",
+      "ko": "평타(기본)",
+      "en": null
+    },
+    {
+      "Key": "PUZZLE_1002",
+      "ko": "평타(기본)",
+      "en": null
+    },
+    {
+      "Key": "PUZZLE_1003",
+      "ko": "평타(기본)",
+      "en": null
+    },
+    {
+      "Key": "PUZZLE_2001",
+      "ko": "어퍼컷(핵심)",
+      "en": null
+    },
+    {
+      "Key": "PUZZLE_2002",
+      "ko": "어퍼컷(핵심)",
+      "en": null
+    },
+    {
+      "Key": "PUZZLE_2003",
+      "ko": "어퍼컷(핵심)",
+      "en": null
+    },
+    {
+      "Key": "PUZZLE_301",
+      "ko": "자원생산증가",
+      "en": null
+    },
+    {
+      "Key": "PUZZLE_302",
+      "ko": "자원생산증가",
+      "en": null
+    },
+    {
+      "Key": "PUZZLE_303",
+      "ko": "자원생산증가",
+      "en": null
+    },
+    {
+      "Key": "PUZZLE_311",
+      "ko": "자원소모배수",
+      "en": null
+    },
+    {
+      "Key": "PUZZLE_312",
+      "ko": "자원소모배수",
+      "en": null
+    },
+    {
+      "Key": "PUZZLE_313",
+      "ko": "자원소모배수",
+      "en": null
+    },
+    {
+      "Key": "PUZZLE_321",
+      "ko": "전역데미지증가",
+      "en": null
+    },
+    {
+      "Key": "PUZZLE_322",
+      "ko": "전역데미지증가",
+      "en": null
+    },
+    {
+      "Key": "PUZZLE_323",
+      "ko": "전역데미지증가",
+      "en": null
+    },
+    {
+      "Key": "PUZZLE_1001_DESC",
+      "ko": "기본스킬. 인접한 핵심스킬에 3씩 자원 생산",
+      "en": null
+    },
+    {
+      "Key": "PUZZLE_1002_DESC",
+      "ko": "기본스킬. 인접한 핵심스킬에 3씩 자원 생산",
+      "en": null
+    },
+    {
+      "Key": "PUZZLE_1003_DESC",
+      "ko": "기본스킬. 인접한 핵심스킬에 3씩 자원 생산",
+      "en": null
+    },
+    {
+      "Key": "PUZZLE_2001_DESC",
+      "ko": "핵심스킬. 10 자원 소모하여 발동",
+      "en": null
+    },
+    {
+      "Key": "PUZZLE_2002_DESC",
+      "ko": "핵심스킬. 10 자원 소모하여 발동",
+      "en": null
+    },
+    {
+      "Key": "PUZZLE_2003_DESC",
+      "ko": "핵심스킬. 10 자원 소모하여 발동",
+      "en": null
+    },
+    {
+      "Key": "PUZZLE_301_DESC",
+      "ko": "인접 Basic 자원 생산량 +{0} (타일 연결 1칸 기준)",
+      "en": null
+    },
+    {
+      "Key": "PUZZLE_302_DESC",
+      "ko": "인접 Basic 자원 생산량 +{0} (타일 연결 1칸 기준)",
+      "en": null
+    },
+    {
+      "Key": "PUZZLE_303_DESC",
+      "ko": "인접 Basic 자원 생산량 +{0} (타일 연결 1칸 기준)",
+      "en": null
+    },
+    {
+      "Key": "PUZZLE_311_DESC",
+      "ko": "인접 Core 소모량·데미지 +{0}% (타일 연결 1칸 기준)",
+      "en": null
+    },
+    {
+      "Key": "PUZZLE_312_DESC",
+      "ko": "인접 Core 소모량·데미지 +{0}% (타일 연결 1칸 기준)",
+      "en": null
+    },
+    {
+      "Key": "PUZZLE_313_DESC",
+      "ko": "인접 Core 소모량·데미지 +{0}% (타일 연결 1칸 기준)",
+      "en": null
+    },
+    {
+      "Key": "PUZZLE_321_DESC",
+      "ko": "전체 신규 스킬 데미지 +{0} (배치만 하면 적용)",
+      "en": null
+    },
+    {
+      "Key": "PUZZLE_322_DESC",
+      "ko": "전체 신규 스킬 데미지 +{0} (배치만 하면 적용)",
+      "en": null
+    },
+    {
+      "Key": "PUZZLE_323_DESC",
+      "ko": "전체 신규 스킬 데미지 +{0} (배치만 하면 적용)",
+      "en": null
+    }
+  ]
+}

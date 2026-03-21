@@ -1,0 +1,77 @@
+{
+  "updatedAt": "2026-03-21T07:47:00.561Z",
+  "sheets": [
+    {
+      "name": "Common",
+      "version": 22,
+      "hash": "d6a899a0bb653c25f858efa5d5d241bffd92f64e51e65b9765c2a0d252aba6f1",
+      "url": "/static/Common.json"
+    },
+    {
+      "name": "Character",
+      "version": 13,
+      "hash": "efb157cf4c05b8fcb9e4d80cde3094fb2df2ba035a622e7bf65afe46d7df97f4",
+      "url": "/static/Character.json"
+    },
+    {
+      "name": "CharacterLevel",
+      "version": 8,
+      "hash": "f79981ba71e614b0c2b2f3e4b7cf12555aaf0adf750368ce38bb6fc6aa28802f",
+      "url": "/static/CharacterLevel.json"
+    },
+    {
+      "name": "Creature",
+      "version": 45,
+      "hash": "d8ede4e44e4cb76ac4f76e8ae4c8bddd1a7d3114858acb2f4a1cffd41241d3fc",
+      "url": "/static/Creature.json"
+    },
+    {
+      "name": "FloorData",
+      "version": 47,
+      "hash": "ac39bf9daebdeb85a20ceccf3007e8af79dacb31e309753c2681f2888187ab0f",
+      "url": "/static/FloorData.json"
+    },
+    {
+      "name": "PuzzleShape",
+      "version": 3,
+      "hash": "d0e97631027fca2cd892bcd2c57ae974a3cf7da02748368d7c86fa2a1a5312bc",
+      "url": "/static/PuzzleShape.json"
+    },
+    {
+      "name": "Puzzle",
+      "version": 69,
+      "hash": "ad7f1e8bac0f88beb544060963598345def32954488940f7769bdfbcbbaf7adf",
+      "url": "/static/Puzzle.json"
+    },
+    {
+      "name": "AttackSkills",
+      "version": 167,
+      "hash": "4697896a832796f980c30effc965b85ef643ca762096453f948c875ccaf9b767",
+      "url": "/static/AttackSkills.json"
+    },
+    {
+      "name": "SubSkills",
+      "version": 22,
+      "hash": "893268c4babb300d02728ef5c7eb976682417f310c4e1471db328da36f73a571",
+      "url": "/static/SubSkills.json"
+    },
+    {
+      "name": "Synergy",
+      "version": 6,
+      "hash": "92fdf1d5b9e74b6a410e523b407893e59a9044cff3bfeb25b89535d47889908b",
+      "url": "/static/Synergy.json"
+    },
+    {
+      "name": "Locale",
+      "version": 55,
+      "hash": "bdf8b56867e9e3b52edc365cfcbb99eceef738fb3aac7531a8c4fe3aef4fb3d7",
+      "url": "/static/Locale.json"
+    },
+    {
+      "name": "InGameShop",
+      "version": 6,
+      "hash": "6462a99d7b79d88d5d389a41a8f8b3ac7733c3a1c1aae5266dd5ed7c27333c8f",
+      "url": "/static/InGameShop.json"
+    }
+  ]
+}
