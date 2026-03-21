@@ -33,3 +33,52 @@ jobs:
           git diff --staged --quiet || git commit -m "데이터 갱신: $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push
 
+      - name: GitHub Pages 반영 대기 후 Discord 알림
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: |
+          [ -z "$DISCORD_WEBHOOK_URL" ] && echo "DISCORD_WEBHOOK_URL 미설정 — 건너뜀" && exit 0
+
+          LOCAL_UPDATED=$(node -e "console.log(require('./static/manifest.json').updatedAt)")
+          echo "로컬 updatedAt: $LOCAL_UPDATED"
+
+          # GitHub Pages 반영될 때까지 최대 2분 폴링 (10초 간격, 12회)
+          MATCHED=false
+          for i in $(seq 1 12); do
+            sleep 10
+            REMOTE=$(curl -sf "https://turtlemoi.github.io/dod2-static/static/manifest.json" || echo "")
+            REMOTE_UPDATED=$(echo "$REMOTE" | node -e "
+              let d='';
+              process.stdin.on('data',c=>d+=c).on('end',()=>{
+                try { console.log(JSON.parse(d).updatedAt); } catch { console.log(''); }
+              });
+            ")
+            echo "대기 중... ($i/12) 원격 updatedAt: $REMOTE_UPDATED"
+            if [ "$LOCAL_UPDATED" = "$REMOTE_UPDATED" ]; then
+              echo "GitHub Pages 반영 확인됨"
+              MATCHED=true
+              break
+            fi
+          done
+
+          PAYLOAD=$(node -e "
+            const m = require('./static/manifest.json');
+            const kst = new Date(m.updatedAt).toLocaleString('ko-KR', { timeZone: 'Asia/Seoul' });
+            const sheetList = m.sheets.map(s => '• ' + s.name + ' v' + s.version).join('\n');
+            const matched = process.env.MATCHED === 'true';
+            const body = {
+              embeds: [{
+                title: matched ? '✅ 스태틱 데이터 배포 완료' : '⚠️ 스태틱 데이터 배포 (Pages 반영 미확인)',
+                color: matched ? 5763719 : 16776960,
+                fields: [
+                  { name: '업데이트 시각 (KST)', value: kst, inline: false },
+                  { name: '시트 목록 (' + m.sheets.length + '개)', value: sheetList, inline: false }
+                ],
+                footer: { text: 'Game Static Data Server' }
+              }]
+            };
+            console.log(JSON.stringify(body));
+          ")
+          curl -s -X POST "$DISCORD_WEBHOOK_URL" \
+            -H "Content-Type: application/json" \
+            -d "$PAYLOAD"
