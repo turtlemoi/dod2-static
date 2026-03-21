@@ -63,7 +63,7 @@
       "Value5": 1,
       "Value6": "",
       "SoundName": "Attack_arrow",
-      "PrefabName": "Projectile_arrow",
+      "PrefabName": "Mortar_arrow",
       "HitFXName": "FX_Hit_Pierce"
     },
     {
@@ -921,7 +921,7 @@
       "Value5": 1,
       "Value6": "",
       "SoundName": "Attack_arrow",
-      "PrefabName": "Projectile_arrow",
+      "PrefabName": "Mortar_arrow",
       "HitFXName": "FX_Hit_Pierce"
     },
     {
@@ -943,7 +943,7 @@
       "Value5": 1,
       "Value6": "",
       "SoundName": "Attack_arrow",
-      "PrefabName": "Projectile_arrow",
+      "PrefabName": "Mortar_arrow",
       "HitFXName": "FX_Hit_Pierce"
     },
     {
@@ -965,7 +965,7 @@
       "Value5": 1,
       "Value6": "",
       "SoundName": "Attack_arrow",
-      "PrefabName": "Projectile_arrow",
+      "PrefabName": "Mortar_arrow",
       "HitFXName": "FX_Hit_Pierce"
     },
     {
@@ -987,7 +987,7 @@
       "Value5": 5,
       "Value6": "",
       "SoundName": "Attack_arrow_bomb",
-      "PrefabName": "Projectile_arrow_bomb",
+      "PrefabName": "Mortar_arrow_bomb",
       "HitFXName": "FX_Hit_Impact"
     },
     {
@@ -1009,7 +1009,7 @@
       "Value5": 5,
       "Value6": "",
       "SoundName": "Attack_arrow_bomb",
-      "PrefabName": "Projectile_arrow_bomb",
+      "PrefabName": "Mortar_arrow_bomb",
       "HitFXName": "FX_Hit_Impact"
     },
     {
@@ -1031,7 +1031,7 @@
       "Value5": 5,
       "Value6": "",
       "SoundName": "Attack_arrow_bomb",
-      "PrefabName": "Projectile_arrow_bomb",
+      "PrefabName": "Mortar_arrow_bomb",
       "HitFXName": "FX_Hit_Impact"
     },
     {
@@ -1053,7 +1053,7 @@
       "Value5": 3,
       "Value6": "",
       "SoundName": "Attack_arrow_poison",
-      "PrefabName": "Projectile_arrow_poison",
+      "PrefabName": "Mortar_arrow_poison",
       "HitFXName": "FX_Hit_Poison"
     },
     {
@@ -1075,7 +1075,7 @@
       "Value5": 3,
       "Value6": "",
       "SoundName": "Attack_arrow_poison",
-      "PrefabName": "Projectile_arrow_poison",
+      "PrefabName": "Mortar_arrow_poison",
       "HitFXName": "FX_Hit_Poison"
     },
     {
@@ -1097,7 +1097,7 @@
       "Value5": 3,
       "Value6": "",
       "SoundName": "Attack_arrow_poison",
-      "PrefabName": "Projectile_arrow_poison",
+      "PrefabName": "Mortar_arrow_poison",
       "HitFXName": "FX_Hit_Poison"
     },
     {
@@ -1185,7 +1185,7 @@
       "Value5": 1,
       "Value6": "",
       "SoundName": "Attack_arrow",
-      "PrefabName": "Projectile_arrow",
+      "PrefabName": "Mortar_arrow",
       "HitFXName": "FX_Hit_Pierce"
     },
     {
@@ -1207,7 +1207,7 @@
       "Value5": 1,
       "Value6": "",
       "SoundName": "Attack_arrow",
-      "PrefabName": "Projectile_arrow",
+      "PrefabName": "Mortar_arrow",
       "HitFXName": "FX_Hit_Pierce"
     },
     {
@@ -1229,7 +1229,7 @@
       "Value5": 1,
       "Value6": "",
       "SoundName": "Attack_arrow",
-      "PrefabName": "Projectile_arrow",
+      "PrefabName": "Mortar_arrow",
       "HitFXName": "FX_Hit_Pierce"
     },
     {
@@ -1251,7 +1251,7 @@
       "Value5": 1,
       "Value6": "",
       "SoundName": "Attack_arrow_electric",
-      "PrefabName": "Projectile_arrow_electric",
+      "PrefabName": "Mortar_arrow_electric",
       "HitFXName": "FX_Hit_Lightning"
     },
     {
@@ -1273,7 +1273,7 @@
       "Value5": 1,
       "Value6": "",
       "SoundName": "Attack_arrow_electric",
-      "PrefabName": "Projectile_arrow_electric",
+      "PrefabName": "Mortar_arrow_electric",
       "HitFXName": "FX_Hit_Lightning"
     },
     {
@@ -1295,7 +1295,7 @@
       "Value5": 1,
       "Value6": "",
       "SoundName": "Attack_arrow_electric",
-      "PrefabName": "Projectile_arrow_electric",
+      "PrefabName": "Mortar_arrow_electric",
       "HitFXName": "FX_Hit_Lightning"
     },
     {
@@ -1383,7 +1383,7 @@
       "Value5": 1,
       "Value6": "",
       "SoundName": "Attack_arrow",
-      "PrefabName": "Projectile_arrow_big",
+      "PrefabName": "Mortar_arrow_big",
       "HitFXName": "FX_Hit_Pierce"
     },
     {
@@ -1405,7 +1405,7 @@
       "Value5": 1,
       "Value6": "",
       "SoundName": "Attack_arrow",
-      "PrefabName": "Projectile_arrow_big",
+      "PrefabName": "Mortar_arrow_big",
       "HitFXName": "FX_Hit_Pierce"
     },
     {
@@ -1427,7 +1427,7 @@
       "Value5": 1,
       "Value6": "",
       "SoundName": "Attack_arrow",
-      "PrefabName": "Projectile_arrow_big",
+      "PrefabName": "Mortar_arrow_big",
       "HitFXName": "FX_Hit_Pierce"
     },
     {
@@ -4925,7 +4925,7 @@
       "Value5": 1,
       "Value6": "",
       "SoundName": "",
-      "PrefabName": "Projectile_arrow",
+      "PrefabName": "Mortar_arrow",
       "HitFXName": "FX_Hit_Pierce"
     },
     {
@@ -5343,7 +5343,7 @@
       "Value5": 1,
       "Value6": "",
       "SoundName": "Attack_arrow_poison",
-      "PrefabName": "Projectile_arrow_poison",
+      "PrefabName": "Mortar_arrow_poison",
       "HitFXName": "FX_Hit_Pierce"
     },
     {
