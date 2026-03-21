@@ -1,8 +1,9 @@
 'use strict';
-const { google } = require('googleapis');
-const crypto = require('crypto');
-const fs     = require('fs');
-const path   = require('path');
+const { google }             = require('googleapis');
+const crypto                 = require('crypto');
+const fs                     = require('fs');
+const path                   = require('path');
+const { sendDiscordMessage } = require('./discord');
 
 // GitHub Actions 환경에서는 ./static/ 에만 저장
 const STATIC_DIR = path.join(__dirname, 'static');
@@ -76,6 +77,7 @@ async function parseAndExportSheets() {
     );
 
     console.log('[Parser] manifest.json 생성 완료.');
+    await sendDiscordMessage(manifest);
     return manifest;
 }
 
