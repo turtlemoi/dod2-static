@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-21T12:47:54.966Z",
+  "updatedAt": "2026-03-21T12:56:01.848Z",
   "sheets": [
     {
       "name": "Common",
@@ -57,8 +57,8 @@
     },
     {
       "name": "Synergy",
-      "version": 7,
-      "hash": "a26b1170ab715e860fb8b803d7b5a597373652b1855772c425b072bcbbdbd60e",
+      "version": 8,
+      "hash": "ea4d3a6aaa175495a2d17128a62747425b11fecbbd5c59029aa82c697caa9c47",
       "url": "/static/Synergy.json"
     },
     {

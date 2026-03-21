@@ -367,7 +367,7 @@
       "Icon": "synergy_12",
       "Condition": 3,
       "Desc": "SYNERGY_12_DESC",
-      "Value": 3
+      "Value": 2
     },
     {
       "ID": 46,
@@ -376,7 +376,7 @@
       "Icon": "synergy_12",
       "Condition": 5,
       "Desc": "SYNERGY_12_DESC",
-      "Value": 6
+      "Value": 4
     },
     {
       "ID": 47,
@@ -385,7 +385,7 @@
       "Icon": "synergy_12",
       "Condition": 8,
       "Desc": "SYNERGY_12_DESC",
-      "Value": 9
+      "Value": 6
     },
     {
       "ID": 49,
