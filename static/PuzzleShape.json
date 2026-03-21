@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "ID": 1,
+      "Count": 1,
+      "Value": "0,0",
+      "MaskName": "puzzle_shape_01"
+    },
+    {
+      "ID": 2,
+      "Count": 2,
+      "Value": "0,1/0,0",
+      "MaskName": "puzzle_shape_02"
+    },
+    {
+      "ID": 3,
+      "Count": 3,
+      "Value": "0,1/0,0/0,-1",
+      "MaskName": "puzzle_shape_03"
+    },
+    {
+      "ID": 4,
+      "Count": 3,
+      "Value": "0,1/0,0/1,0",
+      "MaskName": "puzzle_shape_04"
+    },
+    {
+      "ID": 5,
+      "Count": 4,
+      "Value": "0,2/0,1/0,0/0,-1",
+      "MaskName": "puzzle_shape_05"
+    },
+    {
+      "ID": 6,
+      "Count": 4,
+      "Value": "0,1/0,0/0,-1/1,-1",
+      "MaskName": "puzzle_shape_06"
+    },
+    {
+      "ID": 7,
+      "Count": 4,
+      "Value": "0,1/0,0/-1,-1/0,-1",
+      "MaskName": "puzzle_shape_07"
+    },
+    {
+      "ID": 8,
+      "Count": 4,
+      "Value": "0,1/0,0/1,0/1,-1",
+      "MaskName": "puzzle_shape_08"
+    },
+    {
+      "ID": 9,
+      "Count": 4,
+      "Value": "0,1/-1,0/0,0/-1,-1",
+      "MaskName": "puzzle_shape_09"
+    },
+    {
+      "ID": 10,
+      "Count": 4,
+      "Value": "0,1/1,1/0,0/1,0",
+      "MaskName": "puzzle_shape_10"
+    },
+    {
+      "ID": 11,
+      "Count": 4,
+      "Value": "-1,0/0,0/1,0/0,-1",
+      "MaskName": "puzzle_shape_11"
+    }
+  ]
+}

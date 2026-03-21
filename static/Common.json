@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "Key": "shop_exp_price",
+      "Value": 4
+    },
+    {
+      "Key": "shop_exp_value",
+      "Value": 4
+    },
+    {
+      "Key": "shop_refresh_price",
+      "Value": 1
+    },
+    {
+      "Key": "shop_sale_price_1",
+      "Value": 2
+    },
+    {
+      "Key": "shop_sale_price_2",
+      "Value": 2
+    },
+    {
+      "Key": "shop_sale_price_3",
+      "Value": 2
+    },
+    {
+      "Key": "shop_sale_price_4",
+      "Value": 2
+    },
+    {
+      "Key": "shop_sale_price_5",
+      "Value": 2
+    },
+    {
+      "Key": "shop_buy_price_1",
+      "Value": 3
+    },
+    {
+      "Key": "shop_buy_price_2",
+      "Value": 3
+    },
+    {
+      "Key": "shop_buy_price_3",
+      "Value": 3
+    },
+    {
+      "Key": "shop_buy_price_4",
+      "Value": 3
+    },
+    {
+      "Key": "shop_buy_price_5",
+      "Value": 3
+    },
+    {
+      "Key": "shop_sale_price_star2",
+      "Value": 2
+    },
+    {
+      "Key": "shop_sale_price_star3",
+      "Value": 4
+    },
+    {
+      "Key": "hand_max_card",
+      "Value": 10
+    },
+    {
+      "Key": "clear_exp_value",
+      "Value": 2
+    },
+    {
+      "Key": "spawn_distance",
+      "Value": 50
+    },
+    {
+      "Key": "show_me_the_money",
+      "Value": 0
+    },
+    {
+      "Key": "character_hp_ratio_1",
+      "Value": 1
+    },
+    {
+      "Key": "demon_hp_ratio_1",
+      "Value": 1
+    },
+    {
+      "Key": "demon_attack_ratio_1",
+      "Value": 0.6
+    },
+    {
+      "Key": "character_hp_ratio_2",
+      "Value": 2
+    },
+    {
+      "Key": "demon_hp_ratio_2",
+      "Value": 2
+    },
+    {
+      "Key": "demon_attack_ratio_2",
+      "Value": 0.7
+    },
+    {
+      "Key": "character_hp_ratio_3",
+      "Value": 4
+    },
+    {
+      "Key": "demon_hp_ratio_3",
+      "Value": 4
+    },
+    {
+      "Key": "demon_attack_ratio_3",
+      "Value": 0.8
+    },
+    {
+      "Key": "character_hp_ratio_4",
+      "Value": 8
+    },
+    {
+      "Key": "demon_hp_ratio_4",
+      "Value": 8
+    },
+    {
+      "Key": "demon_attack_ratio_4",
+      "Value": 0.9
+    },
+    {
+      "Key": "character_hp_ratio_5",
+      "Value": 10
+    },
+    {
+      "Key": "demon_hp_ratio_5",
+      "Value": 10
+    },
+    {
+      "Key": "demon_attack_ratio_5",
+      "Value": 1
+    },
+    {
+      "Key": "dungeon_success_score",
+      "Value": -25
+    },
+    {
+      "Key": "dungeon_fail_score",
+      "Value": 10
+    }
+  ]
+}
