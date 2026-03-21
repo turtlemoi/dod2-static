@@ -38,22 +38,23 @@ jobs:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
         run: |
           [ -z "$DISCORD_WEBHOOK_URL" ] && echo "DISCORD_WEBHOOK_URL 미설정 — 건너뜀" && exit 0
-          UPDATED_AT=$(node -e "console.log(require('./static/manifest.json').updatedAt)")
-          SHEET_LIST=$(node -e "
+          PAYLOAD=$(node -e "
             const m = require('./static/manifest.json');
-            console.log(m.sheets.map(s => '• ' + s.name + ' v' + s.version).join('\n'));
+            const kst = new Date(m.updatedAt).toLocaleString('ko-KR', { timeZone: 'Asia/Seoul' });
+            const sheetList = m.sheets.map(s => '• ' + s.name + ' v' + s.version).join('\n');
+            const body = {
+              embeds: [{
+                title: '✅ 스태틱 데이터 최신화 완료',
+                color: 5763719,
+                fields: [
+                  { name: '업데이트 시각 (KST)', value: kst, inline: false },
+                  { name: '시트 목록 (' + m.sheets.length + '개)', value: sheetList, inline: false }
+                ],
+                footer: { text: 'Game Static Data Server' }
+              }]
+            };
+            console.log(JSON.stringify(body));
           ")
-          COUNT=$(node -e "console.log(require('./static/manifest.json').sheets.length)")
           curl -s -X POST "$DISCORD_WEBHOOK_URL" \
             -H "Content-Type: application/json" \
-            -d "{
-              \"embeds\": [{
-                \"title\": \"✅ 스태틱 데이터 최신화 완료\",
-                \"color\": 5763719,
-                \"fields\": [
-                  { \"name\": \"업데이트 시각 (UTC)\", \"value\": \"$UPDATED_AT\", \"inline\": false },
-                  { \"name\": \"시트 목록 ($COUNT개)\", \"value\": \"$SHEET_LIST\", \"inline\": false }
-                ],
-                \"footer\": { \"text\": \"Game Static Data Server\" }
-              }]
-            }"
+            -d "$PAYLOAD"
