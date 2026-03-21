@@ -1,0 +1,11 @@
+{
+  "name": "dod2-static",
+  "version": "1.0.0",
+  "description": "DOD2 스태틱 시트 — GitHub Pages 배포용",
+  "scripts": {
+    "generate": "node sheetParser.js"
+  },
+  "dependencies": {
+    "googleapis": "^144.0.0"
+  }
+}

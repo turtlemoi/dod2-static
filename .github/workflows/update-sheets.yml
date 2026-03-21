@@ -1,0 +1,34 @@
+name: Update Static Sheets
+
+on:
+  workflow_dispatch:   # Code.gs 또는 GitHub 웹에서 수동 트리거
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # static/ 폴더 커밋 권한
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 의존성 설치
+        run: npm install
+
+      - name: Google Sheets → JSON 생성
+        env:
+          GOOGLE_SERVICE_ACCOUNT_KEY: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_KEY }}
+          GOOGLE_SPREADSHEET_ID: ${{ secrets.GOOGLE_SPREADSHEET_ID }}
+        run: node sheetParser.js
+
+      - name: 변경사항 커밋 & 푸시
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add static/
+          git diff --staged --quiet || git commit -m "데이터 갱신: $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
