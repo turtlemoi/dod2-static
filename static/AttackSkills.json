@@ -1183,9 +1183,9 @@
       "Value3": 8,
       "Value4": 45,
       "Value5": 4,
-      "Value6": 10,
+      "Value6": 7,
       "SoundName": "Attack_arrow",
-      "PrefabName": "Mortar_arrow",
+      "PrefabName": "Mortar_arrow_big",
       "HitFXName": "FX_Hit_Pierce"
     },
     {
@@ -1205,9 +1205,9 @@
       "Value3": 8,
       "Value4": 45,
       "Value5": 4,
-      "Value6": 10,
+      "Value6": 7,
       "SoundName": "Attack_arrow",
-      "PrefabName": "Mortar_arrow",
+      "PrefabName": "Mortar_arrow_big",
       "HitFXName": "FX_Hit_Pierce"
     },
     {
@@ -1227,9 +1227,9 @@
       "Value3": 8,
       "Value4": 45,
       "Value5": 4,
-      "Value6": 10,
+      "Value6": 7,
       "SoundName": "Attack_arrow",
-      "PrefabName": "Mortar_arrow",
+      "PrefabName": "Mortar_arrow_big",
       "HitFXName": "FX_Hit_Pierce"
     },
     {
@@ -1376,14 +1376,14 @@
       "SkillRange": 30,
       "Pierce": 1,
       "KnockbackForce": 3,
-      "Value1": 10,
-      "Value2": 0.04,
+      "Value1": 15,
+      "Value2": 0.02,
       "Value3": 20,
       "Value4": 72,
       "Value5": 5,
-      "Value6": 7,
+      "Value6": 5,
       "SoundName": "Attack_arrow",
-      "PrefabName": "Mortar_arrow_big",
+      "PrefabName": "Mortar_arrow",
       "HitFXName": "FX_Hit_Pierce"
     },
     {
@@ -1398,14 +1398,14 @@
       "SkillRange": 30,
       "Pierce": 1,
       "KnockbackForce": 3,
-      "Value1": 10,
-      "Value2": 0.04,
+      "Value1": 15,
+      "Value2": 0.02,
       "Value3": 20,
       "Value4": 72,
       "Value5": 5,
-      "Value6": 7,
+      "Value6": 5,
       "SoundName": "Attack_arrow",
-      "PrefabName": "Mortar_arrow_big",
+      "PrefabName": "Mortar_arrow",
       "HitFXName": "FX_Hit_Pierce"
     },
     {
@@ -1420,14 +1420,14 @@
       "SkillRange": 30,
       "Pierce": 1,
       "KnockbackForce": 3,
-      "Value1": 10,
-      "Value2": 0.04,
+      "Value1": 15,
+      "Value2": 0.02,
       "Value3": 20,
       "Value4": 72,
       "Value5": 5,
-      "Value6": 7,
+      "Value6": 5,
       "SoundName": "Attack_arrow",
-      "PrefabName": "Mortar_arrow_big",
+      "PrefabName": "Mortar_arrow",
       "HitFXName": "FX_Hit_Pierce"
     },
     {

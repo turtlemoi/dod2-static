@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-21T11:04:13.671Z",
+  "updatedAt": "2026-03-21T12:47:54.966Z",
   "sheets": [
     {
       "name": "Common",
@@ -46,25 +46,25 @@
     {
       "name": "AttackSkills",
       "version": 175,
-      "hash": "1651e101205eb019782ec4a8e65b15356c04b04b207d1b2bf91fb7b6b9265953",
+      "hash": "e82e10df1055ef1840c563d8d4128ab5701ceb724e8cd5a3a240c01f0557bac1",
       "url": "/static/AttackSkills.json"
     },
     {
       "name": "SubSkills",
-      "version": 22,
-      "hash": "893268c4babb300d02728ef5c7eb976682417f310c4e1471db328da36f73a571",
+      "version": 23,
+      "hash": "85479d2ee7b1cd63a0943dd9d8bf64153ebf3ec5122507cbed590ba32ab8590a",
       "url": "/static/SubSkills.json"
     },
     {
       "name": "Synergy",
-      "version": 6,
-      "hash": "92fdf1d5b9e74b6a410e523b407893e59a9044cff3bfeb25b89535d47889908b",
+      "version": 7,
+      "hash": "a26b1170ab715e860fb8b803d7b5a597373652b1855772c425b072bcbbdbd60e",
       "url": "/static/Synergy.json"
     },
     {
       "name": "Locale",
-      "version": 55,
-      "hash": "bdf8b56867e9e3b52edc365cfcbb99eceef738fb3aac7531a8c4fe3aef4fb3d7",
+      "version": 56,
+      "hash": "3999dae7832d5a7a3cdcf1dfdfcf70852f943bd6914c9f62ec74464f266010b8",
       "url": "/static/Locale.json"
     },
     {

@@ -82,8 +82,8 @@
     },
     {
       "Key": "SYNERGY_1_DESC",
-      "ko": "확산 범위 {0}% 증가",
-      "en": "Increase Splash Range by {0}%"
+      "ko": "받는 피해 {0}% 감소",
+      "en": "Reduce damage taken by {0}%"
     },
     {
       "Key": "SYNERGY_2_DESC",
@@ -107,48 +107,48 @@
     },
     {
       "Key": "SYNERGY_6_DESC",
-      "ko": "크리티컬 확률 {0}% 증가",
-      "en": "Increase Critical rate by {0}%"
+      "ko": "크리티컬 데미지 {0}% 증가",
+      "en": "Critical damage increased by {0}%"
     },
     {
       "Key": "SYNERGY_7_DESC",
-      "ko": "소환수가 {0}%확률로 두번 공격",
-      "en": "Summoners attack twice by {0}% chance"
+      "ko": "받는 피해 {0}% 반사",
+      "en": "Reflect {0}% of damage taken"
     },
     {
       "Key": "SYNERGY_8_DESC",
-      "ko": "화염 데미지 {0}% 증가",
-      "en": "Increase Fire damage by {0}%"
+      "ko": "화상 - HP비례 {0}% 데미지",
+      "en": "Burn - Damage proportional to HP {0}%"
     },
     {
       "Key": "SYNERGY_9_DESC",
-      "ko": "냉기 데미지 {0}% 증가",
-      "en": "Increase Blizzard damage by {0}%"
+      "ko": "빙결 - 공속 이속 {0}% 감소",
+      "en": "Freeze - Attack Speed ​​and Movement Speed ​​reduced by {0}%"
     },
     {
       "Key": "SYNERGY_10_DESC",
-      "ko": "전기 데미지 {0}% 증가",
-      "en": "Increase Electricity damage by {0}%"
+      "ko": "전격 - 데미지 연쇄 {0}%",
+      "en": "Lightning - Damage Chain {0}%"
     },
     {
       "Key": "SYNERGY_11_DESC",
-      "ko": "어둠 데미지 {0}% 증가",
-      "en": "Increase Darkness damage by {0}%"
+      "ko": "암흑 - 피해감소 {0}% 부여",
+      "en": "Darkness - Grants {0}% damage reduction"
     },
     {
       "Key": "SYNERGY_12_DESC",
-      "ko": "독 데미지 {0}% 증가",
-      "en": "Increase Poison damage by {0}%"
+      "ko": "중독 - 지속데미지 {0}% 씩 누적",
+      "en": "Poison - Accumulates damage over time by {0}%"
     },
     {
       "Key": "SYNERGY_13_DESC",
-      "ko": "찌르기 데미지 {0}% 증가",
-      "en": "Increase Stab damage by {0}%"
+      "ko": "크리티컬 확률 {0}% 증가",
+      "en": "Increase Critical Chance by {0}%"
     },
     {
       "Key": "SYNERGY_14_DESC",
       "ko": "충격 데미지 {0}% 증가",
-      "en": "Increase Shock damage by {0}%"
+      "en": "Increase shock damage by {0}%"
     },
     {
       "Key": "SKILLTYPE_1",
@@ -3414,156 +3414,6 @@
       "Key": "IGCLEARUI_DESC",
       "ko": "당신의 캐릭터가 {0}층의 보스가 되었습니다.",
       "en": "You're the boss \non the {0}th floor."
-    },
-    {
-      "Key": "PUZZLE_1001",
-      "ko": "평타(기본)",
-      "en": null
-    },
-    {
-      "Key": "PUZZLE_1002",
-      "ko": "평타(기본)",
-      "en": null
-    },
-    {
-      "Key": "PUZZLE_1003",
-      "ko": "평타(기본)",
-      "en": null
-    },
-    {
-      "Key": "PUZZLE_2001",
-      "ko": "어퍼컷(핵심)",
-      "en": null
-    },
-    {
-      "Key": "PUZZLE_2002",
-      "ko": "어퍼컷(핵심)",
-      "en": null
-    },
-    {
-      "Key": "PUZZLE_2003",
-      "ko": "어퍼컷(핵심)",
-      "en": null
-    },
-    {
-      "Key": "PUZZLE_301",
-      "ko": "자원생산증가",
-      "en": null
-    },
-    {
-      "Key": "PUZZLE_302",
-      "ko": "자원생산증가",
-      "en": null
-    },
-    {
-      "Key": "PUZZLE_303",
-      "ko": "자원생산증가",
-      "en": null
-    },
-    {
-      "Key": "PUZZLE_311",
-      "ko": "자원소모배수",
-      "en": null
-    },
-    {
-      "Key": "PUZZLE_312",
-      "ko": "자원소모배수",
-      "en": null
-    },
-    {
-      "Key": "PUZZLE_313",
-      "ko": "자원소모배수",
-      "en": null
-    },
-    {
-      "Key": "PUZZLE_321",
-      "ko": "전역데미지증가",
-      "en": null
-    },
-    {
-      "Key": "PUZZLE_322",
-      "ko": "전역데미지증가",
-      "en": null
-    },
-    {
-      "Key": "PUZZLE_323",
-      "ko": "전역데미지증가",
-      "en": null
-    },
-    {
-      "Key": "PUZZLE_1001_DESC",
-      "ko": "기본스킬. 인접한 핵심스킬에 3씩 자원 생산",
-      "en": null
-    },
-    {
-      "Key": "PUZZLE_1002_DESC",
-      "ko": "기본스킬. 인접한 핵심스킬에 3씩 자원 생산",
-      "en": null
-    },
-    {
-      "Key": "PUZZLE_1003_DESC",
-      "ko": "기본스킬. 인접한 핵심스킬에 3씩 자원 생산",
-      "en": null
-    },
-    {
-      "Key": "PUZZLE_2001_DESC",
-      "ko": "핵심스킬. 10 자원 소모하여 발동",
-      "en": null
-    },
-    {
-      "Key": "PUZZLE_2002_DESC",
-      "ko": "핵심스킬. 10 자원 소모하여 발동",
-      "en": null
-    },
-    {
-      "Key": "PUZZLE_2003_DESC",
-      "ko": "핵심스킬. 10 자원 소모하여 발동",
-      "en": null
-    },
-    {
-      "Key": "PUZZLE_301_DESC",
-      "ko": "인접 Basic 자원 생산량 +{0} (타일 연결 1칸 기준)",
-      "en": null
-    },
-    {
-      "Key": "PUZZLE_302_DESC",
-      "ko": "인접 Basic 자원 생산량 +{0} (타일 연결 1칸 기준)",
-      "en": null
-    },
-    {
-      "Key": "PUZZLE_303_DESC",
-      "ko": "인접 Basic 자원 생산량 +{0} (타일 연결 1칸 기준)",
-      "en": null
-    },
-    {
-      "Key": "PUZZLE_311_DESC",
-      "ko": "인접 Core 소모량·데미지 +{0}% (타일 연결 1칸 기준)",
-      "en": null
-    },
-    {
-      "Key": "PUZZLE_312_DESC",
-      "ko": "인접 Core 소모량·데미지 +{0}% (타일 연결 1칸 기준)",
-      "en": null
-    },
-    {
-      "Key": "PUZZLE_313_DESC",
-      "ko": "인접 Core 소모량·데미지 +{0}% (타일 연결 1칸 기준)",
-      "en": null
-    },
-    {
-      "Key": "PUZZLE_321_DESC",
-      "ko": "전체 신규 스킬 데미지 +{0} (배치만 하면 적용)",
-      "en": null
-    },
-    {
-      "Key": "PUZZLE_322_DESC",
-      "ko": "전체 신규 스킬 데미지 +{0} (배치만 하면 적용)",
-      "en": null
-    },
-    {
-      "Key": "PUZZLE_323_DESC",
-      "ko": "전체 신규 스킬 데미지 +{0} (배치만 하면 적용)",
-      "en": null
     }
   ]
 }
