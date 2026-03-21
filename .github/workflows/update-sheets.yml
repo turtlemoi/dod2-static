@@ -43,7 +43,7 @@ jobs:
           echo "로컬 updatedAt: $LOCAL_UPDATED"
 
           # GitHub Pages 반영될 때까지 최대 3분 폴링 (10초 간격, 18회)
-          MATCHED=false
+          export MATCHED=false
           for i in $(seq 1 18); do
             sleep 10
             REMOTE=$(curl -sf "https://turtlemoi.github.io/dod2-static/static/manifest.json" || echo "")
@@ -56,7 +56,7 @@ jobs:
             echo "대기 중... ($i/18) 원격 updatedAt: $REMOTE_UPDATED"
             if [ "$LOCAL_UPDATED" = "$REMOTE_UPDATED" ]; then
               echo "GitHub Pages 반영 확인됨"
-              MATCHED=true
+              export MATCHED=true
               break
             fi
           done
