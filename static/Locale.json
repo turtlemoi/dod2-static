@@ -181,6 +181,11 @@
       "en": "Summon"
     },
     {
+      "Key": "SKILLTYPE_7",
+      "ko": "곡사",
+      "en": "howitzer"
+    },
+    {
       "Key": "SKILLTYPE_ENFORCE",
       "ko": "강화",
       "en": "Enhance"
