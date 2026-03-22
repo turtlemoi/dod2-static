@@ -2,6 +2,7 @@
   "data": [
     {
       "ID": 901111,
+      "SkillName": "슬라임 박치기",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 1,
@@ -24,6 +25,7 @@
     },
     {
       "ID": 901211,
+      "SkillName": "박쥐 돌진",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 1,
@@ -46,6 +48,7 @@
     },
     {
       "ID": 901311,
+      "SkillName": "좀비 깨물기",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 1,
@@ -68,6 +71,7 @@
     },
     {
       "ID": 901411,
+      "SkillName": "고블린 곤봉",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 1,
@@ -90,6 +94,7 @@
     },
     {
       "ID": 910011,
+      "SkillName": "숲 골렘 내려치기",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 1,
@@ -112,6 +117,7 @@
     },
     {
       "ID": 910012,
+      "SkillName": "숲 골렘 원거리 뿌리공격",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 1,
@@ -134,6 +140,7 @@
     },
     {
       "ID": 910021,
+      "SkillName": "도살자 갈고리 타격",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 1,
@@ -156,6 +163,7 @@
     },
     {
       "ID": 910022,
+      "SkillName": "도살자 힘껏치기",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 1,
@@ -178,6 +186,7 @@
     },
     {
       "ID": 910031,
+      "SkillName": "해골 사신 낫 휘두르기",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 0.75,
@@ -200,6 +209,7 @@
     },
     {
       "ID": 100,
+      "SkillName": "베기 (본인무기)",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 3,
@@ -222,6 +232,7 @@
     },
     {
       "ID": 101,
+      "SkillName": "도끼 공격 (본인무기)",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 3,
@@ -244,6 +255,7 @@
     },
     {
       "ID": 105,
+      "SkillName": "뺨때리기 (전기 손바닥 재사용)",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 3,
@@ -266,6 +278,7 @@
     },
     {
       "ID": 106,
+      "SkillName": "도적단검 (본인무기)",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 3,
@@ -288,6 +301,7 @@
     },
     {
       "ID": 110011,
+      "SkillName": "창찌르기",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 1.1,
@@ -310,6 +324,7 @@
     },
     {
       "ID": 110012,
+      "SkillName": "창찌르기",
       "SkillType": 1,
       "SkillLevel": 2,
       "CoolDown": 1,
@@ -332,6 +347,7 @@
     },
     {
       "ID": 110013,
+      "SkillName": "창찌르기",
       "SkillType": 1,
       "SkillLevel": 3,
       "CoolDown": 0.9,
@@ -354,6 +370,7 @@
     },
     {
       "ID": 110031,
+      "SkillName": "휘두르기",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 1,
@@ -376,6 +393,7 @@
     },
     {
       "ID": 110032,
+      "SkillName": "휘두르기",
       "SkillType": 1,
       "SkillLevel": 2,
       "CoolDown": 0.9,
@@ -398,6 +416,7 @@
     },
     {
       "ID": 110033,
+      "SkillName": "휘두르기",
       "SkillType": 1,
       "SkillLevel": 3,
       "CoolDown": 0.8,
@@ -420,6 +439,7 @@
     },
     {
       "ID": 110051,
+      "SkillName": "불꽃검의 가호",
       "SkillType": 5,
       "SkillLevel": 1,
       "CoolDown": 4,
@@ -442,6 +462,7 @@
     },
     {
       "ID": 110052,
+      "SkillName": "불꽃검의 가호",
       "SkillType": 5,
       "SkillLevel": 2,
       "CoolDown": 4,
@@ -464,6 +485,7 @@
     },
     {
       "ID": 110053,
+      "SkillName": "불꽃검의 가호",
       "SkillType": 5,
       "SkillLevel": 3,
       "CoolDown": 4,
@@ -486,6 +508,7 @@
     },
     {
       "ID": 130041,
+      "SkillName": "얼음 파편",
       "SkillType": 5,
       "SkillLevel": 1,
       "CoolDown": 4,
@@ -508,6 +531,7 @@
     },
     {
       "ID": 130042,
+      "SkillName": "얼음 파편",
       "SkillType": 5,
       "SkillLevel": 2,
       "CoolDown": 4,
@@ -530,6 +554,7 @@
     },
     {
       "ID": 130043,
+      "SkillName": "얼음 파편",
       "SkillType": 5,
       "SkillLevel": 3,
       "CoolDown": 4,
@@ -552,6 +577,7 @@
     },
     {
       "ID": 150021,
+      "SkillName": "권법",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 1,
@@ -574,6 +600,7 @@
     },
     {
       "ID": 150022,
+      "SkillName": "권법",
       "SkillType": 1,
       "SkillLevel": 2,
       "CoolDown": 1,
@@ -596,6 +623,7 @@
     },
     {
       "ID": 150023,
+      "SkillName": "권법",
       "SkillType": 1,
       "SkillLevel": 3,
       "CoolDown": 1,
@@ -618,6 +646,7 @@
     },
     {
       "ID": 150041,
+      "SkillName": "냉기 권법",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 0.9,
@@ -640,6 +669,7 @@
     },
     {
       "ID": 150042,
+      "SkillName": "냉기 권법",
       "SkillType": 1,
       "SkillLevel": 2,
       "CoolDown": 0.9,
@@ -662,6 +692,7 @@
     },
     {
       "ID": 150043,
+      "SkillName": "냉기 권법",
       "SkillType": 1,
       "SkillLevel": 3,
       "CoolDown": 0.9,
@@ -684,6 +715,7 @@
     },
     {
       "ID": 150051,
+      "SkillName": "전기 장법",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 0.8,
@@ -706,6 +738,7 @@
     },
     {
       "ID": 150052,
+      "SkillName": "전기 장법",
       "SkillType": 1,
       "SkillLevel": 2,
       "CoolDown": 0.8,
@@ -728,6 +761,7 @@
     },
     {
       "ID": 150053,
+      "SkillName": "전기 장법",
       "SkillType": 1,
       "SkillLevel": 3,
       "CoolDown": 0.8,
@@ -750,6 +784,7 @@
     },
     {
       "ID": 160011,
+      "SkillName": "독 찌르기",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 0.8,
@@ -772,6 +807,7 @@
     },
     {
       "ID": 160012,
+      "SkillName": "독 찌르기",
       "SkillType": 1,
       "SkillLevel": 2,
       "CoolDown": 0.8,
@@ -794,6 +830,7 @@
     },
     {
       "ID": 160013,
+      "SkillName": "독 찌르기",
       "SkillType": 1,
       "SkillLevel": 3,
       "CoolDown": 0.8,
@@ -816,6 +853,7 @@
     },
     {
       "ID": 160041,
+      "SkillName": "회전칼날",
       "SkillType": 5,
       "SkillLevel": 1,
       "CoolDown": 4,
@@ -838,6 +876,7 @@
     },
     {
       "ID": 160042,
+      "SkillName": "회전칼날",
       "SkillType": 5,
       "SkillLevel": 2,
       "CoolDown": 4,
@@ -860,6 +899,7 @@
     },
     {
       "ID": 160043,
+      "SkillName": "회전칼날",
       "SkillType": 5,
       "SkillLevel": 3,
       "CoolDown": 4,
@@ -882,6 +922,7 @@
     },
     {
       "ID": 160061,
+      "SkillName": "회전 독칼날",
       "SkillType": 5,
       "SkillLevel": 1,
       "CoolDown": 1,
@@ -904,6 +945,7 @@
     },
     {
       "ID": 160062,
+      "SkillName": "회전 독칼날",
       "SkillType": 5,
       "SkillLevel": 2,
       "CoolDown": 1,
@@ -926,6 +968,7 @@
     },
     {
       "ID": 160063,
+      "SkillName": "회전 독칼날",
       "SkillType": 5,
       "SkillLevel": 3,
       "CoolDown": 1,
@@ -948,6 +991,7 @@
     },
     {
       "ID": 160081,
+      "SkillName": "암습",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 0.7,
@@ -970,6 +1014,7 @@
     },
     {
       "ID": 160082,
+      "SkillName": "암습",
       "SkillType": 1,
       "SkillLevel": 2,
       "CoolDown": 0.6,
@@ -992,6 +1037,7 @@
     },
     {
       "ID": 160083,
+      "SkillName": "암습",
       "SkillType": 1,
       "SkillLevel": 3,
       "CoolDown": 0.5,
@@ -1014,6 +1060,7 @@
     },
     {
       "ID": 170021,
+      "SkillName": "그림자고양이",
       "SkillType": 5,
       "SkillLevel": 1,
       "CoolDown": 4,
@@ -1036,6 +1083,7 @@
     },
     {
       "ID": 170022,
+      "SkillName": "그림자고양이",
       "SkillType": 5,
       "SkillLevel": 2,
       "CoolDown": 4,
@@ -1058,6 +1106,7 @@
     },
     {
       "ID": 170023,
+      "SkillName": "그림자고양이",
       "SkillType": 5,
       "SkillLevel": 3,
       "CoolDown": 4,
@@ -1080,6 +1129,7 @@
     },
     {
       "ID": 910041,
+      "SkillName": "예티 짓밟기",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 1,
@@ -1102,6 +1152,7 @@
     },
     {
       "ID": 910042,
+      "SkillName": "예티 철권",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 0.5,
@@ -1124,6 +1175,7 @@
     },
     {
       "ID": 910052,
+      "SkillName": "대악마 지옥할퀴기",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 2,
@@ -1146,6 +1198,7 @@
     },
     {
       "ID": 990011,
+      "SkillName": "할퀴기",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 1.2,
@@ -1168,6 +1221,7 @@
     },
     {
       "ID": 990033,
+      "SkillName": "파이어위습 불꽃 회전",
       "SkillType": 5,
       "SkillLevel": 1,
       "CoolDown": 3,
@@ -1190,6 +1244,7 @@
     },
     {
       "ID": 990051,
+      "SkillName": "양날도끼 휘두르기",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 0.8,
@@ -1212,6 +1267,7 @@
     },
     {
       "ID": 990071,
+      "SkillName": "시체 골렘 범위타격",
       "SkillType": 1,
       "SkillLevel": 2,
       "CoolDown": 1,
@@ -1234,6 +1290,7 @@
     },
     {
       "ID": 110061,
+      "SkillName": "지진파",
       "SkillType": 3,
       "SkillLevel": 1,
       "CoolDown": 3,
@@ -1256,6 +1313,7 @@
     },
     {
       "ID": 110062,
+      "SkillName": "지진파",
       "SkillType": 3,
       "SkillLevel": 2,
       "CoolDown": 3,
@@ -1278,6 +1336,7 @@
     },
     {
       "ID": 110063,
+      "SkillName": "지진파",
       "SkillType": 3,
       "SkillLevel": 3,
       "CoolDown": 3,
@@ -1300,6 +1359,7 @@
     },
     {
       "ID": 110081,
+      "SkillName": "사자후",
       "SkillType": 3,
       "SkillLevel": 1,
       "CoolDown": 3.5,
@@ -1322,6 +1382,7 @@
     },
     {
       "ID": 110082,
+      "SkillName": "사자후",
       "SkillType": 3,
       "SkillLevel": 2,
       "CoolDown": 3.5,
@@ -1344,6 +1405,7 @@
     },
     {
       "ID": 110083,
+      "SkillName": "사자후",
       "SkillType": 3,
       "SkillLevel": 3,
       "CoolDown": 3.5,
@@ -1366,6 +1428,7 @@
     },
     {
       "ID": 130051,
+      "SkillName": "프로즌 노바",
       "SkillType": 3,
       "SkillLevel": 1,
       "CoolDown": 3.3,
@@ -1388,6 +1451,7 @@
     },
     {
       "ID": 130052,
+      "SkillName": "프로즌 노바",
       "SkillType": 3,
       "SkillLevel": 2,
       "CoolDown": 3.3,
@@ -1410,6 +1474,7 @@
     },
     {
       "ID": 130053,
+      "SkillName": "프로즌 노바",
       "SkillType": 3,
       "SkillLevel": 3,
       "CoolDown": 3.3,
@@ -1432,6 +1497,7 @@
     },
     {
       "ID": 130061,
+      "SkillName": "라이트닝 노바",
       "SkillType": 3,
       "SkillLevel": 1,
       "CoolDown": 2.8,
@@ -1454,6 +1520,7 @@
     },
     {
       "ID": 130062,
+      "SkillName": "라이트닝 노바",
       "SkillType": 3,
       "SkillLevel": 2,
       "CoolDown": 2.8,
@@ -1476,6 +1543,7 @@
     },
     {
       "ID": 130063,
+      "SkillName": "라이트닝 노바",
       "SkillType": 3,
       "SkillLevel": 3,
       "CoolDown": 2.8,
@@ -1498,6 +1566,7 @@
     },
     {
       "ID": 140061,
+      "SkillName": "포이즌 노바",
       "SkillType": 3,
       "SkillLevel": 1,
       "CoolDown": 3,
@@ -1520,6 +1589,7 @@
     },
     {
       "ID": 140062,
+      "SkillName": "포이즌 노바",
       "SkillType": 3,
       "SkillLevel": 2,
       "CoolDown": 3,
@@ -1542,6 +1612,7 @@
     },
     {
       "ID": 140063,
+      "SkillName": "포이즌 노바",
       "SkillType": 3,
       "SkillLevel": 3,
       "CoolDown": 3,
@@ -1564,6 +1635,7 @@
     },
     {
       "ID": 140081,
+      "SkillName": "피의 파동",
       "SkillType": 3,
       "SkillLevel": 1,
       "CoolDown": 3,
@@ -1586,6 +1658,7 @@
     },
     {
       "ID": 140082,
+      "SkillName": "피의 파동",
       "SkillType": 3,
       "SkillLevel": 2,
       "CoolDown": 3,
@@ -1608,6 +1681,7 @@
     },
     {
       "ID": 140083,
+      "SkillName": "피의 파동",
       "SkillType": 3,
       "SkillLevel": 3,
       "CoolDown": 3,
@@ -1630,6 +1704,7 @@
     },
     {
       "ID": 150011,
+      "SkillName": "화염 장법",
       "SkillType": 3,
       "SkillLevel": 1,
       "CoolDown": 2.5,
@@ -1652,6 +1727,7 @@
     },
     {
       "ID": 150012,
+      "SkillName": "화염 장법",
       "SkillType": 3,
       "SkillLevel": 2,
       "CoolDown": 2.5,
@@ -1674,6 +1750,7 @@
     },
     {
       "ID": 150013,
+      "SkillName": "화염 장법",
       "SkillType": 3,
       "SkillLevel": 3,
       "CoolDown": 2.5,
@@ -1696,6 +1773,7 @@
     },
     {
       "ID": 150071,
+      "SkillName": "냉기 파동",
       "SkillType": 3,
       "SkillLevel": 1,
       "CoolDown": 3.3,
@@ -1718,6 +1796,7 @@
     },
     {
       "ID": 150072,
+      "SkillName": "냉기 파동",
       "SkillType": 3,
       "SkillLevel": 2,
       "CoolDown": 3.3,
@@ -1740,6 +1819,7 @@
     },
     {
       "ID": 150073,
+      "SkillName": "냉기 파동",
       "SkillType": 3,
       "SkillLevel": 3,
       "CoolDown": 3.3,
@@ -1762,6 +1842,7 @@
     },
     {
       "ID": 160101,
+      "SkillName": "가시 파동",
       "SkillType": 3,
       "SkillLevel": 1,
       "CoolDown": 3.5,
@@ -1784,6 +1865,7 @@
     },
     {
       "ID": 160102,
+      "SkillName": "가시 파동",
       "SkillType": 3,
       "SkillLevel": 2,
       "CoolDown": 3.5,
@@ -1806,6 +1888,7 @@
     },
     {
       "ID": 160103,
+      "SkillName": "가시 파동",
       "SkillType": 3,
       "SkillLevel": 3,
       "CoolDown": 3.5,
@@ -1828,6 +1911,7 @@
     },
     {
       "ID": 990022,
+      "SkillName": "전기위습 라이트닝 노바",
       "SkillType": 3,
       "SkillLevel": 1,
       "CoolDown": 3,
@@ -1850,6 +1934,7 @@
     },
     {
       "ID": 990081,
+      "SkillName": "땅 파동",
       "SkillType": 3,
       "SkillLevel": 1,
       "CoolDown": 3.3,
@@ -1872,6 +1957,7 @@
     },
     {
       "ID": 102,
+      "SkillName": "화살쏘기 (화살 재사용)",
       "SkillType": 7,
       "SkillLevel": 1,
       "CoolDown": 3,
@@ -1894,6 +1980,7 @@
     },
     {
       "ID": 103,
+      "SkillName": "에너지볼트 (에너지볼트 재사용)",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 3,
@@ -1916,6 +2003,7 @@
     },
     {
       "ID": 104,
+      "SkillName": "저주 불꽃 (초록색 불꽃 재사용)",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 3,
@@ -1938,6 +2026,7 @@
     },
     {
       "ID": 107,
+      "SkillName": "해골 날리기 (초록 해골 재사용)",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 3,
@@ -1960,6 +2049,7 @@
     },
     {
       "ID": 110021,
+      "SkillName": "도끼던지기",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 2.3,
@@ -1982,6 +2072,7 @@
     },
     {
       "ID": 110022,
+      "SkillName": "도끼던지기",
       "SkillType": 2,
       "SkillLevel": 2,
       "CoolDown": 2.3,
@@ -2004,6 +2095,7 @@
     },
     {
       "ID": 110023,
+      "SkillName": "도끼던지기",
       "SkillType": 2,
       "SkillLevel": 3,
       "CoolDown": 2.3,
@@ -2026,6 +2118,7 @@
     },
     {
       "ID": 110041,
+      "SkillName": "검기",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 2.7,
@@ -2048,6 +2141,7 @@
     },
     {
       "ID": 110042,
+      "SkillName": "검기",
       "SkillType": 2,
       "SkillLevel": 2,
       "CoolDown": 2.7,
@@ -2070,6 +2164,7 @@
     },
     {
       "ID": 110043,
+      "SkillName": "검기",
       "SkillType": 2,
       "SkillLevel": 3,
       "CoolDown": 2.7,
@@ -2092,6 +2187,7 @@
     },
     {
       "ID": 110071,
+      "SkillName": "번개창",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 6,
@@ -2114,6 +2210,7 @@
     },
     {
       "ID": 110072,
+      "SkillName": "번개창",
       "SkillType": 2,
       "SkillLevel": 2,
       "CoolDown": 6,
@@ -2136,6 +2233,7 @@
     },
     {
       "ID": 110073,
+      "SkillName": "번개창",
       "SkillType": 2,
       "SkillLevel": 3,
       "CoolDown": 6,
@@ -2158,6 +2256,7 @@
     },
     {
       "ID": 110091,
+      "SkillName": "화염 검기",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 4.5,
@@ -2180,6 +2279,7 @@
     },
     {
       "ID": 110092,
+      "SkillName": "화염 검기",
       "SkillType": 2,
       "SkillLevel": 2,
       "CoolDown": 4.5,
@@ -2202,6 +2302,7 @@
     },
     {
       "ID": 110093,
+      "SkillName": "화염 검기",
       "SkillType": 2,
       "SkillLevel": 3,
       "CoolDown": 4.5,
@@ -2224,6 +2325,7 @@
     },
     {
       "ID": 110101,
+      "SkillName": "냉기 검기",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 3,
@@ -2246,6 +2348,7 @@
     },
     {
       "ID": 110102,
+      "SkillName": "냉기 검기",
       "SkillType": 2,
       "SkillLevel": 2,
       "CoolDown": 3,
@@ -2268,6 +2371,7 @@
     },
     {
       "ID": 110103,
+      "SkillName": "냉기 검기",
       "SkillType": 2,
       "SkillLevel": 3,
       "CoolDown": 3,
@@ -2290,6 +2394,7 @@
     },
     {
       "ID": 120021,
+      "SkillName": "3연사",
       "SkillType": 7,
       "SkillLevel": 1,
       "CoolDown": 2.3,
@@ -2312,6 +2417,7 @@
     },
     {
       "ID": 120022,
+      "SkillName": "3연사",
       "SkillType": 7,
       "SkillLevel": 2,
       "CoolDown": 2.1,
@@ -2334,6 +2440,7 @@
     },
     {
       "ID": 120023,
+      "SkillName": "3연사",
       "SkillType": 7,
       "SkillLevel": 3,
       "CoolDown": 2,
@@ -2356,6 +2463,7 @@
     },
     {
       "ID": 120031,
+      "SkillName": "폭발 화살",
       "SkillType": 7,
       "SkillLevel": 1,
       "CoolDown": 2.3,
@@ -2378,6 +2486,7 @@
     },
     {
       "ID": 120032,
+      "SkillName": "폭발 화살",
       "SkillType": 7,
       "SkillLevel": 2,
       "CoolDown": 2.1,
@@ -2400,6 +2509,7 @@
     },
     {
       "ID": 120033,
+      "SkillName": "폭발 화살",
       "SkillType": 7,
       "SkillLevel": 3,
       "CoolDown": 2,
@@ -2422,6 +2532,7 @@
     },
     {
       "ID": 120041,
+      "SkillName": "독 화살",
       "SkillType": 7,
       "SkillLevel": 1,
       "CoolDown": 1.8,
@@ -2444,6 +2555,7 @@
     },
     {
       "ID": 120042,
+      "SkillName": "독 화살",
       "SkillType": 7,
       "SkillLevel": 2,
       "CoolDown": 1.7,
@@ -2466,6 +2578,7 @@
     },
     {
       "ID": 120043,
+      "SkillName": "독 화살",
       "SkillType": 7,
       "SkillLevel": 3,
       "CoolDown": 1.6,
@@ -2488,6 +2601,7 @@
     },
     {
       "ID": 120061,
+      "SkillName": "멀티샷",
       "SkillType": 7,
       "SkillLevel": 1,
       "CoolDown": 2,
@@ -2510,6 +2624,7 @@
     },
     {
       "ID": 120062,
+      "SkillName": "멀티샷",
       "SkillType": 7,
       "SkillLevel": 2,
       "CoolDown": 1.8,
@@ -2532,6 +2647,7 @@
     },
     {
       "ID": 120063,
+      "SkillName": "멀티샷",
       "SkillType": 7,
       "SkillLevel": 3,
       "CoolDown": 1.7,
@@ -2554,6 +2670,7 @@
     },
     {
       "ID": 120071,
+      "SkillName": "감전 화살",
       "SkillType": 7,
       "SkillLevel": 1,
       "CoolDown": 1.6,
@@ -2576,6 +2693,7 @@
     },
     {
       "ID": 120072,
+      "SkillName": "감전 화살",
       "SkillType": 7,
       "SkillLevel": 2,
       "CoolDown": 1.5,
@@ -2598,6 +2716,7 @@
     },
     {
       "ID": 120073,
+      "SkillName": "감전 화살",
       "SkillType": 7,
       "SkillLevel": 3,
       "CoolDown": 1.4,
@@ -2620,6 +2739,7 @@
     },
     {
       "ID": 120081,
+      "SkillName": "꿰뚫는 바람",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 2.7,
@@ -2642,6 +2762,7 @@
     },
     {
       "ID": 120082,
+      "SkillName": "꿰뚫는 바람",
       "SkillType": 2,
       "SkillLevel": 2,
       "CoolDown": 2.7,
@@ -2664,6 +2785,7 @@
     },
     {
       "ID": 120083,
+      "SkillName": "꿰뚫는 바람",
       "SkillType": 2,
       "SkillLevel": 3,
       "CoolDown": 2.7,
@@ -2686,6 +2808,7 @@
     },
     {
       "ID": 120101,
+      "SkillName": "용 화살",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 4.5,
@@ -2708,6 +2831,7 @@
     },
     {
       "ID": 120102,
+      "SkillName": "용 화살",
       "SkillType": 2,
       "SkillLevel": 2,
       "CoolDown": 4.5,
@@ -2730,6 +2854,7 @@
     },
     {
       "ID": 120103,
+      "SkillName": "용 화살",
       "SkillType": 2,
       "SkillLevel": 3,
       "CoolDown": 4.5,
@@ -2752,6 +2877,7 @@
     },
     {
       "ID": 130011,
+      "SkillName": "얼음 기둥",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 1.2,
@@ -2774,6 +2900,7 @@
     },
     {
       "ID": 130012,
+      "SkillName": "얼음 기둥",
       "SkillType": 1,
       "SkillLevel": 2,
       "CoolDown": 1.2,
@@ -2796,6 +2923,7 @@
     },
     {
       "ID": 130013,
+      "SkillName": "얼음 기둥",
       "SkillType": 1,
       "SkillLevel": 3,
       "CoolDown": 1.2,
@@ -2818,6 +2946,7 @@
     },
     {
       "ID": 130021,
+      "SkillName": "화염구",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 2.3,
@@ -2840,6 +2969,7 @@
     },
     {
       "ID": 130022,
+      "SkillName": "화염구",
       "SkillType": 2,
       "SkillLevel": 2,
       "CoolDown": 2.3,
@@ -2862,6 +2992,7 @@
     },
     {
       "ID": 130023,
+      "SkillName": "화염구",
       "SkillType": 2,
       "SkillLevel": 3,
       "CoolDown": 2.3,
@@ -2884,6 +3015,7 @@
     },
     {
       "ID": 130031,
+      "SkillName": "아이스 스피어",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 2,
@@ -2906,6 +3038,7 @@
     },
     {
       "ID": 130032,
+      "SkillName": "아이스 스피어",
       "SkillType": 2,
       "SkillLevel": 2,
       "CoolDown": 2,
@@ -2928,6 +3061,7 @@
     },
     {
       "ID": 130033,
+      "SkillName": "아이스 스피어",
       "SkillType": 2,
       "SkillLevel": 3,
       "CoolDown": 2,
@@ -2950,6 +3084,7 @@
     },
     {
       "ID": 140021,
+      "SkillName": "영혼 날리기",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 2.4,
@@ -2972,6 +3107,7 @@
     },
     {
       "ID": 140022,
+      "SkillName": "영혼 날리기",
       "SkillType": 2,
       "SkillLevel": 2,
       "CoolDown": 2.4,
@@ -2994,6 +3130,7 @@
     },
     {
       "ID": 140023,
+      "SkillName": "영혼 날리기",
       "SkillType": 2,
       "SkillLevel": 3,
       "CoolDown": 2.4,
@@ -3016,6 +3153,7 @@
     },
     {
       "ID": 140031,
+      "SkillName": "뼈창",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 1.8,
@@ -3038,6 +3176,7 @@
     },
     {
       "ID": 140032,
+      "SkillName": "뼈창",
       "SkillType": 2,
       "SkillLevel": 2,
       "CoolDown": 1.8,
@@ -3060,6 +3199,7 @@
     },
     {
       "ID": 140033,
+      "SkillName": "뼈창",
       "SkillType": 2,
       "SkillLevel": 3,
       "CoolDown": 1.8,
@@ -3082,6 +3222,7 @@
     },
     {
       "ID": 150061,
+      "SkillName": "내공탄",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 2.3,
@@ -3104,6 +3245,7 @@
     },
     {
       "ID": 150062,
+      "SkillName": "내공탄",
       "SkillType": 2,
       "SkillLevel": 2,
       "CoolDown": 2.3,
@@ -3126,6 +3268,7 @@
     },
     {
       "ID": 150063,
+      "SkillName": "내공탄",
       "SkillType": 2,
       "SkillLevel": 3,
       "CoolDown": 2.3,
@@ -3148,6 +3291,7 @@
     },
     {
       "ID": 150091,
+      "SkillName": "폭발 장법",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 4.5,
@@ -3170,6 +3314,7 @@
     },
     {
       "ID": 150092,
+      "SkillName": "폭발 장법",
       "SkillType": 2,
       "SkillLevel": 2,
       "CoolDown": 4.5,
@@ -3192,6 +3337,7 @@
     },
     {
       "ID": 150093,
+      "SkillName": "폭발 장법",
       "SkillType": 2,
       "SkillLevel": 3,
       "CoolDown": 4.5,
@@ -3214,6 +3360,7 @@
     },
     {
       "ID": 160021,
+      "SkillName": "단검 던지기",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 2,
@@ -3236,6 +3383,7 @@
     },
     {
       "ID": 160022,
+      "SkillName": "단검 던지기",
       "SkillType": 2,
       "SkillLevel": 2,
       "CoolDown": 2,
@@ -3258,6 +3406,7 @@
     },
     {
       "ID": 160023,
+      "SkillName": "단검 던지기",
       "SkillType": 2,
       "SkillLevel": 3,
       "CoolDown": 2,
@@ -3280,6 +3429,7 @@
     },
     {
       "ID": 160031,
+      "SkillName": "독검 투척",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 1.8,
@@ -3302,6 +3452,7 @@
     },
     {
       "ID": 160032,
+      "SkillName": "독검 투척",
       "SkillType": 2,
       "SkillLevel": 2,
       "CoolDown": 1.8,
@@ -3324,6 +3475,7 @@
     },
     {
       "ID": 160033,
+      "SkillName": "독검 투척",
       "SkillType": 2,
       "SkillLevel": 3,
       "CoolDown": 1.8,
@@ -3346,6 +3498,7 @@
     },
     {
       "ID": 160051,
+      "SkillName": "냉기 표창",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 1.8,
@@ -3368,6 +3521,7 @@
     },
     {
       "ID": 160052,
+      "SkillName": "냉기 표창",
       "SkillType": 2,
       "SkillLevel": 2,
       "CoolDown": 1.8,
@@ -3390,6 +3544,7 @@
     },
     {
       "ID": 160053,
+      "SkillName": "냉기 표창",
       "SkillType": 2,
       "SkillLevel": 3,
       "CoolDown": 1.8,
@@ -3412,6 +3567,7 @@
     },
     {
       "ID": 160071,
+      "SkillName": "수리검 난사",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 4.5,
@@ -3434,6 +3590,7 @@
     },
     {
       "ID": 160072,
+      "SkillName": "수리검 난사",
       "SkillType": 2,
       "SkillLevel": 2,
       "CoolDown": 4.5,
@@ -3456,6 +3613,7 @@
     },
     {
       "ID": 160073,
+      "SkillName": "수리검 난사",
       "SkillType": 2,
       "SkillLevel": 3,
       "CoolDown": 4.5,
@@ -3478,6 +3636,7 @@
     },
     {
       "ID": 170011,
+      "SkillName": "독침",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 1.5,
@@ -3500,6 +3659,7 @@
     },
     {
       "ID": 170012,
+      "SkillName": "독침",
       "SkillType": 2,
       "SkillLevel": 2,
       "CoolDown": 1.5,
@@ -3522,6 +3682,7 @@
     },
     {
       "ID": 170013,
+      "SkillName": "독침",
       "SkillType": 2,
       "SkillLevel": 3,
       "CoolDown": 1.5,
@@ -3544,6 +3705,7 @@
     },
     {
       "ID": 170061,
+      "SkillName": "저주의 불",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 5,
@@ -3566,6 +3728,7 @@
     },
     {
       "ID": 170062,
+      "SkillName": "저주의 불",
       "SkillType": 2,
       "SkillLevel": 2,
       "CoolDown": 5,
@@ -3588,6 +3751,7 @@
     },
     {
       "ID": 170063,
+      "SkillName": "저주의 불",
       "SkillType": 2,
       "SkillLevel": 3,
       "CoolDown": 5,
@@ -3610,6 +3774,7 @@
     },
     {
       "ID": 170071,
+      "SkillName": "가시 줄기",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 0.8,
@@ -3632,6 +3797,7 @@
     },
     {
       "ID": 170072,
+      "SkillName": "가시 줄기",
       "SkillType": 1,
       "SkillLevel": 2,
       "CoolDown": 0.7,
@@ -3654,6 +3820,7 @@
     },
     {
       "ID": 170073,
+      "SkillName": "가시 줄기",
       "SkillType": 1,
       "SkillLevel": 3,
       "CoolDown": 0.6,
@@ -3676,6 +3843,7 @@
     },
     {
       "ID": 170081,
+      "SkillName": "도깨비불",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 4.5,
@@ -3698,6 +3866,7 @@
     },
     {
       "ID": 170082,
+      "SkillName": "도깨비불",
       "SkillType": 2,
       "SkillLevel": 2,
       "CoolDown": 4.5,
@@ -3720,6 +3889,7 @@
     },
     {
       "ID": 170083,
+      "SkillName": "도깨비불",
       "SkillType": 2,
       "SkillLevel": 3,
       "CoolDown": 4.5,
@@ -3742,6 +3912,7 @@
     },
     {
       "ID": 901511,
+      "SkillName": "위습 마법",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 1.8,
@@ -3764,6 +3935,7 @@
     },
     {
       "ID": 901611,
+      "SkillName": "스켈레톤 화살",
       "SkillType": 7,
       "SkillLevel": 1,
       "CoolDown": 2,
@@ -3786,6 +3958,7 @@
     },
     {
       "ID": 910032,
+      "SkillName": "해골 사신 원거리 저주공격",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 2,
@@ -3808,6 +3981,7 @@
     },
     {
       "ID": 910051,
+      "SkillName": "대악마 화염구",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 2,
@@ -3830,6 +4004,7 @@
     },
     {
       "ID": 990021,
+      "SkillName": "라이트닝볼트 3연발",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 1.8,
@@ -3852,6 +4027,7 @@
     },
     {
       "ID": 990031,
+      "SkillName": "범위 파이어볼트",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 1.8,
@@ -3874,6 +4050,7 @@
     },
     {
       "ID": 990041,
+      "SkillName": "해골 궁수 화살",
       "SkillType": 7,
       "SkillLevel": 1,
       "CoolDown": 2.1,
@@ -3896,6 +4073,7 @@
     },
     {
       "ID": 990061,
+      "SkillName": "원거리 아이스볼트",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 1.8,
@@ -3918,6 +4096,7 @@
     },
     {
       "ID": 990062,
+      "SkillName": "고드름",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 0.8,
@@ -3940,6 +4119,7 @@
     },
     {
       "ID": 990091,
+      "SkillName": "파이어볼트 3연발",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 2.1,
@@ -3962,6 +4142,7 @@
     },
     {
       "ID": 990101,
+      "SkillName": "전기 1회 투사체",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 2.3,
@@ -3984,6 +4165,7 @@
     },
     {
       "ID": 120011,
+      "SkillName": "공중 화살",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 1.1,
@@ -4006,6 +4188,7 @@
     },
     {
       "ID": 120012,
+      "SkillName": "공중 화살",
       "SkillType": 1,
       "SkillLevel": 2,
       "CoolDown": 1.1,
@@ -4028,6 +4211,7 @@
     },
     {
       "ID": 120013,
+      "SkillName": "공중 화살",
       "SkillType": 1,
       "SkillLevel": 3,
       "CoolDown": 1.1,
@@ -4050,6 +4234,7 @@
     },
     {
       "ID": 120091,
+      "SkillName": "화살 난사",
       "SkillType": 7,
       "SkillLevel": 1,
       "CoolDown": 3,
@@ -4072,6 +4257,7 @@
     },
     {
       "ID": 120092,
+      "SkillName": "화살 난사",
       "SkillType": 7,
       "SkillLevel": 2,
       "CoolDown": 3,
@@ -4094,6 +4280,7 @@
     },
     {
       "ID": 120093,
+      "SkillName": "화살 난사",
       "SkillType": 7,
       "SkillLevel": 3,
       "CoolDown": 3,
@@ -4116,6 +4303,7 @@
     },
     {
       "ID": 150101,
+      "SkillName": "여래신장",
       "SkillType": 3,
       "SkillLevel": 1,
       "CoolDown": 3.5,
@@ -4138,6 +4326,7 @@
     },
     {
       "ID": 150102,
+      "SkillName": "여래신장",
       "SkillType": 3,
       "SkillLevel": 2,
       "CoolDown": 3.5,
@@ -4160,6 +4349,7 @@
     },
     {
       "ID": 150103,
+      "SkillName": "여래신장",
       "SkillType": 3,
       "SkillLevel": 3,
       "CoolDown": 3.5,
@@ -4182,6 +4372,7 @@
     },
     {
       "ID": 130091,
+      "SkillName": "번개",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 4,
@@ -4204,6 +4395,7 @@
     },
     {
       "ID": 130092,
+      "SkillName": "번개",
       "SkillType": 1,
       "SkillLevel": 2,
       "CoolDown": 4,
@@ -4226,6 +4418,7 @@
     },
     {
       "ID": 130093,
+      "SkillName": "번개",
       "SkillType": 1,
       "SkillLevel": 3,
       "CoolDown": 4,
@@ -4248,6 +4441,7 @@
     },
     {
       "ID": 130101,
+      "SkillName": "메테오",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 2.2,
@@ -4270,6 +4464,7 @@
     },
     {
       "ID": 130102,
+      "SkillName": "메테오",
       "SkillType": 1,
       "SkillLevel": 2,
       "CoolDown": 2.2,
@@ -4292,6 +4487,7 @@
     },
     {
       "ID": 130103,
+      "SkillName": "메테오",
       "SkillType": 1,
       "SkillLevel": 3,
       "CoolDown": 2.2,
@@ -4314,6 +4510,7 @@
     },
     {
       "ID": 990112,
+      "SkillName": "독 발사",
       "SkillType": 2,
       "SkillLevel": 3,
       "CoolDown": 0.5,
@@ -4336,6 +4533,7 @@
     },
     {
       "ID": 120051,
+      "SkillName": "곰소환",
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 20,
@@ -4358,6 +4556,7 @@
     },
     {
       "ID": 120052,
+      "SkillName": "곰소환",
       "SkillType": 6,
       "SkillLevel": 2,
       "CoolDown": 20,
@@ -4380,6 +4579,7 @@
     },
     {
       "ID": 120053,
+      "SkillName": "곰소환",
       "SkillType": 6,
       "SkillLevel": 3,
       "CoolDown": 20,
@@ -4402,6 +4602,7 @@
     },
     {
       "ID": 130071,
+      "SkillName": "전기 위습",
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 15,
@@ -4424,6 +4625,7 @@
     },
     {
       "ID": 130072,
+      "SkillName": "전기 위습",
       "SkillType": 6,
       "SkillLevel": 2,
       "CoolDown": 15,
@@ -4446,6 +4648,7 @@
     },
     {
       "ID": 130073,
+      "SkillName": "전기 위습",
       "SkillType": 6,
       "SkillLevel": 3,
       "CoolDown": 15,
@@ -4468,6 +4671,7 @@
     },
     {
       "ID": 130081,
+      "SkillName": "파이어 위습",
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 15,
@@ -4490,6 +4694,7 @@
     },
     {
       "ID": 130082,
+      "SkillName": "파이어 위습",
       "SkillType": 6,
       "SkillLevel": 2,
       "CoolDown": 15,
@@ -4512,6 +4717,7 @@
     },
     {
       "ID": 130083,
+      "SkillName": "파이어 위습",
       "SkillType": 6,
       "SkillLevel": 3,
       "CoolDown": 15,
@@ -4534,6 +4740,7 @@
     },
     {
       "ID": 140011,
+      "SkillName": "해골 궁수",
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 10,
@@ -4556,6 +4763,7 @@
     },
     {
       "ID": 140012,
+      "SkillName": "해골 궁수",
       "SkillType": 6,
       "SkillLevel": 2,
       "CoolDown": 10,
@@ -4578,6 +4786,7 @@
     },
     {
       "ID": 140013,
+      "SkillName": "해골 궁수",
       "SkillType": 6,
       "SkillLevel": 3,
       "CoolDown": 10,
@@ -4600,6 +4809,7 @@
     },
     {
       "ID": 140041,
+      "SkillName": "해골 전사",
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 13,
@@ -4622,6 +4832,7 @@
     },
     {
       "ID": 140042,
+      "SkillName": "해골 전사",
       "SkillType": 6,
       "SkillLevel": 2,
       "CoolDown": 13,
@@ -4644,6 +4855,7 @@
     },
     {
       "ID": 140043,
+      "SkillName": "해골 전사",
       "SkillType": 6,
       "SkillLevel": 3,
       "CoolDown": 13,
@@ -4666,6 +4878,7 @@
     },
     {
       "ID": 140051,
+      "SkillName": "해골 마법사",
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 15,
@@ -4688,6 +4901,7 @@
     },
     {
       "ID": 140052,
+      "SkillName": "해골 마법사",
       "SkillType": 6,
       "SkillLevel": 2,
       "CoolDown": 15,
@@ -4710,6 +4924,7 @@
     },
     {
       "ID": 140053,
+      "SkillName": "해골 마법사",
       "SkillType": 6,
       "SkillLevel": 3,
       "CoolDown": 15,
@@ -4732,6 +4947,7 @@
     },
     {
       "ID": 140071,
+      "SkillName": "시체 골렘",
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 20,
@@ -4754,6 +4970,7 @@
     },
     {
       "ID": 140072,
+      "SkillName": "시체 골렘",
       "SkillType": 6,
       "SkillLevel": 2,
       "CoolDown": 20,
@@ -4776,6 +4993,7 @@
     },
     {
       "ID": 140073,
+      "SkillName": "시체 골렘",
       "SkillType": 6,
       "SkillLevel": 3,
       "CoolDown": 20,
@@ -4798,6 +5016,7 @@
     },
     {
       "ID": 140091,
+      "SkillName": "바위 골렘 소환",
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 17,
@@ -4820,6 +5039,7 @@
     },
     {
       "ID": 140092,
+      "SkillName": "바위 골렘 소환",
       "SkillType": 6,
       "SkillLevel": 2,
       "CoolDown": 17,
@@ -4842,6 +5062,7 @@
     },
     {
       "ID": 140093,
+      "SkillName": "바위 골렘 소환",
       "SkillType": 6,
       "SkillLevel": 3,
       "CoolDown": 17,
@@ -4864,6 +5085,7 @@
     },
     {
       "ID": 170041,
+      "SkillName": "화염 토템",
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 8,
@@ -4886,6 +5108,7 @@
     },
     {
       "ID": 170042,
+      "SkillName": "화염 토템",
       "SkillType": 6,
       "SkillLevel": 2,
       "CoolDown": 8,
@@ -4908,6 +5131,7 @@
     },
     {
       "ID": 170043,
+      "SkillName": "화염 토템",
       "SkillType": 6,
       "SkillLevel": 3,
       "CoolDown": 8,
@@ -4930,6 +5154,7 @@
     },
     {
       "ID": 170051,
+      "SkillName": "번개 토템",
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 10,
@@ -4952,6 +5177,7 @@
     },
     {
       "ID": 170052,
+      "SkillName": "번개 토템",
       "SkillType": 6,
       "SkillLevel": 2,
       "CoolDown": 10,
@@ -4974,6 +5200,7 @@
     },
     {
       "ID": 170053,
+      "SkillName": "번개 토템",
       "SkillType": 6,
       "SkillLevel": 3,
       "CoolDown": 10,
@@ -4996,6 +5223,7 @@
     },
     {
       "ID": 170091,
+      "SkillName": "독 토템",
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 8,
@@ -5018,6 +5246,7 @@
     },
     {
       "ID": 170092,
+      "SkillName": "독 토템",
       "SkillType": 6,
       "SkillLevel": 2,
       "CoolDown": 8,
@@ -5040,6 +5269,7 @@
     },
     {
       "ID": 170093,
+      "SkillName": "독 토템",
       "SkillType": 6,
       "SkillLevel": 3,
       "CoolDown": 8,
@@ -5062,6 +5292,7 @@
     },
     {
       "ID": 910033,
+      "SkillName": "해골 사신 해골궁수 소환",
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 8,
@@ -5084,6 +5315,7 @@
     },
     {
       "ID": 990111,
+      "SkillName": "독 노바",
       "SkillType": 3,
       "SkillLevel": 3,
       "CoolDown": 5,
@@ -5106,6 +5338,7 @@
     },
     {
       "ID": 140101,
+      "SkillName": "망자의 땅",
       "SkillType": 4,
       "SkillLevel": 1,
       "CoolDown": 5,
@@ -5128,6 +5361,7 @@
     },
     {
       "ID": 140102,
+      "SkillName": "망자의 땅",
       "SkillType": 4,
       "SkillLevel": 2,
       "CoolDown": 5,
@@ -5150,6 +5384,7 @@
     },
     {
       "ID": 140103,
+      "SkillName": "망자의 땅",
       "SkillType": 4,
       "SkillLevel": 3,
       "CoolDown": 5,
@@ -5172,6 +5407,7 @@
     },
     {
       "ID": 150031,
+      "SkillName": "태극진",
       "SkillType": 4,
       "SkillLevel": 1,
       "CoolDown": 5,
@@ -5194,6 +5430,7 @@
     },
     {
       "ID": 150032,
+      "SkillName": "태극진",
       "SkillType": 4,
       "SkillLevel": 2,
       "CoolDown": 5,
@@ -5216,6 +5453,7 @@
     },
     {
       "ID": 150033,
+      "SkillName": "태극진",
       "SkillType": 4,
       "SkillLevel": 3,
       "CoolDown": 5,
@@ -5238,6 +5476,7 @@
     },
     {
       "ID": 150081,
+      "SkillName": "뇌전 태극진",
       "SkillType": 4,
       "SkillLevel": 1,
       "CoolDown": 5,
@@ -5260,6 +5499,7 @@
     },
     {
       "ID": 150082,
+      "SkillName": "뇌전 태극진",
       "SkillType": 4,
       "SkillLevel": 2,
       "CoolDown": 5,
@@ -5282,6 +5522,7 @@
     },
     {
       "ID": 150083,
+      "SkillName": "뇌전 태극진",
       "SkillType": 4,
       "SkillLevel": 3,
       "CoolDown": 5,
@@ -5304,6 +5545,7 @@
     },
     {
       "ID": 160091,
+      "SkillName": "암살 영역",
       "SkillType": 4,
       "SkillLevel": 1,
       "CoolDown": 5,
@@ -5326,6 +5568,7 @@
     },
     {
       "ID": 160092,
+      "SkillName": "암살 영역",
       "SkillType": 4,
       "SkillLevel": 2,
       "CoolDown": 5,
@@ -5348,6 +5591,7 @@
     },
     {
       "ID": 160093,
+      "SkillName": "암살 영역",
       "SkillType": 4,
       "SkillLevel": 3,
       "CoolDown": 5,
@@ -5370,6 +5614,7 @@
     },
     {
       "ID": 170031,
+      "SkillName": "늪지대",
       "SkillType": 4,
       "SkillLevel": 1,
       "CoolDown": 5,
@@ -5392,6 +5637,7 @@
     },
     {
       "ID": 170032,
+      "SkillName": "늪지대",
       "SkillType": 4,
       "SkillLevel": 2,
       "CoolDown": 5,
@@ -5414,6 +5660,7 @@
     },
     {
       "ID": 170033,
+      "SkillName": "늪지대",
       "SkillType": 4,
       "SkillLevel": 3,
       "CoolDown": 5,
@@ -5436,6 +5683,7 @@
     },
     {
       "ID": 170101,
+      "SkillName": "공포 오라",
       "SkillType": 4,
       "SkillLevel": 1,
       "CoolDown": 5,
@@ -5458,6 +5706,7 @@
     },
     {
       "ID": 170102,
+      "SkillName": "공포 오라",
       "SkillType": 4,
       "SkillLevel": 2,
       "CoolDown": 5,
@@ -5480,6 +5729,7 @@
     },
     {
       "ID": 170103,
+      "SkillName": "공포 오라",
       "SkillType": 4,
       "SkillLevel": 3,
       "CoolDown": 5,
@@ -5502,6 +5752,7 @@
     },
     {
       "ID": 910043,
+      "SkillName": "예티 냉기 오오라",
       "SkillType": 4,
       "SkillLevel": 1,
       "CoolDown": 5,
@@ -5524,6 +5775,7 @@
     },
     {
       "ID": 910053,
+      "SkillName": "대악마 어둠의 영역",
       "SkillType": 4,
       "SkillLevel": 1,
       "CoolDown": 5,
@@ -5546,6 +5798,7 @@
     },
     {
       "ID": 990072,
+      "SkillName": "시체 골렘 주변오오라",
       "SkillType": 4,
       "SkillLevel": 2,
       "CoolDown": 5,
