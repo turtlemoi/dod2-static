@@ -669,8 +669,8 @@
       "Value2": 15,
       "Value3": 0,
       "Value4": 0.2,
-      "Value5": 20,
-      "Value6": 90,
+      "Value5": 60,
+      "Value6": 120,
       "SoundName": "Attack_spear_electric",
       "PrefabName": "Homing_sword",
       "HitFXName": "FX_Hit_Lightning"
@@ -694,8 +694,8 @@
       "Value2": 15,
       "Value3": 0,
       "Value4": 0.2,
-      "Value5": 20,
-      "Value6": 90,
+      "Value5": 60,
+      "Value6": 120,
       "SoundName": "Attack_spear_electric",
       "PrefabName": "Homing_sword",
       "HitFXName": "FX_Hit_Lightning"
@@ -719,8 +719,8 @@
       "Value2": 15,
       "Value3": 0,
       "Value4": 0.2,
-      "Value5": 20,
-      "Value6": 90,
+      "Value5": 60,
+      "Value6": 120,
       "SoundName": "Attack_spear_electric",
       "PrefabName": "Homing_sword",
       "HitFXName": "FX_Hit_Lightning"
