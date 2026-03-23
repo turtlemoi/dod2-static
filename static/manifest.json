@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-23T12:36:20.146Z",
+  "updatedAt": "2026-03-23T12:57:51.461Z",
   "sheets": [
     {
       "name": "Common",
@@ -21,13 +21,13 @@
     },
     {
       "name": "Creature",
-      "version": 49,
+      "version": 50,
       "hash": "a7fc2621936f0a39c6b1273852b9ee7078dff138e2f706f0d9b0e6c509b3e75a",
       "url": "/static/Creature.json"
     },
     {
       "name": "FloorData",
-      "version": 52,
+      "version": 53,
       "hash": "cdc976f591012cec00768aed1938d02e72909a547d14b7ecb3d0104853ef9700",
       "url": "/static/FloorData.json"
     },
