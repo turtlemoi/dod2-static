@@ -520,7 +520,7 @@
       "Value3": 0,
       "Value4": 0.5,
       "Value5": 10,
-      "Value6": "",
+      "Value6": 180,
       "SoundName": "Attack_sword_fire",
       "PrefabName": "Rotation_sword_fire",
       "HitFXName": "FX_Hit_Fire"
@@ -545,7 +545,7 @@
       "Value3": 0,
       "Value4": 0.5,
       "Value5": 10,
-      "Value6": "",
+      "Value6": 180,
       "SoundName": "Attack_sword_fire",
       "PrefabName": "Rotation_sword_fire",
       "HitFXName": "FX_Hit_Fire"
@@ -570,7 +570,7 @@
       "Value3": 0,
       "Value4": 0.5,
       "Value5": 10,
-      "Value6": "",
+      "Value6": 180,
       "SoundName": "Attack_sword_fire",
       "PrefabName": "Rotation_sword_fire",
       "HitFXName": "FX_Hit_Fire"
