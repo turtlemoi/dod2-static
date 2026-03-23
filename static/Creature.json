@@ -33,7 +33,7 @@
       "Speed": 4,
       "Damage": 1,
       "HP": 40,
-      "Weight": 1.2,
+      "Weight": 5,
       "SkillID": "901111"
     },
     {
@@ -69,7 +69,7 @@
       "Speed": 4,
       "Damage": 1,
       "HP": 40,
-      "Weight": 1.2,
+      "Weight": 5,
       "SkillID": "901211"
     },
     {
@@ -105,7 +105,7 @@
       "Speed": 4,
       "Damage": 1,
       "HP": 40,
-      "Weight": 1.2,
+      "Weight": 5,
       "SkillID": "901311"
     },
     {
@@ -141,7 +141,7 @@
       "Speed": 4,
       "Damage": 1,
       "HP": 40,
-      "Weight": 1.2,
+      "Weight": 5,
       "SkillID": "901411"
     },
     {
@@ -177,7 +177,7 @@
       "Speed": 5,
       "Damage": 1,
       "HP": 600,
-      "Weight": 5,
+      "Weight": 99,
       "SkillID": "910011,910012"
     },
     {
@@ -189,7 +189,7 @@
       "Speed": 5,
       "Damage": 1,
       "HP": 1000,
-      "Weight": 5,
+      "Weight": 99,
       "SkillID": "910021,910022"
     },
     {
@@ -201,7 +201,7 @@
       "Speed": 5,
       "Damage": 1,
       "HP": 1400,
-      "Weight": 5,
+      "Weight": 99,
       "SkillID": "910031,910032,910033"
     },
     {
@@ -213,7 +213,7 @@
       "Speed": 5,
       "Damage": 1,
       "HP": 1800,
-      "Weight": 5,
+      "Weight": 99,
       "SkillID": "910041,910042,910043"
     },
     {
@@ -225,7 +225,7 @@
       "Speed": 5,
       "Damage": 1,
       "HP": 2200,
-      "Weight": 5,
+      "Weight": 99,
       "SkillID": "910051,910052,910053"
     },
     {
@@ -237,7 +237,7 @@
       "Speed": 7,
       "Damage": 1,
       "HP": 1,
-      "Weight": 1,
+      "Weight": 5,
       "SkillID": 990011
     },
     {
@@ -309,7 +309,7 @@
       "Speed": 6,
       "Damage": 1,
       "HP": 1,
-      "Weight": 1,
+      "Weight": 5,
       "SkillID": "990071,990072"
     },
     {
@@ -321,7 +321,7 @@
       "Speed": 6,
       "Damage": 1,
       "HP": 1,
-      "Weight": 1,
+      "Weight": 5,
       "SkillID": 990081
     },
     {
@@ -333,7 +333,7 @@
       "Speed": 0,
       "Damage": 1,
       "HP": 1,
-      "Weight": 1,
+      "Weight": 9999,
       "SkillID": 990091
     },
     {
@@ -345,7 +345,7 @@
       "Speed": 0,
       "Damage": 1,
       "HP": 1,
-      "Weight": 1,
+      "Weight": 9999,
       "SkillID": 990101
     },
     {
@@ -357,7 +357,7 @@
       "Speed": 0,
       "Damage": 1,
       "HP": 1,
-      "Weight": 1,
+      "Weight": 9999,
       "SkillID": "990111,990112"
     }
   ]
