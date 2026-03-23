@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-23T02:18:13.172Z",
+  "updatedAt": "2026-03-23T02:31:02.305Z",
   "sheets": [
     {
       "name": "Common",
@@ -21,8 +21,8 @@
     },
     {
       "name": "Creature",
-      "version": 47,
-      "hash": "40969936f39ea4a6074ccb1236a24a4dcc4f4250fa301c23025e01d288f91ab2",
+      "version": 48,
+      "hash": "a08043478a601a0ef17b771970e66912f8a0f82a63b75a99a2b5a93af508368e",
       "url": "/static/Creature.json"
     },
     {
