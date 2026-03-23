@@ -3,1600 +3,1600 @@
     {
       "ID": 1,
       "Speed": 7,
-      "Damage": 200,
-      "HP": 20000,
+      "Damage": 100,
+      "HP": 1000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 2,
       "Speed": 7,
-      "Damage": 210,
-      "HP": 22000,
+      "Damage": 110,
+      "HP": 1200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 3,
       "Speed": 7,
-      "Damage": 220,
-      "HP": 24050,
+      "Damage": 120,
+      "HP": 1400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 4,
       "Speed": 7,
-      "Damage": 230,
-      "HP": 26150,
+      "Damage": 130,
+      "HP": 1600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 5,
       "Speed": 7,
-      "Damage": 240,
-      "HP": 28300,
+      "Damage": 140,
+      "HP": 1800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 6,
       "Speed": 7,
-      "Damage": 250,
-      "HP": 30500,
+      "Damage": 150,
+      "HP": 2000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 7,
       "Speed": 7,
-      "Damage": 260,
-      "HP": 32750,
+      "Damage": 160,
+      "HP": 2200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 8,
       "Speed": 7,
-      "Damage": 270,
-      "HP": 35050,
+      "Damage": 170,
+      "HP": 2400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 9,
       "Speed": 7,
-      "Damage": 280,
-      "HP": 37400,
+      "Damage": 180,
+      "HP": 2600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 10,
       "Speed": 7,
-      "Damage": 290,
-      "HP": 39800,
+      "Damage": 190,
+      "HP": 2800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 11,
       "Speed": 7,
-      "Damage": 300,
-      "HP": 42250,
+      "Damage": 200,
+      "HP": 3000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 12,
       "Speed": 7,
-      "Damage": 310,
-      "HP": 44750,
+      "Damage": 210,
+      "HP": 3200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 13,
       "Speed": 7,
-      "Damage": 320,
-      "HP": 47300,
+      "Damage": 220,
+      "HP": 3400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 14,
       "Speed": 7,
-      "Damage": 330,
-      "HP": 49900,
+      "Damage": 230,
+      "HP": 3600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 15,
       "Speed": 7,
-      "Damage": 340,
-      "HP": 52550,
+      "Damage": 240,
+      "HP": 3800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 16,
       "Speed": 7,
-      "Damage": 350,
-      "HP": 55250,
+      "Damage": 250,
+      "HP": 4000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 17,
       "Speed": 7,
-      "Damage": 360,
-      "HP": 58000,
+      "Damage": 260,
+      "HP": 4200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 18,
       "Speed": 7,
-      "Damage": 370,
-      "HP": 60800,
+      "Damage": 270,
+      "HP": 4400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 19,
       "Speed": 7,
-      "Damage": 380,
-      "HP": 63650,
+      "Damage": 280,
+      "HP": 4600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 20,
       "Speed": 7,
-      "Damage": 390,
-      "HP": 66550,
+      "Damage": 290,
+      "HP": 4800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 21,
       "Speed": 7,
-      "Damage": 400,
-      "HP": 69500,
+      "Damage": 300,
+      "HP": 5000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 22,
       "Speed": 7,
-      "Damage": 410,
-      "HP": 72500,
+      "Damage": 310,
+      "HP": 5200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 23,
       "Speed": 7,
-      "Damage": 420,
-      "HP": 75550,
+      "Damage": 320,
+      "HP": 5400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 24,
       "Speed": 7,
-      "Damage": 430,
-      "HP": 78650,
+      "Damage": 330,
+      "HP": 5600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 25,
       "Speed": 7,
-      "Damage": 440,
-      "HP": 81800,
+      "Damage": 340,
+      "HP": 5800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 26,
       "Speed": 7,
-      "Damage": 450,
-      "HP": 85000,
+      "Damage": 350,
+      "HP": 6000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 27,
       "Speed": 7,
-      "Damage": 460,
-      "HP": 88250,
+      "Damage": 360,
+      "HP": 6200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 28,
       "Speed": 7,
-      "Damage": 470,
-      "HP": 91550,
+      "Damage": 370,
+      "HP": 6400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 29,
       "Speed": 7,
-      "Damage": 480,
-      "HP": 94900,
+      "Damage": 380,
+      "HP": 6600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 30,
       "Speed": 7,
-      "Damage": 490,
-      "HP": 98300,
+      "Damage": 390,
+      "HP": 6800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 31,
       "Speed": 7,
-      "Damage": 500,
-      "HP": 101750,
+      "Damage": 400,
+      "HP": 7000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 32,
       "Speed": 7,
-      "Damage": 510,
-      "HP": 105250,
+      "Damage": 410,
+      "HP": 7200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 33,
       "Speed": 7,
-      "Damage": 520,
-      "HP": 108800,
+      "Damage": 420,
+      "HP": 7400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 34,
       "Speed": 7,
-      "Damage": 530,
-      "HP": 112400,
+      "Damage": 430,
+      "HP": 7600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 35,
       "Speed": 7,
-      "Damage": 540,
-      "HP": 116050,
+      "Damage": 440,
+      "HP": 7800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 36,
       "Speed": 7,
-      "Damage": 550,
-      "HP": 119750,
+      "Damage": 450,
+      "HP": 8000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 37,
       "Speed": 7,
-      "Damage": 560,
-      "HP": 123500,
+      "Damage": 460,
+      "HP": 8200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 38,
       "Speed": 7,
-      "Damage": 570,
-      "HP": 127300,
+      "Damage": 470,
+      "HP": 8400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 39,
       "Speed": 7,
-      "Damage": 580,
-      "HP": 131150,
+      "Damage": 480,
+      "HP": 8600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 40,
       "Speed": 7,
-      "Damage": 590,
-      "HP": 135050,
+      "Damage": 490,
+      "HP": 8800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 41,
       "Speed": 7,
-      "Damage": 600,
-      "HP": 139000,
+      "Damage": 500,
+      "HP": 9000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 42,
       "Speed": 7,
-      "Damage": 610,
-      "HP": 143000,
+      "Damage": 510,
+      "HP": 9200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 43,
       "Speed": 7,
-      "Damage": 620,
-      "HP": 147050,
+      "Damage": 520,
+      "HP": 9400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 44,
       "Speed": 7,
-      "Damage": 630,
-      "HP": 151150,
+      "Damage": 530,
+      "HP": 9600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 45,
       "Speed": 7,
-      "Damage": 640,
-      "HP": 155300,
+      "Damage": 540,
+      "HP": 9800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 46,
       "Speed": 7,
-      "Damage": 650,
-      "HP": 159500,
+      "Damage": 550,
+      "HP": 10000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 47,
       "Speed": 7,
-      "Damage": 660,
-      "HP": 163750,
+      "Damage": 560,
+      "HP": 10200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 48,
       "Speed": 7,
-      "Damage": 670,
-      "HP": 168050,
+      "Damage": 570,
+      "HP": 10400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 49,
       "Speed": 7,
-      "Damage": 680,
-      "HP": 172400,
+      "Damage": 580,
+      "HP": 10600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 50,
       "Speed": 7,
-      "Damage": 690,
-      "HP": 176800,
+      "Damage": 590,
+      "HP": 10800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 51,
       "Speed": 7,
-      "Damage": 700,
-      "HP": 181250,
+      "Damage": 600,
+      "HP": 11000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 52,
       "Speed": 7,
-      "Damage": 710,
-      "HP": 185750,
+      "Damage": 610,
+      "HP": 11200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 53,
       "Speed": 7,
-      "Damage": 720,
-      "HP": 190300,
+      "Damage": 620,
+      "HP": 11400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 54,
       "Speed": 7,
-      "Damage": 730,
-      "HP": 194900,
+      "Damage": 630,
+      "HP": 11600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 55,
       "Speed": 7,
-      "Damage": 740,
-      "HP": 199550,
+      "Damage": 640,
+      "HP": 11800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 56,
       "Speed": 7,
-      "Damage": 750,
-      "HP": 204250,
+      "Damage": 650,
+      "HP": 12000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 57,
       "Speed": 7,
-      "Damage": 760,
-      "HP": 209000,
+      "Damage": 660,
+      "HP": 12200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 58,
       "Speed": 7,
-      "Damage": 770,
-      "HP": 213800,
+      "Damage": 670,
+      "HP": 12400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 59,
       "Speed": 7,
-      "Damage": 780,
-      "HP": 218650,
+      "Damage": 680,
+      "HP": 12600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 60,
       "Speed": 7,
-      "Damage": 790,
-      "HP": 223550,
+      "Damage": 690,
+      "HP": 12800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 61,
       "Speed": 7,
-      "Damage": 800,
-      "HP": 228500,
+      "Damage": 700,
+      "HP": 13000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 62,
       "Speed": 7,
-      "Damage": 810,
-      "HP": 233500,
+      "Damage": 710,
+      "HP": 13200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 63,
       "Speed": 7,
-      "Damage": 820,
-      "HP": 238550,
+      "Damage": 720,
+      "HP": 13400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 64,
       "Speed": 7,
-      "Damage": 830,
-      "HP": 243650,
+      "Damage": 730,
+      "HP": 13600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 65,
       "Speed": 7,
-      "Damage": 840,
-      "HP": 248800,
+      "Damage": 740,
+      "HP": 13800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 66,
       "Speed": 7,
-      "Damage": 850,
-      "HP": 254000,
+      "Damage": 750,
+      "HP": 14000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 67,
       "Speed": 7,
-      "Damage": 860,
-      "HP": 259250,
+      "Damage": 760,
+      "HP": 14200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 68,
       "Speed": 7,
-      "Damage": 870,
-      "HP": 264550,
+      "Damage": 770,
+      "HP": 14400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 69,
       "Speed": 7,
-      "Damage": 880,
-      "HP": 269900,
+      "Damage": 780,
+      "HP": 14600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 70,
       "Speed": 7,
-      "Damage": 890,
-      "HP": 275300,
+      "Damage": 790,
+      "HP": 14800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 71,
       "Speed": 7,
-      "Damage": 900,
-      "HP": 280750,
+      "Damage": 800,
+      "HP": 15000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 72,
       "Speed": 7,
-      "Damage": 910,
-      "HP": 286250,
+      "Damage": 810,
+      "HP": 15200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 73,
       "Speed": 7,
-      "Damage": 920,
-      "HP": 291800,
+      "Damage": 820,
+      "HP": 15400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 74,
       "Speed": 7,
-      "Damage": 930,
-      "HP": 297400,
+      "Damage": 830,
+      "HP": 15600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 75,
       "Speed": 7,
-      "Damage": 940,
-      "HP": 303050,
+      "Damage": 840,
+      "HP": 15800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 76,
       "Speed": 7,
-      "Damage": 950,
-      "HP": 308750,
+      "Damage": 850,
+      "HP": 16000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 77,
       "Speed": 7,
-      "Damage": 960,
-      "HP": 314500,
+      "Damage": 860,
+      "HP": 16200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 78,
       "Speed": 7,
-      "Damage": 970,
-      "HP": 320300,
+      "Damage": 870,
+      "HP": 16400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 79,
       "Speed": 7,
-      "Damage": 980,
-      "HP": 326150,
+      "Damage": 880,
+      "HP": 16600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 80,
       "Speed": 7,
-      "Damage": 990,
-      "HP": 332050,
+      "Damage": 890,
+      "HP": 16800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 81,
       "Speed": 7,
-      "Damage": 1000,
-      "HP": 338000,
+      "Damage": 900,
+      "HP": 17000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 82,
       "Speed": 7,
-      "Damage": 1010,
-      "HP": 344000,
+      "Damage": 910,
+      "HP": 17200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 83,
       "Speed": 7,
-      "Damage": 1020,
-      "HP": 350050,
+      "Damage": 920,
+      "HP": 17400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 84,
       "Speed": 7,
-      "Damage": 1030,
-      "HP": 356150,
+      "Damage": 930,
+      "HP": 17600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 85,
       "Speed": 7,
-      "Damage": 1040,
-      "HP": 362300,
+      "Damage": 940,
+      "HP": 17800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 86,
       "Speed": 7,
-      "Damage": 1050,
-      "HP": 368500,
+      "Damage": 950,
+      "HP": 18000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 87,
       "Speed": 7,
-      "Damage": 1060,
-      "HP": 374750,
+      "Damage": 960,
+      "HP": 18200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 88,
       "Speed": 7,
-      "Damage": 1070,
-      "HP": 381050,
+      "Damage": 970,
+      "HP": 18400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 89,
       "Speed": 7,
-      "Damage": 1080,
-      "HP": 387400,
+      "Damage": 980,
+      "HP": 18600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 90,
       "Speed": 7,
-      "Damage": 1090,
-      "HP": 393800,
+      "Damage": 990,
+      "HP": 18800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 91,
       "Speed": 7,
-      "Damage": 1100,
-      "HP": 400250,
+      "Damage": 1000,
+      "HP": 19000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 92,
       "Speed": 7,
-      "Damage": 1110,
-      "HP": 406750,
+      "Damage": 1010,
+      "HP": 19200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 93,
       "Speed": 7,
-      "Damage": 1120,
-      "HP": 413300,
+      "Damage": 1020,
+      "HP": 19400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 94,
       "Speed": 7,
-      "Damage": 1130,
-      "HP": 419900,
+      "Damage": 1030,
+      "HP": 19600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 95,
       "Speed": 7,
-      "Damage": 1140,
-      "HP": 426550,
+      "Damage": 1040,
+      "HP": 19800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 96,
       "Speed": 7,
-      "Damage": 1150,
-      "HP": 433250,
+      "Damage": 1050,
+      "HP": 20000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 97,
       "Speed": 7,
-      "Damage": 1160,
-      "HP": 440000,
+      "Damage": 1060,
+      "HP": 20200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 98,
       "Speed": 7,
-      "Damage": 1170,
-      "HP": 446800,
+      "Damage": 1070,
+      "HP": 20400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 99,
       "Speed": 7,
-      "Damage": 1180,
-      "HP": 453650,
+      "Damage": 1080,
+      "HP": 20600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 100,
       "Speed": 7,
-      "Damage": 1190,
-      "HP": 460550,
+      "Damage": 1090,
+      "HP": 20800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 101,
       "Speed": 7,
-      "Damage": 1200,
-      "HP": 467500,
+      "Damage": 1100,
+      "HP": 21000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 102,
       "Speed": 7,
-      "Damage": 1210,
-      "HP": 474500,
+      "Damage": 1110,
+      "HP": 21200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 103,
       "Speed": 7,
-      "Damage": 1220,
-      "HP": 481550,
+      "Damage": 1120,
+      "HP": 21400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 104,
       "Speed": 7,
-      "Damage": 1230,
-      "HP": 488650,
+      "Damage": 1130,
+      "HP": 21600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 105,
       "Speed": 7,
-      "Damage": 1240,
-      "HP": 495800,
+      "Damage": 1140,
+      "HP": 21800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 106,
       "Speed": 7,
-      "Damage": 1250,
-      "HP": 503000,
+      "Damage": 1150,
+      "HP": 22000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 107,
       "Speed": 7,
-      "Damage": 1260,
-      "HP": 510250,
+      "Damage": 1160,
+      "HP": 22200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 108,
       "Speed": 7,
-      "Damage": 1270,
-      "HP": 517550,
+      "Damage": 1170,
+      "HP": 22400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 109,
       "Speed": 7,
-      "Damage": 1280,
-      "HP": 524900,
+      "Damage": 1180,
+      "HP": 22600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 110,
       "Speed": 7,
-      "Damage": 1290,
-      "HP": 532300,
+      "Damage": 1190,
+      "HP": 22800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 111,
       "Speed": 7,
-      "Damage": 1300,
-      "HP": 539750,
+      "Damage": 1200,
+      "HP": 23000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 112,
       "Speed": 7,
-      "Damage": 1310,
-      "HP": 547250,
+      "Damage": 1210,
+      "HP": 23200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 113,
       "Speed": 7,
-      "Damage": 1320,
-      "HP": 554800,
+      "Damage": 1220,
+      "HP": 23400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 114,
       "Speed": 7,
-      "Damage": 1330,
-      "HP": 562400,
+      "Damage": 1230,
+      "HP": 23600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 115,
       "Speed": 7,
-      "Damage": 1340,
-      "HP": 570050,
+      "Damage": 1240,
+      "HP": 23800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 116,
       "Speed": 7,
-      "Damage": 1350,
-      "HP": 577750,
+      "Damage": 1250,
+      "HP": 24000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 117,
       "Speed": 7,
-      "Damage": 1360,
-      "HP": 585500,
+      "Damage": 1260,
+      "HP": 24200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 118,
       "Speed": 7,
-      "Damage": 1370,
-      "HP": 593300,
+      "Damage": 1270,
+      "HP": 24400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 119,
       "Speed": 7,
-      "Damage": 1380,
-      "HP": 601150,
+      "Damage": 1280,
+      "HP": 24600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 120,
       "Speed": 7,
-      "Damage": 1390,
-      "HP": 609050,
+      "Damage": 1290,
+      "HP": 24800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 121,
       "Speed": 7,
-      "Damage": 1400,
-      "HP": 617000,
+      "Damage": 1300,
+      "HP": 25000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 122,
       "Speed": 7,
-      "Damage": 1410,
-      "HP": 625000,
+      "Damage": 1310,
+      "HP": 25200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 123,
       "Speed": 7,
-      "Damage": 1420,
-      "HP": 633050,
+      "Damage": 1320,
+      "HP": 25400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 124,
       "Speed": 7,
-      "Damage": 1430,
-      "HP": 641150,
+      "Damage": 1330,
+      "HP": 25600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 125,
       "Speed": 7,
-      "Damage": 1440,
-      "HP": 649300,
+      "Damage": 1340,
+      "HP": 25800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 126,
       "Speed": 7,
-      "Damage": 1450,
-      "HP": 657500,
+      "Damage": 1350,
+      "HP": 26000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 127,
       "Speed": 7,
-      "Damage": 1460,
-      "HP": 665750,
+      "Damage": 1360,
+      "HP": 26200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 128,
       "Speed": 7,
-      "Damage": 1470,
-      "HP": 674050,
+      "Damage": 1370,
+      "HP": 26400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 129,
       "Speed": 7,
-      "Damage": 1480,
-      "HP": 682400,
+      "Damage": 1380,
+      "HP": 26600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 130,
       "Speed": 7,
-      "Damage": 1490,
-      "HP": 690800,
+      "Damage": 1390,
+      "HP": 26800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 131,
       "Speed": 7,
-      "Damage": 1500,
-      "HP": 699250,
+      "Damage": 1400,
+      "HP": 27000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 132,
       "Speed": 7,
-      "Damage": 1510,
-      "HP": 707750,
+      "Damage": 1410,
+      "HP": 27200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 133,
       "Speed": 7,
-      "Damage": 1520,
-      "HP": 716300,
+      "Damage": 1420,
+      "HP": 27400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 134,
       "Speed": 7,
-      "Damage": 1530,
-      "HP": 724900,
+      "Damage": 1430,
+      "HP": 27600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 135,
       "Speed": 7,
-      "Damage": 1540,
-      "HP": 733550,
+      "Damage": 1440,
+      "HP": 27800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 136,
       "Speed": 7,
-      "Damage": 1550,
-      "HP": 742250,
+      "Damage": 1450,
+      "HP": 28000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 137,
       "Speed": 7,
-      "Damage": 1560,
-      "HP": 751000,
+      "Damage": 1460,
+      "HP": 28200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 138,
       "Speed": 7,
-      "Damage": 1570,
-      "HP": 759800,
+      "Damage": 1470,
+      "HP": 28400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 139,
       "Speed": 7,
-      "Damage": 1580,
-      "HP": 768650,
+      "Damage": 1480,
+      "HP": 28600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 140,
       "Speed": 7,
-      "Damage": 1590,
-      "HP": 777550,
+      "Damage": 1490,
+      "HP": 28800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 141,
       "Speed": 7,
-      "Damage": 1600,
-      "HP": 786500,
+      "Damage": 1500,
+      "HP": 29000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 142,
       "Speed": 7,
-      "Damage": 1610,
-      "HP": 795500,
+      "Damage": 1510,
+      "HP": 29200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 143,
       "Speed": 7,
-      "Damage": 1620,
-      "HP": 804550,
+      "Damage": 1520,
+      "HP": 29400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 144,
       "Speed": 7,
-      "Damage": 1630,
-      "HP": 813650,
+      "Damage": 1530,
+      "HP": 29600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 145,
       "Speed": 7,
-      "Damage": 1640,
-      "HP": 822800,
+      "Damage": 1540,
+      "HP": 29800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 146,
       "Speed": 7,
-      "Damage": 1650,
-      "HP": 832000,
+      "Damage": 1550,
+      "HP": 30000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 147,
       "Speed": 7,
-      "Damage": 1660,
-      "HP": 841250,
+      "Damage": 1560,
+      "HP": 30200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 148,
       "Speed": 7,
-      "Damage": 1670,
-      "HP": 850550,
+      "Damage": 1570,
+      "HP": 30400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 149,
       "Speed": 7,
-      "Damage": 1680,
-      "HP": 859900,
+      "Damage": 1580,
+      "HP": 30600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 150,
       "Speed": 7,
-      "Damage": 1690,
-      "HP": 869300,
+      "Damage": 1590,
+      "HP": 30800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 151,
       "Speed": 7,
-      "Damage": 1700,
-      "HP": 878750,
+      "Damage": 1600,
+      "HP": 31000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 152,
       "Speed": 7,
-      "Damage": 1710,
-      "HP": 888250,
+      "Damage": 1610,
+      "HP": 31200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 153,
       "Speed": 7,
-      "Damage": 1720,
-      "HP": 897800,
+      "Damage": 1620,
+      "HP": 31400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 154,
       "Speed": 7,
-      "Damage": 1730,
-      "HP": 907400,
+      "Damage": 1630,
+      "HP": 31600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 155,
       "Speed": 7,
-      "Damage": 1740,
-      "HP": 917050,
+      "Damage": 1640,
+      "HP": 31800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 156,
       "Speed": 7,
-      "Damage": 1750,
-      "HP": 926750,
+      "Damage": 1650,
+      "HP": 32000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 157,
       "Speed": 7,
-      "Damage": 1760,
-      "HP": 936500,
+      "Damage": 1660,
+      "HP": 32200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 158,
       "Speed": 7,
-      "Damage": 1770,
-      "HP": 946300,
+      "Damage": 1670,
+      "HP": 32400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 159,
       "Speed": 7,
-      "Damage": 1780,
-      "HP": 956150,
+      "Damage": 1680,
+      "HP": 32600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 160,
       "Speed": 7,
-      "Damage": 1790,
-      "HP": 966050,
+      "Damage": 1690,
+      "HP": 32800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 161,
       "Speed": 7,
-      "Damage": 1800,
-      "HP": 976000,
+      "Damage": 1700,
+      "HP": 33000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 162,
       "Speed": 7,
-      "Damage": 1810,
-      "HP": 986000,
+      "Damage": 1710,
+      "HP": 33200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 163,
       "Speed": 7,
-      "Damage": 1820,
-      "HP": 996050,
+      "Damage": 1720,
+      "HP": 33400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 164,
       "Speed": 7,
-      "Damage": 1830,
-      "HP": 1006150,
+      "Damage": 1730,
+      "HP": 33600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 165,
       "Speed": 7,
-      "Damage": 1840,
-      "HP": 1016300,
+      "Damage": 1740,
+      "HP": 33800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 166,
       "Speed": 7,
-      "Damage": 1850,
-      "HP": 1026500,
+      "Damage": 1750,
+      "HP": 34000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 167,
       "Speed": 7,
-      "Damage": 1860,
-      "HP": 1036750,
+      "Damage": 1760,
+      "HP": 34200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 168,
       "Speed": 7,
-      "Damage": 1870,
-      "HP": 1047050,
+      "Damage": 1770,
+      "HP": 34400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 169,
       "Speed": 7,
-      "Damage": 1880,
-      "HP": 1057400,
+      "Damage": 1780,
+      "HP": 34600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 170,
       "Speed": 7,
-      "Damage": 1890,
-      "HP": 1067800,
+      "Damage": 1790,
+      "HP": 34800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 171,
       "Speed": 7,
-      "Damage": 1900,
-      "HP": 1078250,
+      "Damage": 1800,
+      "HP": 35000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 172,
       "Speed": 7,
-      "Damage": 1910,
-      "HP": 1088750,
+      "Damage": 1810,
+      "HP": 35200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 173,
       "Speed": 7,
-      "Damage": 1920,
-      "HP": 1099300,
+      "Damage": 1820,
+      "HP": 35400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 174,
       "Speed": 7,
-      "Damage": 1930,
-      "HP": 1109900,
+      "Damage": 1830,
+      "HP": 35600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 175,
       "Speed": 7,
-      "Damage": 1940,
-      "HP": 1120550,
+      "Damage": 1840,
+      "HP": 35800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 176,
       "Speed": 7,
-      "Damage": 1950,
-      "HP": 1131250,
+      "Damage": 1850,
+      "HP": 36000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 177,
       "Speed": 7,
-      "Damage": 1960,
-      "HP": 1142000,
+      "Damage": 1860,
+      "HP": 36200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 178,
       "Speed": 7,
-      "Damage": 1970,
-      "HP": 1152800,
+      "Damage": 1870,
+      "HP": 36400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 179,
       "Speed": 7,
-      "Damage": 1980,
-      "HP": 1163650,
+      "Damage": 1880,
+      "HP": 36600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 180,
       "Speed": 7,
-      "Damage": 1990,
-      "HP": 1174550,
+      "Damage": 1890,
+      "HP": 36800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 181,
       "Speed": 7,
-      "Damage": 2000,
-      "HP": 1185500,
+      "Damage": 1900,
+      "HP": 37000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 182,
       "Speed": 7,
-      "Damage": 2010,
-      "HP": 1196500,
+      "Damage": 1910,
+      "HP": 37200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 183,
       "Speed": 7,
-      "Damage": 2020,
-      "HP": 1207550,
+      "Damage": 1920,
+      "HP": 37400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 184,
       "Speed": 7,
-      "Damage": 2030,
-      "HP": 1218650,
+      "Damage": 1930,
+      "HP": 37600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 185,
       "Speed": 7,
-      "Damage": 2040,
-      "HP": 1229800,
+      "Damage": 1940,
+      "HP": 37800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 186,
       "Speed": 7,
-      "Damage": 2050,
-      "HP": 1241000,
+      "Damage": 1950,
+      "HP": 38000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 187,
       "Speed": 7,
-      "Damage": 2060,
-      "HP": 1252250,
+      "Damage": 1960,
+      "HP": 38200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 188,
       "Speed": 7,
-      "Damage": 2070,
-      "HP": 1263550,
+      "Damage": 1970,
+      "HP": 38400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 189,
       "Speed": 7,
-      "Damage": 2080,
-      "HP": 1274900,
+      "Damage": 1980,
+      "HP": 38600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 190,
       "Speed": 7,
-      "Damage": 2090,
-      "HP": 1286300,
+      "Damage": 1990,
+      "HP": 38800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 191,
       "Speed": 7,
-      "Damage": 2100,
-      "HP": 1297750,
+      "Damage": 2000,
+      "HP": 39000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 192,
       "Speed": 7,
-      "Damage": 2110,
-      "HP": 1309250,
+      "Damage": 2010,
+      "HP": 39200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 193,
       "Speed": 7,
-      "Damage": 2120,
-      "HP": 1320800,
+      "Damage": 2020,
+      "HP": 39400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 194,
       "Speed": 7,
-      "Damage": 2130,
-      "HP": 1332400,
+      "Damage": 2030,
+      "HP": 39600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 195,
       "Speed": 7,
-      "Damage": 2140,
-      "HP": 1344050,
+      "Damage": 2040,
+      "HP": 39800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 196,
       "Speed": 7,
-      "Damage": 2150,
-      "HP": 1355750,
+      "Damage": 2050,
+      "HP": 40000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 197,
       "Speed": 7,
-      "Damage": 2160,
-      "HP": 1367500,
+      "Damage": 2060,
+      "HP": 40200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 198,
       "Speed": 7,
-      "Damage": 2170,
-      "HP": 1379300,
+      "Damage": 2070,
+      "HP": 40400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 199,
       "Speed": 7,
-      "Damage": 2180,
-      "HP": 1391150,
+      "Damage": 2080,
+      "HP": 40600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
     {
       "ID": 200,
       "Speed": 7,
-      "Damage": 2190,
-      "HP": 1400000,
+      "Damage": 2090,
+      "HP": 40800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -1604,7 +1604,7 @@
       "ID": 201,
       "Speed": 7,
       "Damage": 2200,
-      "HP": 1405000,
+      "HP": 41000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -1612,7 +1612,7 @@
       "ID": 202,
       "Speed": 7,
       "Damage": 2205,
-      "HP": 1410000,
+      "HP": 41200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -1620,7 +1620,7 @@
       "ID": 203,
       "Speed": 7,
       "Damage": 2210,
-      "HP": 1415000,
+      "HP": 41400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -1628,7 +1628,7 @@
       "ID": 204,
       "Speed": 7,
       "Damage": 2215,
-      "HP": 1420000,
+      "HP": 41600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -1636,7 +1636,7 @@
       "ID": 205,
       "Speed": 7,
       "Damage": 2220,
-      "HP": 1425000,
+      "HP": 41800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -1644,7 +1644,7 @@
       "ID": 206,
       "Speed": 7,
       "Damage": 2225,
-      "HP": 1430000,
+      "HP": 42000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -1652,7 +1652,7 @@
       "ID": 207,
       "Speed": 7,
       "Damage": 2230,
-      "HP": 1435000,
+      "HP": 42200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -1660,7 +1660,7 @@
       "ID": 208,
       "Speed": 7,
       "Damage": 2235,
-      "HP": 1440000,
+      "HP": 42400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -1668,7 +1668,7 @@
       "ID": 209,
       "Speed": 7,
       "Damage": 2240,
-      "HP": 1445000,
+      "HP": 42600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -1676,7 +1676,7 @@
       "ID": 210,
       "Speed": 7,
       "Damage": 2245,
-      "HP": 1450000,
+      "HP": 42800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -1684,7 +1684,7 @@
       "ID": 211,
       "Speed": 7,
       "Damage": 2250,
-      "HP": 1455000,
+      "HP": 43000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -1692,7 +1692,7 @@
       "ID": 212,
       "Speed": 7,
       "Damage": 2255,
-      "HP": 1460000,
+      "HP": 43200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -1700,7 +1700,7 @@
       "ID": 213,
       "Speed": 7,
       "Damage": 2260,
-      "HP": 1465000,
+      "HP": 43400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -1708,7 +1708,7 @@
       "ID": 214,
       "Speed": 7,
       "Damage": 2265,
-      "HP": 1470000,
+      "HP": 43600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -1716,7 +1716,7 @@
       "ID": 215,
       "Speed": 7,
       "Damage": 2270,
-      "HP": 1475000,
+      "HP": 43800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -1724,7 +1724,7 @@
       "ID": 216,
       "Speed": 7,
       "Damage": 2275,
-      "HP": 1480000,
+      "HP": 44000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -1732,7 +1732,7 @@
       "ID": 217,
       "Speed": 7,
       "Damage": 2280,
-      "HP": 1485000,
+      "HP": 44200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -1740,7 +1740,7 @@
       "ID": 218,
       "Speed": 7,
       "Damage": 2285,
-      "HP": 1490000,
+      "HP": 44400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -1748,7 +1748,7 @@
       "ID": 219,
       "Speed": 7,
       "Damage": 2290,
-      "HP": 1495000,
+      "HP": 44600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -1756,7 +1756,7 @@
       "ID": 220,
       "Speed": 7,
       "Damage": 2295,
-      "HP": 1500000,
+      "HP": 44800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -1764,7 +1764,7 @@
       "ID": 221,
       "Speed": 7,
       "Damage": 2300,
-      "HP": 1505000,
+      "HP": 45000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -1772,7 +1772,7 @@
       "ID": 222,
       "Speed": 7,
       "Damage": 2305,
-      "HP": 1510000,
+      "HP": 45200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -1780,7 +1780,7 @@
       "ID": 223,
       "Speed": 7,
       "Damage": 2310,
-      "HP": 1515000,
+      "HP": 45400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -1788,7 +1788,7 @@
       "ID": 224,
       "Speed": 7,
       "Damage": 2315,
-      "HP": 1520000,
+      "HP": 45600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -1796,7 +1796,7 @@
       "ID": 225,
       "Speed": 7,
       "Damage": 2320,
-      "HP": 1525000,
+      "HP": 45800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -1804,7 +1804,7 @@
       "ID": 226,
       "Speed": 7,
       "Damage": 2325,
-      "HP": 1530000,
+      "HP": 46000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -1812,7 +1812,7 @@
       "ID": 227,
       "Speed": 7,
       "Damage": 2330,
-      "HP": 1535000,
+      "HP": 46200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -1820,7 +1820,7 @@
       "ID": 228,
       "Speed": 7,
       "Damage": 2335,
-      "HP": 1540000,
+      "HP": 46400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -1828,7 +1828,7 @@
       "ID": 229,
       "Speed": 7,
       "Damage": 2340,
-      "HP": 1545000,
+      "HP": 46600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -1836,7 +1836,7 @@
       "ID": 230,
       "Speed": 7,
       "Damage": 2345,
-      "HP": 1550000,
+      "HP": 46800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -1844,7 +1844,7 @@
       "ID": 231,
       "Speed": 7,
       "Damage": 2350,
-      "HP": 1555000,
+      "HP": 47000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -1852,7 +1852,7 @@
       "ID": 232,
       "Speed": 7,
       "Damage": 2355,
-      "HP": 1560000,
+      "HP": 47200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -1860,7 +1860,7 @@
       "ID": 233,
       "Speed": 7,
       "Damage": 2360,
-      "HP": 1565000,
+      "HP": 47400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -1868,7 +1868,7 @@
       "ID": 234,
       "Speed": 7,
       "Damage": 2365,
-      "HP": 1570000,
+      "HP": 47600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -1876,7 +1876,7 @@
       "ID": 235,
       "Speed": 7,
       "Damage": 2370,
-      "HP": 1575000,
+      "HP": 47800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -1884,7 +1884,7 @@
       "ID": 236,
       "Speed": 7,
       "Damage": 2375,
-      "HP": 1580000,
+      "HP": 48000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -1892,7 +1892,7 @@
       "ID": 237,
       "Speed": 7,
       "Damage": 2380,
-      "HP": 1585000,
+      "HP": 48200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -1900,7 +1900,7 @@
       "ID": 238,
       "Speed": 7,
       "Damage": 2385,
-      "HP": 1590000,
+      "HP": 48400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -1908,7 +1908,7 @@
       "ID": 239,
       "Speed": 7,
       "Damage": 2390,
-      "HP": 1595000,
+      "HP": 48600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -1916,7 +1916,7 @@
       "ID": 240,
       "Speed": 7,
       "Damage": 2395,
-      "HP": 1600000,
+      "HP": 48800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -1924,7 +1924,7 @@
       "ID": 241,
       "Speed": 7,
       "Damage": 2400,
-      "HP": 1605000,
+      "HP": 49000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -1932,7 +1932,7 @@
       "ID": 242,
       "Speed": 7,
       "Damage": 2405,
-      "HP": 1610000,
+      "HP": 49200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -1940,7 +1940,7 @@
       "ID": 243,
       "Speed": 7,
       "Damage": 2410,
-      "HP": 1615000,
+      "HP": 49400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -1948,7 +1948,7 @@
       "ID": 244,
       "Speed": 7,
       "Damage": 2415,
-      "HP": 1620000,
+      "HP": 49600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -1956,7 +1956,7 @@
       "ID": 245,
       "Speed": 7,
       "Damage": 2420,
-      "HP": 1625000,
+      "HP": 49800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -1964,7 +1964,7 @@
       "ID": 246,
       "Speed": 7,
       "Damage": 2425,
-      "HP": 1630000,
+      "HP": 50000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -1972,7 +1972,7 @@
       "ID": 247,
       "Speed": 7,
       "Damage": 2430,
-      "HP": 1635000,
+      "HP": 50200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -1980,7 +1980,7 @@
       "ID": 248,
       "Speed": 7,
       "Damage": 2435,
-      "HP": 1640000,
+      "HP": 50400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -1988,7 +1988,7 @@
       "ID": 249,
       "Speed": 7,
       "Damage": 2440,
-      "HP": 1645000,
+      "HP": 50600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -1996,7 +1996,7 @@
       "ID": 250,
       "Speed": 7,
       "Damage": 2445,
-      "HP": 1650000,
+      "HP": 50800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2004,7 +2004,7 @@
       "ID": 251,
       "Speed": 7,
       "Damage": 2450,
-      "HP": 1655000,
+      "HP": 51000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2012,7 +2012,7 @@
       "ID": 252,
       "Speed": 7,
       "Damage": 2455,
-      "HP": 1660000,
+      "HP": 51200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2020,7 +2020,7 @@
       "ID": 253,
       "Speed": 7,
       "Damage": 2460,
-      "HP": 1665000,
+      "HP": 51400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2028,7 +2028,7 @@
       "ID": 254,
       "Speed": 7,
       "Damage": 2465,
-      "HP": 1670000,
+      "HP": 51600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2036,7 +2036,7 @@
       "ID": 255,
       "Speed": 7,
       "Damage": 2470,
-      "HP": 1675000,
+      "HP": 51800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2044,7 +2044,7 @@
       "ID": 256,
       "Speed": 7,
       "Damage": 2475,
-      "HP": 1680000,
+      "HP": 52000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2052,7 +2052,7 @@
       "ID": 257,
       "Speed": 7,
       "Damage": 2480,
-      "HP": 1685000,
+      "HP": 52200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2060,7 +2060,7 @@
       "ID": 258,
       "Speed": 7,
       "Damage": 2485,
-      "HP": 1690000,
+      "HP": 52400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2068,7 +2068,7 @@
       "ID": 259,
       "Speed": 7,
       "Damage": 2490,
-      "HP": 1695000,
+      "HP": 52600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2076,7 +2076,7 @@
       "ID": 260,
       "Speed": 7,
       "Damage": 2495,
-      "HP": 1700000,
+      "HP": 52800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2084,7 +2084,7 @@
       "ID": 261,
       "Speed": 7,
       "Damage": 2500,
-      "HP": 1705000,
+      "HP": 53000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2092,7 +2092,7 @@
       "ID": 262,
       "Speed": 7,
       "Damage": 2505,
-      "HP": 1710000,
+      "HP": 53200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2100,7 +2100,7 @@
       "ID": 263,
       "Speed": 7,
       "Damage": 2510,
-      "HP": 1715000,
+      "HP": 53400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2108,7 +2108,7 @@
       "ID": 264,
       "Speed": 7,
       "Damage": 2515,
-      "HP": 1720000,
+      "HP": 53600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2116,7 +2116,7 @@
       "ID": 265,
       "Speed": 7,
       "Damage": 2520,
-      "HP": 1725000,
+      "HP": 53800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2124,7 +2124,7 @@
       "ID": 266,
       "Speed": 7,
       "Damage": 2525,
-      "HP": 1730000,
+      "HP": 54000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2132,7 +2132,7 @@
       "ID": 267,
       "Speed": 7,
       "Damage": 2530,
-      "HP": 1735000,
+      "HP": 54200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2140,7 +2140,7 @@
       "ID": 268,
       "Speed": 7,
       "Damage": 2535,
-      "HP": 1740000,
+      "HP": 54400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2148,7 +2148,7 @@
       "ID": 269,
       "Speed": 7,
       "Damage": 2540,
-      "HP": 1745000,
+      "HP": 54600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2156,7 +2156,7 @@
       "ID": 270,
       "Speed": 7,
       "Damage": 2545,
-      "HP": 1750000,
+      "HP": 54800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2164,7 +2164,7 @@
       "ID": 271,
       "Speed": 7,
       "Damage": 2550,
-      "HP": 1755000,
+      "HP": 55000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2172,7 +2172,7 @@
       "ID": 272,
       "Speed": 7,
       "Damage": 2555,
-      "HP": 1760000,
+      "HP": 55200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2180,7 +2180,7 @@
       "ID": 273,
       "Speed": 7,
       "Damage": 2560,
-      "HP": 1765000,
+      "HP": 55400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2188,7 +2188,7 @@
       "ID": 274,
       "Speed": 7,
       "Damage": 2565,
-      "HP": 1770000,
+      "HP": 55600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2196,7 +2196,7 @@
       "ID": 275,
       "Speed": 7,
       "Damage": 2570,
-      "HP": 1775000,
+      "HP": 55800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2204,7 +2204,7 @@
       "ID": 276,
       "Speed": 7,
       "Damage": 2575,
-      "HP": 1780000,
+      "HP": 56000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2212,7 +2212,7 @@
       "ID": 277,
       "Speed": 7,
       "Damage": 2580,
-      "HP": 1785000,
+      "HP": 56200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2220,7 +2220,7 @@
       "ID": 278,
       "Speed": 7,
       "Damage": 2585,
-      "HP": 1790000,
+      "HP": 56400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2228,7 +2228,7 @@
       "ID": 279,
       "Speed": 7,
       "Damage": 2590,
-      "HP": 1795000,
+      "HP": 56600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2236,7 +2236,7 @@
       "ID": 280,
       "Speed": 7,
       "Damage": 2595,
-      "HP": 1800000,
+      "HP": 56800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2244,7 +2244,7 @@
       "ID": 281,
       "Speed": 7,
       "Damage": 2600,
-      "HP": 1805000,
+      "HP": 57000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2252,7 +2252,7 @@
       "ID": 282,
       "Speed": 7,
       "Damage": 2605,
-      "HP": 1810000,
+      "HP": 57200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2260,7 +2260,7 @@
       "ID": 283,
       "Speed": 7,
       "Damage": 2610,
-      "HP": 1815000,
+      "HP": 57400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2268,7 +2268,7 @@
       "ID": 284,
       "Speed": 7,
       "Damage": 2615,
-      "HP": 1820000,
+      "HP": 57600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2276,7 +2276,7 @@
       "ID": 285,
       "Speed": 7,
       "Damage": 2620,
-      "HP": 1825000,
+      "HP": 57800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2284,7 +2284,7 @@
       "ID": 286,
       "Speed": 7,
       "Damage": 2625,
-      "HP": 1830000,
+      "HP": 58000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2292,7 +2292,7 @@
       "ID": 287,
       "Speed": 7,
       "Damage": 2630,
-      "HP": 1835000,
+      "HP": 58200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2300,7 +2300,7 @@
       "ID": 288,
       "Speed": 7,
       "Damage": 2635,
-      "HP": 1840000,
+      "HP": 58400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2308,7 +2308,7 @@
       "ID": 289,
       "Speed": 7,
       "Damage": 2640,
-      "HP": 1845000,
+      "HP": 58600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2316,7 +2316,7 @@
       "ID": 290,
       "Speed": 7,
       "Damage": 2645,
-      "HP": 1850000,
+      "HP": 58800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2324,7 +2324,7 @@
       "ID": 291,
       "Speed": 7,
       "Damage": 2650,
-      "HP": 1855000,
+      "HP": 59000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2332,7 +2332,7 @@
       "ID": 292,
       "Speed": 7,
       "Damage": 2655,
-      "HP": 1860000,
+      "HP": 59200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2340,7 +2340,7 @@
       "ID": 293,
       "Speed": 7,
       "Damage": 2660,
-      "HP": 1865000,
+      "HP": 59400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2348,7 +2348,7 @@
       "ID": 294,
       "Speed": 7,
       "Damage": 2665,
-      "HP": 1870000,
+      "HP": 59600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2356,7 +2356,7 @@
       "ID": 295,
       "Speed": 7,
       "Damage": 2670,
-      "HP": 1875000,
+      "HP": 59800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2364,7 +2364,7 @@
       "ID": 296,
       "Speed": 7,
       "Damage": 2675,
-      "HP": 1880000,
+      "HP": 60000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2372,7 +2372,7 @@
       "ID": 297,
       "Speed": 7,
       "Damage": 2680,
-      "HP": 1885000,
+      "HP": 60200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2380,7 +2380,7 @@
       "ID": 298,
       "Speed": 7,
       "Damage": 2685,
-      "HP": 1890000,
+      "HP": 60400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2388,7 +2388,7 @@
       "ID": 299,
       "Speed": 7,
       "Damage": 2690,
-      "HP": 1895000,
+      "HP": 60600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2396,7 +2396,7 @@
       "ID": 300,
       "Speed": 7,
       "Damage": 2695,
-      "HP": 1900000,
+      "HP": 60800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2404,7 +2404,7 @@
       "ID": 301,
       "Speed": 7,
       "Damage": 2700,
-      "HP": 1905000,
+      "HP": 61000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2412,7 +2412,7 @@
       "ID": 302,
       "Speed": 7,
       "Damage": 2705,
-      "HP": 1910000,
+      "HP": 61200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2420,7 +2420,7 @@
       "ID": 303,
       "Speed": 7,
       "Damage": 2710,
-      "HP": 1915000,
+      "HP": 61400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2428,7 +2428,7 @@
       "ID": 304,
       "Speed": 7,
       "Damage": 2715,
-      "HP": 1920000,
+      "HP": 61600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2436,7 +2436,7 @@
       "ID": 305,
       "Speed": 7,
       "Damage": 2720,
-      "HP": 1925000,
+      "HP": 61800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2444,7 +2444,7 @@
       "ID": 306,
       "Speed": 7,
       "Damage": 2725,
-      "HP": 1930000,
+      "HP": 62000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2452,7 +2452,7 @@
       "ID": 307,
       "Speed": 7,
       "Damage": 2730,
-      "HP": 1935000,
+      "HP": 62200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2460,7 +2460,7 @@
       "ID": 308,
       "Speed": 7,
       "Damage": 2735,
-      "HP": 1940000,
+      "HP": 62400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2468,7 +2468,7 @@
       "ID": 309,
       "Speed": 7,
       "Damage": 2740,
-      "HP": 1945000,
+      "HP": 62600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2476,7 +2476,7 @@
       "ID": 310,
       "Speed": 7,
       "Damage": 2745,
-      "HP": 1950000,
+      "HP": 62800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2484,7 +2484,7 @@
       "ID": 311,
       "Speed": 7,
       "Damage": 2750,
-      "HP": 1955000,
+      "HP": 63000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2492,7 +2492,7 @@
       "ID": 312,
       "Speed": 7,
       "Damage": 2755,
-      "HP": 1960000,
+      "HP": 63200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2500,7 +2500,7 @@
       "ID": 313,
       "Speed": 7,
       "Damage": 2760,
-      "HP": 1965000,
+      "HP": 63400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2508,7 +2508,7 @@
       "ID": 314,
       "Speed": 7,
       "Damage": 2765,
-      "HP": 1970000,
+      "HP": 63600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2516,7 +2516,7 @@
       "ID": 315,
       "Speed": 7,
       "Damage": 2770,
-      "HP": 1975000,
+      "HP": 63800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2524,7 +2524,7 @@
       "ID": 316,
       "Speed": 7,
       "Damage": 2775,
-      "HP": 1980000,
+      "HP": 64000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2532,7 +2532,7 @@
       "ID": 317,
       "Speed": 7,
       "Damage": 2780,
-      "HP": 1985000,
+      "HP": 64200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2540,7 +2540,7 @@
       "ID": 318,
       "Speed": 7,
       "Damage": 2785,
-      "HP": 1990000,
+      "HP": 64400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2548,7 +2548,7 @@
       "ID": 319,
       "Speed": 7,
       "Damage": 2790,
-      "HP": 1995000,
+      "HP": 64600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2556,7 +2556,7 @@
       "ID": 320,
       "Speed": 7,
       "Damage": 2795,
-      "HP": 2000000,
+      "HP": 64800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2564,7 +2564,7 @@
       "ID": 321,
       "Speed": 7,
       "Damage": 2800,
-      "HP": 2005000,
+      "HP": 65000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2572,7 +2572,7 @@
       "ID": 322,
       "Speed": 7,
       "Damage": 2805,
-      "HP": 2010000,
+      "HP": 65200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2580,7 +2580,7 @@
       "ID": 323,
       "Speed": 7,
       "Damage": 2810,
-      "HP": 2015000,
+      "HP": 65400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2588,7 +2588,7 @@
       "ID": 324,
       "Speed": 7,
       "Damage": 2815,
-      "HP": 2020000,
+      "HP": 65600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2596,7 +2596,7 @@
       "ID": 325,
       "Speed": 7,
       "Damage": 2820,
-      "HP": 2025000,
+      "HP": 65800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2604,7 +2604,7 @@
       "ID": 326,
       "Speed": 7,
       "Damage": 2825,
-      "HP": 2030000,
+      "HP": 66000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2612,7 +2612,7 @@
       "ID": 327,
       "Speed": 7,
       "Damage": 2830,
-      "HP": 2035000,
+      "HP": 66200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2620,7 +2620,7 @@
       "ID": 328,
       "Speed": 7,
       "Damage": 2835,
-      "HP": 2040000,
+      "HP": 66400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2628,7 +2628,7 @@
       "ID": 329,
       "Speed": 7,
       "Damage": 2840,
-      "HP": 2045000,
+      "HP": 66600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2636,7 +2636,7 @@
       "ID": 330,
       "Speed": 7,
       "Damage": 2845,
-      "HP": 2050000,
+      "HP": 66800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2644,7 +2644,7 @@
       "ID": 331,
       "Speed": 7,
       "Damage": 2850,
-      "HP": 2055000,
+      "HP": 67000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2652,7 +2652,7 @@
       "ID": 332,
       "Speed": 7,
       "Damage": 2855,
-      "HP": 2060000,
+      "HP": 67200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2660,7 +2660,7 @@
       "ID": 333,
       "Speed": 7,
       "Damage": 2860,
-      "HP": 2065000,
+      "HP": 67400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2668,7 +2668,7 @@
       "ID": 334,
       "Speed": 7,
       "Damage": 2865,
-      "HP": 2070000,
+      "HP": 67600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2676,7 +2676,7 @@
       "ID": 335,
       "Speed": 7,
       "Damage": 2870,
-      "HP": 2075000,
+      "HP": 67800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2684,7 +2684,7 @@
       "ID": 336,
       "Speed": 7,
       "Damage": 2875,
-      "HP": 2080000,
+      "HP": 68000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2692,7 +2692,7 @@
       "ID": 337,
       "Speed": 7,
       "Damage": 2880,
-      "HP": 2085000,
+      "HP": 68200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2700,7 +2700,7 @@
       "ID": 338,
       "Speed": 7,
       "Damage": 2885,
-      "HP": 2090000,
+      "HP": 68400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2708,7 +2708,7 @@
       "ID": 339,
       "Speed": 7,
       "Damage": 2890,
-      "HP": 2095000,
+      "HP": 68600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2716,7 +2716,7 @@
       "ID": 340,
       "Speed": 7,
       "Damage": 2895,
-      "HP": 2100000,
+      "HP": 68800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2724,7 +2724,7 @@
       "ID": 341,
       "Speed": 7,
       "Damage": 2900,
-      "HP": 2105000,
+      "HP": 69000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2732,7 +2732,7 @@
       "ID": 342,
       "Speed": 7,
       "Damage": 2905,
-      "HP": 2110000,
+      "HP": 69200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2740,7 +2740,7 @@
       "ID": 343,
       "Speed": 7,
       "Damage": 2910,
-      "HP": 2115000,
+      "HP": 69400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2748,7 +2748,7 @@
       "ID": 344,
       "Speed": 7,
       "Damage": 2915,
-      "HP": 2120000,
+      "HP": 69600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2756,7 +2756,7 @@
       "ID": 345,
       "Speed": 7,
       "Damage": 2920,
-      "HP": 2125000,
+      "HP": 69800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2764,7 +2764,7 @@
       "ID": 346,
       "Speed": 7,
       "Damage": 2925,
-      "HP": 2130000,
+      "HP": 70000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2772,7 +2772,7 @@
       "ID": 347,
       "Speed": 7,
       "Damage": 2930,
-      "HP": 2135000,
+      "HP": 70200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2780,7 +2780,7 @@
       "ID": 348,
       "Speed": 7,
       "Damage": 2935,
-      "HP": 2140000,
+      "HP": 70400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2788,7 +2788,7 @@
       "ID": 349,
       "Speed": 7,
       "Damage": 2940,
-      "HP": 2145000,
+      "HP": 70600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2796,7 +2796,7 @@
       "ID": 350,
       "Speed": 7,
       "Damage": 2945,
-      "HP": 2150000,
+      "HP": 70800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2804,7 +2804,7 @@
       "ID": 351,
       "Speed": 7,
       "Damage": 2950,
-      "HP": 2155000,
+      "HP": 71000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2812,7 +2812,7 @@
       "ID": 352,
       "Speed": 7,
       "Damage": 2955,
-      "HP": 2160000,
+      "HP": 71200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2820,7 +2820,7 @@
       "ID": 353,
       "Speed": 7,
       "Damage": 2960,
-      "HP": 2165000,
+      "HP": 71400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2828,7 +2828,7 @@
       "ID": 354,
       "Speed": 7,
       "Damage": 2965,
-      "HP": 2170000,
+      "HP": 71600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2836,7 +2836,7 @@
       "ID": 355,
       "Speed": 7,
       "Damage": 2970,
-      "HP": 2175000,
+      "HP": 71800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2844,7 +2844,7 @@
       "ID": 356,
       "Speed": 7,
       "Damage": 2975,
-      "HP": 2180000,
+      "HP": 72000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2852,7 +2852,7 @@
       "ID": 357,
       "Speed": 7,
       "Damage": 2980,
-      "HP": 2185000,
+      "HP": 72200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2860,7 +2860,7 @@
       "ID": 358,
       "Speed": 7,
       "Damage": 2985,
-      "HP": 2190000,
+      "HP": 72400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2868,7 +2868,7 @@
       "ID": 359,
       "Speed": 7,
       "Damage": 2990,
-      "HP": 2195000,
+      "HP": 72600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2876,7 +2876,7 @@
       "ID": 360,
       "Speed": 7,
       "Damage": 2995,
-      "HP": 2200000,
+      "HP": 72800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2884,7 +2884,7 @@
       "ID": 361,
       "Speed": 7,
       "Damage": 3000,
-      "HP": 2205000,
+      "HP": 73000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2892,7 +2892,7 @@
       "ID": 362,
       "Speed": 7,
       "Damage": 3005,
-      "HP": 2210000,
+      "HP": 73200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2900,7 +2900,7 @@
       "ID": 363,
       "Speed": 7,
       "Damage": 3010,
-      "HP": 2215000,
+      "HP": 73400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2908,7 +2908,7 @@
       "ID": 364,
       "Speed": 7,
       "Damage": 3015,
-      "HP": 2220000,
+      "HP": 73600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2916,7 +2916,7 @@
       "ID": 365,
       "Speed": 7,
       "Damage": 3020,
-      "HP": 2225000,
+      "HP": 73800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2924,7 +2924,7 @@
       "ID": 366,
       "Speed": 7,
       "Damage": 3025,
-      "HP": 2230000,
+      "HP": 74000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2932,7 +2932,7 @@
       "ID": 367,
       "Speed": 7,
       "Damage": 3030,
-      "HP": 2235000,
+      "HP": 74200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2940,7 +2940,7 @@
       "ID": 368,
       "Speed": 7,
       "Damage": 3035,
-      "HP": 2240000,
+      "HP": 74400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2948,7 +2948,7 @@
       "ID": 369,
       "Speed": 7,
       "Damage": 3040,
-      "HP": 2245000,
+      "HP": 74600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2956,7 +2956,7 @@
       "ID": 370,
       "Speed": 7,
       "Damage": 3045,
-      "HP": 2250000,
+      "HP": 74800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2964,7 +2964,7 @@
       "ID": 371,
       "Speed": 7,
       "Damage": 3050,
-      "HP": 2255000,
+      "HP": 75000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2972,7 +2972,7 @@
       "ID": 372,
       "Speed": 7,
       "Damage": 3055,
-      "HP": 2260000,
+      "HP": 75200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2980,7 +2980,7 @@
       "ID": 373,
       "Speed": 7,
       "Damage": 3060,
-      "HP": 2265000,
+      "HP": 75400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2988,7 +2988,7 @@
       "ID": 374,
       "Speed": 7,
       "Damage": 3065,
-      "HP": 2270000,
+      "HP": 75600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -2996,7 +2996,7 @@
       "ID": 375,
       "Speed": 7,
       "Damage": 3070,
-      "HP": 2275000,
+      "HP": 75800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3004,7 +3004,7 @@
       "ID": 376,
       "Speed": 7,
       "Damage": 3075,
-      "HP": 2280000,
+      "HP": 76000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3012,7 +3012,7 @@
       "ID": 377,
       "Speed": 7,
       "Damage": 3080,
-      "HP": 2285000,
+      "HP": 76200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3020,7 +3020,7 @@
       "ID": 378,
       "Speed": 7,
       "Damage": 3085,
-      "HP": 2290000,
+      "HP": 76400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3028,7 +3028,7 @@
       "ID": 379,
       "Speed": 7,
       "Damage": 3090,
-      "HP": 2295000,
+      "HP": 76600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3036,7 +3036,7 @@
       "ID": 380,
       "Speed": 7,
       "Damage": 3095,
-      "HP": 2300000,
+      "HP": 76800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3044,7 +3044,7 @@
       "ID": 381,
       "Speed": 7,
       "Damage": 3100,
-      "HP": 2305000,
+      "HP": 77000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3052,7 +3052,7 @@
       "ID": 382,
       "Speed": 7,
       "Damage": 3105,
-      "HP": 2310000,
+      "HP": 77200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3060,7 +3060,7 @@
       "ID": 383,
       "Speed": 7,
       "Damage": 3110,
-      "HP": 2315000,
+      "HP": 77400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3068,7 +3068,7 @@
       "ID": 384,
       "Speed": 7,
       "Damage": 3115,
-      "HP": 2320000,
+      "HP": 77600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3076,7 +3076,7 @@
       "ID": 385,
       "Speed": 7,
       "Damage": 3120,
-      "HP": 2325000,
+      "HP": 77800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3084,7 +3084,7 @@
       "ID": 386,
       "Speed": 7,
       "Damage": 3125,
-      "HP": 2330000,
+      "HP": 78000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3092,7 +3092,7 @@
       "ID": 387,
       "Speed": 7,
       "Damage": 3130,
-      "HP": 2335000,
+      "HP": 78200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3100,7 +3100,7 @@
       "ID": 388,
       "Speed": 7,
       "Damage": 3135,
-      "HP": 2340000,
+      "HP": 78400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3108,7 +3108,7 @@
       "ID": 389,
       "Speed": 7,
       "Damage": 3140,
-      "HP": 2345000,
+      "HP": 78600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3116,7 +3116,7 @@
       "ID": 390,
       "Speed": 7,
       "Damage": 3145,
-      "HP": 2350000,
+      "HP": 78800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3124,7 +3124,7 @@
       "ID": 391,
       "Speed": 7,
       "Damage": 3150,
-      "HP": 2355000,
+      "HP": 79000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3132,7 +3132,7 @@
       "ID": 392,
       "Speed": 7,
       "Damage": 3155,
-      "HP": 2360000,
+      "HP": 79200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3140,7 +3140,7 @@
       "ID": 393,
       "Speed": 7,
       "Damage": 3160,
-      "HP": 2365000,
+      "HP": 79400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3148,7 +3148,7 @@
       "ID": 394,
       "Speed": 7,
       "Damage": 3165,
-      "HP": 2370000,
+      "HP": 79600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3156,7 +3156,7 @@
       "ID": 395,
       "Speed": 7,
       "Damage": 3170,
-      "HP": 2375000,
+      "HP": 79800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3164,7 +3164,7 @@
       "ID": 396,
       "Speed": 7,
       "Damage": 3175,
-      "HP": 2380000,
+      "HP": 80000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3172,7 +3172,7 @@
       "ID": 397,
       "Speed": 7,
       "Damage": 3180,
-      "HP": 2385000,
+      "HP": 80200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3180,7 +3180,7 @@
       "ID": 398,
       "Speed": 7,
       "Damage": 3185,
-      "HP": 2390000,
+      "HP": 80400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3188,7 +3188,7 @@
       "ID": 399,
       "Speed": 7,
       "Damage": 3190,
-      "HP": 2395000,
+      "HP": 80600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3196,7 +3196,7 @@
       "ID": 400,
       "Speed": 7,
       "Damage": 3195,
-      "HP": 2400000,
+      "HP": 80800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3204,7 +3204,7 @@
       "ID": 401,
       "Speed": 7,
       "Damage": 3200,
-      "HP": 2405000,
+      "HP": 81000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3212,7 +3212,7 @@
       "ID": 402,
       "Speed": 7,
       "Damage": 3205,
-      "HP": 2410000,
+      "HP": 81200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3220,7 +3220,7 @@
       "ID": 403,
       "Speed": 7,
       "Damage": 3210,
-      "HP": 2415000,
+      "HP": 81400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3228,7 +3228,7 @@
       "ID": 404,
       "Speed": 7,
       "Damage": 3215,
-      "HP": 2420000,
+      "HP": 81600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3236,7 +3236,7 @@
       "ID": 405,
       "Speed": 7,
       "Damage": 3220,
-      "HP": 2425000,
+      "HP": 81800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3244,7 +3244,7 @@
       "ID": 406,
       "Speed": 7,
       "Damage": 3225,
-      "HP": 2430000,
+      "HP": 82000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3252,7 +3252,7 @@
       "ID": 407,
       "Speed": 7,
       "Damage": 3230,
-      "HP": 2435000,
+      "HP": 82200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3260,7 +3260,7 @@
       "ID": 408,
       "Speed": 7,
       "Damage": 3235,
-      "HP": 2440000,
+      "HP": 82400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3268,7 +3268,7 @@
       "ID": 409,
       "Speed": 7,
       "Damage": 3240,
-      "HP": 2445000,
+      "HP": 82600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3276,7 +3276,7 @@
       "ID": 410,
       "Speed": 7,
       "Damage": 3245,
-      "HP": 2450000,
+      "HP": 82800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3284,7 +3284,7 @@
       "ID": 411,
       "Speed": 7,
       "Damage": 3250,
-      "HP": 2455000,
+      "HP": 83000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3292,7 +3292,7 @@
       "ID": 412,
       "Speed": 7,
       "Damage": 3255,
-      "HP": 2460000,
+      "HP": 83200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3300,7 +3300,7 @@
       "ID": 413,
       "Speed": 7,
       "Damage": 3260,
-      "HP": 2465000,
+      "HP": 83400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3308,7 +3308,7 @@
       "ID": 414,
       "Speed": 7,
       "Damage": 3265,
-      "HP": 2470000,
+      "HP": 83600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3316,7 +3316,7 @@
       "ID": 415,
       "Speed": 7,
       "Damage": 3270,
-      "HP": 2475000,
+      "HP": 83800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3324,7 +3324,7 @@
       "ID": 416,
       "Speed": 7,
       "Damage": 3275,
-      "HP": 2480000,
+      "HP": 84000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3332,7 +3332,7 @@
       "ID": 417,
       "Speed": 7,
       "Damage": 3280,
-      "HP": 2485000,
+      "HP": 84200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3340,7 +3340,7 @@
       "ID": 418,
       "Speed": 7,
       "Damage": 3285,
-      "HP": 2490000,
+      "HP": 84400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3348,7 +3348,7 @@
       "ID": 419,
       "Speed": 7,
       "Damage": 3290,
-      "HP": 2495000,
+      "HP": 84600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3356,7 +3356,7 @@
       "ID": 420,
       "Speed": 7,
       "Damage": 3295,
-      "HP": 2500000,
+      "HP": 84800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3364,7 +3364,7 @@
       "ID": 421,
       "Speed": 7,
       "Damage": 3300,
-      "HP": 2505000,
+      "HP": 85000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3372,7 +3372,7 @@
       "ID": 422,
       "Speed": 7,
       "Damage": 3305,
-      "HP": 2510000,
+      "HP": 85200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3380,7 +3380,7 @@
       "ID": 423,
       "Speed": 7,
       "Damage": 3310,
-      "HP": 2515000,
+      "HP": 85400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3388,7 +3388,7 @@
       "ID": 424,
       "Speed": 7,
       "Damage": 3315,
-      "HP": 2520000,
+      "HP": 85600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3396,7 +3396,7 @@
       "ID": 425,
       "Speed": 7,
       "Damage": 3320,
-      "HP": 2525000,
+      "HP": 85800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3404,7 +3404,7 @@
       "ID": 426,
       "Speed": 7,
       "Damage": 3325,
-      "HP": 2530000,
+      "HP": 86000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3412,7 +3412,7 @@
       "ID": 427,
       "Speed": 7,
       "Damage": 3330,
-      "HP": 2535000,
+      "HP": 86200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3420,7 +3420,7 @@
       "ID": 428,
       "Speed": 7,
       "Damage": 3335,
-      "HP": 2540000,
+      "HP": 86400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3428,7 +3428,7 @@
       "ID": 429,
       "Speed": 7,
       "Damage": 3340,
-      "HP": 2545000,
+      "HP": 86600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3436,7 +3436,7 @@
       "ID": 430,
       "Speed": 7,
       "Damage": 3345,
-      "HP": 2550000,
+      "HP": 86800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3444,7 +3444,7 @@
       "ID": 431,
       "Speed": 7,
       "Damage": 3350,
-      "HP": 2555000,
+      "HP": 87000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3452,7 +3452,7 @@
       "ID": 432,
       "Speed": 7,
       "Damage": 3355,
-      "HP": 2560000,
+      "HP": 87200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3460,7 +3460,7 @@
       "ID": 433,
       "Speed": 7,
       "Damage": 3360,
-      "HP": 2565000,
+      "HP": 87400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3468,7 +3468,7 @@
       "ID": 434,
       "Speed": 7,
       "Damage": 3365,
-      "HP": 2570000,
+      "HP": 87600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3476,7 +3476,7 @@
       "ID": 435,
       "Speed": 7,
       "Damage": 3370,
-      "HP": 2575000,
+      "HP": 87800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3484,7 +3484,7 @@
       "ID": 436,
       "Speed": 7,
       "Damage": 3375,
-      "HP": 2580000,
+      "HP": 88000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3492,7 +3492,7 @@
       "ID": 437,
       "Speed": 7,
       "Damage": 3380,
-      "HP": 2585000,
+      "HP": 88200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3500,7 +3500,7 @@
       "ID": 438,
       "Speed": 7,
       "Damage": 3385,
-      "HP": 2590000,
+      "HP": 88400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3508,7 +3508,7 @@
       "ID": 439,
       "Speed": 7,
       "Damage": 3390,
-      "HP": 2595000,
+      "HP": 88600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3516,7 +3516,7 @@
       "ID": 440,
       "Speed": 7,
       "Damage": 3395,
-      "HP": 2600000,
+      "HP": 88800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3524,7 +3524,7 @@
       "ID": 441,
       "Speed": 7,
       "Damage": 3400,
-      "HP": 2605000,
+      "HP": 89000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3532,7 +3532,7 @@
       "ID": 442,
       "Speed": 7,
       "Damage": 3405,
-      "HP": 2610000,
+      "HP": 89200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3540,7 +3540,7 @@
       "ID": 443,
       "Speed": 7,
       "Damage": 3410,
-      "HP": 2615000,
+      "HP": 89400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3548,7 +3548,7 @@
       "ID": 444,
       "Speed": 7,
       "Damage": 3415,
-      "HP": 2620000,
+      "HP": 89600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3556,7 +3556,7 @@
       "ID": 445,
       "Speed": 7,
       "Damage": 3420,
-      "HP": 2625000,
+      "HP": 89800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3564,7 +3564,7 @@
       "ID": 446,
       "Speed": 7,
       "Damage": 3425,
-      "HP": 2630000,
+      "HP": 90000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3572,7 +3572,7 @@
       "ID": 447,
       "Speed": 7,
       "Damage": 3430,
-      "HP": 2635000,
+      "HP": 90200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3580,7 +3580,7 @@
       "ID": 448,
       "Speed": 7,
       "Damage": 3435,
-      "HP": 2640000,
+      "HP": 90400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3588,7 +3588,7 @@
       "ID": 449,
       "Speed": 7,
       "Damage": 3440,
-      "HP": 2645000,
+      "HP": 90600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3596,7 +3596,7 @@
       "ID": 450,
       "Speed": 7,
       "Damage": 3445,
-      "HP": 2650000,
+      "HP": 90800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3604,7 +3604,7 @@
       "ID": 451,
       "Speed": 7,
       "Damage": 3450,
-      "HP": 2655000,
+      "HP": 91000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3612,7 +3612,7 @@
       "ID": 452,
       "Speed": 7,
       "Damage": 3455,
-      "HP": 2660000,
+      "HP": 91200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3620,7 +3620,7 @@
       "ID": 453,
       "Speed": 7,
       "Damage": 3460,
-      "HP": 2665000,
+      "HP": 91400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3628,7 +3628,7 @@
       "ID": 454,
       "Speed": 7,
       "Damage": 3465,
-      "HP": 2670000,
+      "HP": 91600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3636,7 +3636,7 @@
       "ID": 455,
       "Speed": 7,
       "Damage": 3470,
-      "HP": 2675000,
+      "HP": 91800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3644,7 +3644,7 @@
       "ID": 456,
       "Speed": 7,
       "Damage": 3475,
-      "HP": 2680000,
+      "HP": 92000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3652,7 +3652,7 @@
       "ID": 457,
       "Speed": 7,
       "Damage": 3480,
-      "HP": 2685000,
+      "HP": 92200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3660,7 +3660,7 @@
       "ID": 458,
       "Speed": 7,
       "Damage": 3485,
-      "HP": 2690000,
+      "HP": 92400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3668,7 +3668,7 @@
       "ID": 459,
       "Speed": 7,
       "Damage": 3490,
-      "HP": 2695000,
+      "HP": 92600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3676,7 +3676,7 @@
       "ID": 460,
       "Speed": 7,
       "Damage": 3495,
-      "HP": 2700000,
+      "HP": 92800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3684,7 +3684,7 @@
       "ID": 461,
       "Speed": 7,
       "Damage": 3500,
-      "HP": 2705000,
+      "HP": 93000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3692,7 +3692,7 @@
       "ID": 462,
       "Speed": 7,
       "Damage": 3505,
-      "HP": 2710000,
+      "HP": 93200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3700,7 +3700,7 @@
       "ID": 463,
       "Speed": 7,
       "Damage": 3510,
-      "HP": 2715000,
+      "HP": 93400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3708,7 +3708,7 @@
       "ID": 464,
       "Speed": 7,
       "Damage": 3515,
-      "HP": 2720000,
+      "HP": 93600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3716,7 +3716,7 @@
       "ID": 465,
       "Speed": 7,
       "Damage": 3520,
-      "HP": 2725000,
+      "HP": 93800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3724,7 +3724,7 @@
       "ID": 466,
       "Speed": 7,
       "Damage": 3525,
-      "HP": 2730000,
+      "HP": 94000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3732,7 +3732,7 @@
       "ID": 467,
       "Speed": 7,
       "Damage": 3530,
-      "HP": 2735000,
+      "HP": 94200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3740,7 +3740,7 @@
       "ID": 468,
       "Speed": 7,
       "Damage": 3535,
-      "HP": 2740000,
+      "HP": 94400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3748,7 +3748,7 @@
       "ID": 469,
       "Speed": 7,
       "Damage": 3540,
-      "HP": 2745000,
+      "HP": 94600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3756,7 +3756,7 @@
       "ID": 470,
       "Speed": 7,
       "Damage": 3545,
-      "HP": 2750000,
+      "HP": 94800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3764,7 +3764,7 @@
       "ID": 471,
       "Speed": 7,
       "Damage": 3550,
-      "HP": 2755000,
+      "HP": 95000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3772,7 +3772,7 @@
       "ID": 472,
       "Speed": 7,
       "Damage": 3555,
-      "HP": 2760000,
+      "HP": 95200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3780,7 +3780,7 @@
       "ID": 473,
       "Speed": 7,
       "Damage": 3560,
-      "HP": 2765000,
+      "HP": 95400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3788,7 +3788,7 @@
       "ID": 474,
       "Speed": 7,
       "Damage": 3565,
-      "HP": 2770000,
+      "HP": 95600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3796,7 +3796,7 @@
       "ID": 475,
       "Speed": 7,
       "Damage": 3570,
-      "HP": 2775000,
+      "HP": 95800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3804,7 +3804,7 @@
       "ID": 476,
       "Speed": 7,
       "Damage": 3575,
-      "HP": 2780000,
+      "HP": 96000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3812,7 +3812,7 @@
       "ID": 477,
       "Speed": 7,
       "Damage": 3580,
-      "HP": 2785000,
+      "HP": 96200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3820,7 +3820,7 @@
       "ID": 478,
       "Speed": 7,
       "Damage": 3585,
-      "HP": 2790000,
+      "HP": 96400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3828,7 +3828,7 @@
       "ID": 479,
       "Speed": 7,
       "Damage": 3590,
-      "HP": 2795000,
+      "HP": 96600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3836,7 +3836,7 @@
       "ID": 480,
       "Speed": 7,
       "Damage": 3595,
-      "HP": 2800000,
+      "HP": 96800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3844,7 +3844,7 @@
       "ID": 481,
       "Speed": 7,
       "Damage": 3600,
-      "HP": 2805000,
+      "HP": 97000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3852,7 +3852,7 @@
       "ID": 482,
       "Speed": 7,
       "Damage": 3605,
-      "HP": 2810000,
+      "HP": 97200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3860,7 +3860,7 @@
       "ID": 483,
       "Speed": 7,
       "Damage": 3610,
-      "HP": 2815000,
+      "HP": 97400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3868,7 +3868,7 @@
       "ID": 484,
       "Speed": 7,
       "Damage": 3615,
-      "HP": 2820000,
+      "HP": 97600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3876,7 +3876,7 @@
       "ID": 485,
       "Speed": 7,
       "Damage": 3620,
-      "HP": 2825000,
+      "HP": 97800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3884,7 +3884,7 @@
       "ID": 486,
       "Speed": 7,
       "Damage": 3625,
-      "HP": 2830000,
+      "HP": 98000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3892,7 +3892,7 @@
       "ID": 487,
       "Speed": 7,
       "Damage": 3630,
-      "HP": 2835000,
+      "HP": 98200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3900,7 +3900,7 @@
       "ID": 488,
       "Speed": 7,
       "Damage": 3635,
-      "HP": 2840000,
+      "HP": 98400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3908,7 +3908,7 @@
       "ID": 489,
       "Speed": 7,
       "Damage": 3640,
-      "HP": 2845000,
+      "HP": 98600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3916,7 +3916,7 @@
       "ID": 490,
       "Speed": 7,
       "Damage": 3645,
-      "HP": 2850000,
+      "HP": 98800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3924,7 +3924,7 @@
       "ID": 491,
       "Speed": 7,
       "Damage": 3650,
-      "HP": 2855000,
+      "HP": 99000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3932,7 +3932,7 @@
       "ID": 492,
       "Speed": 7,
       "Damage": 3655,
-      "HP": 2860000,
+      "HP": 99200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3940,7 +3940,7 @@
       "ID": 493,
       "Speed": 7,
       "Damage": 3660,
-      "HP": 2865000,
+      "HP": 99400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3948,7 +3948,7 @@
       "ID": 494,
       "Speed": 7,
       "Damage": 3665,
-      "HP": 2870000,
+      "HP": 99600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3956,7 +3956,7 @@
       "ID": 495,
       "Speed": 7,
       "Damage": 3670,
-      "HP": 2875000,
+      "HP": 99800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3964,7 +3964,7 @@
       "ID": 496,
       "Speed": 7,
       "Damage": 3675,
-      "HP": 2880000,
+      "HP": 100000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3972,7 +3972,7 @@
       "ID": 497,
       "Speed": 7,
       "Damage": 3680,
-      "HP": 2885000,
+      "HP": 100200,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3980,7 +3980,7 @@
       "ID": 498,
       "Speed": 7,
       "Damage": 3685,
-      "HP": 2890000,
+      "HP": 100400,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3988,7 +3988,7 @@
       "ID": 499,
       "Speed": 7,
       "Damage": 3690,
-      "HP": 2895000,
+      "HP": 100600,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -3996,7 +3996,7 @@
       "ID": 500,
       "Speed": 7,
       "Damage": 3695,
-      "HP": 2900000,
+      "HP": 100800,
       "CriticalChance": 5,
       "CriticalDamage": 150
     }

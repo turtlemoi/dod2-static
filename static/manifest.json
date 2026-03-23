@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-03-23T03:07:14.722Z",
+  "updatedAt": "2026-03-23T03:27:17.845Z",
   "sheets": [
     {
       "name": "Common",
-      "version": 23,
-      "hash": "1c704376b69830fca06909be452100cc1c4160b0a19d469efa107ea352245a6a",
+      "version": 24,
+      "hash": "891958ab395894eb82c89dc6eba789a748d26520fb5d8599d6883eb13b72a501",
       "url": "/static/Common.json"
     },
     {
@@ -15,8 +15,8 @@
     },
     {
       "name": "CharacterLevel",
-      "version": 8,
-      "hash": "f79981ba71e614b0c2b2f3e4b7cf12555aaf0adf750368ce38bb6fc6aa28802f",
+      "version": 9,
+      "hash": "17c678f973b5dc47a5c89bf8e319c84ba2d627da42521f02e78e18b595dd3fbd",
       "url": "/static/CharacterLevel.json"
     },
     {
