@@ -10,6 +10,8 @@
       "Duration2": "",
       "Wave3": "",
       "Duration3": "",
+      "SuddenWave": "",
+      "Duration4": "",
       "HPValue": 7,
       "DamageValue": 9
     },
@@ -23,6 +25,8 @@
       "Duration2": "",
       "Wave3": "",
       "Duration3": "",
+      "SuddenWave": "",
+      "Duration4": "",
       "HPValue": 15,
       "DamageValue": 9
     },
@@ -36,6 +40,8 @@
       "Duration2": 2,
       "Wave3": "",
       "Duration3": "",
+      "SuddenWave": "211:10",
+      "Duration4": 2,
       "HPValue": 20,
       "DamageValue": 9
     },
@@ -49,6 +55,8 @@
       "Duration2": 2,
       "Wave3": "",
       "Duration3": "",
+      "SuddenWave": "",
+      "Duration4": "",
       "HPValue": 25,
       "DamageValue": 10
     },
@@ -62,6 +70,8 @@
       "Duration2": "",
       "Wave3": "",
       "Duration3": "",
+      "SuddenWave": "",
+      "Duration4": "",
       "HPValue": 30,
       "DamageValue": 10
     },
@@ -75,6 +85,8 @@
       "Duration2": 3,
       "Wave3": "",
       "Duration3": "",
+      "SuddenWave": "",
+      "Duration4": "",
       "HPValue": 39,
       "DamageValue": 10
     },
@@ -88,6 +100,8 @@
       "Duration2": "",
       "Wave3": "",
       "Duration3": "",
+      "SuddenWave": "",
+      "Duration4": "",
       "HPValue": 44,
       "DamageValue": 11
     },
@@ -101,6 +115,8 @@
       "Duration2": "",
       "Wave3": "",
       "Duration3": "",
+      "SuddenWave": "",
+      "Duration4": "",
       "HPValue": 58,
       "DamageValue": 11
     },
@@ -114,6 +130,8 @@
       "Duration2": "",
       "Wave3": "",
       "Duration3": "",
+      "SuddenWave": "",
+      "Duration4": "",
       "HPValue": 68,
       "DamageValue": 11
     },
@@ -127,6 +145,8 @@
       "Duration2": 5,
       "Wave3": "111:3,113:2",
       "Duration3": 8,
+      "SuddenWave": "",
+      "Duration4": "",
       "HPValue": 77,
       "DamageValue": 11
     },
@@ -140,6 +160,8 @@
       "Duration2": 4,
       "Wave3": "",
       "Duration3": "",
+      "SuddenWave": "",
+      "Duration4": "",
       "HPValue": 115,
       "DamageValue": 11
     },
@@ -153,6 +175,8 @@
       "Duration2": "",
       "Wave3": "",
       "Duration3": "",
+      "SuddenWave": "",
+      "Duration4": "",
       "HPValue": 129,
       "DamageValue": 11
     },
@@ -166,6 +190,8 @@
       "Duration2": 3,
       "Wave3": "",
       "Duration3": "",
+      "SuddenWave": "",
+      "Duration4": "",
       "HPValue": 148,
       "DamageValue": 12
     },
@@ -179,6 +205,8 @@
       "Duration2": 6,
       "Wave3": "",
       "Duration3": "",
+      "SuddenWave": "",
+      "Duration4": "",
       "HPValue": 166,
       "DamageValue": 13
     },
@@ -192,6 +220,8 @@
       "Duration2": 2,
       "Wave3": "",
       "Duration3": "",
+      "SuddenWave": "",
+      "Duration4": "",
       "HPValue": 179,
       "DamageValue": 13
     },
@@ -205,6 +235,8 @@
       "Duration2": 6,
       "Wave3": "",
       "Duration3": "",
+      "SuddenWave": "",
+      "Duration4": "",
       "HPValue": 226,
       "DamageValue": 14
     },
@@ -218,6 +250,8 @@
       "Duration2": 2,
       "Wave3": "",
       "Duration3": "",
+      "SuddenWave": "",
+      "Duration4": "",
       "HPValue": 253,
       "DamageValue": 15
     },
@@ -231,6 +265,8 @@
       "Duration2": 4,
       "Wave3": "",
       "Duration3": "",
+      "SuddenWave": "",
+      "Duration4": "",
       "HPValue": 270,
       "DamageValue": 15
     },
@@ -244,6 +280,8 @@
       "Duration2": 4,
       "Wave3": "",
       "Duration3": "",
+      "SuddenWave": "",
+      "Duration4": "",
       "HPValue": 306,
       "DamageValue": 15
     },
@@ -257,6 +295,8 @@
       "Duration2": 5,
       "Wave3": "121:4,123:2,151:1",
       "Duration3": 8,
+      "SuddenWave": "",
+      "Duration4": "",
       "HPValue": 342,
       "DamageValue": 16
     },
@@ -270,6 +310,8 @@
       "Duration2": "",
       "Wave3": "",
       "Duration3": "",
+      "SuddenWave": "",
+      "Duration4": "",
       "HPValue": 662,
       "DamageValue": 16
     },
@@ -283,6 +325,8 @@
       "Duration2": 10,
       "Wave3": "",
       "Duration3": "",
+      "SuddenWave": "",
+      "Duration4": "",
       "HPValue": 769,
       "DamageValue": 21
     },
@@ -296,6 +340,8 @@
       "Duration2": 8,
       "Wave3": "133:10",
       "Duration3": 4,
+      "SuddenWave": "",
+      "Duration4": "",
       "HPValue": 848,
       "DamageValue": 25
     },
@@ -309,6 +355,8 @@
       "Duration2": 12,
       "Wave3": "",
       "Duration3": "",
+      "SuddenWave": "",
+      "Duration4": "",
       "HPValue": 999,
       "DamageValue": 30
     },
@@ -322,6 +370,8 @@
       "Duration2": 8,
       "Wave3": "",
       "Duration3": "",
+      "SuddenWave": "",
+      "Duration4": "",
       "HPValue": 1085,
       "DamageValue": 35
     },
@@ -335,6 +385,8 @@
       "Duration2": "",
       "Wave3": "",
       "Duration3": "",
+      "SuddenWave": "",
+      "Duration4": "",
       "HPValue": 1305,
       "DamageValue": 40
     },
@@ -348,6 +400,8 @@
       "Duration2": 4,
       "Wave3": "161:14",
       "Duration3": 2,
+      "SuddenWave": "",
+      "Duration4": "",
       "HPValue": 1389,
       "DamageValue": 46
     },
@@ -361,6 +415,8 @@
       "Duration2": 6,
       "Wave3": "",
       "Duration3": "",
+      "SuddenWave": "",
+      "Duration4": "",
       "HPValue": 1516,
       "DamageValue": 52
     },
@@ -374,6 +430,8 @@
       "Duration2": 10,
       "Wave3": "",
       "Duration3": "",
+      "SuddenWave": "",
+      "Duration4": "",
       "HPValue": 1954,
       "DamageValue": 58
     },
@@ -387,6 +445,8 @@
       "Duration2": 5,
       "Wave3": "131:5,133:3,161:1",
       "Duration3": 8,
+      "SuddenWave": "",
+      "Duration4": "",
       "HPValue": 2122,
       "DamageValue": 65
     },
@@ -400,6 +460,8 @@
       "Duration2": 5,
       "Wave3": "",
       "Duration3": "",
+      "SuddenWave": "",
+      "Duration4": "",
       "HPValue": 2772,
       "DamageValue": 71
     },
@@ -413,6 +475,8 @@
       "Duration2": 4,
       "Wave3": "143:20",
       "Duration3": 6,
+      "SuddenWave": "",
+      "Duration4": "",
       "HPValue": 3022,
       "DamageValue": 79
     },
@@ -426,6 +490,8 @@
       "Duration2": 2,
       "Wave3": "161:15",
       "Duration3": 6,
+      "SuddenWave": "",
+      "Duration4": "",
       "HPValue": 3226,
       "DamageValue": 86
     },
@@ -439,6 +505,8 @@
       "Duration2": 6,
       "Wave3": "",
       "Duration3": "",
+      "SuddenWave": "",
+      "Duration4": "",
       "HPValue": 3385,
       "DamageValue": 96
     },
@@ -452,6 +520,8 @@
       "Duration2": 3,
       "Wave3": "",
       "Duration3": "",
+      "SuddenWave": "",
+      "Duration4": "",
       "HPValue": 3715,
       "DamageValue": 104
     },
@@ -465,6 +535,8 @@
       "Duration2": 6,
       "Wave3": "",
       "Duration3": "",
+      "SuddenWave": "",
+      "Duration4": "",
       "HPValue": 4558,
       "DamageValue": 107
     },
@@ -478,6 +550,8 @@
       "Duration2": 6,
       "Wave3": "",
       "Duration3": "",
+      "SuddenWave": "",
+      "Duration4": "",
       "HPValue": 4879,
       "DamageValue": 111
     },
@@ -491,6 +565,8 @@
       "Duration2": 5,
       "Wave3": "143:18",
       "Duration3": 5,
+      "SuddenWave": "",
+      "Duration4": "",
       "HPValue": 5368,
       "DamageValue": 114
     },
@@ -504,6 +580,8 @@
       "Duration2": 5,
       "Wave3": "161:40",
       "Duration3": 5,
+      "SuddenWave": "",
+      "Duration4": "",
       "HPValue": 5512,
       "DamageValue": 117
     },
@@ -517,6 +595,8 @@
       "Duration2": 5,
       "Wave3": "141:6,143:4,161:2",
       "Duration3": 8,
+      "SuddenWave": "",
+      "Duration4": "",
       "HPValue": 5655,
       "DamageValue": 121
     },
@@ -530,6 +610,8 @@
       "Duration2": 8,
       "Wave3": "151:10",
       "Duration3": 5,
+      "SuddenWave": "",
+      "Duration4": "",
       "HPValue": 6888,
       "DamageValue": 136
     },
@@ -543,6 +625,8 @@
       "Duration2": 8,
       "Wave3": "",
       "Duration3": "",
+      "SuddenWave": "",
+      "Duration4": "",
       "HPValue": 8611,
       "DamageValue": 151
     },
@@ -556,6 +640,8 @@
       "Duration2": 12,
       "Wave3": "",
       "Duration3": "",
+      "SuddenWave": "",
+      "Duration4": "",
       "HPValue": 9069,
       "DamageValue": 166
     },
@@ -569,6 +655,8 @@
       "Duration2": 15,
       "Wave3": "",
       "Duration3": "",
+      "SuddenWave": "",
+      "Duration4": "",
       "HPValue": 9439,
       "DamageValue": 181
     },
@@ -582,6 +670,8 @@
       "Duration2": "",
       "Wave3": "",
       "Duration3": "",
+      "SuddenWave": "",
+      "Duration4": "",
       "HPValue": 10382,
       "DamageValue": 187
     },
@@ -595,6 +685,8 @@
       "Duration2": 12,
       "Wave3": "",
       "Duration3": "",
+      "SuddenWave": "",
+      "Duration4": "",
       "HPValue": 11480,
       "DamageValue": 194
     },
@@ -608,6 +700,8 @@
       "Duration2": 8,
       "Wave3": "",
       "Duration3": "",
+      "SuddenWave": "",
+      "Duration4": "",
       "HPValue": 11832,
       "DamageValue": 200
     },
@@ -621,6 +715,8 @@
       "Duration2": 8,
       "Wave3": "141:40",
       "Duration3": 2,
+      "SuddenWave": "",
+      "Duration4": "",
       "HPValue": 12180,
       "DamageValue": 207
     },
@@ -634,6 +730,8 @@
       "Duration2": 12,
       "Wave3": "",
       "Duration3": "",
+      "SuddenWave": "",
+      "Duration4": "",
       "HPValue": 12524,
       "DamageValue": 213
     },
@@ -647,6 +745,8 @@
       "Duration2": 5,
       "Wave3": "113:3,123:3,133:3,143:3,151:2,161:2",
       "Duration3": 8,
+      "SuddenWave": "",
+      "Duration4": "",
       "HPValue": 12864,
       "DamageValue": 227
     }
