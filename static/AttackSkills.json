@@ -372,7 +372,7 @@
       "Value5": "",
       "Value6": "",
       "SoundName": "Attack_battle_axe",
-      "PrefabName": "Strike_battle_axe",
+      "PrefabName": "Swing_battle_axe",
       "HitFXName": "FX_Hit_Impact"
     },
     {
@@ -397,7 +397,7 @@
       "Value5": "",
       "Value6": "",
       "SoundName": "Attack_battle_axe",
-      "PrefabName": "Strike_battle_axe",
+      "PrefabName": "Swing_battle_axe",
       "HitFXName": "FX_Hit_Impact"
     },
     {
@@ -422,7 +422,7 @@
       "Value5": "",
       "Value6": "",
       "SoundName": "Attack_battle_axe",
-      "PrefabName": "Strike_battle_axe",
+      "PrefabName": "Swing_battle_axe",
       "HitFXName": "FX_Hit_Impact"
     },
     {
