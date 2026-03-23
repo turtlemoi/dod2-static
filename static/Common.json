@@ -1,6 +1,18 @@
 {
   "data": [
     {
+      "Key": "shop_interest_price",
+      "Value": 10
+    },
+    {
+      "Key": "shop_interest_value",
+      "Value": 1
+    },
+    {
+      "Key": "shop_interest_max",
+      "Value": 5
+    },
+    {
       "Key": "shop_exp_price",
       "Value": 4
     },

@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-03-23T02:31:02.305Z",
+  "updatedAt": "2026-03-23T03:07:14.722Z",
   "sheets": [
     {
       "name": "Common",
-      "version": 22,
-      "hash": "d6a899a0bb653c25f858efa5d5d241bffd92f64e51e65b9765c2a0d252aba6f1",
+      "version": 23,
+      "hash": "1c704376b69830fca06909be452100cc1c4160b0a19d469efa107ea352245a6a",
       "url": "/static/Common.json"
     },
     {
@@ -46,7 +46,7 @@
     {
       "name": "AttackSkills",
       "version": 177,
-      "hash": "fbd14b01b6f8343d8d7f317421b9f32cf73e5e388c5dc5498532d098cdbd908e",
+      "hash": "c2910dc35e5d27b41111f114276145daaabbadba7ee026458e43cb2e05700106",
       "url": "/static/AttackSkills.json"
     },
     {
@@ -69,8 +69,8 @@
     },
     {
       "name": "InGameShop",
-      "version": 6,
-      "hash": "6462a99d7b79d88d5d389a41a8f8b3ac7733c3a1c1aae5266dd5ed7c27333c8f",
+      "version": 7,
+      "hash": "ed4eb2570de938b9642411b387451de474fd62d8698fec19c128819ce83e7b3e",
       "url": "/static/InGameShop.json"
     }
   ]
