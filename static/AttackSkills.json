@@ -3522,7 +3522,7 @@
       "Value5": 2,
       "Value6": 1,
       "SoundName": "Attack_palm_electric",
-      "PrefabName": "Strike_palm_electric",
+      "PrefabName": "Homing_shadowkick",
       "HitFXName": "FX_Hit_Lightning"
     },
     {
