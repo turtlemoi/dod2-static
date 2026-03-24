@@ -1347,7 +1347,7 @@
       "Value5": 50,
       "Value6": 0,
       "SoundName": "Attack_arrow",
-      "PrefabName": "Mortar_arrow_big",
+      "PrefabName": "Projectile_arrow_big",
       "HitFXName": "FX_Hit_Pierce"
     },
     {
@@ -1372,7 +1372,7 @@
       "Value5": 50,
       "Value6": 0,
       "SoundName": "Attack_arrow",
-      "PrefabName": "Mortar_arrow_big",
+      "PrefabName": "Projectile_arrow_big",
       "HitFXName": "FX_Hit_Pierce"
     },
     {
@@ -1397,7 +1397,7 @@
       "Value5": 50,
       "Value6": 0,
       "SoundName": "Attack_arrow",
-      "PrefabName": "Mortar_arrow_big",
+      "PrefabName": "Projectile_arrow_big",
       "HitFXName": "FX_Hit_Pierce"
     },
     {
@@ -1422,7 +1422,7 @@
       "Value5": 50,
       "Value6": 20,
       "SoundName": "Attack_arrow_electric",
-      "PrefabName": "Mortar_arrow_electric",
+      "PrefabName": "Projectile_arrow_electric",
       "HitFXName": "FX_Hit_Lightning"
     },
     {
@@ -1447,7 +1447,7 @@
       "Value5": 50,
       "Value6": 20,
       "SoundName": "Attack_arrow_electric",
-      "PrefabName": "Mortar_arrow_electric",
+      "PrefabName": "Projectile_arrow_electric",
       "HitFXName": "FX_Hit_Lightning"
     },
     {
@@ -1472,7 +1472,7 @@
       "Value5": 50,
       "Value6": 20,
       "SoundName": "Attack_arrow_electric",
-      "PrefabName": "Mortar_arrow_electric",
+      "PrefabName": "Projectile_arrow_electric",
       "HitFXName": "FX_Hit_Lightning"
     },
     {
