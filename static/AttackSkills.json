@@ -3369,8 +3369,8 @@
       "Value2": 2,
       "Value3": 60,
       "Value4": 5,
-      "Value5": 1,
-      "Value6": "",
+      "Value5": 0.5,
+      "Value6": 0.05,
       "SoundName": "",
       "PrefabName": "BurstProjectile _punch",
       "HitFXName": "FX_Hit_Impact"
@@ -3394,8 +3394,8 @@
       "Value2": 2,
       "Value3": 60,
       "Value4": 5,
-      "Value5": 1,
-      "Value6": "",
+      "Value5": 0.5,
+      "Value6": 0.05,
       "SoundName": "",
       "PrefabName": "BurstProjectile _punch",
       "HitFXName": "FX_Hit_Impact"
@@ -3419,8 +3419,8 @@
       "Value2": 2,
       "Value3": 60,
       "Value4": 5,
-      "Value5": 1,
-      "Value6": "",
+      "Value5": 0.5,
+      "Value6": 0.05,
       "SoundName": "",
       "PrefabName": "BurstProjectile _punch",
       "HitFXName": "FX_Hit_Impact"
