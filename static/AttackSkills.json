@@ -2317,7 +2317,7 @@
     {
       "ID": 130081,
       "SkillName": "빙결지대",
-      "SkillType": 6,
+      "SkillType": 4,
       "SkillLevel": 1,
       "CoolDown": 15,
       "SkillLimit": 1,
@@ -2343,7 +2343,7 @@
     {
       "ID": 130082,
       "SkillName": "빙결지대",
-      "SkillType": 6,
+      "SkillType": 4,
       "SkillLevel": 2,
       "CoolDown": 15,
       "SkillLimit": 1,
@@ -2369,7 +2369,7 @@
     {
       "ID": 130083,
       "SkillName": "빙결지대",
-      "SkillType": 6,
+      "SkillType": 4,
       "SkillLevel": 3,
       "CoolDown": 15,
       "SkillLimit": 1,
