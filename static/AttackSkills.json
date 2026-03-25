@@ -23,6 +23,7 @@
       "Value6": "",
       "SoundName": "Attack_Character_Sword",
       "PrefabName": "Character_Attack_1_Strike",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Impact"
     },
     {
@@ -48,6 +49,7 @@
       "Value6": "",
       "SoundName": "Attack_Character_Axe",
       "PrefabName": "Character_Attack_2_Strike",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Impact"
     },
     {
@@ -73,6 +75,7 @@
       "Value6": 1,
       "SoundName": "Attack_arrow",
       "PrefabName": "Mortar_arrow",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Pierce"
     },
     {
@@ -98,6 +101,7 @@
       "Value6": 0,
       "SoundName": "Attack_energybolt",
       "PrefabName": "Projectile_energybolt",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Ice"
     },
     {
@@ -123,6 +127,7 @@
       "Value6": 0,
       "SoundName": "Attack_energybolt_green",
       "PrefabName": "Projectile_energybolt_green",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Dark"
     },
     {
@@ -148,6 +153,7 @@
       "Value6": "",
       "SoundName": "Attack_Character_Palm",
       "PrefabName": "Character_Attack_6_Strike",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Impact"
     },
     {
@@ -173,6 +179,7 @@
       "Value6": "",
       "SoundName": "Attack_dagger",
       "PrefabName": "Character_Attack_7_Strike",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Pierce"
     },
     {
@@ -198,6 +205,7 @@
       "Value6": 0,
       "SoundName": "Attack_skull_green",
       "PrefabName": "Projectile_skull_green",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Poison"
     },
     {
@@ -223,6 +231,7 @@
       "Value6": "",
       "SoundName": "Attack_spear",
       "PrefabName": "Strike_spear",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Pierce"
     },
     {
@@ -248,6 +257,7 @@
       "Value6": "",
       "SoundName": "Attack_spear",
       "PrefabName": "Strike_spear",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Pierce"
     },
     {
@@ -273,6 +283,7 @@
       "Value6": "",
       "SoundName": "Attack_spear",
       "PrefabName": "Strike_spear",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Pierce"
     },
     {
@@ -298,6 +309,7 @@
       "Value6": 1,
       "SoundName": "Attack_battle_axe_throw",
       "PrefabName": "Projectile_battle_axe",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Impact"
     },
     {
@@ -323,6 +335,7 @@
       "Value6": 1,
       "SoundName": "Attack_battle_axe_throw",
       "PrefabName": "Projectile_battle_axe",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Impact"
     },
     {
@@ -348,6 +361,7 @@
       "Value6": 1,
       "SoundName": "Attack_battle_axe_throw",
       "PrefabName": "Projectile_battle_axe",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Impact"
     },
     {
@@ -373,6 +387,7 @@
       "Value6": "",
       "SoundName": "Attack_battle_axe",
       "PrefabName": "Swing_battle_axe",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Impact"
     },
     {
@@ -398,6 +413,7 @@
       "Value6": "",
       "SoundName": "Attack_battle_axe",
       "PrefabName": "Swing_battle_axe",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Impact"
     },
     {
@@ -423,6 +439,7 @@
       "Value6": "",
       "SoundName": "Attack_battle_axe",
       "PrefabName": "Swing_battle_axe",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Impact"
     },
     {
@@ -448,6 +465,7 @@
       "Value6": "",
       "SoundName": "Attack_swordaura",
       "PrefabName": "Swing_swordaura",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Pierce"
     },
     {
@@ -473,6 +491,7 @@
       "Value6": "",
       "SoundName": "Attack_swordaura",
       "PrefabName": "Swing_swordaura",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Pierce"
     },
     {
@@ -498,6 +517,7 @@
       "Value6": "",
       "SoundName": "Attack_swordaura",
       "PrefabName": "Swing_swordaura",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Pierce"
     },
     {
@@ -523,6 +543,7 @@
       "Value6": 120,
       "SoundName": "Attack_sword_fire",
       "PrefabName": "Homing_sword_fire",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Fire"
     },
     {
@@ -548,6 +569,7 @@
       "Value6": 120,
       "SoundName": "Attack_sword_fire",
       "PrefabName": "Homing_sword_fire",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Fire"
     },
     {
@@ -573,6 +595,7 @@
       "Value6": 120,
       "SoundName": "Attack_sword_fire",
       "PrefabName": "Homing_sword_fire",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Fire"
     },
     {
@@ -598,6 +621,7 @@
       "Value6": "",
       "SoundName": "Attack_rock",
       "PrefabName": "Wave_rock",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Impact"
     },
     {
@@ -623,6 +647,7 @@
       "Value6": "",
       "SoundName": "Attack_rock",
       "PrefabName": "Wave_rock",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Impact"
     },
     {
@@ -648,6 +673,7 @@
       "Value6": "",
       "SoundName": "Attack_rock",
       "PrefabName": "Wave_rock",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Impact"
     },
     {
@@ -673,6 +699,7 @@
       "Value6": 120,
       "SoundName": "Attack_spear_electric",
       "PrefabName": "Homing_sword",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Lightning"
     },
     {
@@ -698,6 +725,7 @@
       "Value6": 120,
       "SoundName": "Attack_spear_electric",
       "PrefabName": "Homing_sword",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Lightning"
     },
     {
@@ -723,6 +751,7 @@
       "Value6": 120,
       "SoundName": "Attack_spear_electric",
       "PrefabName": "Homing_sword",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Lightning"
     },
     {
@@ -748,6 +777,7 @@
       "Value6": "",
       "SoundName": "Attack_wind",
       "PrefabName": "Wave_wind",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Pierce"
     },
     {
@@ -773,6 +803,7 @@
       "Value6": "",
       "SoundName": "Attack_wind",
       "PrefabName": "Wave_wind",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Pierce"
     },
     {
@@ -798,6 +829,7 @@
       "Value6": "",
       "SoundName": "Attack_wind",
       "PrefabName": "Wave_wind",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Pierce"
     },
     {
@@ -823,6 +855,7 @@
       "Value6": 0,
       "SoundName": "Attack_swordaura_fire",
       "PrefabName": "Projectile_swordaura_fire",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Fire"
     },
     {
@@ -848,6 +881,7 @@
       "Value6": 0,
       "SoundName": "Attack_swordaura_fire",
       "PrefabName": "Projectile_swordaura_fire",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Fire"
     },
     {
@@ -873,6 +907,7 @@
       "Value6": 0,
       "SoundName": "Attack_swordaura_fire",
       "PrefabName": "Projectile_swordaura_fire",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Fire"
     },
     {
@@ -898,6 +933,7 @@
       "Value6": 0,
       "SoundName": "Attack_swordaura_ice",
       "PrefabName": "Projectile_swordaura_ice",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Ice"
     },
     {
@@ -923,6 +959,7 @@
       "Value6": 0,
       "SoundName": "Attack_swordaura_ice",
       "PrefabName": "Projectile_swordaura_ice",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Ice"
     },
     {
@@ -948,6 +985,7 @@
       "Value6": 0,
       "SoundName": "Attack_swordaura_ice",
       "PrefabName": "Projectile_swordaura_ice",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Ice"
     },
     {
@@ -973,6 +1011,7 @@
       "Value6": "",
       "SoundName": "Attack_arrow_Strike",
       "PrefabName": "Strike_arrow",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Dark"
     },
     {
@@ -998,6 +1037,7 @@
       "Value6": "",
       "SoundName": "Attack_arrow_Strike",
       "PrefabName": "Strike_arrow",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Dark"
     },
     {
@@ -1023,6 +1063,7 @@
       "Value6": "",
       "SoundName": "Attack_arrow_Strike",
       "PrefabName": "Strike_arrow",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Dark"
     },
     {
@@ -1048,6 +1089,7 @@
       "Value6": 1,
       "SoundName": "Attack_arrow",
       "PrefabName": "Mortar_arrow",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Pierce"
     },
     {
@@ -1073,6 +1115,7 @@
       "Value6": 1,
       "SoundName": "Attack_arrow",
       "PrefabName": "Mortar_arrow",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Pierce"
     },
     {
@@ -1098,6 +1141,7 @@
       "Value6": 1,
       "SoundName": "Attack_arrow",
       "PrefabName": "Mortar_arrow",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Pierce"
     },
     {
@@ -1123,6 +1167,7 @@
       "Value6": 1,
       "SoundName": "Attack_arrow_bomb",
       "PrefabName": "Mortar_arrow_bomb",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Impact"
     },
     {
@@ -1148,6 +1193,7 @@
       "Value6": 1,
       "SoundName": "Attack_arrow_bomb",
       "PrefabName": "Mortar_arrow_bomb",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Impact"
     },
     {
@@ -1173,6 +1219,7 @@
       "Value6": 1,
       "SoundName": "Attack_arrow_bomb",
       "PrefabName": "Mortar_arrow_bomb",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Impact"
     },
     {
@@ -1198,6 +1245,7 @@
       "Value6": 7,
       "SoundName": "Attack_arrow_poison",
       "PrefabName": "Mortar_arrow_poison",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Poison"
     },
     {
@@ -1223,6 +1271,7 @@
       "Value6": 7,
       "SoundName": "Attack_arrow_poison",
       "PrefabName": "Mortar_arrow_poison",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Poison"
     },
     {
@@ -1248,6 +1297,7 @@
       "Value6": 7,
       "SoundName": "Attack_arrow_poison",
       "PrefabName": "Mortar_arrow_poison",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Poison"
     },
     {
@@ -1273,6 +1323,7 @@
       "Value6": 1,
       "SoundName": null,
       "PrefabName": null,
+      "SubPrefabName": null,
       "HitFXName": null
     },
     {
@@ -1298,6 +1349,7 @@
       "Value6": 1,
       "SoundName": null,
       "PrefabName": null,
+      "SubPrefabName": null,
       "HitFXName": null
     },
     {
@@ -1323,6 +1375,7 @@
       "Value6": 1,
       "SoundName": null,
       "PrefabName": null,
+      "SubPrefabName": null,
       "HitFXName": null
     },
     {
@@ -1348,6 +1401,7 @@
       "Value6": 0,
       "SoundName": "Attack_arrow",
       "PrefabName": "Projectile_arrow_big",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Pierce"
     },
     {
@@ -1373,6 +1427,7 @@
       "Value6": 0,
       "SoundName": "Attack_arrow",
       "PrefabName": "Projectile_arrow_big",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Pierce"
     },
     {
@@ -1398,6 +1453,7 @@
       "Value6": 0,
       "SoundName": "Attack_arrow",
       "PrefabName": "Projectile_arrow_big",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Pierce"
     },
     {
@@ -1419,10 +1475,11 @@
       "Value2": 1,
       "Value3": 0,
       "Value4": 1,
-      "Value5": 50,
+      "Value5": 80,
       "Value6": 20,
       "SoundName": "Attack_arrow_electric",
       "PrefabName": "Projectile_arrow_electric",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Lightning"
     },
     {
@@ -1444,10 +1501,11 @@
       "Value2": 1,
       "Value3": 0,
       "Value4": 1,
-      "Value5": 50,
+      "Value5": 80,
       "Value6": 20,
       "SoundName": "Attack_arrow_electric",
       "PrefabName": "Projectile_arrow_electric",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Lightning"
     },
     {
@@ -1469,10 +1527,11 @@
       "Value2": 1,
       "Value3": 0,
       "Value4": 1,
-      "Value5": 50,
+      "Value5": 80,
       "Value6": 20,
       "SoundName": "Attack_arrow_electric",
       "PrefabName": "Projectile_arrow_electric",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Lightning"
     },
     {
@@ -1498,6 +1557,7 @@
       "Value6": 0,
       "SoundName": "Attack_arrow_storm",
       "PrefabName": "Projectile_arrow_storm",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Ice"
     },
     {
@@ -1523,6 +1583,7 @@
       "Value6": 0,
       "SoundName": "Attack_arrow_storm",
       "PrefabName": "Projectile_arrow_storm",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Ice"
     },
     {
@@ -1548,6 +1609,7 @@
       "Value6": 0,
       "SoundName": "Attack_arrow_storm",
       "PrefabName": "Projectile_arrow_storm",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Ice"
     },
     {
@@ -1573,6 +1635,7 @@
       "Value6": 5,
       "SoundName": "Attack_arrow",
       "PrefabName": "Mortar_arrow",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Pierce"
     },
     {
@@ -1598,6 +1661,7 @@
       "Value6": 5,
       "SoundName": "Attack_arrow",
       "PrefabName": "Mortar_arrow",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Pierce"
     },
     {
@@ -1623,6 +1687,7 @@
       "Value6": 5,
       "SoundName": "Attack_arrow",
       "PrefabName": "Mortar_arrow",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Pierce"
     },
     {
@@ -1648,6 +1713,7 @@
       "Value6": 0,
       "SoundName": "Attack_arrow_dragon",
       "PrefabName": "Projectile_arrow_dragon",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Fire"
     },
     {
@@ -1673,6 +1739,7 @@
       "Value6": 0,
       "SoundName": "Attack_arrow_dragon",
       "PrefabName": "Projectile_arrow_dragon",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Fire"
     },
     {
@@ -1698,6 +1765,7 @@
       "Value6": 0,
       "SoundName": "Attack_arrow_dragon",
       "PrefabName": "Projectile_arrow_dragon",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Fire"
     },
     {
@@ -1723,6 +1791,7 @@
       "Value6": "",
       "SoundName": "Attack_ice_pillar",
       "PrefabName": "Strike_ice_pillar",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Ice"
     },
     {
@@ -1748,6 +1817,7 @@
       "Value6": "",
       "SoundName": "Attack_ice_pillar",
       "PrefabName": "Strike_ice_pillar",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Ice"
     },
     {
@@ -1773,6 +1843,7 @@
       "Value6": "",
       "SoundName": "Attack_ice_pillar",
       "PrefabName": "Strike_ice_pillar",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Ice"
     },
     {
@@ -1798,6 +1869,7 @@
       "Value6": 0,
       "SoundName": "Attack_energybolt_fire_middle",
       "PrefabName": "Projectile_energybolt_fire_middle",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Fire"
     },
     {
@@ -1823,6 +1895,7 @@
       "Value6": 0,
       "SoundName": "Attack_energybolt_fire_middle",
       "PrefabName": "Projectile_energybolt_fire_middle",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Fire"
     },
     {
@@ -1848,6 +1921,7 @@
       "Value6": 0,
       "SoundName": "Attack_energybolt_fire_middle",
       "PrefabName": "Projectile_energybolt_fire_middle",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Fire"
     },
     {
@@ -1873,6 +1947,7 @@
       "Value6": "",
       "SoundName": "Attack_electric",
       "PrefabName": "ChainLightning",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Lightning"
     },
     {
@@ -1898,6 +1973,7 @@
       "Value6": "",
       "SoundName": "Attack_electric",
       "PrefabName": "ChainLightning",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Lightning"
     },
     {
@@ -1923,6 +1999,7 @@
       "Value6": "",
       "SoundName": "Attack_electric",
       "PrefabName": "ChainLightning",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Lightning"
     },
     {
@@ -1948,6 +2025,7 @@
       "Value6": "",
       "SoundName": "Attack_rotation_thorn_ice",
       "PrefabName": "Rotation_thorn_ice",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Ice"
     },
     {
@@ -1973,6 +2051,7 @@
       "Value6": "",
       "SoundName": "Attack_rotation_thorn_ice",
       "PrefabName": "Rotation_thorn_ice",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Ice"
     },
     {
@@ -1998,12 +2077,13 @@
       "Value6": "",
       "SoundName": "Attack_rotation_thorn_ice",
       "PrefabName": "Rotation_thorn_ice",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Ice"
     },
     {
       "ID": 130051,
       "SkillName": "프로즌 노바",
-      "SkillType": 3,
+      "SkillType": 12,
       "SkillLevel": 1,
       "CoolDown": 3.3,
       "SkillLimit": 1,
@@ -2015,20 +2095,21 @@
       "SkillRange": 20,
       "Pierce": 9999,
       "KnockbackForce": 5,
-      "Value1": 24,
-      "Value2": 10,
-      "Value3": "",
-      "Value4": "",
-      "Value5": "",
-      "Value6": "",
+      "Value1": 5,
+      "Value2": 2,
+      "Value3": 0.2,
+      "Value4": 30,
+      "Value5": 2,
+      "Value6": 50,
       "SoundName": "Attack_wave_ice",
-      "PrefabName": "Wave_ice",
+      "PrefabName": "Orb_ice",
+      "SubPrefabName": "OrbSub_thorn_ice",
       "HitFXName": "FX_Hit_Ice"
     },
     {
       "ID": 130052,
       "SkillName": "프로즌 노바",
-      "SkillType": 3,
+      "SkillType": 12,
       "SkillLevel": 2,
       "CoolDown": 3.3,
       "SkillLimit": 1,
@@ -2040,20 +2121,21 @@
       "SkillRange": 20,
       "Pierce": 9999,
       "KnockbackForce": 5,
-      "Value1": 24,
-      "Value2": 10,
-      "Value3": "",
-      "Value4": "",
-      "Value5": "",
-      "Value6": "",
+      "Value1": 5,
+      "Value2": 2,
+      "Value3": 0.2,
+      "Value4": 30,
+      "Value5": 2,
+      "Value6": 50,
       "SoundName": "Attack_wave_ice",
-      "PrefabName": "Wave_ice",
+      "PrefabName": "Orb_ice",
+      "SubPrefabName": "OrbSub_thorn_ice",
       "HitFXName": "FX_Hit_Ice"
     },
     {
       "ID": 130053,
       "SkillName": "프로즌 노바",
-      "SkillType": 3,
+      "SkillType": 12,
       "SkillLevel": 3,
       "CoolDown": 3.3,
       "SkillLimit": 1,
@@ -2065,14 +2147,15 @@
       "SkillRange": 20,
       "Pierce": 9999,
       "KnockbackForce": 5,
-      "Value1": 24,
-      "Value2": 10,
-      "Value3": "",
-      "Value4": "",
-      "Value5": "",
-      "Value6": "",
+      "Value1": 5,
+      "Value2": 2,
+      "Value3": 0.2,
+      "Value4": 30,
+      "Value5": 2,
+      "Value6": 50,
       "SoundName": "Attack_wave_ice",
-      "PrefabName": "Wave_ice",
+      "PrefabName": "Orb_ice",
+      "SubPrefabName": "OrbSub_thorn_ice",
       "HitFXName": "FX_Hit_Ice"
     },
     {
@@ -2098,6 +2181,7 @@
       "Value6": "",
       "SoundName": "Attack_electric",
       "PrefabName": "Wave_electric",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Lightning"
     },
     {
@@ -2123,6 +2207,7 @@
       "Value6": "",
       "SoundName": "Attack_electric",
       "PrefabName": "Wave_electric",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Lightning"
     },
     {
@@ -2148,6 +2233,7 @@
       "Value6": "",
       "SoundName": "Attack_electric",
       "PrefabName": "Wave_electric",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Lightning"
     },
     {
@@ -2173,6 +2259,7 @@
       "Value6": 0.1,
       "SoundName": "Attack_energybolt_fire_middle",
       "PrefabName": "BurstProjectile _fire",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Fire"
     },
     {
@@ -2198,6 +2285,7 @@
       "Value6": 0.1,
       "SoundName": "Attack_energybolt_fire_middle",
       "PrefabName": "BurstProjectile _fire",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Fire"
     },
     {
@@ -2223,6 +2311,7 @@
       "Value6": 0.1,
       "SoundName": "Attack_energybolt_fire_middle",
       "PrefabName": "BurstProjectile _fire",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Fire"
     },
     {
@@ -2248,6 +2337,7 @@
       "Value6": 1,
       "SoundName": null,
       "PrefabName": null,
+      "SubPrefabName": null,
       "HitFXName": null
     },
     {
@@ -2273,6 +2363,7 @@
       "Value6": 1,
       "SoundName": null,
       "PrefabName": null,
+      "SubPrefabName": null,
       "HitFXName": null
     },
     {
@@ -2298,6 +2389,7 @@
       "Value6": 1,
       "SoundName": null,
       "PrefabName": null,
+      "SubPrefabName": null,
       "HitFXName": null
     },
     {
@@ -2323,6 +2415,7 @@
       "Value6": "",
       "SoundName": "Attack_thunder",
       "PrefabName": "Strike_thunder",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Lightning"
     },
     {
@@ -2348,6 +2441,7 @@
       "Value6": "",
       "SoundName": "Attack_thunder",
       "PrefabName": "Strike_thunder",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Lightning"
     },
     {
@@ -2373,6 +2467,7 @@
       "Value6": "",
       "SoundName": "Attack_thunder",
       "PrefabName": "Strike_thunder",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Lightning"
     },
     {
@@ -2398,6 +2493,7 @@
       "Value6": "",
       "SoundName": "Attack_energybolt_fire_large",
       "PrefabName": "Strike_energybolt_fire_large",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Fire"
     },
     {
@@ -2423,6 +2519,7 @@
       "Value6": "",
       "SoundName": "Attack_energybolt_fire_large",
       "PrefabName": "Strike_energybolt_fire_large",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Fire"
     },
     {
@@ -2448,6 +2545,7 @@
       "Value6": "",
       "SoundName": "Attack_energybolt_fire_large",
       "PrefabName": "Strike_energybolt_fire_large",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Fire"
     },
     {
@@ -2473,6 +2571,7 @@
       "Value6": 1,
       "SoundName": null,
       "PrefabName": null,
+      "SubPrefabName": null,
       "HitFXName": null
     },
     {
@@ -2498,6 +2597,7 @@
       "Value6": 2,
       "SoundName": null,
       "PrefabName": null,
+      "SubPrefabName": null,
       "HitFXName": null
     },
     {
@@ -2523,6 +2623,7 @@
       "Value6": 3,
       "SoundName": null,
       "PrefabName": null,
+      "SubPrefabName": null,
       "HitFXName": null
     },
     {
@@ -2548,6 +2649,7 @@
       "Value6": 0,
       "SoundName": "Attack_skull_green",
       "PrefabName": "Projectile_skull_green",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Dark"
     },
     {
@@ -2573,6 +2675,7 @@
       "Value6": 0,
       "SoundName": "Attack_skull_green",
       "PrefabName": "Projectile_skull_green",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Dark"
     },
     {
@@ -2598,6 +2701,7 @@
       "Value6": 0,
       "SoundName": "Attack_skull_green",
       "PrefabName": "Projectile_skull_green",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Dark"
     },
     {
@@ -2623,6 +2727,7 @@
       "Value6": 0,
       "SoundName": "Attack_spear_bone",
       "PrefabName": "Projectile_spear_bone",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Pierce"
     },
     {
@@ -2648,6 +2753,7 @@
       "Value6": 0,
       "SoundName": "Attack_spear_bone",
       "PrefabName": "Projectile_spear_bone",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Pierce"
     },
     {
@@ -2673,6 +2779,7 @@
       "Value6": 0,
       "SoundName": "Attack_spear_bone",
       "PrefabName": "Projectile_spear_bone",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Pierce"
     },
     {
@@ -2698,6 +2805,7 @@
       "Value6": 2,
       "SoundName": null,
       "PrefabName": null,
+      "SubPrefabName": null,
       "HitFXName": null
     },
     {
@@ -2723,6 +2831,7 @@
       "Value6": 3,
       "SoundName": null,
       "PrefabName": null,
+      "SubPrefabName": null,
       "HitFXName": null
     },
     {
@@ -2748,6 +2857,7 @@
       "Value6": 4,
       "SoundName": null,
       "PrefabName": null,
+      "SubPrefabName": null,
       "HitFXName": null
     },
     {
@@ -2773,6 +2883,7 @@
       "Value6": 1,
       "SoundName": null,
       "PrefabName": null,
+      "SubPrefabName": null,
       "HitFXName": null
     },
     {
@@ -2798,6 +2909,7 @@
       "Value6": 1,
       "SoundName": null,
       "PrefabName": null,
+      "SubPrefabName": null,
       "HitFXName": null
     },
     {
@@ -2823,6 +2935,7 @@
       "Value6": 1,
       "SoundName": null,
       "PrefabName": null,
+      "SubPrefabName": null,
       "HitFXName": null
     },
     {
@@ -2848,6 +2961,7 @@
       "Value6": "",
       "SoundName": "Attack_poison",
       "PrefabName": "Wave_poison",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Poison"
     },
     {
@@ -2873,6 +2987,7 @@
       "Value6": "",
       "SoundName": "Attack_poison",
       "PrefabName": "Wave_poison",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Poison"
     },
     {
@@ -2898,6 +3013,7 @@
       "Value6": "",
       "SoundName": "Attack_poison",
       "PrefabName": "Wave_poison",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Poison"
     },
     {
@@ -2923,6 +3039,7 @@
       "Value6": "",
       "SoundName": "Attack_blood",
       "PrefabName": "Wave_blood",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Dark"
     },
     {
@@ -2948,6 +3065,7 @@
       "Value6": "",
       "SoundName": "Attack_blood",
       "PrefabName": "Wave_blood",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Dark"
     },
     {
@@ -2973,6 +3091,7 @@
       "Value6": "",
       "SoundName": "Attack_blood",
       "PrefabName": "Wave_blood",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Dark"
     },
     {
@@ -2998,6 +3117,7 @@
       "Value6": 1,
       "SoundName": null,
       "PrefabName": null,
+      "SubPrefabName": null,
       "HitFXName": null
     },
     {
@@ -3023,6 +3143,7 @@
       "Value6": 1,
       "SoundName": null,
       "PrefabName": null,
+      "SubPrefabName": null,
       "HitFXName": null
     },
     {
@@ -3048,6 +3169,7 @@
       "Value6": 1,
       "SoundName": null,
       "PrefabName": null,
+      "SubPrefabName": null,
       "HitFXName": null
     },
     {
@@ -3073,6 +3195,7 @@
       "Value6": 1,
       "SoundName": null,
       "PrefabName": null,
+      "SubPrefabName": null,
       "HitFXName": null
     },
     {
@@ -3098,6 +3221,7 @@
       "Value6": 1,
       "SoundName": null,
       "PrefabName": null,
+      "SubPrefabName": null,
       "HitFXName": null
     },
     {
@@ -3123,6 +3247,7 @@
       "Value6": 1,
       "SoundName": null,
       "PrefabName": null,
+      "SubPrefabName": null,
       "HitFXName": null
     },
     {
@@ -3148,6 +3273,7 @@
       "Value6": "",
       "SoundName": "",
       "PrefabName": "Aura_tomb",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Aura_tomb"
     },
     {
@@ -3173,6 +3299,7 @@
       "Value6": "",
       "SoundName": "",
       "PrefabName": "Aura_tomb",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Aura_tomb"
     },
     {
@@ -3198,6 +3325,7 @@
       "Value6": "",
       "SoundName": "",
       "PrefabName": "Aura_tomb",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Aura_tomb"
     },
     {
@@ -3223,6 +3351,7 @@
       "Value6": "",
       "SoundName": "Attack_fire",
       "PrefabName": "Wave_fire",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Fire"
     },
     {
@@ -3248,6 +3377,7 @@
       "Value6": "",
       "SoundName": "Attack_fire",
       "PrefabName": "Wave_fire",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Fire"
     },
     {
@@ -3273,6 +3403,7 @@
       "Value6": "",
       "SoundName": "Attack_fire",
       "PrefabName": "Wave_fire",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Fire"
     },
     {
@@ -3298,6 +3429,7 @@
       "Value6": "",
       "SoundName": "Attack_punch",
       "PrefabName": "Strike_punch",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Impact"
     },
     {
@@ -3323,6 +3455,7 @@
       "Value6": "",
       "SoundName": "Attack_punch",
       "PrefabName": "Strike_punch",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Impact"
     },
     {
@@ -3348,6 +3481,7 @@
       "Value6": "",
       "SoundName": "Attack_punch",
       "PrefabName": "Strike_punch",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Impact"
     },
     {
@@ -3373,6 +3507,7 @@
       "Value6": 0.13,
       "SoundName": "",
       "PrefabName": "BurstProjectile _punch",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Impact"
     },
     {
@@ -3398,6 +3533,7 @@
       "Value6": 0.13,
       "SoundName": "",
       "PrefabName": "BurstProjectile _punch",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Impact"
     },
     {
@@ -3423,6 +3559,7 @@
       "Value6": 0.13,
       "SoundName": "",
       "PrefabName": "BurstProjectile _punch",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Impact"
     },
     {
@@ -3448,6 +3585,7 @@
       "Value6": "",
       "SoundName": "Attack_punch_ice",
       "PrefabName": "Strike_punch_ice",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Ice"
     },
     {
@@ -3473,6 +3611,7 @@
       "Value6": "",
       "SoundName": "Attack_punch_ice",
       "PrefabName": "Strike_punch_ice",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Ice"
     },
     {
@@ -3498,6 +3637,7 @@
       "Value6": "",
       "SoundName": "Attack_punch_ice",
       "PrefabName": "Strike_punch_ice",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Ice"
     },
     {
@@ -3523,6 +3663,7 @@
       "Value6": 1,
       "SoundName": "Attack_palm_electric",
       "PrefabName": "Homing_shadowkick",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Lightning"
     },
     {
@@ -3548,6 +3689,7 @@
       "Value6": "",
       "SoundName": "Attack_palm_electric",
       "PrefabName": "Strike_palm_electric",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Lightning"
     },
     {
@@ -3573,6 +3715,7 @@
       "Value6": "",
       "SoundName": "Attack_palm_electric",
       "PrefabName": "Strike_palm_electric",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Lightning"
     },
     {
@@ -3598,6 +3741,7 @@
       "Value6": 0,
       "SoundName": "Attack_energybolt",
       "PrefabName": "Projectile_energybolt",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Lightning"
     },
     {
@@ -3623,6 +3767,7 @@
       "Value6": 0,
       "SoundName": "Attack_energybolt",
       "PrefabName": "Projectile_energybolt",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Lightning"
     },
     {
@@ -3648,6 +3793,7 @@
       "Value6": 0,
       "SoundName": "Attack_energybolt",
       "PrefabName": "Projectile_energybolt",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Lightning"
     },
     {
@@ -3673,6 +3819,7 @@
       "Value6": "",
       "SoundName": "Attack_wave_ice_palm",
       "PrefabName": "Wave_ice_palm",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Ice"
     },
     {
@@ -3698,6 +3845,7 @@
       "Value6": "",
       "SoundName": "Attack_wave_ice_palm",
       "PrefabName": "Wave_ice_palm",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Ice"
     },
     {
@@ -3723,6 +3871,7 @@
       "Value6": "",
       "SoundName": "Attack_wave_ice_palm",
       "PrefabName": "Wave_ice_palm",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Ice"
     },
     {
@@ -3748,6 +3897,7 @@
       "Value6": "",
       "SoundName": "",
       "PrefabName": "Aura_energy_electric",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Lightning"
     },
     {
@@ -3773,6 +3923,7 @@
       "Value6": "",
       "SoundName": "",
       "PrefabName": "Aura_energy_electric",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Lightning"
     },
     {
@@ -3798,6 +3949,7 @@
       "Value6": "",
       "SoundName": "",
       "PrefabName": "Aura_energy_electric",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Lightning"
     },
     {
@@ -3823,6 +3975,7 @@
       "Value6": 0,
       "SoundName": "Attack_palm",
       "PrefabName": "Projectile_palm",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Lightning"
     },
     {
@@ -3848,6 +4001,7 @@
       "Value6": 0,
       "SoundName": "Attack_palm",
       "PrefabName": "Projectile_palm",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Lightning"
     },
     {
@@ -3873,6 +4027,7 @@
       "Value6": 0,
       "SoundName": "Attack_palm",
       "PrefabName": "Projectile_palm",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Lightning"
     },
     {
@@ -3898,6 +4053,7 @@
       "Value6": "",
       "SoundName": "Attack_rock_palm",
       "PrefabName": "Wave_rock_palm",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Impact"
     },
     {
@@ -3923,6 +4079,7 @@
       "Value6": "",
       "SoundName": "Attack_rock_palm",
       "PrefabName": "Wave_rock_palm",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Impact"
     },
     {
@@ -3948,6 +4105,7 @@
       "Value6": "",
       "SoundName": "Attack_rock_palm",
       "PrefabName": "Wave_rock_palm",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Impact"
     },
     {
@@ -3973,6 +4131,7 @@
       "Value6": "",
       "SoundName": "Attack_dagger_poison",
       "PrefabName": "Strike_dagger_poison",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Poison"
     },
     {
@@ -3998,6 +4157,7 @@
       "Value6": "",
       "SoundName": "Attack_dagger_poison",
       "PrefabName": "Strike_dagger_poison",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Poison"
     },
     {
@@ -4023,6 +4183,7 @@
       "Value6": "",
       "SoundName": "Attack_dagger_poison",
       "PrefabName": "Strike_dagger_poison",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Poison"
     },
     {
@@ -4048,6 +4209,7 @@
       "Value6": 0,
       "SoundName": "Attack_dagger_throw",
       "PrefabName": "Projectile_dagger",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Pierce"
     },
     {
@@ -4073,6 +4235,7 @@
       "Value6": 0,
       "SoundName": "Attack_dagger_throw",
       "PrefabName": "Projectile_dagger",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Pierce"
     },
     {
@@ -4098,6 +4261,7 @@
       "Value6": 0,
       "SoundName": "Attack_dagger_throw",
       "PrefabName": "Projectile_dagger",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Pierce"
     },
     {
@@ -4123,6 +4287,7 @@
       "Value6": 0,
       "SoundName": "Attack_dagger_throw",
       "PrefabName": "Projectile_dagger_poison",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Poison"
     },
     {
@@ -4148,6 +4313,7 @@
       "Value6": 0,
       "SoundName": "Attack_dagger_throw",
       "PrefabName": "Projectile_dagger_poison",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Poison"
     },
     {
@@ -4173,6 +4339,7 @@
       "Value6": 0,
       "SoundName": "Attack_dagger_throw",
       "PrefabName": "Projectile_dagger_poison",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Poison"
     },
     {
@@ -4198,6 +4365,7 @@
       "Value6": "",
       "SoundName": "Attack_dagger_Rotation",
       "PrefabName": "Rotation_dagger",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Pierce"
     },
     {
@@ -4223,6 +4391,7 @@
       "Value6": "",
       "SoundName": "Attack_dagger_Rotation",
       "PrefabName": "Rotation_dagger",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Pierce"
     },
     {
@@ -4248,6 +4417,7 @@
       "Value6": "",
       "SoundName": "Attack_dagger_Rotation",
       "PrefabName": "Rotation_dagger",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Pierce"
     },
     {
@@ -4273,6 +4443,7 @@
       "Value6": 0,
       "SoundName": "Attack_kunai_ice",
       "PrefabName": "Projectile_kunai_ice",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Ice"
     },
     {
@@ -4298,6 +4469,7 @@
       "Value6": 0,
       "SoundName": "Attack_kunai_ice",
       "PrefabName": "Projectile_kunai_ice",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Ice"
     },
     {
@@ -4323,6 +4495,7 @@
       "Value6": 0,
       "SoundName": "Attack_kunai_ice",
       "PrefabName": "Projectile_kunai_ice",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Ice"
     },
     {
@@ -4348,6 +4521,7 @@
       "Value6": "",
       "SoundName": "Attack_kunai_poison",
       "PrefabName": "Rotation_kunai_poison",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Poison"
     },
     {
@@ -4373,6 +4547,7 @@
       "Value6": "",
       "SoundName": "Attack_kunai_poison",
       "PrefabName": "Rotation_kunai_poison",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Poison"
     },
     {
@@ -4398,6 +4573,7 @@
       "Value6": "",
       "SoundName": "Attack_kunai_poison",
       "PrefabName": "Rotation_kunai_poison",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Poison"
     },
     {
@@ -4423,6 +4599,7 @@
       "Value6": 0,
       "SoundName": "Attack_kunai",
       "PrefabName": "Projectile_kunai",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Dark"
     },
     {
@@ -4448,6 +4625,7 @@
       "Value6": 0,
       "SoundName": "Attack_kunai",
       "PrefabName": "Projectile_kunai",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Dark"
     },
     {
@@ -4473,6 +4651,7 @@
       "Value6": 0,
       "SoundName": "Attack_kunai",
       "PrefabName": "Projectile_kunai",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Dark"
     },
     {
@@ -4498,6 +4677,7 @@
       "Value6": "",
       "SoundName": "Attack_dagger_shadow",
       "PrefabName": "Strike_dagger_shadow",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Dark"
     },
     {
@@ -4523,6 +4703,7 @@
       "Value6": "",
       "SoundName": "Attack_dagger_shadow",
       "PrefabName": "Strike_dagger_shadow",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Dark"
     },
     {
@@ -4548,6 +4729,7 @@
       "Value6": "",
       "SoundName": "Attack_dagger_shadow",
       "PrefabName": "Strike_dagger_shadow",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Dark"
     },
     {
@@ -4573,6 +4755,7 @@
       "Value6": "",
       "SoundName": "",
       "PrefabName": "Aura_thorn",
+      "SubPrefabName": "",
       "HitFXName": "FX_Player07"
     },
     {
@@ -4598,6 +4781,7 @@
       "Value6": "",
       "SoundName": "",
       "PrefabName": "Aura_thorn",
+      "SubPrefabName": "",
       "HitFXName": "FX_Player07"
     },
     {
@@ -4623,6 +4807,7 @@
       "Value6": "",
       "SoundName": "",
       "PrefabName": "Aura_thorn",
+      "SubPrefabName": "",
       "HitFXName": "FX_Player07"
     },
     {
@@ -4648,6 +4833,7 @@
       "Value6": "",
       "SoundName": "Attack_thorn",
       "PrefabName": "Wave_thorn",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Pierce"
     },
     {
@@ -4673,6 +4859,7 @@
       "Value6": "",
       "SoundName": "Attack_thorn",
       "PrefabName": "Wave_thorn",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Pierce"
     },
     {
@@ -4698,6 +4885,7 @@
       "Value6": "",
       "SoundName": "Attack_thorn",
       "PrefabName": "Wave_thorn",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Pierce"
     },
     {
@@ -4723,6 +4911,7 @@
       "Value6": 0,
       "SoundName": "Attack_sting_poison",
       "PrefabName": "Projectile_sting_poison",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Poison"
     },
     {
@@ -4748,6 +4937,7 @@
       "Value6": 0,
       "SoundName": "Attack_sting_poison",
       "PrefabName": "Projectile_sting_poison",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Poison"
     },
     {
@@ -4773,6 +4963,7 @@
       "Value6": 0,
       "SoundName": "Attack_sting_poison",
       "PrefabName": "Projectile_sting_poison",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Poison"
     },
     {
@@ -4798,6 +4989,7 @@
       "Value6": "",
       "SoundName": "Attack_shadowcat",
       "PrefabName": "Rotation_shadowcat",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Dark"
     },
     {
@@ -4823,6 +5015,7 @@
       "Value6": "",
       "SoundName": "Attack_shadowcat",
       "PrefabName": "Rotation_shadowcat",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Dark"
     },
     {
@@ -4848,6 +5041,7 @@
       "Value6": "",
       "SoundName": "Attack_shadowcat",
       "PrefabName": "Rotation_shadowcat",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Dark"
     },
     {
@@ -4873,6 +5067,7 @@
       "Value6": "",
       "SoundName": "",
       "PrefabName": "Aura_swamp",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Dark"
     },
     {
@@ -4898,6 +5093,7 @@
       "Value6": "",
       "SoundName": "",
       "PrefabName": "Aura_swamp",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Dark"
     },
     {
@@ -4923,6 +5119,7 @@
       "Value6": "",
       "SoundName": "",
       "PrefabName": "Aura_swamp",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Dark"
     },
     {
@@ -4948,6 +5145,7 @@
       "Value6": 1,
       "SoundName": null,
       "PrefabName": null,
+      "SubPrefabName": null,
       "HitFXName": null
     },
     {
@@ -4973,6 +5171,7 @@
       "Value6": 1,
       "SoundName": null,
       "PrefabName": null,
+      "SubPrefabName": null,
       "HitFXName": null
     },
     {
@@ -4998,6 +5197,7 @@
       "Value6": 1,
       "SoundName": null,
       "PrefabName": null,
+      "SubPrefabName": null,
       "HitFXName": null
     },
     {
@@ -5023,6 +5223,7 @@
       "Value6": 1,
       "SoundName": null,
       "PrefabName": null,
+      "SubPrefabName": null,
       "HitFXName": null
     },
     {
@@ -5048,6 +5249,7 @@
       "Value6": 1,
       "SoundName": null,
       "PrefabName": null,
+      "SubPrefabName": null,
       "HitFXName": null
     },
     {
@@ -5073,6 +5275,7 @@
       "Value6": 1,
       "SoundName": null,
       "PrefabName": null,
+      "SubPrefabName": null,
       "HitFXName": null
     },
     {
@@ -5098,6 +5301,7 @@
       "Value6": 0,
       "SoundName": "Attack_energybolt_green",
       "PrefabName": "Projectile_energybolt_green",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Fire"
     },
     {
@@ -5123,6 +5327,7 @@
       "Value6": 0,
       "SoundName": "Attack_energybolt_green",
       "PrefabName": "Projectile_energybolt_green",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Fire"
     },
     {
@@ -5148,6 +5353,7 @@
       "Value6": 0,
       "SoundName": "Attack_energybolt_green",
       "PrefabName": "Projectile_energybolt_green",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Fire"
     },
     {
@@ -5173,6 +5379,7 @@
       "Value6": "",
       "SoundName": "Attack_thorn_poison",
       "PrefabName": "Strike_thorn_poison",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Poison"
     },
     {
@@ -5198,6 +5405,7 @@
       "Value6": "",
       "SoundName": "Attack_thorn_poison",
       "PrefabName": "Strike_thorn_poison",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Poison"
     },
     {
@@ -5223,6 +5431,7 @@
       "Value6": "",
       "SoundName": "Attack_thorn_poison",
       "PrefabName": "Strike_thorn_poison",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Poison"
     },
     {
@@ -5248,6 +5457,7 @@
       "Value6": 0,
       "SoundName": "Attack_energybolt_blue",
       "PrefabName": "Projectile_energybolt_blue",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Fire"
     },
     {
@@ -5273,6 +5483,7 @@
       "Value6": 0,
       "SoundName": "Attack_energybolt_blue",
       "PrefabName": "Projectile_energybolt_blue",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Fire"
     },
     {
@@ -5298,6 +5509,7 @@
       "Value6": 0,
       "SoundName": "Attack_energybolt_blue",
       "PrefabName": "Projectile_energybolt_blue",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Fire"
     },
     {
@@ -5323,6 +5535,7 @@
       "Value6": 1,
       "SoundName": null,
       "PrefabName": null,
+      "SubPrefabName": null,
       "HitFXName": null
     },
     {
@@ -5348,6 +5561,7 @@
       "Value6": 1,
       "SoundName": null,
       "PrefabName": null,
+      "SubPrefabName": null,
       "HitFXName": null
     },
     {
@@ -5373,6 +5587,7 @@
       "Value6": 1,
       "SoundName": null,
       "PrefabName": null,
+      "SubPrefabName": null,
       "HitFXName": null
     },
     {
@@ -5398,6 +5613,7 @@
       "Value6": "",
       "SoundName": "",
       "PrefabName": "Aura_dark",
+      "SubPrefabName": "",
       "HitFXName": "FX_dark_palm"
     },
     {
@@ -5423,6 +5639,7 @@
       "Value6": "",
       "SoundName": "",
       "PrefabName": "Aura_dark",
+      "SubPrefabName": "",
       "HitFXName": "FX_dark_palm"
     },
     {
@@ -5448,6 +5665,7 @@
       "Value6": "",
       "SoundName": "",
       "PrefabName": "Aura_dark",
+      "SubPrefabName": "",
       "HitFXName": "FX_dark_palm"
     },
     {
@@ -5473,6 +5691,7 @@
       "Value6": "",
       "SoundName": "",
       "PrefabName": "",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Impact"
     },
     {
@@ -5498,6 +5717,7 @@
       "Value6": "",
       "SoundName": "",
       "PrefabName": "",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Dark"
     },
     {
@@ -5523,6 +5743,7 @@
       "Value6": "",
       "SoundName": "",
       "PrefabName": "",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Poison"
     },
     {
@@ -5548,6 +5769,7 @@
       "Value6": "",
       "SoundName": "",
       "PrefabName": "",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Impact"
     },
     {
@@ -5573,6 +5795,7 @@
       "Value6": 0,
       "SoundName": "",
       "PrefabName": "Projectile_energybolt",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Ice"
     },
     {
@@ -5598,6 +5821,7 @@
       "Value6": 1,
       "SoundName": "",
       "PrefabName": "Mortar_arrow",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Pierce"
     },
     {
@@ -5623,6 +5847,7 @@
       "Value6": "",
       "SoundName": "",
       "PrefabName": "Strike_earth",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Impact"
     },
     {
@@ -5648,6 +5873,7 @@
       "Value6": "",
       "SoundName": "",
       "PrefabName": "Strike_root",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Impact"
     },
     {
@@ -5673,6 +5899,7 @@
       "Value6": "",
       "SoundName": "",
       "PrefabName": "Strike_hook",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Pierce"
     },
     {
@@ -5698,6 +5925,7 @@
       "Value6": "",
       "SoundName": "",
       "PrefabName": "Strike_axe",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Pierce"
     },
     {
@@ -5723,6 +5951,7 @@
       "Value6": "",
       "SoundName": "",
       "PrefabName": "Strike_slash",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Dark"
     },
     {
@@ -5748,6 +5977,7 @@
       "Value6": 0,
       "SoundName": "",
       "PrefabName": "Projectile_skull_green",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Dark"
     },
     {
@@ -5773,6 +6003,7 @@
       "Value6": 15,
       "SoundName": null,
       "PrefabName": null,
+      "SubPrefabName": null,
       "HitFXName": null
     },
     {
@@ -5798,6 +6029,7 @@
       "Value6": "",
       "SoundName": "",
       "PrefabName": "Strike_foot",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Impact"
     },
     {
@@ -5823,6 +6055,7 @@
       "Value6": "",
       "SoundName": "",
       "PrefabName": "Strike_punch_ice",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Impact"
     },
     {
@@ -5848,6 +6081,7 @@
       "Value6": "",
       "SoundName": "",
       "PrefabName": "Aura_ice",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Ice"
     },
     {
@@ -5873,6 +6107,7 @@
       "Value6": 0,
       "SoundName": "",
       "PrefabName": "Projectile_energybolt_fire_large",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Fire"
     },
     {
@@ -5898,6 +6133,7 @@
       "Value6": "",
       "SoundName": "",
       "PrefabName": "Strike_hellslash",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Pierce"
     },
     {
@@ -5923,6 +6159,7 @@
       "Value6": "",
       "SoundName": "",
       "PrefabName": "Aura_dark",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Dark"
     },
     {
@@ -5948,6 +6185,7 @@
       "Value6": "",
       "SoundName": "Attack_claw",
       "PrefabName": "Strike_claw",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Lightning"
     },
     {
@@ -5973,6 +6211,7 @@
       "Value6": 0,
       "SoundName": "Attack_energybolt_electric",
       "PrefabName": "Projectile_energybolt_electric",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Lightning"
     },
     {
@@ -5998,6 +6237,7 @@
       "Value6": "",
       "SoundName": "Attack_electric",
       "PrefabName": "Wave_electric",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Lightning"
     },
     {
@@ -6023,6 +6263,7 @@
       "Value6": 0,
       "SoundName": "Attack_energybolt_fire_small",
       "PrefabName": "Projectile_energybolt_fire_small",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Fire"
     },
     {
@@ -6048,6 +6289,7 @@
       "Value6": "",
       "SoundName": "Attack_rotation_energybolt_fire_small",
       "PrefabName": "Rotation_energybolt_fire_small",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Fire"
     },
     {
@@ -6073,6 +6315,7 @@
       "Value6": 1,
       "SoundName": "Attack_arrow_poison",
       "PrefabName": "Mortar_arrow_poison",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Pierce"
     },
     {
@@ -6098,6 +6341,7 @@
       "Value6": "",
       "SoundName": "Attack_Character_Axe",
       "PrefabName": "Strike_battle_axe",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Impact"
     },
     {
@@ -6123,6 +6367,7 @@
       "Value6": 0,
       "SoundName": "Attack_energybolt_ice",
       "PrefabName": "Projectile_energybolt_ice",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Ice"
     },
     {
@@ -6148,6 +6393,7 @@
       "Value6": "",
       "SoundName": "Attack_rotation_thorn_ice",
       "PrefabName": "Strike_thorn_ice",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Ice"
     },
     {
@@ -6173,6 +6419,7 @@
       "Value6": "",
       "SoundName": "",
       "PrefabName": "Strike_earth",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Impact"
     },
     {
@@ -6198,6 +6445,7 @@
       "Value6": "",
       "SoundName": "",
       "PrefabName": "Aura_blood",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Dark"
     },
     {
@@ -6223,6 +6471,7 @@
       "Value6": "",
       "SoundName": "Attack_rock",
       "PrefabName": "Wave_rock",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Impact"
     },
     {
@@ -6248,6 +6497,7 @@
       "Value6": 0,
       "SoundName": "Attack_energybolt_fire_small",
       "PrefabName": "Projectile_energybolt_fire_small",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Fire"
     },
     {
@@ -6273,6 +6523,7 @@
       "Value6": 0,
       "SoundName": "Attack_energybolt_electric",
       "PrefabName": "Projectile_energybolt_electric",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Lightning"
     },
     {
@@ -6298,6 +6549,7 @@
       "Value6": "",
       "SoundName": "Attack_poison",
       "PrefabName": "Wave_poison",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Poison"
     },
     {
@@ -6323,6 +6575,7 @@
       "Value6": 0,
       "SoundName": "Attack_energybolt_green",
       "PrefabName": "Projectile_energybolt_green",
+      "SubPrefabName": "",
       "HitFXName": "FX_Hit_Poison"
     }
   ]
