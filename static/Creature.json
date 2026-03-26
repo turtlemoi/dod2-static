@@ -527,6 +527,18 @@
       "HP": 1,
       "Weight": 9999,
       "SkillID": "990111,990112"
+    },
+    {
+      "ID": 9012,
+      "Type": 3,
+      "PrefabName": "112_graves",
+      "DeadFX_Name": "",
+      "DeadSound_Name": "Death_Skeleton",
+      "Speed": 0,
+      "Damage": 1,
+      "HP": 1,
+      "Weight": 9999,
+      "SkillID": "240041,240011,240051"
     }
   ]
 }
