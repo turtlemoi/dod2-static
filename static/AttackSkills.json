@@ -3803,9 +3803,9 @@
       "Value5": "",
       "Value6": "",
       "SoundName": "Attack_rock",
-      "PrefabName": "Mortar_rocks",
+      "PrefabName": "Aura_stomp",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_rocksImpact"
+      "HitFXName": "FX_Hit_Impact"
     },
     {
       "ID": 150052,
@@ -3830,9 +3830,9 @@
       "Value5": "",
       "Value6": "",
       "SoundName": "Attack_rock",
-      "PrefabName": "Mortar_rocks",
+      "PrefabName": "Aura_stomp",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_rocksImpact"
+      "HitFXName": "FX_Hit_Impact"
     },
     {
       "ID": 150053,
@@ -3857,9 +3857,9 @@
       "Value5": "",
       "Value6": "",
       "SoundName": "Attack_rock",
-      "PrefabName": "Mortar_rocks",
+      "PrefabName": "Aura_stomp",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_rocksImpact"
+      "HitFXName": "FX_Hit_Impact"
     },
     {
       "ID": 150061,
