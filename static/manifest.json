@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-27T12:22:02.732Z",
+  "updatedAt": "2026-03-27T12:25:32.583Z",
   "sheets": [
     {
       "name": "Common",
@@ -39,8 +39,8 @@
     },
     {
       "name": "Puzzle",
-      "version": 73,
-      "hash": "837aa258445d3a76572ccf2d11604034a34e9afec28dd71518a8fea78d920460",
+      "version": 74,
+      "hash": "b30e7c7c848fad4a5697f1b613f21f03f59bcd76109b6869ac939fafc2f73d6e",
       "url": "/static/Puzzle.json"
     },
     {
