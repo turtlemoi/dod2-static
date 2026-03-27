@@ -15,8 +15,8 @@
       "SkillImageSize": 150,
       "SkillImageAngle": -30,
       "NewIcon": "NewIcon_01_Spear",
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "NewIconSize": 200,
+      "NewIconAngle": 0
     },
     {
       "ID": 110012,
@@ -33,8 +33,8 @@
       "SkillImageSize": 150,
       "SkillImageAngle": -30,
       "NewIcon": "NewIcon_01_Spear",
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "NewIconSize": 200,
+      "NewIconAngle": 0
     },
     {
       "ID": 110013,
@@ -51,8 +51,8 @@
       "SkillImageSize": 150,
       "SkillImageAngle": -30,
       "NewIcon": "NewIcon_01_Spear",
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "NewIconSize": 200,
+      "NewIconAngle": 0
     },
     {
       "ID": 110021,
