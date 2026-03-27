@@ -2959,7 +2959,7 @@
       "Value4": 0,
       "Value5": 13,
       "Value6": 90,
-      "SoundName": "",
+      "SoundName": "Attack_arrow_storm",
       "PrefabName": "Homing_bone",
       "SubPrefabName": "",
       "HitFXName": "FX_Hit_Aura_tomb"
@@ -2985,7 +2985,7 @@
       "Value4": 0,
       "Value5": 13,
       "Value6": 90,
-      "SoundName": "",
+      "SoundName": "Attack_arrow_storm",
       "PrefabName": "Homing_bone",
       "SubPrefabName": "",
       "HitFXName": "FX_Hit_Aura_tomb"
@@ -3011,7 +3011,7 @@
       "Value4": 0,
       "Value5": 13,
       "Value6": 90,
-      "SoundName": "",
+      "SoundName": "Attack_arrow_storm",
       "PrefabName": "Homing_bone",
       "SubPrefabName": "",
       "HitFXName": "FX_Hit_Aura_tomb"
