@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-27T10:41:30.263Z",
+  "updatedAt": "2026-03-27T11:56:02.271Z",
   "sheets": [
     {
       "name": "Common",
@@ -39,14 +39,14 @@
     },
     {
       "name": "Puzzle",
-      "version": 69,
-      "hash": "d76e51e31ae290702e0e0c4ecdedbb2338c4508e417dffb7e16101eb59f9c480",
+      "version": 70,
+      "hash": "8dbb4847ad0795da318dd77e4e9df59fb03a3c5b36aa5a431168d9af62e165ad",
       "url": "/static/Puzzle.json"
     },
     {
       "name": "AttackSkills",
-      "version": 290,
-      "hash": "926fdf7348ff804bfe072c7215a4b29155c61a5b90b58c9eb8068ce906944e81",
+      "version": 291,
+      "hash": "f9da3fe1e4602e3ae9ce14eaf75b3a67ff96709daec5511d0fad42d03c285faf",
       "url": "/static/AttackSkills.json"
     },
     {

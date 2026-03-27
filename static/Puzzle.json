@@ -11,6 +11,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "spear",
+      "NewIcon": "NewIcon_01_Spear",
       "SkillImageSize": 150,
       "SkillImageAngle": -30,
       "InOut": null
@@ -26,6 +27,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "spear",
+      "NewIcon": "NewIcon_01_Spear",
       "SkillImageSize": 150,
       "SkillImageAngle": -30,
       "InOut": null
@@ -41,6 +43,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "spear",
+      "NewIcon": "NewIcon_01_Spear",
       "SkillImageSize": 150,
       "SkillImageAngle": -30,
       "InOut": null
@@ -56,6 +59,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "battle_axe",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -71,6 +75,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "battle_axe",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -86,6 +91,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "battle_axe",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -101,6 +107,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "battle_axe",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 45,
       "InOut": null
@@ -116,6 +123,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "battle_axe",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 45,
       "InOut": null
@@ -131,6 +139,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "battle_axe",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 45,
       "InOut": null
@@ -146,6 +155,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "swordaura",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -161,6 +171,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "swordaura",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -176,6 +187,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "swordaura",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -191,6 +203,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "Icon_rotation_sword_fire",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -206,6 +219,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "Icon_rotation_sword_fire",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -221,6 +235,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "Icon_rotation_sword_fire",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -236,6 +251,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "nova_rock",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -251,6 +267,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "nova_rock",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -266,6 +283,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "nova_rock",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -281,6 +299,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "spear_electric",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -296,6 +315,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "spear_electric",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -311,6 +331,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "spear_electric",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -326,6 +347,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "nova_wind",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -341,6 +363,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "nova_wind",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -356,6 +379,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "nova_wind",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -371,6 +395,7 @@
       "ShapeID": 8,
       "SkillType": 1,
       "SkillImage": "swordaura_fire",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -386,6 +411,7 @@
       "ShapeID": 8,
       "SkillType": 1,
       "SkillImage": "swordaura_fire",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -401,6 +427,7 @@
       "ShapeID": 8,
       "SkillType": 1,
       "SkillImage": "swordaura_fire",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -416,6 +443,7 @@
       "ShapeID": 9,
       "SkillType": 1,
       "SkillImage": "Icon_3_swordaura_ice",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -431,6 +459,7 @@
       "ShapeID": 9,
       "SkillType": 1,
       "SkillImage": "Icon_3_swordaura_ice",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -446,6 +475,7 @@
       "ShapeID": 9,
       "SkillType": 1,
       "SkillImage": "Icon_3_swordaura_ice",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -461,6 +491,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "arrow",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 190,
       "InOut": null
@@ -476,6 +507,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "arrow",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 190,
       "InOut": null
@@ -491,6 +523,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "arrow",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 190,
       "InOut": null
@@ -506,6 +539,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "Icon_straight_arrow",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -521,6 +555,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "Icon_straight_arrow",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -536,6 +571,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "Icon_straight_arrow",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -551,6 +587,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "arrow_bomb",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 30,
       "InOut": null
@@ -566,6 +603,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "arrow_bomb",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 30,
       "InOut": null
@@ -581,6 +619,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "arrow_bomb",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 30,
       "InOut": null
@@ -596,6 +635,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "arrow_poison",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 30,
       "InOut": null
@@ -611,6 +651,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "arrow_poison",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 30,
       "InOut": null
@@ -626,6 +667,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "arrow_poison",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 30,
       "InOut": null
@@ -641,6 +683,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "01_bear",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -656,6 +699,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "01_bear",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -671,6 +715,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "01_bear",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -686,6 +731,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "Icon_3_arrow",
+      "NewIcon": "",
       "SkillImageSize": 120,
       "SkillImageAngle": -40,
       "InOut": null
@@ -701,6 +747,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "Icon_3_arrow",
+      "NewIcon": "",
       "SkillImageSize": 120,
       "SkillImageAngle": -40,
       "InOut": null
@@ -716,6 +763,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "Icon_3_arrow",
+      "NewIcon": "",
       "SkillImageSize": 120,
       "SkillImageAngle": -40,
       "InOut": null
@@ -731,6 +779,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "arrow_electric",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 30,
       "InOut": null
@@ -746,6 +795,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "arrow_electric",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 30,
       "InOut": null
@@ -761,6 +811,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "arrow_electric",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 30,
       "InOut": null
@@ -776,6 +827,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "arrow_storm",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 20,
       "InOut": null
@@ -791,6 +843,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "arrow_storm",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 20,
       "InOut": null
@@ -806,6 +859,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "arrow_storm",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 20,
       "InOut": null
@@ -821,6 +875,7 @@
       "ShapeID": 8,
       "SkillType": 1,
       "SkillImage": "Icon_random_arrow",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -836,6 +891,7 @@
       "ShapeID": 8,
       "SkillType": 1,
       "SkillImage": "Icon_random_arrow",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -851,6 +907,7 @@
       "ShapeID": 8,
       "SkillType": 1,
       "SkillImage": "Icon_random_arrow",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -866,6 +923,7 @@
       "ShapeID": 6,
       "SkillType": 1,
       "SkillImage": "arrow_dragon",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 180,
       "InOut": null
@@ -881,6 +939,7 @@
       "ShapeID": 6,
       "SkillType": 1,
       "SkillImage": "arrow_dragon",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 180,
       "InOut": null
@@ -896,6 +955,7 @@
       "ShapeID": 6,
       "SkillType": 1,
       "SkillImage": "arrow_dragon",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 180,
       "InOut": null
@@ -911,6 +971,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "ice_pillar",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -926,6 +987,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "ice_pillar",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -941,6 +1003,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "ice_pillar",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -956,6 +1019,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "energybolt_fire_small",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": -20,
       "InOut": null
@@ -971,6 +1035,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "energybolt_fire_small",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": -20,
       "InOut": null
@@ -986,6 +1051,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "energybolt_fire_small",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": -20,
       "InOut": null
@@ -1001,6 +1067,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "spear_ice",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": -80,
       "InOut": null
@@ -1016,6 +1083,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "spear_ice",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": -80,
       "InOut": null
@@ -1031,6 +1099,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "spear_ice",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": -80,
       "InOut": null
@@ -1046,6 +1115,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "Icon_rotation_ice",
+      "NewIcon": "",
       "SkillImageSize": 100,
       "SkillImageAngle": -25,
       "InOut": null
@@ -1061,6 +1131,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "Icon_rotation_ice",
+      "NewIcon": "",
       "SkillImageSize": 100,
       "SkillImageAngle": -25,
       "InOut": null
@@ -1076,6 +1147,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "Icon_rotation_ice",
+      "NewIcon": "",
       "SkillImageSize": 100,
       "SkillImageAngle": -25,
       "InOut": null
@@ -1091,6 +1163,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "nova_ice",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -1106,6 +1179,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "nova_ice",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -1121,6 +1195,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "nova_ice",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -1136,6 +1211,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "nova_electric",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -1151,6 +1227,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "nova_electric",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -1166,6 +1243,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "nova_electric",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -1181,6 +1259,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "04_spiritelEctrict",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -1196,6 +1275,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "04_spiritelEctrict",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -1211,6 +1291,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "04_spiritelEctrict",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -1226,6 +1307,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "05_spiritfire",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -1241,6 +1323,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "05_spiritfire",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -1256,6 +1339,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "05_spiritfire",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -1271,6 +1355,7 @@
       "ShapeID": 9,
       "SkillType": 1,
       "SkillImage": "thunder",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -1286,6 +1371,7 @@
       "ShapeID": 9,
       "SkillType": 1,
       "SkillImage": "thunder",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -1301,6 +1387,7 @@
       "ShapeID": 9,
       "SkillType": 1,
       "SkillImage": "thunder",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -1316,6 +1403,7 @@
       "ShapeID": 8,
       "SkillType": 1,
       "SkillImage": "energybolt_fire_large",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": -125,
       "InOut": null
@@ -1331,6 +1419,7 @@
       "ShapeID": 8,
       "SkillType": 1,
       "SkillImage": "energybolt_fire_large",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": -125,
       "InOut": null
@@ -1346,6 +1435,7 @@
       "ShapeID": 8,
       "SkillType": 1,
       "SkillImage": "energybolt_fire_large",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": -125,
       "InOut": null
@@ -1361,6 +1451,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "skelctonArcher",
+      "NewIcon": "",
       "SkillImageSize": 130,
       "SkillImageAngle": 0,
       "InOut": null
@@ -1376,6 +1467,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "skelctonArcher",
+      "NewIcon": "",
       "SkillImageSize": 130,
       "SkillImageAngle": 0,
       "InOut": null
@@ -1391,6 +1483,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "skelctonArcher",
+      "NewIcon": "",
       "SkillImageSize": 130,
       "SkillImageAngle": 0,
       "InOut": null
@@ -1406,6 +1499,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "Icon_3_skull_green",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 10,
       "InOut": null
@@ -1421,6 +1515,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "Icon_3_skull_green",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 10,
       "InOut": null
@@ -1436,6 +1531,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "Icon_3_skull_green",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 10,
       "InOut": null
@@ -1451,6 +1547,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "spear_bone",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": -125,
       "InOut": null
@@ -1466,6 +1563,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "spear_bone",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": -125,
       "InOut": null
@@ -1481,6 +1579,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "spear_bone",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": -125,
       "InOut": null
@@ -1496,6 +1595,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "skelctonWarrior",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -1511,6 +1611,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "skelctonWarrior",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -1526,6 +1627,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "skelctonWarrior",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -1541,6 +1643,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "skelctonWitcher",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -1556,6 +1659,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "skelctonWitcher",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -1571,6 +1675,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "skelctonWitcher",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -1586,6 +1691,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "nova_poison",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -1601,6 +1707,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "nova_poison",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -1616,6 +1723,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "nova_poison",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -1631,6 +1739,7 @@
       "ShapeID": 11,
       "SkillType": 1,
       "SkillImage": "03_zombiegolem",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -1646,6 +1755,7 @@
       "ShapeID": 11,
       "SkillType": 1,
       "SkillImage": "03_zombiegolem",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -1661,6 +1771,7 @@
       "ShapeID": 11,
       "SkillType": 1,
       "SkillImage": "03_zombiegolem",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -1676,6 +1787,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "nova_blood",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -1691,6 +1803,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "nova_blood",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -1706,6 +1819,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "nova_blood",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -1721,6 +1835,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "02_golem",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -1736,6 +1851,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "02_golem",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -1751,6 +1867,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "02_golem",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -1766,6 +1883,7 @@
       "ShapeID": 9,
       "SkillType": 1,
       "SkillImage": "aura_tomb",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -1781,6 +1899,7 @@
       "ShapeID": 9,
       "SkillType": 1,
       "SkillImage": "aura_tomb",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -1796,6 +1915,7 @@
       "ShapeID": 9,
       "SkillType": 1,
       "SkillImage": "aura_tomb",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -1811,6 +1931,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "Icon_attack_fire",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -1826,6 +1947,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "Icon_attack_fire",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -1841,6 +1963,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "Icon_attack_fire",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -1856,6 +1979,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "punch",
+      "NewIcon": "",
       "SkillImageSize": 120,
       "SkillImageAngle": 5,
       "InOut": null
@@ -1871,6 +1995,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "punch",
+      "NewIcon": "",
       "SkillImageSize": 120,
       "SkillImageAngle": 5,
       "InOut": null
@@ -1886,6 +2011,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "punch",
+      "NewIcon": "",
       "SkillImageSize": 120,
       "SkillImageAngle": 5,
       "InOut": null
@@ -1901,6 +2027,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "aura_energy",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -1916,6 +2043,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "aura_energy",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -1931,6 +2059,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "aura_energy",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -1946,6 +2075,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "punch_ice",
+      "NewIcon": "",
       "SkillImageSize": 120,
       "SkillImageAngle": 5,
       "InOut": null
@@ -1961,6 +2091,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "punch_ice",
+      "NewIcon": "",
       "SkillImageSize": 120,
       "SkillImageAngle": 5,
       "InOut": null
@@ -1976,6 +2107,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "punch_ice",
+      "NewIcon": "",
       "SkillImageSize": 120,
       "SkillImageAngle": 5,
       "InOut": null
@@ -1991,6 +2123,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "palm_electric",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -2006,6 +2139,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "palm_electric",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -2021,6 +2155,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "palm_electric",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -2036,6 +2171,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "energybolt",
+      "NewIcon": "",
       "SkillImageSize": 130,
       "SkillImageAngle": 10,
       "InOut": null
@@ -2051,6 +2187,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "energybolt",
+      "NewIcon": "",
       "SkillImageSize": 130,
       "SkillImageAngle": 10,
       "InOut": null
@@ -2066,6 +2203,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "energybolt",
+      "NewIcon": "",
       "SkillImageSize": 130,
       "SkillImageAngle": 10,
       "InOut": null
@@ -2081,6 +2219,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "Icon_attack_ice",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -2096,6 +2235,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "Icon_attack_ice",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -2111,6 +2251,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "Icon_attack_ice",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -2126,6 +2267,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "aura_energy_electric",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -2141,6 +2283,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "aura_energy_electric",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -2156,6 +2299,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "aura_energy_electric",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -2171,6 +2315,7 @@
       "ShapeID": 6,
       "SkillType": 1,
       "SkillImage": "palm_electric_1",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -2186,6 +2331,7 @@
       "ShapeID": 6,
       "SkillType": 1,
       "SkillImage": "palm_electric_1",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -2201,6 +2347,7 @@
       "ShapeID": 6,
       "SkillType": 1,
       "SkillImage": "palm_electric_1",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -2216,6 +2363,7 @@
       "ShapeID": 10,
       "SkillType": 1,
       "SkillImage": "Icon_attack_gold",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -2231,6 +2379,7 @@
       "ShapeID": 10,
       "SkillType": 1,
       "SkillImage": "Icon_attack_gold",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -2246,6 +2395,7 @@
       "ShapeID": 10,
       "SkillType": 1,
       "SkillImage": "Icon_attack_gold",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -2261,6 +2411,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "dagger_poison",
+      "NewIcon": "",
       "SkillImageSize": 120,
       "SkillImageAngle": 40,
       "InOut": null
@@ -2276,6 +2427,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "dagger_poison",
+      "NewIcon": "",
       "SkillImageSize": 120,
       "SkillImageAngle": 40,
       "InOut": null
@@ -2291,6 +2443,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "dagger_poison",
+      "NewIcon": "",
       "SkillImageSize": 120,
       "SkillImageAngle": 40,
       "InOut": null
@@ -2306,6 +2459,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "dagger",
+      "NewIcon": "",
       "SkillImageSize": 120,
       "SkillImageAngle": -40,
       "InOut": null
@@ -2321,6 +2475,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "dagger",
+      "NewIcon": "",
       "SkillImageSize": 120,
       "SkillImageAngle": -40,
       "InOut": null
@@ -2336,6 +2491,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "dagger",
+      "NewIcon": "",
       "SkillImageSize": 120,
       "SkillImageAngle": -40,
       "InOut": null
@@ -2351,6 +2507,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "Icon_5_dagger_poison",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": -40,
       "InOut": null
@@ -2366,6 +2523,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "Icon_5_dagger_poison",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": -40,
       "InOut": null
@@ -2381,6 +2539,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "Icon_5_dagger_poison",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": -40,
       "InOut": null
@@ -2396,6 +2555,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "Icon_rotation_kunai",
+      "NewIcon": "",
       "SkillImageSize": 100,
       "SkillImageAngle": 40,
       "InOut": null
@@ -2411,6 +2571,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "Icon_rotation_kunai",
+      "NewIcon": "",
       "SkillImageSize": 100,
       "SkillImageAngle": 40,
       "InOut": null
@@ -2426,6 +2587,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "Icon_rotation_kunai",
+      "NewIcon": "",
       "SkillImageSize": 100,
       "SkillImageAngle": 40,
       "InOut": null
@@ -2441,6 +2603,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "Icon_straight_kunai_ice",
+      "NewIcon": "",
       "SkillImageSize": 100,
       "SkillImageAngle": 0,
       "InOut": null
@@ -2456,6 +2619,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "Icon_straight_kunai_ice",
+      "NewIcon": "",
       "SkillImageSize": 100,
       "SkillImageAngle": 0,
       "InOut": null
@@ -2471,6 +2635,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "Icon_straight_kunai_ice",
+      "NewIcon": "",
       "SkillImageSize": 100,
       "SkillImageAngle": 0,
       "InOut": null
@@ -2486,6 +2651,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "Icon_rotation_kunai_poison",
+      "NewIcon": "",
       "SkillImageSize": 120,
       "SkillImageAngle": 0,
       "InOut": null
@@ -2501,6 +2667,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "Icon_rotation_kunai_poison",
+      "NewIcon": "",
       "SkillImageSize": 120,
       "SkillImageAngle": 0,
       "InOut": null
@@ -2516,6 +2683,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "Icon_rotation_kunai_poison",
+      "NewIcon": "",
       "SkillImageSize": 120,
       "SkillImageAngle": 0,
       "InOut": null
@@ -2531,6 +2699,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "kunai",
+      "NewIcon": "",
       "SkillImageSize": 100,
       "SkillImageAngle": -15,
       "InOut": null
@@ -2546,6 +2715,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "kunai",
+      "NewIcon": "",
       "SkillImageSize": 100,
       "SkillImageAngle": -15,
       "InOut": null
@@ -2561,6 +2731,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "kunai",
+      "NewIcon": "",
       "SkillImageSize": 100,
       "SkillImageAngle": -15,
       "InOut": null
@@ -2576,6 +2747,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "dagger_shadow",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 15,
       "InOut": null
@@ -2591,6 +2763,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "dagger_shadow",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 15,
       "InOut": null
@@ -2606,6 +2779,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "dagger_shadow",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 15,
       "InOut": null
@@ -2621,6 +2795,7 @@
       "ShapeID": 7,
       "SkillType": 1,
       "SkillImage": "aura_thorn",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -2636,6 +2811,7 @@
       "ShapeID": 7,
       "SkillType": 1,
       "SkillImage": "aura_thorn",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -2651,6 +2827,7 @@
       "ShapeID": 7,
       "SkillType": 1,
       "SkillImage": "aura_thorn",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -2666,6 +2843,7 @@
       "ShapeID": 10,
       "SkillType": 1,
       "SkillImage": "nova_thorn",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -2681,6 +2859,7 @@
       "ShapeID": 10,
       "SkillType": 1,
       "SkillImage": "nova_thorn",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -2696,6 +2875,7 @@
       "ShapeID": 10,
       "SkillType": 1,
       "SkillImage": "nova_thorn",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -2711,6 +2891,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "sting_poison",
+      "NewIcon": "",
       "SkillImageSize": 100,
       "SkillImageAngle": -15,
       "InOut": null
@@ -2726,6 +2907,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "sting_poison",
+      "NewIcon": "",
       "SkillImageSize": 100,
       "SkillImageAngle": -15,
       "InOut": null
@@ -2741,6 +2923,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "sting_poison",
+      "NewIcon": "",
       "SkillImageSize": 100,
       "SkillImageAngle": -15,
       "InOut": null
@@ -2756,6 +2939,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "shadowcat",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -2771,6 +2955,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "shadowcat",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -2786,6 +2971,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "shadowcat",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -2801,6 +2987,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "aura_swamp",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -2816,6 +3003,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "aura_swamp",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -2831,6 +3019,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "aura_swamp",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -2846,6 +3035,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "07_totemFire",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -2861,6 +3051,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "07_totemFire",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -2876,6 +3067,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "07_totemFire",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -2891,6 +3083,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "08_totemElectric",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -2906,6 +3099,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "08_totemElectric",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -2921,6 +3115,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "08_totemElectric",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -2936,6 +3131,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "energybolt_green",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -2951,6 +3147,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "energybolt_green",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -2966,6 +3163,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "energybolt_green",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -2981,6 +3179,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "thorn_poison",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -2996,6 +3195,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "thorn_poison",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -3011,6 +3211,7 @@
       "ShapeID": 3,
       "SkillType": 1,
       "SkillImage": "thorn_poison",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -3026,6 +3227,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "Icon_10_energybolt_blue",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -3041,6 +3243,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "Icon_10_energybolt_blue",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -3056,6 +3259,7 @@
       "ShapeID": 4,
       "SkillType": 1,
       "SkillImage": "Icon_10_energybolt_blue",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -3071,6 +3275,7 @@
       "ShapeID": 7,
       "SkillType": 1,
       "SkillImage": "06_totemPoison",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -3086,6 +3291,7 @@
       "ShapeID": 7,
       "SkillType": 1,
       "SkillImage": "06_totemPoison",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -3101,6 +3307,7 @@
       "ShapeID": 7,
       "SkillType": 1,
       "SkillImage": "06_totemPoison",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -3116,6 +3323,7 @@
       "ShapeID": 11,
       "SkillType": 1,
       "SkillImage": "aura_dark",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -3131,6 +3339,7 @@
       "ShapeID": 11,
       "SkillType": 1,
       "SkillImage": "aura_dark",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -3146,6 +3355,7 @@
       "ShapeID": 11,
       "SkillType": 1,
       "SkillImage": "aura_dark",
+      "NewIcon": "",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
       "InOut": null
@@ -3161,6 +3371,7 @@
       "ShapeID": 4,
       "SkillType": 2,
       "SkillImage": "symbol_link",
+      "NewIcon": "",
       "SkillImageSize": 100,
       "SkillImageAngle": 0,
       "InOut": "2,0/0,2"
@@ -3176,6 +3387,7 @@
       "ShapeID": 2,
       "SkillType": 2,
       "SkillImage": "symbol_know",
+      "NewIcon": "",
       "SkillImageSize": 100,
       "SkillImageAngle": 0,
       "InOut": "0,-1/0,2"
@@ -3191,6 +3403,7 @@
       "ShapeID": 2,
       "SkillType": 2,
       "SkillImage": "StatsIcon_Sword",
+      "NewIcon": "",
       "SkillImageSize": 100,
       "SkillImageAngle": 0,
       "InOut": "0,-1/0,2"
@@ -3206,6 +3419,7 @@
       "ShapeID": 1,
       "SkillType": 2,
       "SkillImage": "StatsIcon_Attack",
+      "NewIcon": "",
       "SkillImageSize": 100,
       "SkillImageAngle": 0,
       "InOut": null
@@ -3221,6 +3435,7 @@
       "ShapeID": 1,
       "SkillType": 2,
       "SkillImage": "StatsIcon_Attack",
+      "NewIcon": "",
       "SkillImageSize": 100,
       "SkillImageAngle": 0,
       "InOut": null
@@ -3236,6 +3451,7 @@
       "ShapeID": 1,
       "SkillType": 2,
       "SkillImage": "StatsIcon_Attack",
+      "NewIcon": "",
       "SkillImageSize": 100,
       "SkillImageAngle": 0,
       "InOut": null
@@ -3251,6 +3467,7 @@
       "ShapeID": 2,
       "SkillType": 2,
       "SkillImage": "RoleIcon_04",
+      "NewIcon": "",
       "SkillImageSize": 100,
       "SkillImageAngle": 0,
       "InOut": null
@@ -3266,6 +3483,7 @@
       "ShapeID": 2,
       "SkillType": 2,
       "SkillImage": "RoleIcon_04",
+      "NewIcon": "",
       "SkillImageSize": 100,
       "SkillImageAngle": 0,
       "InOut": null
@@ -3281,6 +3499,7 @@
       "ShapeID": 2,
       "SkillType": 2,
       "SkillImage": "RoleIcon_04",
+      "NewIcon": "",
       "SkillImageSize": 100,
       "SkillImageAngle": 0,
       "InOut": null
@@ -3296,6 +3515,7 @@
       "ShapeID": 2,
       "SkillType": 2,
       "SkillImage": "symbol_multitude",
+      "NewIcon": "",
       "SkillImageSize": 100,
       "SkillImageAngle": 0,
       "InOut": null
@@ -3311,6 +3531,7 @@
       "ShapeID": 2,
       "SkillType": 2,
       "SkillImage": "symbol_multitude",
+      "NewIcon": "",
       "SkillImageSize": 100,
       "SkillImageAngle": 0,
       "InOut": null
@@ -3326,6 +3547,7 @@
       "ShapeID": 2,
       "SkillType": 2,
       "SkillImage": "symbol_multitude",
+      "NewIcon": "",
       "SkillImageSize": 100,
       "SkillImageAngle": 0,
       "InOut": null
@@ -3341,6 +3563,7 @@
       "ShapeID": 1,
       "SkillType": 2,
       "SkillImage": "symbol_sandglass",
+      "NewIcon": "",
       "SkillImageSize": 100,
       "SkillImageAngle": 0,
       "InOut": null
@@ -3356,6 +3579,7 @@
       "ShapeID": 1,
       "SkillType": 2,
       "SkillImage": "symbol_sandglass",
+      "NewIcon": "",
       "SkillImageSize": 100,
       "SkillImageAngle": 0,
       "InOut": null
@@ -3371,6 +3595,7 @@
       "ShapeID": 1,
       "SkillType": 2,
       "SkillImage": "symbol_sandglass",
+      "NewIcon": "",
       "SkillImageSize": 100,
       "SkillImageAngle": 0,
       "InOut": null
@@ -3386,6 +3611,7 @@
       "ShapeID": 2,
       "SkillType": 2,
       "SkillImage": "WhiteIcon_Exp",
+      "NewIcon": "",
       "SkillImageSize": 100,
       "SkillImageAngle": 0,
       "InOut": null
@@ -3401,6 +3627,7 @@
       "ShapeID": 2,
       "SkillType": 2,
       "SkillImage": "WhiteIcon_Exp",
+      "NewIcon": "",
       "SkillImageSize": 100,
       "SkillImageAngle": 0,
       "InOut": null
@@ -3416,6 +3643,7 @@
       "ShapeID": 2,
       "SkillType": 2,
       "SkillImage": "WhiteIcon_Exp",
+      "NewIcon": "",
       "SkillImageSize": 100,
       "SkillImageAngle": 0,
       "InOut": null
@@ -3431,6 +3659,7 @@
       "ShapeID": 1,
       "SkillType": 2,
       "SkillImage": "symbol_crit",
+      "NewIcon": "",
       "SkillImageSize": 100,
       "SkillImageAngle": 0,
       "InOut": null
@@ -3446,6 +3675,7 @@
       "ShapeID": 1,
       "SkillType": 2,
       "SkillImage": "symbol_crit",
+      "NewIcon": "",
       "SkillImageSize": 100,
       "SkillImageAngle": 0,
       "InOut": null
@@ -3461,6 +3691,7 @@
       "ShapeID": 1,
       "SkillType": 2,
       "SkillImage": "symbol_crit",
+      "NewIcon": "",
       "SkillImageSize": 100,
       "SkillImageAngle": 0,
       "InOut": null
@@ -3476,6 +3707,7 @@
       "ShapeID": 2,
       "SkillType": 2,
       "SkillImage": "StatsIcon_Critical",
+      "NewIcon": "",
       "SkillImageSize": 100,
       "SkillImageAngle": 0,
       "InOut": null
@@ -3491,6 +3723,7 @@
       "ShapeID": 2,
       "SkillType": 2,
       "SkillImage": "StatsIcon_Critical",
+      "NewIcon": "",
       "SkillImageSize": 100,
       "SkillImageAngle": 0,
       "InOut": null
@@ -3506,6 +3739,7 @@
       "ShapeID": 2,
       "SkillType": 2,
       "SkillImage": "StatsIcon_Critical",
+      "NewIcon": "",
       "SkillImageSize": 100,
       "SkillImageAngle": 0,
       "InOut": null
@@ -3521,6 +3755,7 @@
       "ShapeID": 1,
       "SkillType": 2,
       "SkillImage": "symbol_condense",
+      "NewIcon": "",
       "SkillImageSize": 100,
       "SkillImageAngle": 0,
       "InOut": null
@@ -3536,6 +3771,7 @@
       "ShapeID": 1,
       "SkillType": 2,
       "SkillImage": "symbol_condense",
+      "NewIcon": "",
       "SkillImageSize": 100,
       "SkillImageAngle": 0,
       "InOut": null
@@ -3551,6 +3787,7 @@
       "ShapeID": 1,
       "SkillType": 2,
       "SkillImage": "symbol_condense",
+      "NewIcon": "",
       "SkillImageSize": 100,
       "SkillImageAngle": 0,
       "InOut": null
@@ -3566,6 +3803,7 @@
       "ShapeID": 2,
       "SkillType": 2,
       "SkillImage": "symbol_bloodsuck",
+      "NewIcon": "",
       "SkillImageSize": 100,
       "SkillImageAngle": 0,
       "InOut": null
@@ -3581,6 +3819,7 @@
       "ShapeID": 2,
       "SkillType": 2,
       "SkillImage": "symbol_bloodsuck",
+      "NewIcon": "",
       "SkillImageSize": 100,
       "SkillImageAngle": 0,
       "InOut": null
@@ -3596,6 +3835,7 @@
       "ShapeID": 2,
       "SkillType": 2,
       "SkillImage": "symbol_bloodsuck",
+      "NewIcon": "",
       "SkillImageSize": 100,
       "SkillImageAngle": 0,
       "InOut": null
@@ -3611,6 +3851,7 @@
       "ShapeID": 1,
       "SkillType": 2,
       "SkillImage": "symbol_add",
+      "NewIcon": "",
       "SkillImageSize": 100,
       "SkillImageAngle": 0,
       "InOut": null
@@ -3626,6 +3867,7 @@
       "ShapeID": 1,
       "SkillType": 2,
       "SkillImage": "symbol_add",
+      "NewIcon": "",
       "SkillImageSize": 100,
       "SkillImageAngle": 0,
       "InOut": null
@@ -3641,6 +3883,7 @@
       "ShapeID": 1,
       "SkillType": 2,
       "SkillImage": "symbol_add",
+      "NewIcon": "",
       "SkillImageSize": 100,
       "SkillImageAngle": 0,
       "InOut": null
@@ -3656,6 +3899,7 @@
       "ShapeID": 1,
       "SkillType": 2,
       "SkillImage": "StatsIcon_Speed",
+      "NewIcon": "",
       "SkillImageSize": 100,
       "SkillImageAngle": 0,
       "InOut": null
@@ -3671,6 +3915,7 @@
       "ShapeID": 1,
       "SkillType": 2,
       "SkillImage": "StatsIcon_Speed",
+      "NewIcon": "",
       "SkillImageSize": 100,
       "SkillImageAngle": 0,
       "InOut": null
@@ -3686,6 +3931,7 @@
       "ShapeID": 1,
       "SkillType": 2,
       "SkillImage": "StatsIcon_Speed",
+      "NewIcon": "",
       "SkillImageSize": 100,
       "SkillImageAngle": 0,
       "InOut": null
