@@ -3664,7 +3664,7 @@
       "SoundName": "Attack_rock",
       "PrefabName": "Mortar_rocks",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_rocksImpact"
     },
     {
       "ID": 150052,
@@ -3690,7 +3690,7 @@
       "SoundName": "Attack_rock",
       "PrefabName": "Mortar_rocks",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_rocksImpact"
     },
     {
       "ID": 150053,
@@ -3716,7 +3716,7 @@
       "SoundName": "Attack_rock",
       "PrefabName": "Mortar_rocks",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_rocksImpact"
     },
     {
       "ID": 150061,
