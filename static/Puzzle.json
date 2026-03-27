@@ -68,9 +68,9 @@
       "SkillImage": "battle_axe",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "NewIcon": "NewIcon_02_battleAxe",
+      "NewIconSize": 100,
+      "NewIconAngle": 0
     },
     {
       "ID": 110022,
@@ -86,9 +86,9 @@
       "SkillImage": "battle_axe",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "NewIcon": "NewIcon_02_battleAxe",
+      "NewIconSize": 100,
+      "NewIconAngle": 0
     },
     {
       "ID": 110023,
@@ -104,9 +104,9 @@
       "SkillImage": "battle_axe",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "NewIcon": "NewIcon_02_battleAxe",
+      "NewIconSize": 100,
+      "NewIconAngle": 0
     },
     {
       "ID": 110031,
