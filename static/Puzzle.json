@@ -124,7 +124,7 @@
       "SkillImageAngle": 45,
       "NewIcon": "NewIcon_03_swingAxe",
       "NewIconSize": 150,
-      "NewIconAngle": 0
+      "NewIconAngle": 30
     },
     {
       "ID": 110032,
@@ -142,7 +142,7 @@
       "SkillImageAngle": 45,
       "NewIcon": "NewIcon_03_swingAxe",
       "NewIconSize": 150,
-      "NewIconAngle": 0
+      "NewIconAngle": 30
     },
     {
       "ID": 110033,
@@ -160,7 +160,7 @@
       "SkillImageAngle": 45,
       "NewIcon": "NewIcon_03_swingAxe",
       "NewIconSize": 150,
-      "NewIconAngle": 0
+      "NewIconAngle": 30
     },
     {
       "ID": 110041,
