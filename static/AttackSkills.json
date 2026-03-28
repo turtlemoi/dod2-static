@@ -4032,7 +4032,7 @@
     },
     {
       "ID": 150101,
-      "SkillName": "여래신장",
+      "SkillName": "파천난타 (여래신장)",
       "SkillType": 13,
       "SkillLevel": 1,
       "CoolDown": 1,
@@ -4058,7 +4058,7 @@
     },
     {
       "ID": 150102,
-      "SkillName": "여래신장",
+      "SkillName": "파천난타 (여래신장)",
       "SkillType": 13,
       "SkillLevel": 2,
       "CoolDown": 1,
@@ -4084,7 +4084,7 @@
     },
     {
       "ID": 150103,
-      "SkillName": "여래신장",
+      "SkillName": "파천난타 (여래신장)",
       "SkillType": 13,
       "SkillLevel": 3,
       "CoolDown": 1,

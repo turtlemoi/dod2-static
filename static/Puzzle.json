@@ -176,9 +176,9 @@
       "SkillImage": "swordaura",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "NewIcon": "NewIcon_04_circleSlash",
+      "NewIconSize": 100,
+      "NewIconAngle": 0
     },
     {
       "ID": 110042,
@@ -194,9 +194,9 @@
       "SkillImage": "swordaura",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "NewIcon": "NewIcon_04_circleSlash",
+      "NewIconSize": 100,
+      "NewIconAngle": 0
     },
     {
       "ID": 110043,
@@ -212,9 +212,9 @@
       "SkillImage": "swordaura",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "NewIcon": "NewIcon_04_circleSlash",
+      "NewIconSize": 100,
+      "NewIconAngle": 0
     },
     {
       "ID": 110051,
