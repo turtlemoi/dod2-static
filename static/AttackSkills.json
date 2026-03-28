@@ -3,7 +3,6 @@
     {
       "ID": 100,
       "SkillName": "모험가 공격",
-      "시너지 임시": "",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 3,
@@ -30,7 +29,6 @@
     {
       "ID": 101,
       "SkillName": "전사 공격",
-      "시너지 임시": "",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 3,
@@ -57,7 +55,6 @@
     {
       "ID": 102,
       "SkillName": "궁수 공격",
-      "시너지 임시": "",
       "SkillType": 7,
       "SkillLevel": 1,
       "CoolDown": 3,
@@ -84,7 +81,6 @@
     {
       "ID": 103,
       "SkillName": "마법사 공격",
-      "시너지 임시": "",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 3,
@@ -111,7 +107,6 @@
     {
       "ID": 104,
       "SkillName": "강령술사 공격",
-      "시너지 임시": "",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 3,
@@ -138,7 +133,6 @@
     {
       "ID": 105,
       "SkillName": "격투가 공격",
-      "시너지 임시": "",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 3,
@@ -165,7 +159,6 @@
     {
       "ID": 106,
       "SkillName": "도적 공격",
-      "시너지 임시": "",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 3,
@@ -192,7 +185,6 @@
     {
       "ID": 107,
       "SkillName": "주술사 공격",
-      "시너지 임시": "",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 3,
@@ -219,7 +211,6 @@
     {
       "ID": 110011,
       "SkillName": "창찌르기",
-      "시너지 임시": "무기술",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 1.1,
@@ -246,7 +237,6 @@
     {
       "ID": 110012,
       "SkillName": "창찌르기",
-      "시너지 임시": "",
       "SkillType": 1,
       "SkillLevel": 2,
       "CoolDown": 1,
@@ -273,7 +263,6 @@
     {
       "ID": 110013,
       "SkillName": "창찌르기",
-      "시너지 임시": "",
       "SkillType": 1,
       "SkillLevel": 3,
       "CoolDown": 0.9,
@@ -300,7 +289,6 @@
     {
       "ID": 110021,
       "SkillName": "도끼던지기",
-      "시너지 임시": "무기술",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 2.3,
@@ -327,7 +315,6 @@
     {
       "ID": 110022,
       "SkillName": "도끼던지기",
-      "시너지 임시": "",
       "SkillType": 2,
       "SkillLevel": 2,
       "CoolDown": 2.3,
@@ -354,7 +341,6 @@
     {
       "ID": 110023,
       "SkillName": "도끼던지기",
-      "시너지 임시": "",
       "SkillType": 2,
       "SkillLevel": 3,
       "CoolDown": 2.3,
@@ -381,7 +367,6 @@
     {
       "ID": 110031,
       "SkillName": "휘두르기",
-      "시너지 임시": "무기술",
       "SkillType": 8,
       "SkillLevel": 1,
       "CoolDown": 1,
@@ -408,7 +393,6 @@
     {
       "ID": 110032,
       "SkillName": "휘두르기",
-      "시너지 임시": "",
       "SkillType": 8,
       "SkillLevel": 2,
       "CoolDown": 0.9,
@@ -435,7 +419,6 @@
     {
       "ID": 110033,
       "SkillName": "휘두르기",
-      "시너지 임시": "",
       "SkillType": 8,
       "SkillLevel": 3,
       "CoolDown": 0.8,
@@ -462,7 +445,6 @@
     {
       "ID": 110041,
       "SkillName": "원형 베기",
-      "시너지 임시": "베기",
       "SkillType": 8,
       "SkillLevel": 1,
       "CoolDown": 2.7,
@@ -489,7 +471,6 @@
     {
       "ID": 110042,
       "SkillName": "원형 베기",
-      "시너지 임시": "",
       "SkillType": 8,
       "SkillLevel": 2,
       "CoolDown": 2.7,
@@ -516,7 +497,6 @@
     {
       "ID": 110043,
       "SkillName": "원형 베기",
-      "시너지 임시": "",
       "SkillType": 8,
       "SkillLevel": 3,
       "CoolDown": 2.7,
@@ -543,7 +523,6 @@
     {
       "ID": 110051,
       "SkillName": "불꽃검",
-      "시너지 임시": "어검술",
       "SkillType": 9,
       "SkillLevel": 1,
       "CoolDown": 5,
@@ -570,7 +549,6 @@
     {
       "ID": 110052,
       "SkillName": "불꽃검",
-      "시너지 임시": "",
       "SkillType": 9,
       "SkillLevel": 2,
       "CoolDown": 5,
@@ -597,7 +575,6 @@
     {
       "ID": 110053,
       "SkillName": "불꽃검",
-      "시너지 임시": "",
       "SkillType": 9,
       "SkillLevel": 3,
       "CoolDown": 5,
@@ -624,7 +601,6 @@
     {
       "ID": 110061,
       "SkillName": "연속 베기",
-      "시너지 임시": "베기",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 3,
@@ -651,7 +627,6 @@
     {
       "ID": 110062,
       "SkillName": "연속 베기",
-      "시너지 임시": "",
       "SkillType": 1,
       "SkillLevel": 2,
       "CoolDown": 3,
@@ -678,7 +653,6 @@
     {
       "ID": 110063,
       "SkillName": "연속 베기",
-      "시너지 임시": "",
       "SkillType": 1,
       "SkillLevel": 3,
       "CoolDown": 3,
@@ -705,7 +679,6 @@
     {
       "ID": 110071,
       "SkillName": "이기어검",
-      "시너지 임시": "어검술",
       "SkillType": 9,
       "SkillLevel": 1,
       "CoolDown": 6,
@@ -732,7 +705,6 @@
     {
       "ID": 110072,
       "SkillName": "이기어검",
-      "시너지 임시": "",
       "SkillType": 9,
       "SkillLevel": 2,
       "CoolDown": 6,
@@ -759,7 +731,6 @@
     {
       "ID": 110073,
       "SkillName": "이기어검",
-      "시너지 임시": "",
       "SkillType": 9,
       "SkillLevel": 3,
       "CoolDown": 6,
@@ -786,7 +757,6 @@
     {
       "ID": 110081,
       "SkillName": "사자후",
-      "시너지 임시": "일격필살",
       "SkillType": 3,
       "SkillLevel": 1,
       "CoolDown": 3.5,
@@ -813,7 +783,6 @@
     {
       "ID": 110082,
       "SkillName": "사자후",
-      "시너지 임시": "",
       "SkillType": 3,
       "SkillLevel": 2,
       "CoolDown": 3.5,
@@ -840,7 +809,6 @@
     {
       "ID": 110083,
       "SkillName": "사자후",
-      "시너지 임시": "",
       "SkillType": 3,
       "SkillLevel": 3,
       "CoolDown": 3.5,
@@ -867,7 +835,6 @@
     {
       "ID": 110091,
       "SkillName": "검무",
-      "시너지 임시": "베기",
       "SkillType": 4,
       "SkillLevel": 1,
       "CoolDown": 4.5,
@@ -894,7 +861,6 @@
     {
       "ID": 110092,
       "SkillName": "검무",
-      "시너지 임시": "",
       "SkillType": 4,
       "SkillLevel": 2,
       "CoolDown": 4.5,
@@ -921,7 +887,6 @@
     {
       "ID": 110093,
       "SkillName": "검무",
-      "시너지 임시": "",
       "SkillType": 4,
       "SkillLevel": 3,
       "CoolDown": 4.5,
@@ -948,7 +913,6 @@
     {
       "ID": 110101,
       "SkillName": "냉기 검기",
-      "시너지 임시": "일격필살",
       "SkillType": 14,
       "SkillLevel": 1,
       "CoolDown": 3,
@@ -975,7 +939,6 @@
     {
       "ID": 110102,
       "SkillName": "냉기 검기",
-      "시너지 임시": "",
       "SkillType": 14,
       "SkillLevel": 2,
       "CoolDown": 3,
@@ -1002,7 +965,6 @@
     {
       "ID": 110103,
       "SkillName": "냉기 검기",
-      "시너지 임시": "",
       "SkillType": 14,
       "SkillLevel": 3,
       "CoolDown": 3,
@@ -1029,7 +991,6 @@
     {
       "ID": 120011,
       "SkillName": "공중 화살",
-      "시너지 임시": "사격술",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 1.1,
@@ -1056,7 +1017,6 @@
     {
       "ID": 120012,
       "SkillName": "공중 화살",
-      "시너지 임시": "",
       "SkillType": 1,
       "SkillLevel": 2,
       "CoolDown": 1.1,
@@ -1083,7 +1043,6 @@
     {
       "ID": 120013,
       "SkillName": "공중 화살",
-      "시너지 임시": "",
       "SkillType": 1,
       "SkillLevel": 3,
       "CoolDown": 1.1,
@@ -1110,7 +1069,6 @@
     {
       "ID": 120021,
       "SkillName": "3연사",
-      "시너지 임시": "사격술",
       "SkillType": 7,
       "SkillLevel": 1,
       "CoolDown": 2.3,
@@ -1137,7 +1095,6 @@
     {
       "ID": 120022,
       "SkillName": "3연사",
-      "시너지 임시": "",
       "SkillType": 7,
       "SkillLevel": 2,
       "CoolDown": 2.1,
@@ -1164,7 +1121,6 @@
     {
       "ID": 120023,
       "SkillName": "3연사",
-      "시너지 임시": "",
       "SkillType": 7,
       "SkillLevel": 3,
       "CoolDown": 2,
@@ -1191,7 +1147,6 @@
     {
       "ID": 120031,
       "SkillName": "폭발 화살",
-      "시너지 임시": "기술자",
       "SkillType": 7,
       "SkillLevel": 1,
       "CoolDown": 2.3,
@@ -1218,7 +1173,6 @@
     {
       "ID": 120032,
       "SkillName": "폭발 화살",
-      "시너지 임시": "",
       "SkillType": 7,
       "SkillLevel": 2,
       "CoolDown": 2.1,
@@ -1245,7 +1199,6 @@
     {
       "ID": 120033,
       "SkillName": "폭발 화살",
-      "시너지 임시": "",
       "SkillType": 7,
       "SkillLevel": 3,
       "CoolDown": 2,
@@ -1272,7 +1225,6 @@
     {
       "ID": 120041,
       "SkillName": "독 화살",
-      "시너지 임시": "사냥꾼",
       "SkillType": 7,
       "SkillLevel": 1,
       "CoolDown": 1.8,
@@ -1299,7 +1251,6 @@
     {
       "ID": 120042,
       "SkillName": "독 화살",
-      "시너지 임시": "",
       "SkillType": 7,
       "SkillLevel": 2,
       "CoolDown": 1.7,
@@ -1326,7 +1277,6 @@
     {
       "ID": 120043,
       "SkillName": "독 화살",
-      "시너지 임시": "",
       "SkillType": 7,
       "SkillLevel": 3,
       "CoolDown": 1.6,
@@ -1353,7 +1303,6 @@
     {
       "ID": 120051,
       "SkillName": "곰소환",
-      "시너지 임시": "사냥꾼",
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 20,
@@ -1380,7 +1329,6 @@
     {
       "ID": 120052,
       "SkillName": "곰소환",
-      "시너지 임시": "",
       "SkillType": 6,
       "SkillLevel": 2,
       "CoolDown": 20,
@@ -1407,7 +1355,6 @@
     {
       "ID": 120053,
       "SkillName": "곰소환",
-      "시너지 임시": "",
       "SkillType": 6,
       "SkillLevel": 3,
       "CoolDown": 20,
@@ -1434,7 +1381,6 @@
     {
       "ID": 120061,
       "SkillName": "멀티샷",
-      "시너지 임시": "공성병기",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 2,
@@ -1461,7 +1407,6 @@
     {
       "ID": 120062,
       "SkillName": "멀티샷",
-      "시너지 임시": "",
       "SkillType": 2,
       "SkillLevel": 2,
       "CoolDown": 1.8,
@@ -1488,7 +1433,6 @@
     {
       "ID": 120063,
       "SkillName": "멀티샷",
-      "시너지 임시": "",
       "SkillType": 2,
       "SkillLevel": 3,
       "CoolDown": 1.7,
@@ -1515,7 +1459,6 @@
     {
       "ID": 120071,
       "SkillName": "감전 화살",
-      "시너지 임시": "기술자",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 1.6,
@@ -1542,7 +1485,6 @@
     {
       "ID": 120072,
       "SkillName": "감전 화살",
-      "시너지 임시": "",
       "SkillType": 2,
       "SkillLevel": 2,
       "CoolDown": 1.5,
@@ -1569,7 +1511,6 @@
     {
       "ID": 120073,
       "SkillName": "감전 화살",
-      "시너지 임시": "",
       "SkillType": 2,
       "SkillLevel": 3,
       "CoolDown": 1.4,
@@ -1596,7 +1537,6 @@
     {
       "ID": 120081,
       "SkillName": "꿰뚫는 바람",
-      "시너지 임시": "정령수",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 2.7,
@@ -1623,7 +1563,6 @@
     {
       "ID": 120082,
       "SkillName": "꿰뚫는 바람",
-      "시너지 임시": "",
       "SkillType": 2,
       "SkillLevel": 2,
       "CoolDown": 2.7,
@@ -1650,7 +1589,6 @@
     {
       "ID": 120083,
       "SkillName": "꿰뚫는 바람",
-      "시너지 임시": "",
       "SkillType": 2,
       "SkillLevel": 3,
       "CoolDown": 2.7,
@@ -1677,7 +1615,6 @@
     {
       "ID": 120091,
       "SkillName": "화살 난사",
-      "시너지 임시": "공성병기",
       "SkillType": 7,
       "SkillLevel": 1,
       "CoolDown": 3,
@@ -1704,7 +1641,6 @@
     {
       "ID": 120092,
       "SkillName": "화살 난사",
-      "시너지 임시": "",
       "SkillType": 7,
       "SkillLevel": 2,
       "CoolDown": 3,
@@ -1731,7 +1667,6 @@
     {
       "ID": 120093,
       "SkillName": "화살 난사",
-      "시너지 임시": "",
       "SkillType": 7,
       "SkillLevel": 3,
       "CoolDown": 3,
@@ -1758,7 +1693,6 @@
     {
       "ID": 120101,
       "SkillName": "용 화살",
-      "시너지 임시": "정령수",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 4.5,
@@ -1785,7 +1719,6 @@
     {
       "ID": 120102,
       "SkillName": "용 화살",
-      "시너지 임시": "",
       "SkillType": 2,
       "SkillLevel": 2,
       "CoolDown": 4.5,
@@ -1812,7 +1745,6 @@
     {
       "ID": 120103,
       "SkillName": "용 화살",
-      "시너지 임시": "",
       "SkillType": 2,
       "SkillLevel": 3,
       "CoolDown": 4.5,
@@ -1839,7 +1771,6 @@
     {
       "ID": 130011,
       "SkillName": "얼음 기둥",
-      "시너지 임시": "냉기 마법",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 1.2,
@@ -1866,7 +1797,6 @@
     {
       "ID": 130012,
       "SkillName": "얼음 기둥",
-      "시너지 임시": "",
       "SkillType": 1,
       "SkillLevel": 2,
       "CoolDown": 1.2,
@@ -1893,7 +1823,6 @@
     {
       "ID": 130013,
       "SkillName": "얼음 기둥",
-      "시너지 임시": "",
       "SkillType": 1,
       "SkillLevel": 3,
       "CoolDown": 1.2,
@@ -1920,7 +1849,6 @@
     {
       "ID": 130021,
       "SkillName": "화염구",
-      "시너지 임시": "화염 마법",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 2.3,
@@ -1947,7 +1875,6 @@
     {
       "ID": 130022,
       "SkillName": "화염구",
-      "시너지 임시": "",
       "SkillType": 2,
       "SkillLevel": 2,
       "CoolDown": 2.3,
@@ -1974,7 +1901,6 @@
     {
       "ID": 130023,
       "SkillName": "화염구",
-      "시너지 임시": "",
       "SkillType": 2,
       "SkillLevel": 3,
       "CoolDown": 2.3,
@@ -2001,7 +1927,6 @@
     {
       "ID": 130031,
       "SkillName": "체인 라이트닝 (아이스 스피어)",
-      "시너지 임시": "전기 마법",
       "SkillType": 11,
       "SkillLevel": 1,
       "CoolDown": 2,
@@ -2028,7 +1953,6 @@
     {
       "ID": 130032,
       "SkillName": "체인 라이트닝 (아이스 스피어)",
-      "시너지 임시": "",
       "SkillType": 11,
       "SkillLevel": 2,
       "CoolDown": 2,
@@ -2055,7 +1979,6 @@
     {
       "ID": 130033,
       "SkillName": "체인 라이트닝 (아이스 스피어)",
-      "시너지 임시": "",
       "SkillType": 11,
       "SkillLevel": 3,
       "CoolDown": 2,
@@ -2082,7 +2005,6 @@
     {
       "ID": 130041,
       "SkillName": "얼음 파편",
-      "시너지 임시": "냉기 마법",
       "SkillType": 5,
       "SkillLevel": 1,
       "CoolDown": 4,
@@ -2109,7 +2031,6 @@
     {
       "ID": 130042,
       "SkillName": "얼음 파편",
-      "시너지 임시": "",
       "SkillType": 5,
       "SkillLevel": 2,
       "CoolDown": 4,
@@ -2136,7 +2057,6 @@
     {
       "ID": 130043,
       "SkillName": "얼음 파편",
-      "시너지 임시": "",
       "SkillType": 5,
       "SkillLevel": 3,
       "CoolDown": 4,
@@ -2163,7 +2083,6 @@
     {
       "ID": 130051,
       "SkillName": "프로즌 오브 (프로즌 노바)",
-      "시너지 임시": "냉기 마법",
       "SkillType": 12,
       "SkillLevel": 1,
       "CoolDown": 3.3,
@@ -2190,7 +2109,6 @@
     {
       "ID": 130052,
       "SkillName": "프로즌 오브 (프로즌 노바)",
-      "시너지 임시": "",
       "SkillType": 12,
       "SkillLevel": 2,
       "CoolDown": 3.3,
@@ -2217,7 +2135,6 @@
     {
       "ID": 130053,
       "SkillName": "프로즌 오브 (프로즌 노바)",
-      "시너지 임시": "",
       "SkillType": 12,
       "SkillLevel": 3,
       "CoolDown": 3.3,
@@ -2244,7 +2161,6 @@
     {
       "ID": 130061,
       "SkillName": "라이트닝 노바",
-      "시너지 임시": "전기 마법",
       "SkillType": 3,
       "SkillLevel": 1,
       "CoolDown": 2.8,
@@ -2271,7 +2187,6 @@
     {
       "ID": 130062,
       "SkillName": "라이트닝 노바",
-      "시너지 임시": "",
       "SkillType": 3,
       "SkillLevel": 2,
       "CoolDown": 2.8,
@@ -2298,7 +2213,6 @@
     {
       "ID": 130063,
       "SkillName": "라이트닝 노바",
-      "시너지 임시": "",
       "SkillType": 3,
       "SkillLevel": 3,
       "CoolDown": 2.8,
@@ -2325,7 +2239,6 @@
     {
       "ID": 130071,
       "SkillName": "화염방사 (전기 위습)",
-      "시너지 임시": "화염 마법",
       "SkillType": 10,
       "SkillLevel": 1,
       "CoolDown": 5,
@@ -2352,7 +2265,6 @@
     {
       "ID": 130072,
       "SkillName": "화염방사 (전기 위습)",
-      "시너지 임시": "",
       "SkillType": 10,
       "SkillLevel": 2,
       "CoolDown": 5,
@@ -2379,7 +2291,6 @@
     {
       "ID": 130073,
       "SkillName": "화염방사 (전기 위습)",
-      "시너지 임시": "",
       "SkillType": 10,
       "SkillLevel": 3,
       "CoolDown": 5,
@@ -2406,7 +2317,6 @@
     {
       "ID": 130081,
       "SkillName": "빙결지대 (파이어 위습)",
-      "시너지 임시": "냉기 마법",
       "SkillType": 4,
       "SkillLevel": 1,
       "CoolDown": 15,
@@ -2433,7 +2343,6 @@
     {
       "ID": 130082,
       "SkillName": "빙결지대 (파이어 위습)",
-      "시너지 임시": "",
       "SkillType": 4,
       "SkillLevel": 2,
       "CoolDown": 15,
@@ -2460,7 +2369,6 @@
     {
       "ID": 130083,
       "SkillName": "빙결지대 (파이어 위습)",
-      "시너지 임시": "",
       "SkillType": 4,
       "SkillLevel": 3,
       "CoolDown": 15,
@@ -2487,7 +2395,6 @@
     {
       "ID": 130091,
       "SkillName": "번개",
-      "시너지 임시": "전기 마법",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 4,
@@ -2514,7 +2421,6 @@
     {
       "ID": 130092,
       "SkillName": "번개",
-      "시너지 임시": "",
       "SkillType": 1,
       "SkillLevel": 2,
       "CoolDown": 4,
@@ -2541,7 +2447,6 @@
     {
       "ID": 130093,
       "SkillName": "번개",
-      "시너지 임시": "",
       "SkillType": 1,
       "SkillLevel": 3,
       "CoolDown": 4,
@@ -2568,7 +2473,6 @@
     {
       "ID": 130101,
       "SkillName": "메테오",
-      "시너지 임시": "화염 마법",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 2.2,
@@ -2595,7 +2499,6 @@
     {
       "ID": 130102,
       "SkillName": "메테오",
-      "시너지 임시": "",
       "SkillType": 1,
       "SkillLevel": 2,
       "CoolDown": 2.2,
@@ -2622,7 +2525,6 @@
     {
       "ID": 130103,
       "SkillName": "메테오",
-      "시너지 임시": "",
       "SkillType": 1,
       "SkillLevel": 3,
       "CoolDown": 2.2,
@@ -2649,7 +2551,6 @@
     {
       "ID": 140011,
       "SkillName": "해골 궁수",
-      "시너지 임시": "해골술사",
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 10,
@@ -2676,7 +2577,6 @@
     {
       "ID": 140012,
       "SkillName": "해골 궁수",
-      "시너지 임시": "",
       "SkillType": 6,
       "SkillLevel": 2,
       "CoolDown": 10,
@@ -2703,7 +2603,6 @@
     {
       "ID": 140013,
       "SkillName": "해골 궁수",
-      "시너지 임시": "",
       "SkillType": 6,
       "SkillLevel": 3,
       "CoolDown": 10,
@@ -2730,7 +2629,6 @@
     {
       "ID": 140021,
       "SkillName": "뼈 가시 (영혼 날리기)",
-      "시너지 임시": "뼈술사",
       "SkillType": 13,
       "SkillLevel": 1,
       "CoolDown": 5,
@@ -2757,7 +2655,6 @@
     {
       "ID": 140022,
       "SkillName": "뼈 가시 (영혼 날리기)",
-      "시너지 임시": "",
       "SkillType": 13,
       "SkillLevel": 2,
       "CoolDown": 5,
@@ -2784,7 +2681,6 @@
     {
       "ID": 140023,
       "SkillName": "뼈 가시 (영혼 날리기)",
-      "시너지 임시": "",
       "SkillType": 13,
       "SkillLevel": 3,
       "CoolDown": 5,
@@ -2811,7 +2707,6 @@
     {
       "ID": 140031,
       "SkillName": "뼈두르기 (뼈창)",
-      "시너지 임시": "뼈술사",
       "SkillType": 5,
       "SkillLevel": 1,
       "CoolDown": 3,
@@ -2838,7 +2733,6 @@
     {
       "ID": 140032,
       "SkillName": "뼈두르기 (뼈창)",
-      "시너지 임시": "",
       "SkillType": 5,
       "SkillLevel": 2,
       "CoolDown": 3,
@@ -2865,7 +2759,6 @@
     {
       "ID": 140033,
       "SkillName": "뼈두르기 (뼈창)",
-      "시너지 임시": "",
       "SkillType": 5,
       "SkillLevel": 3,
       "CoolDown": 3,
@@ -2892,7 +2785,6 @@
     {
       "ID": 140041,
       "SkillName": "전사의 무덤 (해골 전사)",
-      "시너지 임시": "해골술사",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 13,
@@ -2919,7 +2811,6 @@
     {
       "ID": 140042,
       "SkillName": "전사의 무덤 (해골 전사)",
-      "시너지 임시": "",
       "SkillType": 1,
       "SkillLevel": 2,
       "CoolDown": 13,
@@ -2946,7 +2837,6 @@
     {
       "ID": 140043,
       "SkillName": "전사의 무덤 (해골 전사)",
-      "시너지 임시": "",
       "SkillType": 1,
       "SkillLevel": 3,
       "CoolDown": 13,
@@ -2973,7 +2863,6 @@
     {
       "ID": 140051,
       "SkillName": "해골 마법사",
-      "시너지 임시": "해골술사",
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 15,
@@ -3000,7 +2889,6 @@
     {
       "ID": 140052,
       "SkillName": "해골 마법사",
-      "시너지 임시": "",
       "SkillType": 6,
       "SkillLevel": 2,
       "CoolDown": 15,
@@ -3027,7 +2915,6 @@
     {
       "ID": 140053,
       "SkillName": "해골 마법사",
-      "시너지 임시": "",
       "SkillType": 6,
       "SkillLevel": 3,
       "CoolDown": 15,
@@ -3054,7 +2941,6 @@
     {
       "ID": 140061,
       "SkillName": "뼈 폭풍 (포이즌 노바)",
-      "시너지 임시": "뼈술사",
       "SkillType": 9,
       "SkillLevel": 1,
       "CoolDown": 18,
@@ -3081,7 +2967,6 @@
     {
       "ID": 140062,
       "SkillName": "뼈 폭풍 (포이즌 노바)",
-      "시너지 임시": "",
       "SkillType": 9,
       "SkillLevel": 2,
       "CoolDown": 18,
@@ -3108,7 +2993,6 @@
     {
       "ID": 140063,
       "SkillName": "뼈 폭풍 (포이즌 노바)",
-      "시너지 임시": "",
       "SkillType": 9,
       "SkillLevel": 3,
       "CoolDown": 18,
@@ -3135,7 +3019,6 @@
     {
       "ID": 140081,
       "SkillName": "군단무덤 (피의 파동)",
-      "시너지 임시": "해골술사",
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 20,
@@ -3162,7 +3045,6 @@
     {
       "ID": 140082,
       "SkillName": "군단무덤 (피의 파동)",
-      "시너지 임시": "",
       "SkillType": 6,
       "SkillLevel": 2,
       "CoolDown": 20,
@@ -3189,7 +3071,6 @@
     {
       "ID": 140083,
       "SkillName": "군단무덤 (피의 파동)",
-      "시너지 임시": "",
       "SkillType": 6,
       "SkillLevel": 3,
       "CoolDown": 20,
@@ -3216,7 +3097,6 @@
     {
       "ID": 140091,
       "SkillName": "바위 골렘 소환",
-      "시너지 임시": "골렘 술사",
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 17,
@@ -3243,7 +3123,6 @@
     {
       "ID": 140092,
       "SkillName": "바위 골렘 소환",
-      "시너지 임시": "",
       "SkillType": 6,
       "SkillLevel": 2,
       "CoolDown": 17,
@@ -3270,7 +3149,6 @@
     {
       "ID": 140093,
       "SkillName": "바위 골렘 소환",
-      "시너지 임시": "",
       "SkillType": 6,
       "SkillLevel": 3,
       "CoolDown": 17,
@@ -3297,7 +3175,6 @@
     {
       "ID": 140071,
       "SkillName": "시체 골렘",
-      "시너지 임시": "골렘 술사",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 20,
@@ -3324,7 +3201,6 @@
     {
       "ID": 140072,
       "SkillName": "시체 골렘",
-      "시너지 임시": "",
       "SkillType": 1,
       "SkillLevel": 2,
       "CoolDown": 20,
@@ -3351,7 +3227,6 @@
     {
       "ID": 140073,
       "SkillName": "시체 골렘",
-      "시너지 임시": "",
       "SkillType": 1,
       "SkillLevel": 3,
       "CoolDown": 20,
@@ -3378,7 +3253,6 @@
     {
       "ID": 140101,
       "SkillName": "뼈 파도 (망자의 땅)",
-      "시너지 임시": "뼈술사",
       "SkillType": 13,
       "SkillLevel": 1,
       "CoolDown": 25,
@@ -3405,7 +3279,6 @@
     {
       "ID": 140102,
       "SkillName": "뼈 파도 (망자의 땅)",
-      "시너지 임시": "",
       "SkillType": 13,
       "SkillLevel": 2,
       "CoolDown": 25,
@@ -3432,7 +3305,6 @@
     {
       "ID": 140103,
       "SkillName": "뼈 파도 (망자의 땅)",
-      "시너지 임시": "",
       "SkillType": 13,
       "SkillLevel": 3,
       "CoolDown": 25,
@@ -3459,7 +3331,6 @@
     {
       "ID": 150011,
       "SkillName": "삼아각 (화염파동)",
-      "시너지 임시": "철권",
       "SkillType": 10,
       "SkillLevel": 1,
       "CoolDown": 2.3,
@@ -3486,7 +3357,6 @@
     {
       "ID": 150012,
       "SkillName": "삼아각",
-      "시너지 임시": "",
       "SkillType": 10,
       "SkillLevel": 2,
       "CoolDown": 2.3,
@@ -3513,7 +3383,6 @@
     {
       "ID": 150013,
       "SkillName": "삼아각",
-      "시너지 임시": "",
       "SkillType": 10,
       "SkillLevel": 3,
       "CoolDown": 2.3,
@@ -3540,7 +3409,6 @@
     {
       "ID": 150021,
       "SkillName": "일격권 (권법)",
-      "시너지 임시": "질풍",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 1,
@@ -3567,7 +3435,6 @@
     {
       "ID": 150022,
       "SkillName": "일격권",
-      "시너지 임시": "",
       "SkillType": 1,
       "SkillLevel": 2,
       "CoolDown": 1,
@@ -3594,7 +3461,6 @@
     {
       "ID": 150023,
       "SkillName": "일격권",
-      "시너지 임시": "",
       "SkillType": 1,
       "SkillLevel": 3,
       "CoolDown": 1,
@@ -3621,7 +3487,6 @@
     {
       "ID": 150031,
       "SkillName": "백열권 (태극진)",
-      "시너지 임시": "철권",
       "SkillType": 10,
       "SkillLevel": 1,
       "CoolDown": 3.3,
@@ -3648,7 +3513,6 @@
     {
       "ID": 150032,
       "SkillName": "백열권",
-      "시너지 임시": "",
       "SkillType": 10,
       "SkillLevel": 2,
       "CoolDown": 3.3,
@@ -3675,7 +3539,6 @@
     {
       "ID": 150033,
       "SkillName": "백열권",
-      "시너지 임시": "",
       "SkillType": 10,
       "SkillLevel": 3,
       "CoolDown": 3.3,
@@ -3702,7 +3565,6 @@
     {
       "ID": 150041,
       "SkillName": "반월각 (냉기권법)",
-      "시너지 임시": "질풍",
       "SkillType": 8,
       "SkillLevel": 1,
       "CoolDown": 4.1,
@@ -3729,7 +3591,6 @@
     {
       "ID": 150042,
       "SkillName": "반월각",
-      "시너지 임시": "",
       "SkillType": 8,
       "SkillLevel": 2,
       "CoolDown": 4.1,
@@ -3756,7 +3617,6 @@
     {
       "ID": 150043,
       "SkillName": "반월각",
-      "시너지 임시": "",
       "SkillType": 8,
       "SkillLevel": 3,
       "CoolDown": 4.1,
@@ -3783,7 +3643,6 @@
     {
       "ID": 150051,
       "SkillName": "발구르기 (전기장법)",
-      "시너지 임시": "야수성",
       "SkillType": 13,
       "SkillLevel": 1,
       "CoolDown": 10,
@@ -3810,7 +3669,6 @@
     {
       "ID": 150052,
       "SkillName": "발구르기",
-      "시너지 임시": "",
       "SkillType": 13,
       "SkillLevel": 2,
       "CoolDown": 10,
@@ -3837,7 +3695,6 @@
     {
       "ID": 150053,
       "SkillName": "발구르기",
-      "시너지 임시": "",
       "SkillType": 13,
       "SkillLevel": 3,
       "CoolDown": 10,
@@ -3864,7 +3721,6 @@
     {
       "ID": 150061,
       "SkillName": "광란광무 (내공탄)",
-      "시너지 임시": "질풍",
       "SkillType": 13,
       "SkillLevel": 1,
       "CoolDown": 1,
@@ -3877,7 +3733,7 @@
       "SkillRange": 8,
       "Pierce": 0,
       "KnockbackForce": 0.2,
-      "Value1": 0.7,
+      "Value1": 0.8,
       "Value2": 0.1,
       "Value3": 3,
       "Value4": 0.1,
@@ -3891,7 +3747,6 @@
     {
       "ID": 150062,
       "SkillName": "광란광무 (내공탄)",
-      "시너지 임시": "",
       "SkillType": 13,
       "SkillLevel": 2,
       "CoolDown": 1,
@@ -3904,7 +3759,7 @@
       "SkillRange": 8,
       "Pierce": 0,
       "KnockbackForce": 0.2,
-      "Value1": 0.7,
+      "Value1": 0.8,
       "Value2": 0.1,
       "Value3": 3,
       "Value4": 0.1,
@@ -3918,7 +3773,6 @@
     {
       "ID": 150063,
       "SkillName": "광란광무 (내공탄)",
-      "시너지 임시": "",
       "SkillType": 13,
       "SkillLevel": 3,
       "CoolDown": 1,
@@ -3931,7 +3785,7 @@
       "SkillRange": 8,
       "Pierce": 0,
       "KnockbackForce": 0.2,
-      "Value1": 0.7,
+      "Value1": 0.8,
       "Value2": 0.1,
       "Value3": 3,
       "Value4": 0.1,
@@ -3945,7 +3799,6 @@
     {
       "ID": 150071,
       "SkillName": "바위 던지기 (냉기 파동)",
-      "시너지 임시": "야수성",
       "SkillType": 7,
       "SkillLevel": 1,
       "CoolDown": 10,
@@ -3972,7 +3825,6 @@
     {
       "ID": 150072,
       "SkillName": "바위 던지기 (냉기 파동)",
-      "시너지 임시": "",
       "SkillType": 7,
       "SkillLevel": 2,
       "CoolDown": 10,
@@ -3999,7 +3851,6 @@
     {
       "ID": 150073,
       "SkillName": "바위 던지기 (냉기 파동)",
-      "시너지 임시": "",
       "SkillType": 7,
       "SkillLevel": 3,
       "CoolDown": 10,
@@ -4026,7 +3877,6 @@
     {
       "ID": 150081,
       "SkillName": "뇌전 태극진",
-      "시너지 임시": "",
       "SkillType": 4,
       "SkillLevel": 1,
       "CoolDown": 5,
@@ -4053,7 +3903,6 @@
     {
       "ID": 150082,
       "SkillName": "뇌전 태극진",
-      "시너지 임시": "",
       "SkillType": 4,
       "SkillLevel": 2,
       "CoolDown": 5,
@@ -4080,7 +3929,6 @@
     {
       "ID": 150083,
       "SkillName": "뇌전 태극진",
-      "시너지 임시": "",
       "SkillType": 4,
       "SkillLevel": 3,
       "CoolDown": 5,
@@ -4107,7 +3955,6 @@
     {
       "ID": 150091,
       "SkillName": "폭발 장법",
-      "시너지 임시": "철권",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 4.5,
@@ -4134,7 +3981,6 @@
     {
       "ID": 150092,
       "SkillName": "폭발 장법",
-      "시너지 임시": "",
       "SkillType": 2,
       "SkillLevel": 2,
       "CoolDown": 4.5,
@@ -4161,7 +4007,6 @@
     {
       "ID": 150093,
       "SkillName": "폭발 장법",
-      "시너지 임시": "",
       "SkillType": 2,
       "SkillLevel": 3,
       "CoolDown": 4.5,
@@ -4188,7 +4033,6 @@
     {
       "ID": 150101,
       "SkillName": "여래신장",
-      "시너지 임시": "",
       "SkillType": 13,
       "SkillLevel": 1,
       "CoolDown": 1,
@@ -4215,7 +4059,6 @@
     {
       "ID": 150102,
       "SkillName": "여래신장",
-      "시너지 임시": "",
       "SkillType": 13,
       "SkillLevel": 2,
       "CoolDown": 1,
@@ -4242,7 +4085,6 @@
     {
       "ID": 150103,
       "SkillName": "여래신장",
-      "시너지 임시": "",
       "SkillType": 13,
       "SkillLevel": 3,
       "CoolDown": 1,
@@ -4269,7 +4111,6 @@
     {
       "ID": 160011,
       "SkillName": "독 찌르기",
-      "시너지 임시": "",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 0.8,
@@ -4296,7 +4137,6 @@
     {
       "ID": 160012,
       "SkillName": "독 찌르기",
-      "시너지 임시": "",
       "SkillType": 1,
       "SkillLevel": 2,
       "CoolDown": 0.8,
@@ -4323,7 +4163,6 @@
     {
       "ID": 160013,
       "SkillName": "독 찌르기",
-      "시너지 임시": "",
       "SkillType": 1,
       "SkillLevel": 3,
       "CoolDown": 0.8,
@@ -4350,7 +4189,6 @@
     {
       "ID": 160021,
       "SkillName": "단검 던지기",
-      "시너지 임시": "",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 2,
@@ -4377,7 +4215,6 @@
     {
       "ID": 160022,
       "SkillName": "단검 던지기",
-      "시너지 임시": "",
       "SkillType": 2,
       "SkillLevel": 2,
       "CoolDown": 2,
@@ -4404,7 +4241,6 @@
     {
       "ID": 160023,
       "SkillName": "단검 던지기",
-      "시너지 임시": "",
       "SkillType": 2,
       "SkillLevel": 3,
       "CoolDown": 2,
@@ -4431,7 +4267,6 @@
     {
       "ID": 160031,
       "SkillName": "독검 투척",
-      "시너지 임시": "",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 1.8,
@@ -4458,7 +4293,6 @@
     {
       "ID": 160032,
       "SkillName": "독검 투척",
-      "시너지 임시": "",
       "SkillType": 2,
       "SkillLevel": 2,
       "CoolDown": 1.8,
@@ -4485,7 +4319,6 @@
     {
       "ID": 160033,
       "SkillName": "독검 투척",
-      "시너지 임시": "",
       "SkillType": 2,
       "SkillLevel": 3,
       "CoolDown": 1.8,
@@ -4512,7 +4345,6 @@
     {
       "ID": 160041,
       "SkillName": "회전칼날",
-      "시너지 임시": "",
       "SkillType": 5,
       "SkillLevel": 1,
       "CoolDown": 4,
@@ -4539,7 +4371,6 @@
     {
       "ID": 160042,
       "SkillName": "회전칼날",
-      "시너지 임시": "",
       "SkillType": 5,
       "SkillLevel": 2,
       "CoolDown": 4,
@@ -4566,7 +4397,6 @@
     {
       "ID": 160043,
       "SkillName": "회전칼날",
-      "시너지 임시": "",
       "SkillType": 5,
       "SkillLevel": 3,
       "CoolDown": 4,
@@ -4593,7 +4423,6 @@
     {
       "ID": 160051,
       "SkillName": "냉기 표창",
-      "시너지 임시": "",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 1.8,
@@ -4620,7 +4449,6 @@
     {
       "ID": 160052,
       "SkillName": "냉기 표창",
-      "시너지 임시": "",
       "SkillType": 2,
       "SkillLevel": 2,
       "CoolDown": 1.8,
@@ -4647,7 +4475,6 @@
     {
       "ID": 160053,
       "SkillName": "냉기 표창",
-      "시너지 임시": "",
       "SkillType": 2,
       "SkillLevel": 3,
       "CoolDown": 1.8,
@@ -4674,7 +4501,6 @@
     {
       "ID": 160061,
       "SkillName": "회전 독칼날",
-      "시너지 임시": "",
       "SkillType": 5,
       "SkillLevel": 1,
       "CoolDown": 1,
@@ -4701,7 +4527,6 @@
     {
       "ID": 160062,
       "SkillName": "회전 독칼날",
-      "시너지 임시": "",
       "SkillType": 5,
       "SkillLevel": 2,
       "CoolDown": 1,
@@ -4728,7 +4553,6 @@
     {
       "ID": 160063,
       "SkillName": "회전 독칼날",
-      "시너지 임시": "",
       "SkillType": 5,
       "SkillLevel": 3,
       "CoolDown": 1,
@@ -4755,7 +4579,6 @@
     {
       "ID": 160071,
       "SkillName": "수리검 난사",
-      "시너지 임시": "",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 4.5,
@@ -4782,7 +4605,6 @@
     {
       "ID": 160072,
       "SkillName": "수리검 난사",
-      "시너지 임시": "",
       "SkillType": 2,
       "SkillLevel": 2,
       "CoolDown": 4.5,
@@ -4809,7 +4631,6 @@
     {
       "ID": 160073,
       "SkillName": "수리검 난사",
-      "시너지 임시": "",
       "SkillType": 2,
       "SkillLevel": 3,
       "CoolDown": 4.5,
@@ -4836,7 +4657,6 @@
     {
       "ID": 160081,
       "SkillName": "암습",
-      "시너지 임시": "",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 0.7,
@@ -4863,7 +4683,6 @@
     {
       "ID": 160082,
       "SkillName": "암습",
-      "시너지 임시": "",
       "SkillType": 1,
       "SkillLevel": 2,
       "CoolDown": 0.6,
@@ -4890,7 +4709,6 @@
     {
       "ID": 160083,
       "SkillName": "암습",
-      "시너지 임시": "",
       "SkillType": 1,
       "SkillLevel": 3,
       "CoolDown": 0.5,
@@ -4917,7 +4735,6 @@
     {
       "ID": 160091,
       "SkillName": "암살 영역",
-      "시너지 임시": "",
       "SkillType": 4,
       "SkillLevel": 1,
       "CoolDown": 5,
@@ -4944,7 +4761,6 @@
     {
       "ID": 160092,
       "SkillName": "암살 영역",
-      "시너지 임시": "",
       "SkillType": 4,
       "SkillLevel": 2,
       "CoolDown": 5,
@@ -4971,7 +4787,6 @@
     {
       "ID": 160093,
       "SkillName": "암살 영역",
-      "시너지 임시": "",
       "SkillType": 4,
       "SkillLevel": 3,
       "CoolDown": 5,
@@ -4998,7 +4813,6 @@
     {
       "ID": 160101,
       "SkillName": "가시 파동",
-      "시너지 임시": "",
       "SkillType": 3,
       "SkillLevel": 1,
       "CoolDown": 3.5,
@@ -5025,7 +4839,6 @@
     {
       "ID": 160102,
       "SkillName": "가시 파동",
-      "시너지 임시": "",
       "SkillType": 3,
       "SkillLevel": 2,
       "CoolDown": 3.5,
@@ -5052,7 +4865,6 @@
     {
       "ID": 160103,
       "SkillName": "가시 파동",
-      "시너지 임시": "",
       "SkillType": 3,
       "SkillLevel": 3,
       "CoolDown": 3.5,
@@ -5079,7 +4891,6 @@
     {
       "ID": 170011,
       "SkillName": "독침",
-      "시너지 임시": "",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 1.5,
@@ -5106,7 +4917,6 @@
     {
       "ID": 170012,
       "SkillName": "독침",
-      "시너지 임시": "",
       "SkillType": 2,
       "SkillLevel": 2,
       "CoolDown": 1.5,
@@ -5133,7 +4943,6 @@
     {
       "ID": 170013,
       "SkillName": "독침",
-      "시너지 임시": "",
       "SkillType": 2,
       "SkillLevel": 3,
       "CoolDown": 1.5,
@@ -5160,7 +4969,6 @@
     {
       "ID": 170021,
       "SkillName": "그림자고양이",
-      "시너지 임시": "",
       "SkillType": 5,
       "SkillLevel": 1,
       "CoolDown": 4,
@@ -5187,7 +4995,6 @@
     {
       "ID": 170022,
       "SkillName": "그림자고양이",
-      "시너지 임시": "",
       "SkillType": 5,
       "SkillLevel": 2,
       "CoolDown": 4,
@@ -5214,7 +5021,6 @@
     {
       "ID": 170023,
       "SkillName": "그림자고양이",
-      "시너지 임시": "",
       "SkillType": 5,
       "SkillLevel": 3,
       "CoolDown": 4,
@@ -5241,7 +5047,6 @@
     {
       "ID": 170031,
       "SkillName": "늪지대",
-      "시너지 임시": "",
       "SkillType": 4,
       "SkillLevel": 1,
       "CoolDown": 5,
@@ -5268,7 +5073,6 @@
     {
       "ID": 170032,
       "SkillName": "늪지대",
-      "시너지 임시": "",
       "SkillType": 4,
       "SkillLevel": 2,
       "CoolDown": 5,
@@ -5295,7 +5099,6 @@
     {
       "ID": 170033,
       "SkillName": "늪지대",
-      "시너지 임시": "",
       "SkillType": 4,
       "SkillLevel": 3,
       "CoolDown": 5,
@@ -5322,7 +5125,6 @@
     {
       "ID": 170041,
       "SkillName": "화염 토템",
-      "시너지 임시": "",
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 8,
@@ -5349,7 +5151,6 @@
     {
       "ID": 170042,
       "SkillName": "화염 토템",
-      "시너지 임시": "",
       "SkillType": 6,
       "SkillLevel": 2,
       "CoolDown": 8,
@@ -5376,7 +5177,6 @@
     {
       "ID": 170043,
       "SkillName": "화염 토템",
-      "시너지 임시": "",
       "SkillType": 6,
       "SkillLevel": 3,
       "CoolDown": 8,
@@ -5403,7 +5203,6 @@
     {
       "ID": 170051,
       "SkillName": "번개 토템",
-      "시너지 임시": "",
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 10,
@@ -5430,7 +5229,6 @@
     {
       "ID": 170052,
       "SkillName": "번개 토템",
-      "시너지 임시": "",
       "SkillType": 6,
       "SkillLevel": 2,
       "CoolDown": 10,
@@ -5457,7 +5255,6 @@
     {
       "ID": 170053,
       "SkillName": "번개 토템",
-      "시너지 임시": "",
       "SkillType": 6,
       "SkillLevel": 3,
       "CoolDown": 10,
@@ -5484,7 +5281,6 @@
     {
       "ID": 170061,
       "SkillName": "저주의 불",
-      "시너지 임시": "",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 5,
@@ -5511,7 +5307,6 @@
     {
       "ID": 170062,
       "SkillName": "저주의 불",
-      "시너지 임시": "",
       "SkillType": 2,
       "SkillLevel": 2,
       "CoolDown": 5,
@@ -5538,7 +5333,6 @@
     {
       "ID": 170063,
       "SkillName": "저주의 불",
-      "시너지 임시": "",
       "SkillType": 2,
       "SkillLevel": 3,
       "CoolDown": 5,
@@ -5565,7 +5359,6 @@
     {
       "ID": 170071,
       "SkillName": "가시 줄기",
-      "시너지 임시": "",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 0.8,
@@ -5592,7 +5385,6 @@
     {
       "ID": 170072,
       "SkillName": "가시 줄기",
-      "시너지 임시": "",
       "SkillType": 1,
       "SkillLevel": 2,
       "CoolDown": 0.7,
@@ -5619,7 +5411,6 @@
     {
       "ID": 170073,
       "SkillName": "가시 줄기",
-      "시너지 임시": "",
       "SkillType": 1,
       "SkillLevel": 3,
       "CoolDown": 0.6,
@@ -5646,7 +5437,6 @@
     {
       "ID": 170081,
       "SkillName": "도깨비불",
-      "시너지 임시": "",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 4.5,
@@ -5673,7 +5463,6 @@
     {
       "ID": 170082,
       "SkillName": "도깨비불",
-      "시너지 임시": "",
       "SkillType": 2,
       "SkillLevel": 2,
       "CoolDown": 4.5,
@@ -5700,7 +5489,6 @@
     {
       "ID": 170083,
       "SkillName": "도깨비불",
-      "시너지 임시": "",
       "SkillType": 2,
       "SkillLevel": 3,
       "CoolDown": 4.5,
@@ -5727,7 +5515,6 @@
     {
       "ID": 170091,
       "SkillName": "독 토템",
-      "시너지 임시": "",
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 8,
@@ -5754,7 +5541,6 @@
     {
       "ID": 170092,
       "SkillName": "독 토템",
-      "시너지 임시": "",
       "SkillType": 6,
       "SkillLevel": 2,
       "CoolDown": 8,
@@ -5781,7 +5567,6 @@
     {
       "ID": 170093,
       "SkillName": "독 토템",
-      "시너지 임시": "",
       "SkillType": 6,
       "SkillLevel": 3,
       "CoolDown": 8,
@@ -5808,7 +5593,6 @@
     {
       "ID": 170101,
       "SkillName": "공포 오라",
-      "시너지 임시": "",
       "SkillType": 4,
       "SkillLevel": 1,
       "CoolDown": 5,
@@ -5835,7 +5619,6 @@
     {
       "ID": 170102,
       "SkillName": "공포 오라",
-      "시너지 임시": "",
       "SkillType": 4,
       "SkillLevel": 2,
       "CoolDown": 5,
@@ -5862,7 +5645,6 @@
     {
       "ID": 170103,
       "SkillName": "공포 오라",
-      "시너지 임시": "",
       "SkillType": 4,
       "SkillLevel": 3,
       "CoolDown": 5,
@@ -5889,7 +5671,6 @@
     {
       "ID": 230011,
       "SkillName": "번개 보조 체인 라이트닝",
-      "시너지 임시": "",
       "SkillType": 11,
       "SkillLevel": 1,
       "CoolDown": 2,
@@ -5916,7 +5697,6 @@
     {
       "ID": 230012,
       "SkillName": "번개 보조 체인 라이트닝",
-      "시너지 임시": "",
       "SkillType": 11,
       "SkillLevel": 2,
       "CoolDown": 2,
@@ -5943,7 +5723,6 @@
     {
       "ID": 230013,
       "SkillName": "번개 보조 체인 라이트닝",
-      "시너지 임시": "",
       "SkillType": 11,
       "SkillLevel": 3,
       "CoolDown": 2,
@@ -5970,7 +5749,6 @@
     {
       "ID": 240041,
       "SkillName": "해골 전사",
-      "시너지 임시": "",
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 5,
@@ -5997,7 +5775,6 @@
     {
       "ID": 240042,
       "SkillName": "해골 전사",
-      "시너지 임시": "",
       "SkillType": 6,
       "SkillLevel": 2,
       "CoolDown": 5,
@@ -6024,7 +5801,6 @@
     {
       "ID": 240043,
       "SkillName": "해골 전사",
-      "시너지 임시": "",
       "SkillType": 6,
       "SkillLevel": 3,
       "CoolDown": 5,
@@ -6051,7 +5827,6 @@
     {
       "ID": 240011,
       "SkillName": "해골 궁수",
-      "시너지 임시": "",
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 5,
@@ -6078,7 +5853,6 @@
     {
       "ID": 240051,
       "SkillName": "해골 마법사",
-      "시너지 임시": "",
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 5,
@@ -6105,7 +5879,6 @@
     {
       "ID": 240071,
       "SkillName": "시체 골렘",
-      "시너지 임시": "",
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 20,
@@ -6132,7 +5905,6 @@
     {
       "ID": 240072,
       "SkillName": "시체 골렘",
-      "시너지 임시": "",
       "SkillType": 6,
       "SkillLevel": 2,
       "CoolDown": 20,
@@ -6159,7 +5931,6 @@
     {
       "ID": 240073,
       "SkillName": "시체 골렘",
-      "시너지 임시": "",
       "SkillType": 6,
       "SkillLevel": 3,
       "CoolDown": 20,
@@ -6186,7 +5957,6 @@
     {
       "ID": 901111,
       "SkillName": "슬라임 박치기",
-      "시너지 임시": "",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 1,
@@ -6213,7 +5983,6 @@
     {
       "ID": 901211,
       "SkillName": "박쥐 돌진",
-      "시너지 임시": "",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 1,
@@ -6240,7 +6009,6 @@
     {
       "ID": 901311,
       "SkillName": "좀비 깨물기",
-      "시너지 임시": "",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 1,
@@ -6267,7 +6035,6 @@
     {
       "ID": 901411,
       "SkillName": "고블린 곤봉",
-      "시너지 임시": "",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 1,
@@ -6294,7 +6061,6 @@
     {
       "ID": 901511,
       "SkillName": "위습 마법",
-      "시너지 임시": "",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 1.8,
@@ -6321,7 +6087,6 @@
     {
       "ID": 901611,
       "SkillName": "스켈레톤 화살",
-      "시너지 임시": "",
       "SkillType": 7,
       "SkillLevel": 1,
       "CoolDown": 2,
@@ -6348,7 +6113,6 @@
     {
       "ID": 910011,
       "SkillName": "숲 골렘 내려치기",
-      "시너지 임시": "",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 1,
@@ -6375,7 +6139,6 @@
     {
       "ID": 910012,
       "SkillName": "숲 골렘 원거리 뿌리공격",
-      "시너지 임시": "",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 1,
@@ -6402,7 +6165,6 @@
     {
       "ID": 910021,
       "SkillName": "도살자 갈고리 타격",
-      "시너지 임시": "",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 1,
@@ -6429,7 +6191,6 @@
     {
       "ID": 910022,
       "SkillName": "도살자 힘껏치기",
-      "시너지 임시": "",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 1,
@@ -6456,7 +6217,6 @@
     {
       "ID": 910031,
       "SkillName": "해골 사신 낫 휘두르기",
-      "시너지 임시": "",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 0.75,
@@ -6483,7 +6243,6 @@
     {
       "ID": 910032,
       "SkillName": "해골 사신 원거리 저주공격",
-      "시너지 임시": "",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 2,
@@ -6510,7 +6269,6 @@
     {
       "ID": 910033,
       "SkillName": "해골 사신 해골궁수 소환",
-      "시너지 임시": "",
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 8,
@@ -6537,7 +6295,6 @@
     {
       "ID": 910041,
       "SkillName": "예티 짓밟기",
-      "시너지 임시": "",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 1,
@@ -6564,7 +6321,6 @@
     {
       "ID": 910042,
       "SkillName": "예티 철권",
-      "시너지 임시": "",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 0.5,
@@ -6591,7 +6347,6 @@
     {
       "ID": 910043,
       "SkillName": "예티 냉기 오오라",
-      "시너지 임시": "",
       "SkillType": 4,
       "SkillLevel": 1,
       "CoolDown": 5,
@@ -6618,7 +6373,6 @@
     {
       "ID": 910051,
       "SkillName": "대악마 화염구",
-      "시너지 임시": "",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 2,
@@ -6645,7 +6399,6 @@
     {
       "ID": 910052,
       "SkillName": "대악마 지옥할퀴기",
-      "시너지 임시": "",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 2,
@@ -6672,7 +6425,6 @@
     {
       "ID": 910053,
       "SkillName": "대악마 어둠의 영역",
-      "시너지 임시": "",
       "SkillType": 4,
       "SkillLevel": 1,
       "CoolDown": 5,
@@ -6699,7 +6451,6 @@
     {
       "ID": 990011,
       "SkillName": "할퀴기",
-      "시너지 임시": "",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 1.2,
@@ -6726,7 +6477,6 @@
     {
       "ID": 990021,
       "SkillName": "라이트닝볼트 3연발",
-      "시너지 임시": "",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 1.8,
@@ -6753,7 +6503,6 @@
     {
       "ID": 990022,
       "SkillName": "전기위습 라이트닝 노바",
-      "시너지 임시": "",
       "SkillType": 3,
       "SkillLevel": 1,
       "CoolDown": 3,
@@ -6780,7 +6529,6 @@
     {
       "ID": 990031,
       "SkillName": "범위 파이어볼트",
-      "시너지 임시": "",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 1.8,
@@ -6807,7 +6555,6 @@
     {
       "ID": 990033,
       "SkillName": "파이어위습 불꽃 회전",
-      "시너지 임시": "",
       "SkillType": 5,
       "SkillLevel": 1,
       "CoolDown": 3,
@@ -6834,7 +6581,6 @@
     {
       "ID": 990041,
       "SkillName": "해골 궁수 화살",
-      "시너지 임시": "",
       "SkillType": 7,
       "SkillLevel": 1,
       "CoolDown": 2.1,
@@ -6861,7 +6607,6 @@
     {
       "ID": 990051,
       "SkillName": "양날도끼 휘두르기",
-      "시너지 임시": "",
       "SkillType": 8,
       "SkillLevel": 1,
       "CoolDown": 0.8,
@@ -6888,7 +6633,6 @@
     {
       "ID": 990061,
       "SkillName": "원거리 아이스볼트",
-      "시너지 임시": "",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 1.8,
@@ -6915,7 +6659,6 @@
     {
       "ID": 990062,
       "SkillName": "고드름",
-      "시너지 임시": "",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 0.8,
@@ -6942,7 +6685,6 @@
     {
       "ID": 990071,
       "SkillName": "시체 골렘 범위타격",
-      "시너지 임시": "",
       "SkillType": 1,
       "SkillLevel": 2,
       "CoolDown": 1,
@@ -6969,7 +6711,6 @@
     {
       "ID": 990072,
       "SkillName": "시체 골렘 주변오오라",
-      "시너지 임시": "",
       "SkillType": 4,
       "SkillLevel": 2,
       "CoolDown": 5,
@@ -6996,7 +6737,6 @@
     {
       "ID": 990081,
       "SkillName": "땅 파동",
-      "시너지 임시": "",
       "SkillType": 3,
       "SkillLevel": 1,
       "CoolDown": 3.3,
@@ -7023,7 +6763,6 @@
     {
       "ID": 990091,
       "SkillName": "파이어볼트 3연발",
-      "시너지 임시": "",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 2.1,
@@ -7050,7 +6789,6 @@
     {
       "ID": 990101,
       "SkillName": "전기 1회 투사체",
-      "시너지 임시": "",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 2.3,
@@ -7077,7 +6815,6 @@
     {
       "ID": 990111,
       "SkillName": "독 노바",
-      "시너지 임시": "",
       "SkillType": 3,
       "SkillLevel": 3,
       "CoolDown": 5,
@@ -7104,7 +6841,6 @@
     {
       "ID": 990112,
       "SkillName": "독 발사",
-      "시너지 임시": "",
       "SkillType": 2,
       "SkillLevel": 3,
       "CoolDown": 0.5,
