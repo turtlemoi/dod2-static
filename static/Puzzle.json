@@ -284,9 +284,9 @@
       "SkillImage": "nova_rock",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "NewIcon": "",
+      "NewIconSize": "",
+      "NewIconAngle": ""
     },
     {
       "ID": 110062,
@@ -338,9 +338,9 @@
       "SkillImage": "spear_electric",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "NewIcon": "NewIcon_07_flyingSword",
+      "NewIconSize": 150,
+      "NewIconAngle": 0
     },
     {
       "ID": 110072,
@@ -356,9 +356,9 @@
       "SkillImage": "spear_electric",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "NewIcon": "NewIcon_07_flyingSword",
+      "NewIconSize": 150,
+      "NewIconAngle": 0
     },
     {
       "ID": 110073,
@@ -374,9 +374,9 @@
       "SkillImage": "spear_electric",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "NewIcon": "NewIcon_07_flyingSword",
+      "NewIconSize": 150,
+      "NewIconAngle": 0
     },
     {
       "ID": 110081,
