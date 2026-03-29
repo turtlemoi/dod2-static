@@ -230,9 +230,9 @@
       "SkillImage": "Icon_rotation_sword_fire",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "NewIcon": "NewIcon_05_fireSword",
+      "NewIconSize": 150,
+      "NewIconAngle": 0
     },
     {
       "ID": 110052,
@@ -248,9 +248,9 @@
       "SkillImage": "Icon_rotation_sword_fire",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "NewIcon": "NewIcon_05_fireSword",
+      "NewIconSize": 150,
+      "NewIconAngle": 0
     },
     {
       "ID": 110053,
@@ -266,9 +266,9 @@
       "SkillImage": "Icon_rotation_sword_fire",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "NewIcon": "NewIcon_05_fireSword",
+      "NewIconSize": 150,
+      "NewIconAngle": 0
     },
     {
       "ID": 110061,

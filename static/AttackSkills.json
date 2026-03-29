@@ -4363,7 +4363,7 @@
       "Value4": 260041,
       "Value5": 1,
       "Value6": 0,
-      "SoundName": "Attack_swordaura",
+      "SoundName": "Attack_TwinStrike",
       "PrefabName": "Strike_TwinStrike_R",
       "SubPrefabName": "",
       "HitFXName": "FX_Hit_Impact"
@@ -4389,7 +4389,7 @@
       "Value4": 260042,
       "Value5": 1,
       "Value6": 0,
-      "SoundName": "Attack_swordaura",
+      "SoundName": "Attack_TwinStrike",
       "PrefabName": "Strike_TwinStrike_R",
       "SubPrefabName": "",
       "HitFXName": "FX_Hit_Impact"
@@ -4415,7 +4415,7 @@
       "Value4": 260043,
       "Value5": 1,
       "Value6": 0,
-      "SoundName": "Attack_swordaura",
+      "SoundName": "Attack_TwinStrike",
       "PrefabName": "Strike_TwinStrike_R",
       "SubPrefabName": "",
       "HitFXName": "FX_Hit_Impact"
@@ -5975,7 +5975,7 @@
       "Value4": 0,
       "Value5": 0,
       "Value6": 0,
-      "SoundName": "Attack_swordaura",
+      "SoundName": "Attack_TwinStrike",
       "PrefabName": "Strike_TwinStrike_L",
       "SubPrefabName": "",
       "HitFXName": "FX_Hit_Impact"
@@ -6001,7 +6001,7 @@
       "Value4": 0,
       "Value5": 0,
       "Value6": 0,
-      "SoundName": "Attack_swordaura",
+      "SoundName": "Attack_TwinStrike",
       "PrefabName": "Strike_TwinStrike_L",
       "SubPrefabName": "",
       "HitFXName": "FX_Hit_Impact"
@@ -6027,7 +6027,7 @@
       "Value4": 0,
       "Value5": 0,
       "Value6": 0,
-      "SoundName": "Attack_swordaura",
+      "SoundName": "Attack_TwinStrike",
       "PrefabName": "Strike_TwinStrike_L",
       "SubPrefabName": "",
       "HitFXName": "FX_Hit_Impact"
