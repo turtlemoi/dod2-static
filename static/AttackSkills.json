@@ -4345,7 +4345,7 @@
     {
       "ID": 160041,
       "SkillName": "난도질(회전칼날)",
-      "SkillType": 5,
+      "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 4,
       "SkillLimit": 1,
@@ -4371,7 +4371,7 @@
     {
       "ID": 160042,
       "SkillName": "난도질(회전칼날)",
-      "SkillType": 5,
+      "SkillType": 1,
       "SkillLevel": 2,
       "CoolDown": 4,
       "SkillLimit": 1,
@@ -4397,7 +4397,7 @@
     {
       "ID": 160043,
       "SkillName": "난도질(회전칼날)",
-      "SkillType": 5,
+      "SkillType": 1,
       "SkillLevel": 3,
       "CoolDown": 4,
       "SkillLimit": 1,
