@@ -4210,7 +4210,7 @@
       "SoundName": "Attack_dagger_throw",
       "PrefabName": "Projectile_dagger",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Pierce"
+      "HitFXName": "FX_Hit_shot_Impact"
     },
     {
       "ID": 160022,
@@ -4236,7 +4236,7 @@
       "SoundName": "Attack_dagger_throw",
       "PrefabName": "Projectile_dagger",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Pierce"
+      "HitFXName": "FX_Hit_shot_Impact"
     },
     {
       "ID": 160023,
@@ -4262,7 +4262,7 @@
       "SoundName": "Attack_dagger_throw",
       "PrefabName": "Projectile_dagger",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Pierce"
+      "HitFXName": "FX_Hit_shot_Impact"
     },
     {
       "ID": 160031,
@@ -4366,7 +4366,7 @@
       "SoundName": "Attack_TwinStrike",
       "PrefabName": "Strike_TwinStrike_R",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_shot_Impact"
     },
     {
       "ID": 160042,
@@ -4392,7 +4392,7 @@
       "SoundName": "Attack_TwinStrike",
       "PrefabName": "Strike_TwinStrike_R",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_shot_Impact"
     },
     {
       "ID": 160043,
@@ -4418,7 +4418,7 @@
       "SoundName": "Attack_TwinStrike",
       "PrefabName": "Strike_TwinStrike_R",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_shot_Impact"
     },
     {
       "ID": 160051,
@@ -4600,7 +4600,7 @@
       "SoundName": "Attack_kunai",
       "PrefabName": "Projectile_kunai",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Dark"
+      "HitFXName": "FX_Hit_shot_Impact"
     },
     {
       "ID": 160072,
@@ -4626,7 +4626,7 @@
       "SoundName": "Attack_kunai",
       "PrefabName": "Projectile_kunai",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Dark"
+      "HitFXName": "FX_Hit_shot_Impact"
     },
     {
       "ID": 160073,
@@ -4652,7 +4652,7 @@
       "SoundName": "Attack_kunai",
       "PrefabName": "Projectile_kunai",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Dark"
+      "HitFXName": "FX_Hit_shot_Impact"
     },
     {
       "ID": 160081,
