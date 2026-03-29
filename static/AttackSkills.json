@@ -5957,7 +5957,7 @@
     {
       "ID": 260041,
       "SkillName": "회전칼날",
-      "SkillType": 5,
+      "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 4,
       "SkillLimit": 1,
@@ -5983,7 +5983,7 @@
     {
       "ID": 260042,
       "SkillName": "회전칼날",
-      "SkillType": 5,
+      "SkillType": 1,
       "SkillLevel": 2,
       "CoolDown": 4,
       "SkillLimit": 1,
@@ -6009,7 +6009,7 @@
     {
       "ID": 260043,
       "SkillName": "회전칼날",
-      "SkillType": 5,
+      "SkillType": 1,
       "SkillLevel": 3,
       "CoolDown": 4,
       "SkillLimit": 1,
