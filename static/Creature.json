@@ -584,6 +584,19 @@
       "Weight": 9999,
       "BehaviorType": 2,
       "SkillID": "240041,240011,240051"
+    },
+    {
+      "ID": 9013,
+      "Type": 3,
+      "PrefabName": "113_shadow",
+      "DeadFX_Name": "",
+      "DeadSound_Name": "",
+      "Speed": 1,
+      "Damage": 1,
+      "HP": 1,
+      "Weight": 0,
+      "BehaviorType": 0,
+      "SkillID": "990113"
     }
   ]
 }

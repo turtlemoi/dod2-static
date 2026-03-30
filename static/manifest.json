@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-30T07:19:33.049Z",
+  "updatedAt": "2026-03-30T08:03:25.288Z",
   "sheets": [
     {
       "name": "Common",
@@ -21,8 +21,8 @@
     },
     {
       "name": "Creature",
-      "version": 53,
-      "hash": "6649a9cbca95f0292d01fc93aa1b2b4db7ee92bd12263eca12834bd7f896262d",
+      "version": 54,
+      "hash": "920e506dcbfd6729162ac7218eef80ac99bf9dcb7f0cd0aa7e44665ce18a8d87",
       "url": "/static/Creature.json"
     },
     {
@@ -45,8 +45,8 @@
     },
     {
       "name": "AttackSkills",
-      "version": 329,
-      "hash": "8b3243fe054c07079139b0136bd8da0edce91b3dc89b7de4aeaf88b47bfe7986",
+      "version": 330,
+      "hash": "c8aeb28132b832006a719abe625cc818d44883dae9747be63eb474d4da6c2a0d",
       "url": "/static/AttackSkills.json"
     },
     {
