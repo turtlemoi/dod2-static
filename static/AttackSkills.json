@@ -4832,9 +4832,9 @@
       "Value5": "",
       "Value6": "",
       "SoundName": "Attack_thorn",
-      "PrefabName": "Wave_thorn",
+      "PrefabName": "ChargeObject_SlashDash",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Pierce"
+      "HitFXName": "FX_Hit_shot_Impact"
     },
     {
       "ID": 160102,
@@ -4858,9 +4858,9 @@
       "Value5": "",
       "Value6": "",
       "SoundName": "Attack_thorn",
-      "PrefabName": "Wave_thorn",
+      "PrefabName": "ChargeObject_SlashDash",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Pierce"
+      "HitFXName": "FX_Hit_shot_Impact"
     },
     {
       "ID": 160103,
@@ -4884,9 +4884,9 @@
       "Value5": "",
       "Value6": "",
       "SoundName": "Attack_thorn",
-      "PrefabName": "Wave_thorn",
+      "PrefabName": "ChargeObject_SlashDash",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Pierce"
+      "HitFXName": "FX_Hit_shot_Impact"
     },
     {
       "ID": 170011,
