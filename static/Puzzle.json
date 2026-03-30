@@ -446,9 +446,9 @@
       "SkillImage": "swordaura_fire",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "NewIcon": "NewIcon_09_swordDance",
+      "NewIconSize": 150,
+      "NewIconAngle": 0
     },
     {
       "ID": 110092,
@@ -464,9 +464,9 @@
       "SkillImage": "swordaura_fire",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "NewIcon": "NewIcon_09_swordDance",
+      "NewIconSize": 150,
+      "NewIconAngle": 0
     },
     {
       "ID": 110093,
@@ -482,9 +482,9 @@
       "SkillImage": "swordaura_fire",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "NewIcon": "NewIcon_09_swordDance",
+      "NewIconSize": 150,
+      "NewIconAngle": 0
     },
     {
       "ID": 110101,
