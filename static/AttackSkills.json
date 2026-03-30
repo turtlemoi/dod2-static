@@ -4656,7 +4656,7 @@
     },
     {
       "ID": 160081,
-      "SkillName": "암습",
+      "SkillName": "그림자 암살자 (암습)",
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 10,
@@ -4682,7 +4682,7 @@
     },
     {
       "ID": 160082,
-      "SkillName": "암습",
+      "SkillName": "그림자 암살자 (암습)",
       "SkillType": 6,
       "SkillLevel": 2,
       "CoolDown": 10,
@@ -4708,7 +4708,7 @@
     },
     {
       "ID": 160083,
-      "SkillName": "암습",
+      "SkillName": "그림자 암살자 (암습)",
       "SkillType": 6,
       "SkillLevel": 3,
       "CoolDown": 10,
@@ -6957,14 +6957,14 @@
       "SkillRange": 24,
       "Pierce": 0,
       "KnockbackForce": 1,
-      "Value1": 2,
+      "Value1": 1,
       "Value2": "",
       "Value3": "",
       "Value4": "",
       "Value5": "",
       "Value6": "",
       "SoundName": "Attack_TwinStrike",
-      "PrefabName": "Strike_assassination",
+      "PrefabName": "Strike_assassination_Small",
       "SubPrefabName": "",
       "HitFXName": "FX_Hit_shot_Impact"
     }
