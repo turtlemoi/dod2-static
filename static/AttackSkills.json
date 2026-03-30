@@ -4813,7 +4813,7 @@
     {
       "ID": 160101,
       "SkillName": "가시 파동",
-      "SkillType": 3,
+      "SkillType": 17,
       "SkillLevel": 1,
       "CoolDown": 3.5,
       "SkillLimit": 1,
@@ -4839,7 +4839,7 @@
     {
       "ID": 160102,
       "SkillName": "가시 파동",
-      "SkillType": 3,
+      "SkillType": 17,
       "SkillLevel": 2,
       "CoolDown": 3.5,
       "SkillLimit": 1,
@@ -4865,7 +4865,7 @@
     {
       "ID": 160103,
       "SkillName": "가시 파동",
-      "SkillType": 3,
+      "SkillType": 17,
       "SkillLevel": 3,
       "CoolDown": 3.5,
       "SkillLimit": 1,
