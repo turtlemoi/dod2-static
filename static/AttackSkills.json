@@ -3954,8 +3954,8 @@
     },
     {
       "ID": 150091,
-      "SkillName": "폭발 장법",
-      "SkillType": 2,
+      "SkillName": "파쇄연참 (폭발 장법)",
+      "SkillType": 13,
       "SkillLevel": 1,
       "CoolDown": 4.5,
       "SkillLimit": 1,
@@ -3980,8 +3980,8 @@
     },
     {
       "ID": 150092,
-      "SkillName": "폭발 장법",
-      "SkillType": 2,
+      "SkillName": "파쇄연참 (폭발 장법)",
+      "SkillType": 13,
       "SkillLevel": 2,
       "CoolDown": 4.5,
       "SkillLimit": 1,
@@ -4006,8 +4006,8 @@
     },
     {
       "ID": 150093,
-      "SkillName": "폭발 장법",
-      "SkillType": 2,
+      "SkillName": "파쇄연참 (폭발 장법)",
+      "SkillType": 13,
       "SkillLevel": 3,
       "CoolDown": 4.5,
       "SkillLimit": 1,
