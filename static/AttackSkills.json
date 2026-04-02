@@ -466,7 +466,7 @@
       "SoundName": "Attack_swordaura",
       "PrefabName": "Swing_swordaura",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Pierce"
+      "HitFXName": "FX_Hit_Impact"
     },
     {
       "ID": 110042,
@@ -492,7 +492,7 @@
       "SoundName": "Attack_swordaura",
       "PrefabName": "Swing_swordaura",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Pierce"
+      "HitFXName": "FX_Hit_Impact"
     },
     {
       "ID": 110043,
@@ -518,7 +518,7 @@
       "SoundName": "Attack_swordaura",
       "PrefabName": "Swing_swordaura",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Pierce"
+      "HitFXName": "FX_Hit_Impact"
     },
     {
       "ID": 110051,
@@ -700,7 +700,7 @@
       "SoundName": "Attack_spear_electric",
       "PrefabName": "Homing_sword",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Lightning"
+      "HitFXName": "FX_Hit_Impact"
     },
     {
       "ID": 110072,
@@ -726,7 +726,7 @@
       "SoundName": "Attack_spear_electric",
       "PrefabName": "Homing_sword",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Lightning"
+      "HitFXName": "FX_Hit_Impact"
     },
     {
       "ID": 110073,
@@ -752,12 +752,12 @@
       "SoundName": "Attack_spear_electric",
       "PrefabName": "Homing_sword",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Lightning"
+      "HitFXName": "FX_Hit_Impact"
     },
     {
       "ID": 110081,
       "SkillName": "사자후",
-      "SkillType": 18,
+      "SkillType": 13,
       "SkillLevel": 1,
       "CoolDown": 4.7,
       "SkillLimit": 1,
@@ -769,21 +769,21 @@
       "SkillRange": 20,
       "Pierce": 9999,
       "KnockbackForce": 5,
-      "Value1": 24,
-      "Value2": 10,
-      "Value3": "",
-      "Value4": "",
+      "Value1": 2,
+      "Value2": 5,
+      "Value3": 2,
+      "Value4": 0.25,
       "Value5": "",
       "Value6": "",
-      "SoundName": "Attack_wind",
-      "PrefabName": "Wave_wind",
+      "SoundName": "Attack_rock",
+      "PrefabName": "FieldZone_TrueChargedSlash",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Pierce"
+      "HitFXName": "FX_Hit_Impact"
     },
     {
       "ID": 110082,
       "SkillName": "사자후",
-      "SkillType": 18,
+      "SkillType": 13,
       "SkillLevel": 2,
       "CoolDown": 4.7,
       "SkillLimit": 1,
@@ -795,21 +795,21 @@
       "SkillRange": 20,
       "Pierce": 9999,
       "KnockbackForce": 5,
-      "Value1": 24,
-      "Value2": 10,
-      "Value3": "",
-      "Value4": "",
+      "Value1": 2,
+      "Value2": 5,
+      "Value3": 2,
+      "Value4": 0.25,
       "Value5": "",
       "Value6": "",
-      "SoundName": "Attack_wind",
-      "PrefabName": "Wave_wind",
+      "SoundName": "Attack_rock",
+      "PrefabName": "FieldZone_TrueChargedSlash",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Pierce"
+      "HitFXName": "FX_Hit_Impact"
     },
     {
       "ID": 110083,
       "SkillName": "사자후",
-      "SkillType": 18,
+      "SkillType": 13,
       "SkillLevel": 3,
       "CoolDown": 4.7,
       "SkillLimit": 1,
@@ -821,16 +821,16 @@
       "SkillRange": 20,
       "Pierce": 9999,
       "KnockbackForce": 5,
-      "Value1": 24,
-      "Value2": 10,
-      "Value3": "",
-      "Value4": "",
+      "Value1": 2,
+      "Value2": 5,
+      "Value3": 2,
+      "Value4": 0.25,
       "Value5": "",
       "Value6": "",
-      "SoundName": "Attack_wind",
-      "PrefabName": "Wave_wind",
+      "SoundName": "Attack_rock",
+      "PrefabName": "FieldZone_TrueChargedSlash",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Pierce"
+      "HitFXName": "FX_Hit_Impact"
     },
     {
       "ID": 110091,
@@ -856,7 +856,7 @@
       "SoundName": "Attack_swordaura_fire",
       "PrefabName": "Aura_SlashDance",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Fire"
+      "HitFXName": "FX_Hit_Impact"
     },
     {
       "ID": 110092,
@@ -882,7 +882,7 @@
       "SoundName": "Attack_swordaura_fire",
       "PrefabName": "Aura_SlashDance",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Fire"
+      "HitFXName": "FX_Hit_Impact"
     },
     {
       "ID": 110093,
@@ -908,7 +908,7 @@
       "SoundName": "Attack_swordaura_fire",
       "PrefabName": "Aura_SlashDance",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Fire"
+      "HitFXName": "FX_Hit_Impact"
     },
     {
       "ID": 110101,
