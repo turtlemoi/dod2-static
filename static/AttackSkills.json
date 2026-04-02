@@ -3886,7 +3886,7 @@
       "SkillValue": 74,
       "공격 배율": "",
       "예상치": 0,
-      "SkillRange": 5,
+      "SkillRange": 10,
       "Pierce": 9999,
       "KnockbackForce": 1,
       "Value1": 0.1,
@@ -3898,7 +3898,7 @@
       "SoundName": "",
       "PrefabName": "ChargeObject_TripleKick",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Lightning"
+      "HitFXName": "FX_Hit_Impact"
     },
     {
       "ID": 150082,
@@ -3912,7 +3912,7 @@
       "SkillValue": 148,
       "공격 배율": "",
       "예상치": 0,
-      "SkillRange": 5,
+      "SkillRange": 10,
       "Pierce": 9999,
       "KnockbackForce": 1,
       "Value1": 0.1,
@@ -3924,7 +3924,7 @@
       "SoundName": "",
       "PrefabName": "ChargeObject_TripleKick",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Lightning"
+      "HitFXName": "FX_Hit_Impact"
     },
     {
       "ID": 150083,
@@ -3938,7 +3938,7 @@
       "SkillValue": 222,
       "공격 배율": "",
       "예상치": 0,
-      "SkillRange": 5,
+      "SkillRange": 10,
       "Pierce": 9999,
       "KnockbackForce": 1,
       "Value1": 0.1,
@@ -3950,7 +3950,7 @@
       "SoundName": "",
       "PrefabName": "ChargeObject_TripleKick",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Lightning"
+      "HitFXName": "FX_Hit_Impact"
     },
     {
       "ID": 150091,
