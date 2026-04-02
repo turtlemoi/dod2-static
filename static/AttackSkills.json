@@ -5294,15 +5294,15 @@
       "Pierce": 0,
       "KnockbackForce": 3,
       "Value1": 15,
-      "Value2": 3,
+      "Value2": 1,
       "Value3": 0,
       "Value4": 1,
       "Value5": 15,
       "Value6": 50,
-      "SoundName": "Attack_energybolt_green",
-      "PrefabName": "Projectile_shadowcat",
+      "SoundName": "Attack_thorn_poison",
+      "PrefabName": "Projectile_bug",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Fire"
+      "HitFXName": "FX_Hit_Poison"
     },
     {
       "ID": 170062,
@@ -5320,15 +5320,15 @@
       "Pierce": 0,
       "KnockbackForce": 3,
       "Value1": 15,
-      "Value2": 3,
+      "Value2": 1,
       "Value3": 0,
       "Value4": 1,
       "Value5": 15,
       "Value6": 50,
-      "SoundName": "Attack_energybolt_green",
-      "PrefabName": "Projectile_energybolt_green",
+      "SoundName": "Attack_thorn_poison",
+      "PrefabName": "Projectile_bug",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Fire"
+      "HitFXName": "FX_Hit_Poison"
     },
     {
       "ID": 170063,
@@ -5346,15 +5346,15 @@
       "Pierce": 0,
       "KnockbackForce": 3,
       "Value1": 15,
-      "Value2": 3,
+      "Value2": 1,
       "Value3": 0,
       "Value4": 1,
       "Value5": 15,
       "Value6": 50,
-      "SoundName": "Attack_energybolt_green",
-      "PrefabName": "Projectile_energybolt_green",
+      "SoundName": "Attack_thorn_poison",
+      "PrefabName": "Projectile_bug",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Fire"
+      "HitFXName": "FX_Hit_Poison"
     },
     {
       "ID": 170071,
