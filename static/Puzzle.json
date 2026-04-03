@@ -14,9 +14,9 @@
       "SkillImage": "spear",
       "SkillImageSize": 150,
       "SkillImageAngle": -30,
-      "NewIcon": "NewIcon_01_Spear",
-      "NewIconSize": 120,
-      "NewIconAngle": 45
+      "NewIcon": "NewIcon_W_spear",
+      "NewIconSize": null,
+      "NewIconAngle": null
     },
     {
       "ID": 110012,
@@ -32,9 +32,9 @@
       "SkillImage": "spear",
       "SkillImageSize": 150,
       "SkillImageAngle": -30,
-      "NewIcon": "NewIcon_01_Spear",
-      "NewIconSize": 120,
-      "NewIconAngle": 45
+      "NewIcon": "NewIcon_W_spear",
+      "NewIconSize": null,
+      "NewIconAngle": null
     },
     {
       "ID": 110013,
@@ -50,9 +50,9 @@
       "SkillImage": "spear",
       "SkillImageSize": 150,
       "SkillImageAngle": -30,
-      "NewIcon": "NewIcon_01_Spear",
-      "NewIconSize": 120,
-      "NewIconAngle": 45
+      "NewIcon": "NewIcon_W_spear",
+      "NewIconSize": null,
+      "NewIconAngle": null
     },
     {
       "ID": 110021,
@@ -68,9 +68,9 @@
       "SkillImage": "battle_axe",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
-      "NewIcon": "NewIcon_02_battleAxe",
-      "NewIconSize": 100,
-      "NewIconAngle": 0
+      "NewIcon": "NewIcon_W_battleAxe",
+      "NewIconSize": null,
+      "NewIconAngle": null
     },
     {
       "ID": 110022,
@@ -86,9 +86,9 @@
       "SkillImage": "battle_axe",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
-      "NewIcon": "NewIcon_02_battleAxe",
-      "NewIconSize": 100,
-      "NewIconAngle": 0
+      "NewIcon": "NewIcon_W_battleAxe",
+      "NewIconSize": null,
+      "NewIconAngle": null
     },
     {
       "ID": 110023,
@@ -104,9 +104,9 @@
       "SkillImage": "battle_axe",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
-      "NewIcon": "NewIcon_02_battleAxe",
-      "NewIconSize": 100,
-      "NewIconAngle": 0
+      "NewIcon": "NewIcon_W_battleAxe",
+      "NewIconSize": null,
+      "NewIconAngle": null
     },
     {
       "ID": 110031,
@@ -122,9 +122,9 @@
       "SkillImage": "battle_axe",
       "SkillImageSize": 150,
       "SkillImageAngle": 45,
-      "NewIcon": "NewIcon_03_swingAxe",
-      "NewIconSize": 150,
-      "NewIconAngle": 0
+      "NewIcon": "NewIcon_W_swingAxe",
+      "NewIconSize": null,
+      "NewIconAngle": null
     },
     {
       "ID": 110032,
@@ -140,9 +140,9 @@
       "SkillImage": "battle_axe",
       "SkillImageSize": 150,
       "SkillImageAngle": 45,
-      "NewIcon": "NewIcon_03_swingAxe",
-      "NewIconSize": 150,
-      "NewIconAngle": 0
+      "NewIcon": "NewIcon_W_swingAxe",
+      "NewIconSize": null,
+      "NewIconAngle": null
     },
     {
       "ID": 110033,
@@ -158,9 +158,9 @@
       "SkillImage": "battle_axe",
       "SkillImageSize": 150,
       "SkillImageAngle": 45,
-      "NewIcon": "NewIcon_03_swingAxe",
-      "NewIconSize": 150,
-      "NewIconAngle": 0
+      "NewIcon": "NewIcon_W_swingAxe",
+      "NewIconSize": null,
+      "NewIconAngle": null
     },
     {
       "ID": 110041,
@@ -176,9 +176,9 @@
       "SkillImage": "swordaura",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
-      "NewIcon": "NewIcon_04_circleSlash",
-      "NewIconSize": 150,
-      "NewIconAngle": 0
+      "NewIcon": "NewIcon_W_circleSlash",
+      "NewIconSize": null,
+      "NewIconAngle": null
     },
     {
       "ID": 110042,
@@ -194,9 +194,9 @@
       "SkillImage": "swordaura",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
-      "NewIcon": "NewIcon_04_circleSlash",
-      "NewIconSize": 150,
-      "NewIconAngle": 0
+      "NewIcon": "NewIcon_W_circleSlash",
+      "NewIconSize": null,
+      "NewIconAngle": null
     },
     {
       "ID": 110043,
@@ -212,9 +212,9 @@
       "SkillImage": "swordaura",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
-      "NewIcon": "NewIcon_04_circleSlash",
-      "NewIconSize": 150,
-      "NewIconAngle": 0
+      "NewIcon": "NewIcon_W_circleSlash",
+      "NewIconSize": null,
+      "NewIconAngle": null
     },
     {
       "ID": 110051,
@@ -230,9 +230,9 @@
       "SkillImage": "Icon_rotation_sword_fire",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
-      "NewIcon": "NewIcon_05_fireSword",
-      "NewIconSize": 150,
-      "NewIconAngle": 0
+      "NewIcon": "NewIcon_W_fireSword",
+      "NewIconSize": null,
+      "NewIconAngle": null
     },
     {
       "ID": 110052,
@@ -248,9 +248,9 @@
       "SkillImage": "Icon_rotation_sword_fire",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
-      "NewIcon": "NewIcon_05_fireSword",
-      "NewIconSize": 150,
-      "NewIconAngle": 0
+      "NewIcon": "NewIcon_W_fireSword",
+      "NewIconSize": null,
+      "NewIconAngle": null
     },
     {
       "ID": 110053,
@@ -266,9 +266,9 @@
       "SkillImage": "Icon_rotation_sword_fire",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
-      "NewIcon": "NewIcon_05_fireSword",
-      "NewIconSize": 150,
-      "NewIconAngle": 0
+      "NewIcon": "NewIcon_W_fireSword",
+      "NewIconSize": null,
+      "NewIconAngle": null
     },
     {
       "ID": 110061,
@@ -284,9 +284,9 @@
       "SkillImage": "nova_rock",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
-      "NewIcon": "",
-      "NewIconSize": "",
-      "NewIconAngle": ""
+      "NewIcon": null,
+      "NewIconSize": null,
+      "NewIconAngle": null
     },
     {
       "ID": 110062,
@@ -338,9 +338,9 @@
       "SkillImage": "spear_electric",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
-      "NewIcon": "NewIcon_07_flyingSword",
-      "NewIconSize": 100,
-      "NewIconAngle": 0
+      "NewIcon": "NewIcon_W_flyingSword",
+      "NewIconSize": null,
+      "NewIconAngle": null
     },
     {
       "ID": 110072,
@@ -356,9 +356,9 @@
       "SkillImage": "spear_electric",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
-      "NewIcon": "NewIcon_07_flyingSword",
-      "NewIconSize": 100,
-      "NewIconAngle": 0
+      "NewIcon": "NewIcon_W_flyingSword",
+      "NewIconSize": null,
+      "NewIconAngle": null
     },
     {
       "ID": 110073,
@@ -374,9 +374,9 @@
       "SkillImage": "spear_electric",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
-      "NewIcon": "NewIcon_07_flyingSword",
-      "NewIconSize": 100,
-      "NewIconAngle": 0
+      "NewIcon": "NewIcon_W_flyingSword",
+      "NewIconSize": null,
+      "NewIconAngle": null
     },
     {
       "ID": 110081,
@@ -446,9 +446,9 @@
       "SkillImage": "swordaura_fire",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
-      "NewIcon": "NewIcon_09_swordDance",
-      "NewIconSize": 150,
-      "NewIconAngle": 0
+      "NewIcon": "NewIcon_W_swordDance",
+      "NewIconSize": null,
+      "NewIconAngle": null
     },
     {
       "ID": 110092,
@@ -464,9 +464,9 @@
       "SkillImage": "swordaura_fire",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
-      "NewIcon": "NewIcon_09_swordDance",
-      "NewIconSize": 150,
-      "NewIconAngle": 0
+      "NewIcon": "NewIcon_W_swordDance",
+      "NewIconSize": null,
+      "NewIconAngle": null
     },
     {
       "ID": 110093,
@@ -482,9 +482,9 @@
       "SkillImage": "swordaura_fire",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
-      "NewIcon": "NewIcon_09_swordDance",
-      "NewIconSize": 150,
-      "NewIconAngle": 0
+      "NewIcon": "NewIcon_W_swordDance",
+      "NewIconSize": null,
+      "NewIconAngle": null
     },
     {
       "ID": 110101,
@@ -554,7 +554,7 @@
       "SkillImage": "arrow",
       "SkillImageSize": 150,
       "SkillImageAngle": 190,
-      "NewIcon": null,
+      "NewIcon": "NewIcon_A_skyArrow",
       "NewIconSize": null,
       "NewIconAngle": null
     },
@@ -572,7 +572,7 @@
       "SkillImage": "arrow",
       "SkillImageSize": 150,
       "SkillImageAngle": 190,
-      "NewIcon": null,
+      "NewIcon": "NewIcon_A_skyArrow",
       "NewIconSize": null,
       "NewIconAngle": null
     },
@@ -590,7 +590,7 @@
       "SkillImage": "arrow",
       "SkillImageSize": 150,
       "SkillImageAngle": 190,
-      "NewIcon": null,
+      "NewIcon": "NewIcon_A_skyArrow",
       "NewIconSize": null,
       "NewIconAngle": null
     },
@@ -608,7 +608,7 @@
       "SkillImage": "Icon_straight_arrow",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
-      "NewIcon": null,
+      "NewIcon": "NewIcon_A_tripleArrow",
       "NewIconSize": null,
       "NewIconAngle": null
     },
@@ -626,7 +626,7 @@
       "SkillImage": "Icon_straight_arrow",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
-      "NewIcon": null,
+      "NewIcon": "NewIcon_A_tripleArrow",
       "NewIconSize": null,
       "NewIconAngle": null
     },
@@ -644,7 +644,7 @@
       "SkillImage": "Icon_straight_arrow",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
-      "NewIcon": null,
+      "NewIcon": "NewIcon_A_tripleArrow",
       "NewIconSize": null,
       "NewIconAngle": null
     },
@@ -662,7 +662,7 @@
       "SkillImage": "arrow_bomb",
       "SkillImageSize": 150,
       "SkillImageAngle": 30,
-      "NewIcon": null,
+      "NewIcon": "NewIcon_A_bombArrow",
       "NewIconSize": null,
       "NewIconAngle": null
     },
@@ -680,7 +680,7 @@
       "SkillImage": "arrow_bomb",
       "SkillImageSize": 150,
       "SkillImageAngle": 30,
-      "NewIcon": null,
+      "NewIcon": "NewIcon_A_bombArrow",
       "NewIconSize": null,
       "NewIconAngle": null
     },
@@ -698,7 +698,7 @@
       "SkillImage": "arrow_bomb",
       "SkillImageSize": 150,
       "SkillImageAngle": 30,
-      "NewIcon": null,
+      "NewIcon": "NewIcon_A_bombArrow",
       "NewIconSize": null,
       "NewIconAngle": null
     },
@@ -716,7 +716,7 @@
       "SkillImage": "arrow_poison",
       "SkillImageSize": 150,
       "SkillImageAngle": 30,
-      "NewIcon": null,
+      "NewIcon": "NewIcon_A_poisonArrow",
       "NewIconSize": null,
       "NewIconAngle": null
     },
@@ -734,7 +734,7 @@
       "SkillImage": "arrow_poison",
       "SkillImageSize": 150,
       "SkillImageAngle": 30,
-      "NewIcon": null,
+      "NewIcon": "NewIcon_A_poisonArrow",
       "NewIconSize": null,
       "NewIconAngle": null
     },
@@ -752,7 +752,7 @@
       "SkillImage": "arrow_poison",
       "SkillImageSize": 150,
       "SkillImageAngle": 30,
-      "NewIcon": null,
+      "NewIcon": "NewIcon_A_poisonArrow",
       "NewIconSize": null,
       "NewIconAngle": null
     },
@@ -824,7 +824,7 @@
       "SkillImage": "Icon_3_arrow",
       "SkillImageSize": 120,
       "SkillImageAngle": -40,
-      "NewIcon": null,
+      "NewIcon": "NewIcon_A_multiShot",
       "NewIconSize": null,
       "NewIconAngle": null
     },
@@ -842,7 +842,7 @@
       "SkillImage": "Icon_3_arrow",
       "SkillImageSize": 120,
       "SkillImageAngle": -40,
-      "NewIcon": null,
+      "NewIcon": "NewIcon_A_multiShot",
       "NewIconSize": null,
       "NewIconAngle": null
     },
@@ -860,7 +860,7 @@
       "SkillImage": "Icon_3_arrow",
       "SkillImageSize": 120,
       "SkillImageAngle": -40,
-      "NewIcon": null,
+      "NewIcon": "NewIcon_A_multiShot",
       "NewIconSize": null,
       "NewIconAngle": null
     },
@@ -878,7 +878,7 @@
       "SkillImage": "arrow_electric",
       "SkillImageSize": 150,
       "SkillImageAngle": 30,
-      "NewIcon": null,
+      "NewIcon": "NewIcon_A_electricShot",
       "NewIconSize": null,
       "NewIconAngle": null
     },
@@ -896,7 +896,7 @@
       "SkillImage": "arrow_electric",
       "SkillImageSize": 150,
       "SkillImageAngle": 30,
-      "NewIcon": null,
+      "NewIcon": "NewIcon_A_electricShot",
       "NewIconSize": null,
       "NewIconAngle": null
     },
@@ -914,7 +914,7 @@
       "SkillImage": "arrow_electric",
       "SkillImageSize": 150,
       "SkillImageAngle": 30,
-      "NewIcon": null,
+      "NewIcon": "NewIcon_A_electricShot",
       "NewIconSize": null,
       "NewIconAngle": null
     },
@@ -932,7 +932,7 @@
       "SkillImage": "arrow_storm",
       "SkillImageSize": 150,
       "SkillImageAngle": 20,
-      "NewIcon": null,
+      "NewIcon": "NewIcon_A_tornadoShot",
       "NewIconSize": null,
       "NewIconAngle": null
     },
@@ -950,7 +950,7 @@
       "SkillImage": "arrow_storm",
       "SkillImageSize": 150,
       "SkillImageAngle": 20,
-      "NewIcon": null,
+      "NewIcon": "NewIcon_A_tornadoShot",
       "NewIconSize": null,
       "NewIconAngle": null
     },
@@ -968,7 +968,7 @@
       "SkillImage": "arrow_storm",
       "SkillImageSize": 150,
       "SkillImageAngle": 20,
-      "NewIcon": null,
+      "NewIcon": "NewIcon_A_tornadoShot",
       "NewIconSize": null,
       "NewIconAngle": null
     },
@@ -986,7 +986,7 @@
       "SkillImage": "Icon_random_arrow",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
-      "NewIcon": null,
+      "NewIcon": "NewIcon_A_arrowRain",
       "NewIconSize": null,
       "NewIconAngle": null
     },
@@ -1004,7 +1004,7 @@
       "SkillImage": "Icon_random_arrow",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
-      "NewIcon": null,
+      "NewIcon": "NewIcon_A_arrowRain",
       "NewIconSize": null,
       "NewIconAngle": null
     },
@@ -1022,7 +1022,7 @@
       "SkillImage": "Icon_random_arrow",
       "SkillImageSize": 150,
       "SkillImageAngle": 0,
-      "NewIcon": null,
+      "NewIcon": "NewIcon_A_arrowRain",
       "NewIconSize": null,
       "NewIconAngle": null
     },
@@ -1040,7 +1040,7 @@
       "SkillImage": "arrow_dragon",
       "SkillImageSize": 150,
       "SkillImageAngle": 180,
-      "NewIcon": null,
+      "NewIcon": "NewIcon_A_dragonArrow",
       "NewIconSize": null,
       "NewIconAngle": null
     },
@@ -1058,7 +1058,7 @@
       "SkillImage": "arrow_dragon",
       "SkillImageSize": 150,
       "SkillImageAngle": 180,
-      "NewIcon": null,
+      "NewIcon": "NewIcon_A_dragonArrow",
       "NewIconSize": null,
       "NewIconAngle": null
     },
@@ -1076,7 +1076,7 @@
       "SkillImage": "arrow_dragon",
       "SkillImageSize": 150,
       "SkillImageAngle": 180,
-      "NewIcon": null,
+      "NewIcon": "NewIcon_A_dragonArrow",
       "NewIconSize": null,
       "NewIconAngle": null
     },

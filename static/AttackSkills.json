@@ -600,7 +600,7 @@
     },
     {
       "ID": 110061,
-      "SkillName": "연속 베기",
+      "SkillName": "연속 베기 (지진파)",
       "SkillType": 10,
       "SkillLevel": 1,
       "CoolDown": 2.1,
@@ -626,7 +626,7 @@
     },
     {
       "ID": 110062,
-      "SkillName": "연속 베기",
+      "SkillName": "연속 베기 (지진파)",
       "SkillType": 10,
       "SkillLevel": 2,
       "CoolDown": 2.1,
@@ -652,7 +652,7 @@
     },
     {
       "ID": 110063,
-      "SkillName": "연속 베기",
+      "SkillName": "연속 베기 (지진파)",
       "SkillType": 10,
       "SkillLevel": 3,
       "CoolDown": 2.1,
@@ -5280,7 +5280,7 @@
     },
     {
       "ID": 170061,
-      "SkillName": "저주의 불",
+      "SkillName": "원한의 벌레(저주의 불)",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 5,
@@ -5306,7 +5306,7 @@
     },
     {
       "ID": 170062,
-      "SkillName": "저주의 불",
+      "SkillName": "원한의 벌레(저주의 불)",
       "SkillType": 2,
       "SkillLevel": 2,
       "CoolDown": 5,
@@ -5332,7 +5332,7 @@
     },
     {
       "ID": 170063,
-      "SkillName": "저주의 불",
+      "SkillName": "원한의 벌레(저주의 불)",
       "SkillType": 2,
       "SkillLevel": 3,
       "CoolDown": 5,
@@ -5378,7 +5378,7 @@
       "Value5": 0,
       "Value6": 0,
       "SoundName": "Attack_thorn_poison",
-      "PrefabName": "Strike_thorn_poison",
+      "PrefabName": "Strike_poison",
       "SubPrefabName": "",
       "HitFXName": "FX_Hit_Poison"
     },
@@ -5404,7 +5404,7 @@
       "Value5": 0,
       "Value6": 0,
       "SoundName": "Attack_thorn_poison",
-      "PrefabName": "Strike_thorn_poison",
+      "PrefabName": "Strike_poison",
       "SubPrefabName": "",
       "HitFXName": "FX_Hit_Poison"
     },
@@ -5430,7 +5430,7 @@
       "Value5": 0,
       "Value6": 0,
       "SoundName": "Attack_thorn_poison",
-      "PrefabName": "Strike_thorn_poison",
+      "PrefabName": "Strike_poison",
       "SubPrefabName": "",
       "HitFXName": "FX_Hit_Poison"
     },
