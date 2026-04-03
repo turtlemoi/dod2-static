@@ -5604,7 +5604,7 @@
       "예상치": 6784,
       "SkillRange": 20,
       "Pierce": 9999,
-      "KnockbackForce": -3,
+      "KnockbackForce": -1,
       "Value1": 5,
       "Value2": 0.1,
       "Value3": 3,
@@ -5614,7 +5614,7 @@
       "SoundName": "",
       "PrefabName": "FieldZone_Voodoodoll",
       "SubPrefabName": "",
-      "HitFXName": "FX_dark_palm"
+      "HitFXName": "FX_Hit_Dark"
     },
     {
       "ID": 170102,
@@ -5630,7 +5630,7 @@
       "예상치": 13621,
       "SkillRange": 20,
       "Pierce": 9999,
-      "KnockbackForce": -3,
+      "KnockbackForce": -1,
       "Value1": 5,
       "Value2": 0.1,
       "Value3": 3,
@@ -5640,7 +5640,7 @@
       "SoundName": "",
       "PrefabName": "FieldZone_Voodoodoll",
       "SubPrefabName": "",
-      "HitFXName": "FX_dark_palm"
+      "HitFXName": "FX_Hit_Dark"
     },
     {
       "ID": 170103,
@@ -5656,7 +5656,7 @@
       "예상치": 20405,
       "SkillRange": 20,
       "Pierce": 9999,
-      "KnockbackForce": -3,
+      "KnockbackForce": -1,
       "Value1": 5,
       "Value2": 0.1,
       "Value3": 3,
@@ -5666,7 +5666,7 @@
       "SoundName": "",
       "PrefabName": "FieldZone_Voodoodoll",
       "SubPrefabName": "",
-      "HitFXName": "FX_dark_palm"
+      "HitFXName": "FX_Hit_Dark"
     },
     {
       "ID": 230011,
