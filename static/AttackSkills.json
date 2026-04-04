@@ -24,7 +24,7 @@
       "SoundName": "Attack_Character_Sword",
       "PrefabName": "Character_Attack_1_Strike",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": ""
     },
     {
       "ID": 101,
@@ -50,7 +50,7 @@
       "SoundName": "Attack_Character_Axe",
       "PrefabName": "Character_Attack_2_Strike",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": ""
     },
     {
       "ID": 102,
@@ -76,7 +76,7 @@
       "SoundName": "Attack_arrow",
       "PrefabName": "Mortar_arrow",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Pierce"
+      "HitFXName": ""
     },
     {
       "ID": 103,
@@ -102,7 +102,7 @@
       "SoundName": "Attack_energybolt",
       "PrefabName": "Projectile_energybolt",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Ice"
+      "HitFXName": ""
     },
     {
       "ID": 104,
@@ -128,7 +128,7 @@
       "SoundName": "Attack_energybolt_green",
       "PrefabName": "Projectile_energybolt_green",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Dark"
+      "HitFXName": ""
     },
     {
       "ID": 105,
@@ -154,7 +154,7 @@
       "SoundName": "Attack_Character_Palm",
       "PrefabName": "Character_Attack_6_Strike",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": ""
     },
     {
       "ID": 106,
@@ -180,7 +180,7 @@
       "SoundName": "Attack_dagger",
       "PrefabName": "Character_Attack_7_Strike",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Pierce"
+      "HitFXName": ""
     },
     {
       "ID": 107,
@@ -206,7 +206,7 @@
       "SoundName": "Attack_skull_green",
       "PrefabName": "Projectile_skull_green",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Poison"
+      "HitFXName": ""
     },
     {
       "ID": 110011,
@@ -232,7 +232,7 @@
       "SoundName": "Attack_spear",
       "PrefabName": "Strike_spear",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Pierce"
+      "HitFXName": "FX_Hit_Impact"
     },
     {
       "ID": 110012,
@@ -258,7 +258,7 @@
       "SoundName": "Attack_spear",
       "PrefabName": "Strike_spear",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Pierce"
+      "HitFXName": "FX_Hit_Impact"
     },
     {
       "ID": 110013,
@@ -284,7 +284,7 @@
       "SoundName": "Attack_spear",
       "PrefabName": "Strike_spear",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Pierce"
+      "HitFXName": "FX_Hit_Impact"
     },
     {
       "ID": 110021,
@@ -544,7 +544,7 @@
       "SoundName": "Attack_sword_fire",
       "PrefabName": "Homing_sword_fire",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Fire"
+      "HitFXName": ""
     },
     {
       "ID": 110052,
@@ -570,7 +570,7 @@
       "SoundName": "Attack_sword_fire",
       "PrefabName": "Homing_sword_fire",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Fire"
+      "HitFXName": ""
     },
     {
       "ID": 110053,
@@ -596,7 +596,7 @@
       "SoundName": "Attack_sword_fire",
       "PrefabName": "Homing_sword_fire",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Fire"
+      "HitFXName": ""
     },
     {
       "ID": 110061,
@@ -1012,7 +1012,7 @@
       "SoundName": "Attack_arrow_Strike",
       "PrefabName": "Strike_arrow",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Dark"
+      "HitFXName": ""
     },
     {
       "ID": 120012,
@@ -1038,7 +1038,7 @@
       "SoundName": "Attack_arrow_Strike",
       "PrefabName": "Strike_arrow",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Dark"
+      "HitFXName": ""
     },
     {
       "ID": 120013,
@@ -1064,7 +1064,7 @@
       "SoundName": "Attack_arrow_Strike",
       "PrefabName": "Strike_arrow",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Dark"
+      "HitFXName": ""
     },
     {
       "ID": 120021,
@@ -1090,7 +1090,7 @@
       "SoundName": "Attack_arrow",
       "PrefabName": "Mortar_arrow",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Pierce"
+      "HitFXName": ""
     },
     {
       "ID": 120022,
@@ -1116,7 +1116,7 @@
       "SoundName": "Attack_arrow",
       "PrefabName": "Mortar_arrow",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Pierce"
+      "HitFXName": ""
     },
     {
       "ID": 120023,
@@ -1142,7 +1142,7 @@
       "SoundName": "Attack_arrow",
       "PrefabName": "Mortar_arrow",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Pierce"
+      "HitFXName": ""
     },
     {
       "ID": 120031,
@@ -1168,7 +1168,7 @@
       "SoundName": "Attack_arrow_bomb",
       "PrefabName": "Mortar_arrow_bomb",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": ""
     },
     {
       "ID": 120032,
@@ -1194,7 +1194,7 @@
       "SoundName": "Attack_arrow_bomb",
       "PrefabName": "Mortar_arrow_bomb",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": ""
     },
     {
       "ID": 120033,
@@ -1220,7 +1220,7 @@
       "SoundName": "Attack_arrow_bomb",
       "PrefabName": "Mortar_arrow_bomb",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": ""
     },
     {
       "ID": 120041,
@@ -1246,7 +1246,7 @@
       "SoundName": "Attack_arrow_poison",
       "PrefabName": "Mortar_arrow_poison",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Poison"
+      "HitFXName": ""
     },
     {
       "ID": 120042,
@@ -1272,7 +1272,7 @@
       "SoundName": "Attack_arrow_poison",
       "PrefabName": "Mortar_arrow_poison",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Poison"
+      "HitFXName": ""
     },
     {
       "ID": 120043,
@@ -1298,7 +1298,7 @@
       "SoundName": "Attack_arrow_poison",
       "PrefabName": "Mortar_arrow_poison",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Poison"
+      "HitFXName": ""
     },
     {
       "ID": 120051,
@@ -1402,7 +1402,7 @@
       "SoundName": "Attack_arrow",
       "PrefabName": "Projectile_arrow_big",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Pierce"
+      "HitFXName": ""
     },
     {
       "ID": 120062,
@@ -1428,7 +1428,7 @@
       "SoundName": "Attack_arrow",
       "PrefabName": "Projectile_arrow_big",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Pierce"
+      "HitFXName": ""
     },
     {
       "ID": 120063,
@@ -1454,7 +1454,7 @@
       "SoundName": "Attack_arrow",
       "PrefabName": "Projectile_arrow_big",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Pierce"
+      "HitFXName": ""
     },
     {
       "ID": 120071,
@@ -1480,7 +1480,7 @@
       "SoundName": "Attack_arrow_electric",
       "PrefabName": "Projectile_arrow_electric",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Lightning"
+      "HitFXName": ""
     },
     {
       "ID": 120072,
@@ -1506,7 +1506,7 @@
       "SoundName": "Attack_arrow_electric",
       "PrefabName": "Projectile_arrow_electric",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Lightning"
+      "HitFXName": ""
     },
     {
       "ID": 120073,
@@ -1532,7 +1532,7 @@
       "SoundName": "Attack_arrow_electric",
       "PrefabName": "Projectile_arrow_electric",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Lightning"
+      "HitFXName": ""
     },
     {
       "ID": 120081,
@@ -1558,7 +1558,7 @@
       "SoundName": "Attack_arrow_storm",
       "PrefabName": "Projectile_arrow_storm",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Ice"
+      "HitFXName": ""
     },
     {
       "ID": 120082,
@@ -1584,7 +1584,7 @@
       "SoundName": "Attack_arrow_storm",
       "PrefabName": "Projectile_arrow_storm",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Ice"
+      "HitFXName": ""
     },
     {
       "ID": 120083,
@@ -1610,7 +1610,7 @@
       "SoundName": "Attack_arrow_storm",
       "PrefabName": "Projectile_arrow_storm",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Ice"
+      "HitFXName": ""
     },
     {
       "ID": 120091,
@@ -1636,7 +1636,7 @@
       "SoundName": "Attack_arrow",
       "PrefabName": "Mortar_arrow",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Pierce"
+      "HitFXName": ""
     },
     {
       "ID": 120092,
@@ -1662,7 +1662,7 @@
       "SoundName": "Attack_arrow",
       "PrefabName": "Mortar_arrow",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Pierce"
+      "HitFXName": ""
     },
     {
       "ID": 120093,
@@ -1688,7 +1688,7 @@
       "SoundName": "Attack_arrow",
       "PrefabName": "Mortar_arrow",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Pierce"
+      "HitFXName": ""
     },
     {
       "ID": 120101,
@@ -1714,7 +1714,7 @@
       "SoundName": "Attack_arrow_dragon",
       "PrefabName": "Projectile_arrow_dragon",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Fire"
+      "HitFXName": ""
     },
     {
       "ID": 120102,
@@ -1740,7 +1740,7 @@
       "SoundName": "Attack_arrow_dragon",
       "PrefabName": "Projectile_arrow_dragon",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Fire"
+      "HitFXName": ""
     },
     {
       "ID": 120103,
@@ -1766,7 +1766,7 @@
       "SoundName": "Attack_arrow_dragon",
       "PrefabName": "Projectile_arrow_dragon",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Fire"
+      "HitFXName": ""
     },
     {
       "ID": 130011,
@@ -1792,7 +1792,7 @@
       "SoundName": "Attack_ice_pillar",
       "PrefabName": "Strike_ice_pillar",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Ice"
+      "HitFXName": ""
     },
     {
       "ID": 130012,
@@ -1818,7 +1818,7 @@
       "SoundName": "Attack_ice_pillar",
       "PrefabName": "Strike_ice_pillar",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Ice"
+      "HitFXName": ""
     },
     {
       "ID": 130013,
@@ -1844,7 +1844,7 @@
       "SoundName": "Attack_ice_pillar",
       "PrefabName": "Strike_ice_pillar",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Ice"
+      "HitFXName": ""
     },
     {
       "ID": 130021,
@@ -1870,7 +1870,7 @@
       "SoundName": "Attack_energybolt_fire_middle",
       "PrefabName": "Projectile_energybolt_fire_middle",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Fire"
+      "HitFXName": ""
     },
     {
       "ID": 130022,
@@ -1896,7 +1896,7 @@
       "SoundName": "Attack_energybolt_fire_middle",
       "PrefabName": "Projectile_energybolt_fire_middle",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Fire"
+      "HitFXName": ""
     },
     {
       "ID": 130023,
@@ -1922,7 +1922,7 @@
       "SoundName": "Attack_energybolt_fire_middle",
       "PrefabName": "Projectile_energybolt_fire_middle",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Fire"
+      "HitFXName": ""
     },
     {
       "ID": 130031,
@@ -1948,7 +1948,7 @@
       "SoundName": "Attack_electric",
       "PrefabName": "ChainLightning",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Lightning"
+      "HitFXName": ""
     },
     {
       "ID": 130032,
@@ -1974,7 +1974,7 @@
       "SoundName": "Attack_electric",
       "PrefabName": "ChainLightning",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Lightning"
+      "HitFXName": ""
     },
     {
       "ID": 130033,
@@ -2000,7 +2000,7 @@
       "SoundName": "Attack_electric",
       "PrefabName": "ChainLightning",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Lightning"
+      "HitFXName": ""
     },
     {
       "ID": 130041,
@@ -2026,7 +2026,7 @@
       "SoundName": "Attack_rotation_thorn_ice",
       "PrefabName": "Rotation_thorn_ice",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Ice"
+      "HitFXName": ""
     },
     {
       "ID": 130042,
@@ -2052,7 +2052,7 @@
       "SoundName": "Attack_rotation_thorn_ice",
       "PrefabName": "Rotation_thorn_ice",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Ice"
+      "HitFXName": ""
     },
     {
       "ID": 130043,
@@ -2078,7 +2078,7 @@
       "SoundName": "Attack_rotation_thorn_ice",
       "PrefabName": "Rotation_thorn_ice",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Ice"
+      "HitFXName": ""
     },
     {
       "ID": 130051,
@@ -2104,7 +2104,7 @@
       "SoundName": "Attack_wave_ice",
       "PrefabName": "Orb_ice",
       "SubPrefabName": "OrbSub_thorn_ice",
-      "HitFXName": "FX_Hit_Ice"
+      "HitFXName": ""
     },
     {
       "ID": 130052,
@@ -2130,7 +2130,7 @@
       "SoundName": "Attack_wave_ice",
       "PrefabName": "Orb_ice",
       "SubPrefabName": "OrbSub_thorn_ice",
-      "HitFXName": "FX_Hit_Ice"
+      "HitFXName": ""
     },
     {
       "ID": 130053,
@@ -2156,7 +2156,7 @@
       "SoundName": "Attack_wave_ice",
       "PrefabName": "Orb_ice",
       "SubPrefabName": "OrbSub_thorn_ice",
-      "HitFXName": "FX_Hit_Ice"
+      "HitFXName": ""
     },
     {
       "ID": 130061,
@@ -2182,7 +2182,7 @@
       "SoundName": "Attack_electric",
       "PrefabName": "Wave_electric",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Lightning"
+      "HitFXName": ""
     },
     {
       "ID": 130062,
@@ -2208,7 +2208,7 @@
       "SoundName": "Attack_electric",
       "PrefabName": "Wave_electric",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Lightning"
+      "HitFXName": ""
     },
     {
       "ID": 130063,
@@ -2234,7 +2234,7 @@
       "SoundName": "Attack_electric",
       "PrefabName": "Wave_electric",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Lightning"
+      "HitFXName": ""
     },
     {
       "ID": 130071,
@@ -2338,7 +2338,7 @@
       "SoundName": "",
       "PrefabName": "Aura_iceage",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Ice"
+      "HitFXName": ""
     },
     {
       "ID": 130082,
@@ -2364,7 +2364,7 @@
       "SoundName": "",
       "PrefabName": "Aura_iceage",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Ice"
+      "HitFXName": ""
     },
     {
       "ID": 130083,
@@ -2390,7 +2390,7 @@
       "SoundName": "",
       "PrefabName": "Aura_iceage",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Ice"
+      "HitFXName": ""
     },
     {
       "ID": 130091,
@@ -2416,7 +2416,7 @@
       "SoundName": "Attack_thunder",
       "PrefabName": "Strike_thunder",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Lightning"
+      "HitFXName": ""
     },
     {
       "ID": 130092,
@@ -2442,7 +2442,7 @@
       "SoundName": "Attack_thunder",
       "PrefabName": "Strike_thunder",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Lightning"
+      "HitFXName": ""
     },
     {
       "ID": 130093,
@@ -2468,7 +2468,7 @@
       "SoundName": "Attack_thunder",
       "PrefabName": "Strike_thunder",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Lightning"
+      "HitFXName": ""
     },
     {
       "ID": 130101,
@@ -2494,7 +2494,7 @@
       "SoundName": "Attack_energybolt_fire_large",
       "PrefabName": "Strike_energybolt_fire_large",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Fire"
+      "HitFXName": ""
     },
     {
       "ID": 130102,
@@ -2520,7 +2520,7 @@
       "SoundName": "Attack_energybolt_fire_large",
       "PrefabName": "Strike_energybolt_fire_large",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Fire"
+      "HitFXName": ""
     },
     {
       "ID": 130103,
@@ -2546,7 +2546,7 @@
       "SoundName": "Attack_energybolt_fire_large",
       "PrefabName": "Strike_energybolt_fire_large",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Fire"
+      "HitFXName": ""
     },
     {
       "ID": 140011,
@@ -2650,7 +2650,7 @@
       "SoundName": "Attack_skull_green",
       "PrefabName": "FieldZone_bonethorn",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Dark"
+      "HitFXName": ""
     },
     {
       "ID": 140022,
@@ -2676,7 +2676,7 @@
       "SoundName": "Attack_skull_green",
       "PrefabName": "FieldZone_bonethorn",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Dark"
+      "HitFXName": ""
     },
     {
       "ID": 140023,
@@ -2702,7 +2702,7 @@
       "SoundName": "Attack_skull_green",
       "PrefabName": "FieldZone_bonethorn",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Dark"
+      "HitFXName": ""
     },
     {
       "ID": 140031,
@@ -2728,7 +2728,7 @@
       "SoundName": "Attack_spear_bone",
       "PrefabName": "Rotation_bone",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Pierce"
+      "HitFXName": ""
     },
     {
       "ID": 140032,
@@ -2754,7 +2754,7 @@
       "SoundName": "Attack_spear_bone",
       "PrefabName": "Rotation_bone",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Pierce"
+      "HitFXName": ""
     },
     {
       "ID": 140033,
@@ -2780,7 +2780,7 @@
       "SoundName": "Attack_spear_bone",
       "PrefabName": "Rotation_bone",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Pierce"
+      "HitFXName": ""
     },
     {
       "ID": 140041,
@@ -2962,7 +2962,7 @@
       "SoundName": "Attack_arrow_storm",
       "PrefabName": "Homing_bone",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Aura_tomb"
+      "HitFXName": ""
     },
     {
       "ID": 140062,
@@ -2988,7 +2988,7 @@
       "SoundName": "Attack_arrow_storm",
       "PrefabName": "Homing_bone",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Aura_tomb"
+      "HitFXName": ""
     },
     {
       "ID": 140063,
@@ -3014,7 +3014,7 @@
       "SoundName": "Attack_arrow_storm",
       "PrefabName": "Homing_bone",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Aura_tomb"
+      "HitFXName": ""
     },
     {
       "ID": 140081,
@@ -3274,7 +3274,7 @@
       "SoundName": "",
       "PrefabName": "FieldZone_bonewaves",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Aura_tomb"
+      "HitFXName": ""
     },
     {
       "ID": 140102,
@@ -3300,7 +3300,7 @@
       "SoundName": "",
       "PrefabName": "FieldZone_bonewaves",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Aura_tomb"
+      "HitFXName": ""
     },
     {
       "ID": 140103,
@@ -3326,7 +3326,7 @@
       "SoundName": "",
       "PrefabName": "FieldZone_bonewaves",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Aura_tomb"
+      "HitFXName": ""
     },
     {
       "ID": 150011,
@@ -3352,7 +3352,7 @@
       "SoundName": "Attack_fire",
       "PrefabName": "BurstProjectile_TripleFangKick",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Fire"
+      "HitFXName": ""
     },
     {
       "ID": 150012,
@@ -3378,7 +3378,7 @@
       "SoundName": "Attack_fire",
       "PrefabName": "BurstProjectile_TripleFangKick",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Fire"
+      "HitFXName": ""
     },
     {
       "ID": 150013,
@@ -3404,7 +3404,7 @@
       "SoundName": "Attack_fire",
       "PrefabName": "BurstProjectile_TripleFangKick",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Fire"
+      "HitFXName": ""
     },
     {
       "ID": 150021,
@@ -3586,7 +3586,7 @@
       "SoundName": "Attack_punch_ice",
       "PrefabName": "Swing_Crescent Kick",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Ice"
+      "HitFXName": ""
     },
     {
       "ID": 150042,
@@ -3612,7 +3612,7 @@
       "SoundName": "Attack_punch_ice",
       "PrefabName": "Swing_Crescent Kick",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Ice"
+      "HitFXName": ""
     },
     {
       "ID": 150043,
@@ -3638,7 +3638,7 @@
       "SoundName": "Attack_punch_ice",
       "PrefabName": "Swing_Crescent Kick",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Ice"
+      "HitFXName": ""
     },
     {
       "ID": 150051,
@@ -4288,7 +4288,7 @@
       "SoundName": "Attack_kunai_poison",
       "PrefabName": "FieldZone_Caltrops",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Poison"
+      "HitFXName": ""
     },
     {
       "ID": 160032,
@@ -4314,7 +4314,7 @@
       "SoundName": "Attack_kunai_poison",
       "PrefabName": "FieldZone_Caltrops",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Poison"
+      "HitFXName": ""
     },
     {
       "ID": 160033,
@@ -4340,7 +4340,7 @@
       "SoundName": "Attack_kunai_poison",
       "PrefabName": "FieldZone_Caltrops",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Poison"
+      "HitFXName": ""
     },
     {
       "ID": 160041,
@@ -4522,7 +4522,7 @@
       "SoundName": "Attack_dagger_throw",
       "PrefabName": "Rotation_kunai_poison",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Poison"
+      "HitFXName": ""
     },
     {
       "ID": 160062,
@@ -4548,7 +4548,7 @@
       "SoundName": "Attack_dagger_throw",
       "PrefabName": "Rotation_kunai_poison",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Poison"
+      "HitFXName": ""
     },
     {
       "ID": 160063,
@@ -4574,7 +4574,7 @@
       "SoundName": "Attack_dagger_throw",
       "PrefabName": "Rotation_kunai_poison",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Poison"
+      "HitFXName": ""
     },
     {
       "ID": 160071,
@@ -4678,7 +4678,7 @@
       "SoundName": "Attack_dagger_shadow",
       "PrefabName": "Strike_dagger_shadow",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Dark"
+      "HitFXName": ""
     },
     {
       "ID": 160082,
@@ -4704,7 +4704,7 @@
       "SoundName": "Attack_dagger_shadow",
       "PrefabName": "Strike_dagger_shadow",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Dark"
+      "HitFXName": ""
     },
     {
       "ID": 160083,
@@ -4730,7 +4730,7 @@
       "SoundName": "Attack_dagger_shadow",
       "PrefabName": "Strike_dagger_shadow",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Dark"
+      "HitFXName": ""
     },
     {
       "ID": 160091,
@@ -5692,7 +5692,7 @@
       "SoundName": "Attack_electric",
       "PrefabName": "ChainLightning",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Lightning"
+      "HitFXName": ""
     },
     {
       "ID": 230012,
@@ -5718,7 +5718,7 @@
       "SoundName": "Attack_electric",
       "PrefabName": "ChainLightning",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Lightning"
+      "HitFXName": ""
     },
     {
       "ID": 230013,
@@ -5744,7 +5744,7 @@
       "SoundName": "Attack_electric",
       "PrefabName": "ChainLightning",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Lightning"
+      "HitFXName": ""
     },
     {
       "ID": 240041,
@@ -5978,7 +5978,7 @@
       "SoundName": "Attack_TwinStrike",
       "PrefabName": "Strike_TwinStrike_L",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": ""
     },
     {
       "ID": 260042,
@@ -6004,7 +6004,7 @@
       "SoundName": "Attack_TwinStrike",
       "PrefabName": "Strike_TwinStrike_L",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": ""
     },
     {
       "ID": 260043,
@@ -6030,7 +6030,7 @@
       "SoundName": "Attack_TwinStrike",
       "PrefabName": "Strike_TwinStrike_L",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": ""
     },
     {
       "ID": 901111,
@@ -6056,7 +6056,7 @@
       "SoundName": "",
       "PrefabName": "",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": ""
     },
     {
       "ID": 901211,
@@ -6082,7 +6082,7 @@
       "SoundName": "",
       "PrefabName": "",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Dark"
+      "HitFXName": ""
     },
     {
       "ID": 901311,
@@ -6108,7 +6108,7 @@
       "SoundName": "",
       "PrefabName": "",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Poison"
+      "HitFXName": ""
     },
     {
       "ID": 901411,
@@ -6134,7 +6134,7 @@
       "SoundName": "",
       "PrefabName": "",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": ""
     },
     {
       "ID": 901511,
@@ -6160,7 +6160,7 @@
       "SoundName": "",
       "PrefabName": "Projectile_energybolt",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Ice"
+      "HitFXName": ""
     },
     {
       "ID": 901611,
@@ -6186,7 +6186,7 @@
       "SoundName": "",
       "PrefabName": "Mortar_arrow",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Pierce"
+      "HitFXName": ""
     },
     {
       "ID": 910011,
@@ -6212,7 +6212,7 @@
       "SoundName": "",
       "PrefabName": "Strike_earth",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": ""
     },
     {
       "ID": 910012,
@@ -6238,7 +6238,7 @@
       "SoundName": "",
       "PrefabName": "Strike_root",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": ""
     },
     {
       "ID": 910021,
@@ -6264,7 +6264,7 @@
       "SoundName": "",
       "PrefabName": "Strike_hook",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Pierce"
+      "HitFXName": ""
     },
     {
       "ID": 910022,
@@ -6290,7 +6290,7 @@
       "SoundName": "",
       "PrefabName": "Strike_axe",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Pierce"
+      "HitFXName": ""
     },
     {
       "ID": 910031,
@@ -6316,7 +6316,7 @@
       "SoundName": "",
       "PrefabName": "Strike_slash",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Dark"
+      "HitFXName": ""
     },
     {
       "ID": 910032,
@@ -6342,7 +6342,7 @@
       "SoundName": "",
       "PrefabName": "Projectile_skull_green",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Dark"
+      "HitFXName": ""
     },
     {
       "ID": 910033,
@@ -6394,7 +6394,7 @@
       "SoundName": "",
       "PrefabName": "Strike_foot",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": ""
     },
     {
       "ID": 910042,
@@ -6420,7 +6420,7 @@
       "SoundName": "",
       "PrefabName": "Strike_punch_ice",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": ""
     },
     {
       "ID": 910043,
@@ -6446,7 +6446,7 @@
       "SoundName": "",
       "PrefabName": "Aura_ice",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Ice"
+      "HitFXName": ""
     },
     {
       "ID": 910051,
@@ -6472,7 +6472,7 @@
       "SoundName": "",
       "PrefabName": "Projectile_energybolt_fire_large",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Fire"
+      "HitFXName": ""
     },
     {
       "ID": 910052,
@@ -6498,7 +6498,7 @@
       "SoundName": "",
       "PrefabName": "Strike_hellslash",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Pierce"
+      "HitFXName": ""
     },
     {
       "ID": 910053,
@@ -6524,7 +6524,7 @@
       "SoundName": "",
       "PrefabName": "Aura_dark",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Dark"
+      "HitFXName": ""
     },
     {
       "ID": 990011,
@@ -6550,7 +6550,7 @@
       "SoundName": "Attack_claw",
       "PrefabName": "Strike_claw",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Lightning"
+      "HitFXName": ""
     },
     {
       "ID": 990021,
@@ -6576,7 +6576,7 @@
       "SoundName": "Attack_energybolt_electric",
       "PrefabName": "Projectile_energybolt_electric",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Lightning"
+      "HitFXName": ""
     },
     {
       "ID": 990022,
@@ -6602,7 +6602,7 @@
       "SoundName": "Attack_electric",
       "PrefabName": "Wave_electric",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Lightning"
+      "HitFXName": ""
     },
     {
       "ID": 990031,
@@ -6628,7 +6628,7 @@
       "SoundName": "Attack_energybolt_fire_small",
       "PrefabName": "Projectile_energybolt_fire_small",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Fire"
+      "HitFXName": ""
     },
     {
       "ID": 990033,
@@ -6654,7 +6654,7 @@
       "SoundName": "Attack_rotation_energybolt_fire_small",
       "PrefabName": "Rotation_energybolt_fire_small",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Fire"
+      "HitFXName": ""
     },
     {
       "ID": 990041,
@@ -6680,7 +6680,7 @@
       "SoundName": "Attack_arrow_poison",
       "PrefabName": "Mortar_arrow_poison",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Pierce"
+      "HitFXName": ""
     },
     {
       "ID": 990051,
@@ -6706,7 +6706,7 @@
       "SoundName": "Attack_Character_Axe",
       "PrefabName": "Swing_skelctonWarrior_battle_axe",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": ""
     },
     {
       "ID": 990061,
@@ -6732,7 +6732,7 @@
       "SoundName": "Attack_energybolt_ice",
       "PrefabName": "Projectile_energybolt_ice",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Ice"
+      "HitFXName": ""
     },
     {
       "ID": 990062,
@@ -6758,7 +6758,7 @@
       "SoundName": "Attack_rotation_thorn_ice",
       "PrefabName": "Strike_thorn_ice",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Ice"
+      "HitFXName": ""
     },
     {
       "ID": 990071,
@@ -6784,7 +6784,7 @@
       "SoundName": "",
       "PrefabName": "Strike_earth",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": ""
     },
     {
       "ID": 990072,
@@ -6810,7 +6810,7 @@
       "SoundName": "",
       "PrefabName": "Aura_blood",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Dark"
+      "HitFXName": ""
     },
     {
       "ID": 990081,
@@ -6836,7 +6836,7 @@
       "SoundName": "Attack_rock",
       "PrefabName": "Wave_rock",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": ""
     },
     {
       "ID": 990091,
@@ -6862,7 +6862,7 @@
       "SoundName": "Attack_energybolt_fire_small",
       "PrefabName": "Projectile_energybolt_fire_small",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Fire"
+      "HitFXName": ""
     },
     {
       "ID": 990101,
@@ -6888,7 +6888,7 @@
       "SoundName": "Attack_energybolt_electric",
       "PrefabName": "Projectile_energybolt_electric",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Lightning"
+      "HitFXName": ""
     },
     {
       "ID": 990111,
@@ -6914,7 +6914,7 @@
       "SoundName": "Attack_poison",
       "PrefabName": "Wave_poison",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Poison"
+      "HitFXName": ""
     },
     {
       "ID": 990112,
@@ -6940,7 +6940,7 @@
       "SoundName": "Attack_energybolt_green",
       "PrefabName": "Projectile_energybolt_green",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Poison"
+      "HitFXName": ""
     },
     {
       "ID": 990113,
@@ -6966,7 +6966,7 @@
       "SoundName": "Attack_TwinStrike",
       "PrefabName": "Strike_assassination_Small",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_shot_Impact"
+      "HitFXName": ""
     }
   ]
 }
