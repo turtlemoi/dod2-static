@@ -4912,7 +4912,7 @@
       "SoundName": "Attack_sting_poison",
       "PrefabName": "Projectile_sting_poison",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Poison"
+      "HitFXName": ""
     },
     {
       "ID": 170012,
@@ -4938,7 +4938,7 @@
       "SoundName": "Attack_sting_poison",
       "PrefabName": "Projectile_sting_poison",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Poison"
+      "HitFXName": ""
     },
     {
       "ID": 170013,
@@ -4964,7 +4964,7 @@
       "SoundName": "Attack_sting_poison",
       "PrefabName": "Projectile_sting_poison",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Poison"
+      "HitFXName": ""
     },
     {
       "ID": 170021,
@@ -4990,7 +4990,7 @@
       "SoundName": "Attack_shadowcat",
       "PrefabName": "Rotation_shadowcat",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Dark"
+      "HitFXName": ""
     },
     {
       "ID": 170022,
@@ -5016,7 +5016,7 @@
       "SoundName": "Attack_shadowcat",
       "PrefabName": "Rotation_shadowcat",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Dark"
+      "HitFXName": ""
     },
     {
       "ID": 170023,
@@ -5042,7 +5042,7 @@
       "SoundName": "Attack_shadowcat",
       "PrefabName": "Rotation_shadowcat",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Dark"
+      "HitFXName": ""
     },
     {
       "ID": 170031,
@@ -5068,7 +5068,7 @@
       "SoundName": "",
       "PrefabName": "Aura_swamp",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Dark"
+      "HitFXName": ""
     },
     {
       "ID": 170032,
@@ -5094,7 +5094,7 @@
       "SoundName": "",
       "PrefabName": "Aura_swamp",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Dark"
+      "HitFXName": ""
     },
     {
       "ID": 170033,
@@ -5120,7 +5120,7 @@
       "SoundName": "",
       "PrefabName": "Aura_swamp",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Dark"
+      "HitFXName": ""
     },
     {
       "ID": 170041,
@@ -5302,7 +5302,7 @@
       "SoundName": "Attack_thorn_poison",
       "PrefabName": "Projectile_bug",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Poison"
+      "HitFXName": ""
     },
     {
       "ID": 170062,
@@ -5328,7 +5328,7 @@
       "SoundName": "Attack_thorn_poison",
       "PrefabName": "Projectile_bug",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Poison"
+      "HitFXName": ""
     },
     {
       "ID": 170063,
@@ -5354,7 +5354,7 @@
       "SoundName": "Attack_thorn_poison",
       "PrefabName": "Projectile_bug",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Poison"
+      "HitFXName": ""
     },
     {
       "ID": 170071,
@@ -5380,7 +5380,7 @@
       "SoundName": "Attack_thorn_poison",
       "PrefabName": "Strike_poison",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Poison"
+      "HitFXName": ""
     },
     {
       "ID": 170072,
@@ -5406,7 +5406,7 @@
       "SoundName": "Attack_thorn_poison",
       "PrefabName": "Strike_poison",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Poison"
+      "HitFXName": ""
     },
     {
       "ID": 170073,
@@ -5432,7 +5432,7 @@
       "SoundName": "Attack_thorn_poison",
       "PrefabName": "Strike_poison",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Poison"
+      "HitFXName": ""
     },
     {
       "ID": 170081,
@@ -5458,7 +5458,7 @@
       "SoundName": "Attack_thorn_poison",
       "PrefabName": "Strike_thorn_poison",
       "SubPrefabName": "InfectionProjectile_thorn_poison",
-      "HitFXName": "FX_Hit_Poison"
+      "HitFXName": ""
     },
     {
       "ID": 170082,
@@ -5484,7 +5484,7 @@
       "SoundName": "Attack_thorn_poison",
       "PrefabName": "Strike_thorn_poison",
       "SubPrefabName": "InfectionProjectile_thorn_poison",
-      "HitFXName": "FX_Hit_Poison"
+      "HitFXName": ""
     },
     {
       "ID": 170083,
@@ -5510,7 +5510,7 @@
       "SoundName": "Attack_thorn_poison",
       "PrefabName": "Strike_thorn_poison",
       "SubPrefabName": "InfectionProjectile_thorn_poison",
-      "HitFXName": "FX_Hit_Poison"
+      "HitFXName": ""
     },
     {
       "ID": 170091,
@@ -5614,7 +5614,7 @@
       "SoundName": "",
       "PrefabName": "FieldZone_Voodoodoll",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Dark"
+      "HitFXName": ""
     },
     {
       "ID": 170102,
@@ -5640,7 +5640,7 @@
       "SoundName": "",
       "PrefabName": "FieldZone_Voodoodoll",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Dark"
+      "HitFXName": ""
     },
     {
       "ID": 170103,
@@ -5666,7 +5666,7 @@
       "SoundName": "",
       "PrefabName": "FieldZone_Voodoodoll",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Dark"
+      "HitFXName": ""
     },
     {
       "ID": 230011,
