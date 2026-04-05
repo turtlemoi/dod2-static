@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-05T12:23:32.545Z",
+  "updatedAt": "2026-04-05T12:32:38.198Z",
   "sheets": [
     {
       "name": "Common",
@@ -81,8 +81,8 @@
     },
     {
       "name": "DropRarity",
-      "version": 1,
-      "hash": "3dc7d42e86f2bff6f174b86be86205afaea9f6fb69bbafdf0bc2750bd70c7b74",
+      "version": 2,
+      "hash": "270b5b05c031779c57df8922093c6a5c8df741bfdcd6c8dcd2166216422cbd8c",
       "url": "/static/DropRarity.json"
     }
   ]
