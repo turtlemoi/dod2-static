@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-05T07:00:22.859Z",
+  "updatedAt": "2026-04-05T12:23:32.545Z",
   "sheets": [
     {
       "name": "Common",
@@ -75,8 +75,8 @@
     },
     {
       "name": "BoardSize",
-      "version": 1,
-      "hash": "ede4e2a1a6997993a820cdca568fe5e2f974d35f7eb6134a4882e0b29f52f888",
+      "version": 2,
+      "hash": "a16d3ccfe95d42537edd58ee0e5278d60597ed34d1baead26bbec006949b0657",
       "url": "/static/BoardSize.json"
     },
     {
