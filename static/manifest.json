@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-05T12:32:38.198Z",
+  "updatedAt": "2026-04-05T13:00:08.867Z",
   "sheets": [
     {
       "name": "Common",
@@ -45,8 +45,8 @@
     },
     {
       "name": "AttackSkills",
-      "version": 369,
-      "hash": "0142a9e10a8ee71a65cd75d6ffa6059b4df0133ddc19a11388b1e4de755ed456",
+      "version": 370,
+      "hash": "f5c06991bda6ab4d7711ccd245c1a510a5b61e5fad7cd8ccef50f046fc025dea",
       "url": "/static/AttackSkills.json"
     },
     {
@@ -82,7 +82,7 @@
     {
       "name": "DropRarity",
       "version": 2,
-      "hash": "270b5b05c031779c57df8922093c6a5c8df741bfdcd6c8dcd2166216422cbd8c",
+      "hash": "97f7e986ad78823ad51f47edcc86614d9a787830f4f3fef298146eaa98cca5bd",
       "url": "/static/DropRarity.json"
     }
   ]
