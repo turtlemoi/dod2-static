@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-04T11:56:46.884Z",
+  "updatedAt": "2026-04-05T07:00:22.859Z",
   "sheets": [
     {
       "name": "Common",
@@ -39,8 +39,8 @@
     },
     {
       "name": "Puzzle",
-      "version": 86,
-      "hash": "be816f0b40c55b90946415d066467e6ffbc1e8107470366048d9f649e5df4d70",
+      "version": 87,
+      "hash": "75e82789625ade07b7f60b2967f8b6ce3b09534002b65eb3cc8c61cdbc8cf518",
       "url": "/static/Puzzle.json"
     },
     {
@@ -72,6 +72,18 @@
       "version": 7,
       "hash": "ed4eb2570de938b9642411b387451de474fd62d8698fec19c128819ce83e7b3e",
       "url": "/static/InGameShop.json"
+    },
+    {
+      "name": "BoardSize",
+      "version": 1,
+      "hash": "ede4e2a1a6997993a820cdca568fe5e2f974d35f7eb6134a4882e0b29f52f888",
+      "url": "/static/BoardSize.json"
+    },
+    {
+      "name": "DropRarity",
+      "version": 1,
+      "hash": "3dc7d42e86f2bff6f174b86be86205afaea9f6fb69bbafdf0bc2750bd70c7b74",
+      "url": "/static/DropRarity.json"
     }
   ]
 }
