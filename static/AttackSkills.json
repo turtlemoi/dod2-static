@@ -1168,7 +1168,7 @@
       "SoundName": "Attack_arrow_bomb",
       "PrefabName": "Mortar_arrow_bomb",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "FX_Hit_boom"
     },
     {
       "ID": 120032,
@@ -1194,7 +1194,7 @@
       "SoundName": "Attack_arrow_bomb",
       "PrefabName": "Mortar_arrow_bomb",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "FX_Hit_boom"
     },
     {
       "ID": 120033,
@@ -1220,7 +1220,7 @@
       "SoundName": "Attack_arrow_bomb",
       "PrefabName": "Mortar_arrow_bomb",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "FX_Hit_boom"
     },
     {
       "ID": 120041,
