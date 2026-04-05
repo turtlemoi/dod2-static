@@ -1246,7 +1246,7 @@
       "SoundName": "Attack_arrow_poison",
       "PrefabName": "Mortar_arrow_poison",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "FX_Hit_arrow_poison"
     },
     {
       "ID": 120042,
@@ -1272,7 +1272,7 @@
       "SoundName": "Attack_arrow_poison",
       "PrefabName": "Mortar_arrow_poison",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "FX_Hit_arrow_poison"
     },
     {
       "ID": 120043,
@@ -1298,7 +1298,7 @@
       "SoundName": "Attack_arrow_poison",
       "PrefabName": "Mortar_arrow_poison",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "FX_Hit_arrow_poison"
     },
     {
       "ID": 120051,
@@ -1636,7 +1636,7 @@
       "SoundName": "Attack_arrow",
       "PrefabName": "Mortar_arrow",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "FX_Hit_arrow"
     },
     {
       "ID": 120092,
@@ -1662,7 +1662,7 @@
       "SoundName": "Attack_arrow",
       "PrefabName": "Mortar_arrow",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "FX_Hit_arrow"
     },
     {
       "ID": 120093,
@@ -1688,7 +1688,7 @@
       "SoundName": "Attack_arrow",
       "PrefabName": "Mortar_arrow",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "FX_Hit_arrow"
     },
     {
       "ID": 120101,
