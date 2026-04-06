@@ -3,30 +3,50 @@
     {
       "ID": 1,
       "Stage": 1,
-      "BoardCoordinate": "-2,0/-1,0/0,0/1,0/2,0"
+      "BoardCoordinate": "0,0"
     },
     {
       "ID": 2,
-      "Stage": 5,
-      "BoardCoordinate": "-2,-1"
+      "Stage": 2,
+      "BoardCoordinate": "1,0"
     },
     {
       "ID": 3,
+      "Stage": 4,
+      "BoardCoordinate": "-1,0"
+    },
+    {
+      "ID": 4,
+      "Stage": 6,
+      "BoardCoordinate": "-2,0"
+    },
+    {
+      "ID": 5,
+      "Stage": 8,
+      "BoardCoordinate": "2,0"
+    },
+    {
+      "ID": 6,
+      "Stage": 11,
+      "BoardCoordinate": "0,-1"
+    },
+    {
+      "ID": 7,
       "Stage": 15,
       "BoardCoordinate": "-1,-1"
     },
     {
-      "ID": 4,
+      "ID": 8,
       "Stage": 25,
-      "BoardCoordinate": "0,-1"
-    },
-    {
-      "ID": 5,
-      "Stage": 35,
       "BoardCoordinate": "1,-1"
     },
     {
-      "ID": 6,
+      "ID": 9,
+      "Stage": 35,
+      "BoardCoordinate": "-2,-1"
+    },
+    {
+      "ID": 10,
       "Stage": 45,
       "BoardCoordinate": "2,-1"
     }

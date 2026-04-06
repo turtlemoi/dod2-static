@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-06T11:36:27.580Z",
+  "updatedAt": "2026-04-06T12:27:29.037Z",
   "sheets": [
     {
       "name": "Common",
@@ -21,8 +21,8 @@
     },
     {
       "name": "Creature",
-      "version": 54,
-      "hash": "920e506dcbfd6729162ac7218eef80ac99bf9dcb7f0cd0aa7e44665ce18a8d87",
+      "version": 55,
+      "hash": "1913c9d4ca24a294731aab45ae047e665d768179faa9e531ac64281ab1dd13d4",
       "url": "/static/Creature.json"
     },
     {
@@ -46,7 +46,7 @@
     {
       "name": "AttackSkills",
       "version": 385,
-      "hash": "c19aae78a9b6bb3bf583ee9e6e9cd9beb85fd34492036524cf72c946f3b68c58",
+      "hash": "96ee158535d98d071517e8c6003f0c620143f979d4d51dc724443283f898041f",
       "url": "/static/AttackSkills.json"
     },
     {
@@ -75,8 +75,8 @@
     },
     {
       "name": "BoardSize",
-      "version": 3,
-      "hash": "74834bd4fafc3f9f6de03d43f36921a632f194f0fa4e9d922411ee44df376db0",
+      "version": 4,
+      "hash": "e58c39aff0335beb127d9b2ff7262a50cc675cc8999e51cda2d93e78a57a6812",
       "url": "/static/BoardSize.json"
     },
     {
