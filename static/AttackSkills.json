@@ -1693,7 +1693,7 @@
     {
       "ID": 120101,
       "SkillName": "용 화살",
-      "SkillType": 2,
+      "SkillType": 9,
       "SkillLevel": 1,
       "CoolDown": 20,
       "SkillLimit": 1,
@@ -1719,7 +1719,7 @@
     {
       "ID": 120102,
       "SkillName": "용 화살",
-      "SkillType": 2,
+      "SkillType": 9,
       "SkillLevel": 2,
       "CoolDown": 20,
       "SkillLimit": 1,
@@ -1745,7 +1745,7 @@
     {
       "ID": 120103,
       "SkillName": "용 화살",
-      "SkillType": 2,
+      "SkillType": 9,
       "SkillLevel": 3,
       "CoolDown": 20,
       "SkillLimit": 1,
