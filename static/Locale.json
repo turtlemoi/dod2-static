@@ -2637,17 +2637,17 @@
     },
     {
       "Key": "PUZZLE_150041_DESC",
-      "ko": "반월각",
+      "ko": "주변의 적을 향해 반달 차기를 합니다.",
       "en": "DMG {0}% CD {1}s \n[Melee]"
     },
     {
       "Key": "PUZZLE_150042_DESC",
-      "ko": "반월각",
+      "ko": "반월각 피해량 증가",
       "en": "DMG {0}% CD {1}s \n[Melee]"
     },
     {
       "Key": "PUZZLE_150043_DESC",
-      "ko": "반월각",
+      "ko": "반월각 피해량 증가+",
       "en": "DMG {0}% CD {1}s \n[Melee]"
     },
     {
