@@ -2097,7 +2097,7 @@
     },
     {
       "Key": "PUZZLE_110081_DESC",
-      "ko": "망치를 들고 뛰어올라 지면을 강타합니다.",
+      "ko": "용사가 망치를 들고 뛰어올라 지면을 강타합니다.",
       "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
     },
     {
@@ -2337,52 +2337,52 @@
     },
     {
       "Key": "PUZZLE_130041_DESC",
-      "ko": "얼음 파편",
+      "ko": "주위를 엄호하며 맴도는 얼음 파편 8개가 생성됩니다.",
       "en": "DMG {0}% CD {1}s \n[Melee] [Duration] [8ea]"
     },
     {
       "Key": "PUZZLE_130042_DESC",
-      "ko": "얼음 파편",
+      "ko": "얼음 파편 피해량 증가",
       "en": "DMG {0}% CD {1}s \n[Melee] [Duration] [12ea]"
     },
     {
       "Key": "PUZZLE_130043_DESC",
-      "ko": "얼음 파편",
+      "ko": "얼음 파편 피해량 증가+",
       "en": "DMG {0}% CD {1}s \n[Melee] [Duration] [16ea]"
     },
     {
       "Key": "PUZZLE_130051_DESC",
-      "ko": "프로즌 오브",
+      "ko": "얼음 조각을 흩뿌리며 날아가는 오브를 발사합니다.",
       "en": "DMG {0}% CD {1}s \n[Distant]"
     },
     {
       "Key": "PUZZLE_130052_DESC",
-      "ko": "프로즌 오브",
+      "ko": "오브와 얼음 조각 피해량 증가",
       "en": "DMG {0}% CD {1}s \n[Distant]"
     },
     {
       "Key": "PUZZLE_130053_DESC",
-      "ko": "프로즌 오브",
+      "ko": "오브와 얼음 조각 피해량 증가+",
       "en": "DMG {0}% CD {1}s \n[Distant]"
     },
     {
       "Key": "PUZZLE_130061_DESC",
-      "ko": "라이트닝 노바",
+      "ko": "용사를 중심으로 주기적으로 전격파를 방출합니다.",
       "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
     },
     {
       "Key": "PUZZLE_130062_DESC",
-      "ko": "라이트닝 노바",
+      "ko": "라이트닝 노바 피해량 증가",
       "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
     },
     {
       "Key": "PUZZLE_130063_DESC",
-      "ko": "라이트닝 노바",
+      "ko": "라이트닝 노바 피해량 증가+",
       "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
     },
     {
       "Key": "PUZZLE_130071_DESC",
-      "ko": "화염방사",
+      "ko": "전방의 적을 향해 부채꼴로 화염을 뿜습니다.",
       "en": "DMG {0}% CD {1}s \n[Distant] [Duration]\n[1 Summon]"
     },
     {
