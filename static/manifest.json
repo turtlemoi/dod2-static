@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-07T10:19:16.182Z",
+  "updatedAt": "2026-04-07T10:38:05.384Z",
   "sheets": [
     {
       "name": "Common",
@@ -45,8 +45,8 @@
     },
     {
       "name": "AttackSkills",
-      "version": 390,
-      "hash": "1dce1c288f5421840abf071de8b3c0c10da7f47a6502edbb42227e1caf7a2438",
+      "version": 391,
+      "hash": "a473a8d5e786b1e1d92a7c693ac1c1baa183572b36d71cf6a561292baf453d78",
       "url": "/static/AttackSkills.json"
     },
     {
@@ -64,7 +64,7 @@
     {
       "name": "Locale",
       "version": 58,
-      "hash": "0de4aefaa6a543b6b2d3901b2242992b02ce75b8df54945d2cf7259708603a38",
+      "hash": "539ed73ac854c533c32b52965392a0de64fdaa667dc3339f46db7758e1add3ea",
       "url": "/static/Locale.json"
     },
     {

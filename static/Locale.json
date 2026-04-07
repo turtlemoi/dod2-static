@@ -2387,252 +2387,252 @@
     },
     {
       "Key": "PUZZLE_130072_DESC",
-      "ko": "화염방사",
+      "ko": "화염방사 피해량 증가",
       "en": "DMG {0}% CD {1}s \n[Distant] [Duration]\n[2 Summon]"
     },
     {
       "Key": "PUZZLE_130073_DESC",
-      "ko": "화염방사",
+      "ko": "화염방사 피해량 증가+",
       "en": "DMG {0}% CD {1}s \n[Distant] [Duration]\n[3 Summon]"
     },
     {
       "Key": "PUZZLE_130081_DESC",
-      "ko": "빙결지대",
+      "ko": "용사를 중심으로 냉기 오오라를 뿜습니다. 오오라 범위 내의 적이 주기적으로 피해를 입습니다.",
       "en": "DMG {0}% CD {1}s \n[Distant] [Duration]\n[1 Summon]"
     },
     {
       "Key": "PUZZLE_130082_DESC",
-      "ko": "빙결지대",
+      "ko": "빙결지대 피해량 증가",
       "en": "DMG {0}% CD {1}s \n[Distant] [Duration]\n[1 Summon]"
     },
     {
       "Key": "PUZZLE_130083_DESC",
-      "ko": "빙결지대",
+      "ko": "빙결지대 피해량 증가+",
       "en": "DMG {0}% CD {1}s \n[Distant] [Duration]\n[1 Summon]"
     },
     {
       "Key": "PUZZLE_130091_DESC",
-      "ko": "번개",
+      "ko": "적 위로 3번의 번개를 내리칩니다. 번개로부터 체인 라이트닝이 발생합니다.",
       "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
     },
     {
       "Key": "PUZZLE_130092_DESC",
-      "ko": "번개",
+      "ko": "번개 및 보조 체인 라이트닝 피해량 증가",
       "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
     },
     {
       "Key": "PUZZLE_130093_DESC",
-      "ko": "번개",
+      "ko": "번개 및 보조 체인 라이트닝 피해량 증가+",
       "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
     },
     {
       "Key": "PUZZLE_130101_DESC",
-      "ko": "메테오",
+      "ko": "3개의 큰 메테오를 떨어트립니다.",
       "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
     },
     {
       "Key": "PUZZLE_130102_DESC",
-      "ko": "메테오",
+      "ko": "메테오 피해량 증가",
       "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
     },
     {
       "Key": "PUZZLE_130103_DESC",
-      "ko": "메테오",
+      "ko": "메테오 피해량 증가+",
       "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
     },
     {
       "Key": "PUZZLE_140011_DESC",
-      "ko": "해골 궁수",
+      "ko": "해골 궁수 1마리를 소환합니다. 해골 궁수가 적을 찾아서 공격합니다.",
       "en": "DMG {0}% CD {1}s \n[Distant] [Duration]\n[1 Summon]"
     },
     {
       "Key": "PUZZLE_140012_DESC",
-      "ko": "해골 궁수",
+      "ko": "해골 궁수 2마리 소환",
       "en": "DMG {0}% CD {1}s \n[Distant] [Duration]\n[2 Summon]"
     },
     {
       "Key": "PUZZLE_140013_DESC",
-      "ko": "해골 궁수",
+      "ko": "해골 궁수 3마리 소환",
       "en": "DMG {0}% CD {1}s \n[Distant] [Duration]\n[3 Summon]"
     },
     {
       "Key": "PUZZLE_140021_DESC",
-      "ko": "뼈 가시",
+      "ko": "바닥에서 튀어나오는 뼈 가시 지대를 소환합니다.",
       "en": "DMG {0}% CD {1}s \n[Distant]"
     },
     {
       "Key": "PUZZLE_140022_DESC",
-      "ko": "뼈 가시",
+      "ko": "뼈 가시 피해량 증가",
       "en": "DMG {0}% CD {1}s \n[Distant]"
     },
     {
       "Key": "PUZZLE_140023_DESC",
-      "ko": "뼈 가시",
+      "ko": "뼈 가시 피해량 증가+",
       "en": "DMG {0}% CD {1}s \n[Distant]"
     },
     {
       "Key": "PUZZLE_140031_DESC",
-      "ko": "뼈두르기",
+      "ko": "용사 주위를 맴도는 큰 뼈 2개를 소환합니다.",
       "en": "DMG {0}% CD {1}s \n[Distant] [Penetrate]"
     },
     {
       "Key": "PUZZLE_140032_DESC",
-      "ko": "뼈두르기",
+      "ko": "뼈두르기 피해량 증가",
       "en": "DMG {0}% CD {1}s \n[Distant] [Penetrate]"
     },
     {
       "Key": "PUZZLE_140033_DESC",
-      "ko": "뼈두르기",
+      "ko": "뼈두르기 피해량 증가+",
       "en": "DMG {0}% CD {1}s \n[Distant] [Penetrate]"
     },
     {
       "Key": "PUZZLE_140041_DESC",
-      "ko": "전사의 무덤",
+      "ko": "주기적으로 해골 전사를 생성하는 무덤을 소환합니다.",
       "en": "DMG {0}% CD {1}s \n[Distant] [Duration]\n[2 Summon]"
     },
     {
       "Key": "PUZZLE_140042_DESC",
-      "ko": "전사의 무덤",
+      "ko": "생성되는 해골 전사 3마리로 증가",
       "en": "DMG {0}% CD {1}s \n[Distant] [Duration]\n[3 Summon]"
     },
     {
       "Key": "PUZZLE_140043_DESC",
-      "ko": "전사의 무덤",
+      "ko": "생성되는 해골 전사 4마리로 증가",
       "en": "DMG {0}% CD {1}s \n[Distant] [Duration]\n[4 Summon]"
     },
     {
       "Key": "PUZZLE_140051_DESC",
-      "ko": "해골 마법사",
+      "ko": "해골 마법사 1마리를 소환합니다.",
       "en": "DMG {0}% CD {1}s \n[Distant] [Duration]\n[1 Summon]"
     },
     {
       "Key": "PUZZLE_140052_DESC",
-      "ko": "해골 마법사",
+      "ko": "해골 마법사 피해량 증가",
       "en": "DMG {0}% CD {1}s \n[Distant] [Duration]\n[1 Summon]"
     },
     {
       "Key": "PUZZLE_140053_DESC",
-      "ko": "해골 마법사",
+      "ko": "해골 마법사 피해량 증가+",
       "en": "DMG {0}% CD {1}s \n[Distant] [Duration]\n[1 Summon]"
     },
     {
       "Key": "PUZZLE_140061_DESC",
-      "ko": "뼈 폭풍",
+      "ko": "적을 따라가는 뼈 폭풍을 소환합니다.",
       "en": "DMG {0}% CD {1}s \n[Distant]"
     },
     {
       "Key": "PUZZLE_140062_DESC",
-      "ko": "뼈 폭풍",
+      "ko": "뼈 폭풍 피해량 증가",
       "en": "DMG {0}% CD {1}s \n[Distant]"
     },
     {
       "Key": "PUZZLE_140063_DESC",
-      "ko": "뼈 폭풍",
+      "ko": "뼈 폭풍 피해량 증가+",
       "en": "DMG {0}% CD {1}s \n[Distant]"
     },
     {
       "Key": "PUZZLE_140071_DESC",
-      "ko": "군단무덤",
+      "ko": "해골 군단을 생성하는 군단 무덤을 소환합니다.",
       "en": "DMG {0}% CD {1}s \n[Distant] [Duration]\n[1 Summon]"
     },
     {
       "Key": "PUZZLE_140072_DESC",
-      "ko": "군단무덤",
+      "ko": "군단 무덤 2개 소환",
       "en": "DMG {0}% CD {1}s \n[Distant] [Duration]\n[1 Summon]"
     },
     {
       "Key": "PUZZLE_140073_DESC",
-      "ko": "군단무덤",
+      "ko": "군단 무덤 3개 소환",
       "en": "DMG {0}% CD {1}s \n[Distant] [Duration]\n[1 Summon]"
     },
     {
       "Key": "PUZZLE_140081_DESC",
-      "ko": "바위 골렘 소환",
+      "ko": "바위 골렘을 소환합니다.",
       "en": "DMG {0}% CD {1}s \n[Distant]"
     },
     {
       "Key": "PUZZLE_140082_DESC",
-      "ko": "바위 골렘 소환",
+      "ko": "바위 골렘 피해량 증가",
       "en": "DMG {0}% CD {1}s \n[Distant]"
     },
     {
       "Key": "PUZZLE_140083_DESC",
-      "ko": "바위 골렘 소환",
+      "ko": "바위 골렘 피해량 증가+",
       "en": "DMG {0}% CD {1}s \n[Distant]"
     },
     {
       "Key": "PUZZLE_140091_DESC",
-      "ko": "시체 골렘",
+      "ko": "시체 골렘을 소환합니다.",
       "en": "DMG {0}% CD {1}s \n[Distant] [Duration]\n[1 Summon]"
     },
     {
       "Key": "PUZZLE_140092_DESC",
-      "ko": "시체 골렘",
+      "ko": "시체 골렘 피해량 증가",
       "en": "DMG {0}% CD {1}s \n[Distant] [Duration]\n[1 Summon]"
     },
     {
       "Key": "PUZZLE_140093_DESC",
-      "ko": "시체 골렘",
+      "ko": "시체 골렘 피해량 증가+",
       "en": "DMG {0}% CD {1}s \n[Distant] [Duration]\n[1 Summon]"
     },
     {
       "Key": "PUZZLE_140101_DESC",
-      "ko": "뼈 파도",
+      "ko": "뼈 파도가 지면을 휩씁니다.",
       "en": "DMG {0}% CD {1}s \n[Distant] [Duration]"
     },
     {
       "Key": "PUZZLE_140102_DESC",
-      "ko": "뼈 파도",
+      "ko": "뼈 파도 피해량 증가",
       "en": "DMG {0}% CD {1}s \n[Distant] [Duration]"
     },
     {
       "Key": "PUZZLE_140103_DESC",
-      "ko": "뼈 파도",
+      "ko": "뼈 파도 피해량 증가+",
       "en": "DMG {0}% CD {1}s \n[Distant] [Duration]"
     },
     {
       "Key": "PUZZLE_150011_DESC",
-      "ko": "삼아각",
+      "ko": "주변의 적을 향해 3번의 발차기를 합니다.",
       "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
     },
     {
       "Key": "PUZZLE_150012_DESC",
-      "ko": "삼아각",
+      "ko": "삼아각 피해량 증가",
       "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
     },
     {
       "Key": "PUZZLE_150013_DESC",
-      "ko": "삼아각",
+      "ko": "삼아각 피해량 증가+",
       "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
     },
     {
       "Key": "PUZZLE_150021_DESC",
-      "ko": "일격권",
+      "ko": "주변의 적에게 주먹을 내지릅니다.",
       "en": "DMG {0}% CD {1}s \n[Melee]"
     },
     {
       "Key": "PUZZLE_150022_DESC",
-      "ko": "일격권",
+      "ko": "일격권 피해량 증가",
       "en": "DMG {0}% CD {1}s \n[Melee]"
     },
     {
       "Key": "PUZZLE_150023_DESC",
-      "ko": "일격권",
+      "ko": "일격권 피해량 증가+",
       "en": "DMG {0}% CD {1}s \n[Melee]"
     },
     {
       "Key": "PUZZLE_150031_DESC",
-      "ko": "백열권",
+      "ko": "주변의 적을 향해 6번 주먹으로 난타합니다.",
       "en": "DMG {0}% CD {1}s \n[Distant] [Duration]"
     },
     {
       "Key": "PUZZLE_150032_DESC",
-      "ko": "백열권",
+      "ko": "백열권 피해량 증가",
       "en": "DMG {0}% CD {1}s \n[Distant] [Duration]"
     },
     {
       "Key": "PUZZLE_150033_DESC",
-      "ko": "백열권",
+      "ko": "백열권 피해량 증가+",
       "en": "DMG {0}% CD {1}s \n[Distant] [Duration]"
     },
     {
