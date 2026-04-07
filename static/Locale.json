@@ -2217,122 +2217,122 @@
     },
     {
       "Key": "PUZZLE_120061_DESC",
-      "ko": "멀티샷",
+      "ko": "10개의 화살을 부채꼴로 펼쳐 동시에 발사합니다.",
       "en": "DMG {0}% CD {1}s \n[Distant] [Penetrate]"
     },
     {
       "Key": "PUZZLE_120062_DESC",
-      "ko": "멀티샷",
+      "ko": "멀티샷 피해량 증가",
       "en": "DMG {0}% CD {1}s \n[Distant] [Penetrate]"
     },
     {
       "Key": "PUZZLE_120063_DESC",
-      "ko": "멀티샷",
+      "ko": "멀티샷 피해량 증가+",
       "en": "DMG {0}% CD {1}s \n[Distant] [Penetrate]"
     },
     {
       "Key": "PUZZLE_120071_DESC",
-      "ko": "감전 화살",
+      "ko": "적들 사이를 튕기는 감전 화살을 1개 발사합니다.",
       "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
     },
     {
       "Key": "PUZZLE_120072_DESC",
-      "ko": "감전 화살",
+      "ko": "감전 화살 피해량 증가, 쿨다운 감소",
       "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
     },
     {
       "Key": "PUZZLE_120073_DESC",
-      "ko": "감전 화살",
+      "ko": "감전 화살 피해량 증가+, 쿨다운 감소+",
       "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
     },
     {
       "Key": "PUZZLE_120081_DESC",
-      "ko": "꿰뚫는 바람",
+      "ko": "거대한 폭풍 화살을 발사합니다.",
       "en": "DMG {0}% CD {1}s \n[Distant] [Penetrate]"
     },
     {
       "Key": "PUZZLE_120082_DESC",
-      "ko": "꿰뚫는 바람",
+      "ko": "꿰뚫는 바람 피해량 증가",
       "en": "DMG {0}% CD {1}s \n[Distant] [Penetrate]"
     },
     {
       "Key": "PUZZLE_120083_DESC",
-      "ko": "꿰뚫는 바람",
+      "ko": "꿰뚫는 바람 피해량 증가+",
       "en": "DMG {0}% CD {1}s \n[Distant] [Penetrate]"
     },
     {
       "Key": "PUZZLE_120091_DESC",
-      "ko": "화살비",
+      "ko": "적 무리 위로 수많은 화살비를 난사합니다.",
       "en": "DMG {0}% CD {1}s \n[Distant] [Penetrate]"
     },
     {
       "Key": "PUZZLE_120092_DESC",
-      "ko": "화살비",
+      "ko": "화살비 피해량 증가",
       "en": "DMG {0}% CD {1}s \n[Distant] [Penetrate]"
     },
     {
       "Key": "PUZZLE_120093_DESC",
-      "ko": "화살비",
+      "ko": "화살비 피해량 증가+",
       "en": "DMG {0}% CD {1}s \n[Distant] [Penetrate]"
     },
     {
       "Key": "PUZZLE_120101_DESC",
-      "ko": "용 화살",
+      "ko": "용이 깃든 화살을 발사합니다. 용이 지면을 가로지르며 적들에게 피해를 줍니다.",
       "en": "DMG {0}% CD {1}s \n[Distant] [Penetrate]"
     },
     {
       "Key": "PUZZLE_120102_DESC",
-      "ko": "용 화살",
+      "ko": "용 화살 피해량 증가",
       "en": "DMG {0}% CD {1}s \n[Distant] [Penetrate]"
     },
     {
       "Key": "PUZZLE_120103_DESC",
-      "ko": "용 화살",
+      "ko": "용 화살 피해량 증가+",
       "en": "DMG {0}% CD {1}s \n[Distant] [Penetrate]"
     },
     {
       "Key": "PUZZLE_130011_DESC",
-      "ko": "얼음 기둥",
+      "ko": "적의 발 밑에서 솟아나는 얼음 기둥으로 공격합니다.",
       "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
     },
     {
       "Key": "PUZZLE_130012_DESC",
-      "ko": "얼음 기둥",
+      "ko": "얼음 기둥 피해량 증가",
       "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
     },
     {
       "Key": "PUZZLE_130013_DESC",
-      "ko": "얼음 기둥",
+      "ko": "얼음 기둥 피해량 증가+",
       "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
     },
     {
       "Key": "PUZZLE_130021_DESC",
-      "ko": "화염구",
+      "ko": "적에게 화염구를 날립니다.",
       "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
     },
     {
       "Key": "PUZZLE_130022_DESC",
-      "ko": "화염구",
+      "ko": "화염구 피해량 증가",
       "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
     },
     {
       "Key": "PUZZLE_130023_DESC",
-      "ko": "화염구",
+      "ko": "화염구 피해량 증가+",
       "en": "DMG {0}% CD {1}s \n[Distant] [Splash]"
     },
     {
       "Key": "PUZZLE_130031_DESC",
-      "ko": "체인 라이트닝",
+      "ko": "여러 적들을 동시에 감전시키는 체인 라이트닝을 시전합니다.",
       "en": "DMG {0}% CD {1}s \n[Distant] [Penetrate]"
     },
     {
       "Key": "PUZZLE_130032_DESC",
-      "ko": "체인 라이트닝",
+      "ko": "체인 라이트닝 피해량 증가",
       "en": "DMG {0}% CD {1}s \n[Distant] [Penetrate]"
     },
     {
       "Key": "PUZZLE_130033_DESC",
-      "ko": "체인 라이트닝",
+      "ko": "체인 라이트닝 피해량 증가+",
       "en": "DMG {0}% CD {1}s \n[Distant] [Penetrate]"
     },
     {
