@@ -2742,47 +2742,47 @@
     },
     {
       "Key": "PUZZLE_160011_DESC",
-      "ko": "독 찌르기",
+      "ko": "독 단검으로 주변의 적을 공격합니다.",
       "en": "DMG {0}% CD {1}s \n[Melee]"
     },
     {
       "Key": "PUZZLE_160012_DESC",
-      "ko": "독 찌르기",
+      "ko": "독 찌르기 피해량 증가",
       "en": "DMG {0}% CD {1}s \n[Melee]"
     },
     {
       "Key": "PUZZLE_160013_DESC",
-      "ko": "독 찌르기",
+      "ko": "독 찌르기 피해량 증가+",
       "en": "DMG {0}% CD {1}s \n[Melee]"
     },
     {
       "Key": "PUZZLE_160021_DESC",
-      "ko": "단검 던지기",
+      "ko": "적을 관통하는 단검을 던집니다.",
       "en": "DMG {0}% CD {1}s \n[Distant] [Penetrate]"
     },
     {
       "Key": "PUZZLE_160022_DESC",
-      "ko": "단검 던지기",
+      "ko": "단검 던지기 피해량 증가",
       "en": "DMG {0}% CD {1}s \n[Distant] [Penetrate]"
     },
     {
       "Key": "PUZZLE_160023_DESC",
-      "ko": "단검 던지기",
+      "ko": "단검 던지기 피해량 증가+",
       "en": "DMG {0}% CD {1}s \n[Distant] [Penetrate]"
     },
     {
       "Key": "PUZZLE_160031_DESC",
-      "ko": "마름쇠",
+      "ko": "지면에 마름쇠를 뿌립니다.",
       "en": "DMG {0}% CD {1}s \n[Distant]"
     },
     {
       "Key": "PUZZLE_160032_DESC",
-      "ko": "마름쇠",
+      "ko": "마름쇠 피해량 증가",
       "en": "DMG {0}% CD {1}s \n[Distant]"
     },
     {
       "Key": "PUZZLE_160033_DESC",
-      "ko": "마름쇠",
+      "ko": "마름쇠 피해량 증가+",
       "en": "DMG {0}% CD {1}s \n[Distant]"
     },
     {
@@ -2892,32 +2892,32 @@
     },
     {
       "Key": "PUZZLE_170011_DESC",
-      "ko": "독침",
+      "ko": "적을 향해 독침을 날립니다.",
       "en": "DMG {0}% CD {1}s \n[Distant]"
     },
     {
       "Key": "PUZZLE_170012_DESC",
-      "ko": "독침",
+      "ko": "독침 피해량 증가",
       "en": "DMG {0}% CD {1}s \n[Distant]"
     },
     {
       "Key": "PUZZLE_170013_DESC",
-      "ko": "독침",
+      "ko": "독침 피해량 증가+",
       "en": "DMG {0}% CD {1}s \n[Distant]"
     },
     {
       "Key": "PUZZLE_170021_DESC",
-      "ko": "그림자고양이",
+      "ko": "용사 주위를 맴도는 그림자 고양이를 소환합니다.",
       "en": "DMG {0}% CD {1}s \n[Melee] [Duration] [1ea]"
     },
     {
       "Key": "PUZZLE_170022_DESC",
-      "ko": "그림자고양이",
+      "ko": "그림자 고양이 2마리로 증가",
       "en": "DMG {0}% CD {1}s \n[Melee] [Duration] [2ea]"
     },
     {
       "Key": "PUZZLE_170023_DESC",
-      "ko": "그림자고양이",
+      "ko": "그림자 고양이 3마리로 증가",
       "en": "DMG {0}% CD {1}s \n[Melee] [Duration] [3ea]"
     },
     {
