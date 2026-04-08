@@ -98,7 +98,7 @@
     },
     {
       "Key": "demon_attack_ratio_1",
-      "Value": 0.6
+      "Value": 0.3
     },
     {
       "Key": "character_hp_ratio_2",
@@ -110,7 +110,7 @@
     },
     {
       "Key": "demon_attack_ratio_2",
-      "Value": 0.7
+      "Value": 0.35
     },
     {
       "Key": "character_hp_ratio_3",
@@ -122,7 +122,7 @@
     },
     {
       "Key": "demon_attack_ratio_3",
-      "Value": 0.8
+      "Value": 0.4
     },
     {
       "Key": "character_hp_ratio_4",
@@ -134,7 +134,7 @@
     },
     {
       "Key": "demon_attack_ratio_4",
-      "Value": 0.9
+      "Value": 0.45
     },
     {
       "Key": "character_hp_ratio_5",
