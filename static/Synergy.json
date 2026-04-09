@@ -7,439 +7,238 @@
       "Icon": "synergy_1",
       "Condition": 3,
       "Desc": "SYNERGY_1_DESC",
-      "Value": 5
+      "SynergyType": 1,
+      "Value": ""
     },
     {
       "ID": 2,
-      "SynergyID": 1,
-      "Name": "SYNERGY_1",
-      "Icon": "synergy_1",
-      "Condition": 5,
-      "Desc": "SYNERGY_1_DESC",
-      "Value": 10
+      "SynergyID": 2,
+      "Name": "SYNERGY_2",
+      "Icon": "synergy_2",
+      "Condition": 3,
+      "Desc": "SYNERGY_2_DESC",
+      "SynergyType": 2,
+      "Value": ""
     },
     {
       "ID": 3,
-      "SynergyID": 1,
-      "Name": "SYNERGY_1",
-      "Icon": "synergy_1",
-      "Condition": 8,
+      "SynergyID": 3,
+      "Name": "SYNERGY_3",
+      "Icon": "synergy_3",
+      "Condition": 2,
       "Desc": "SYNERGY_1_DESC",
-      "Value": 20
+      "SynergyType": 3,
+      "Value": ""
     },
     {
       "ID": 4,
-      "SynergyID": 1,
-      "Name": "SYNERGY_1",
-      "Icon": "synergy_1",
-      "Condition": 10,
+      "SynergyID": 4,
+      "Name": "SYNERGY_4",
+      "Icon": "synergy_4",
+      "Condition": 2,
       "Desc": "SYNERGY_1_DESC",
-      "Value": 30
+      "SynergyType": 1,
+      "Value": ""
     },
     {
       "ID": 5,
-      "SynergyID": 2,
-      "Name": "SYNERGY_2",
-      "Icon": "synergy_2",
-      "Condition": 3,
+      "SynergyID": 5,
+      "Name": "SYNERGY_5",
+      "Icon": "synergy_5",
+      "Condition": 2,
       "Desc": "SYNERGY_2_DESC",
-      "Value": 10
+      "SynergyType": 3,
+      "Value": ""
     },
     {
       "ID": 6,
-      "SynergyID": 2,
-      "Name": "SYNERGY_2",
-      "Icon": "synergy_2",
-      "Condition": 5,
+      "SynergyID": 6,
+      "Name": "SYNERGY_6",
+      "Icon": "synergy_6",
+      "Condition": 3,
       "Desc": "SYNERGY_2_DESC",
-      "Value": 20
+      "SynergyType": 2,
+      "Value": ""
     },
     {
       "ID": 7,
-      "SynergyID": 2,
-      "Name": "SYNERGY_2",
-      "Icon": "synergy_2",
-      "Condition": 8,
+      "SynergyID": 7,
+      "Name": "SYNERGY_7",
+      "Icon": "synergy_7",
+      "Condition": 2,
       "Desc": "SYNERGY_2_DESC",
-      "Value": 50
+      "SynergyType": 1,
+      "Value": ""
     },
     {
       "ID": 8,
-      "SynergyID": 2,
-      "Name": "SYNERGY_2",
-      "Icon": "synergy_2",
-      "Condition": 12,
+      "SynergyID": 8,
+      "Name": "SYNERGY_8",
+      "Icon": "synergy_8",
+      "Condition": 3,
       "Desc": "SYNERGY_2_DESC",
-      "Value": 65
+      "SynergyType": 6,
+      "Value": ""
     },
     {
       "ID": 9,
-      "SynergyID": 3,
-      "Name": "SYNERGY_3",
-      "Icon": "synergy_3",
-      "Condition": 3,
+      "SynergyID": 9,
+      "Name": "SYNERGY_9",
+      "Icon": "synergy_9",
+      "Condition": 4,
       "Desc": "SYNERGY_3_DESC",
-      "Value": 20
+      "SynergyType": 4,
+      "Value": ""
     },
     {
       "ID": 10,
-      "SynergyID": 3,
-      "Name": "SYNERGY_3",
-      "Icon": "synergy_3",
-      "Condition": 5,
+      "SynergyID": 10,
+      "Name": "SYNERGY_10",
+      "Icon": "synergy_10",
+      "Condition": 3,
       "Desc": "SYNERGY_3_DESC",
-      "Value": 40
+      "SynergyType": 4,
+      "Value": ""
     },
     {
       "ID": 11,
-      "SynergyID": 3,
-      "Name": "SYNERGY_3",
-      "Icon": "synergy_3",
-      "Condition": 8,
+      "SynergyID": 11,
+      "Name": "SYNERGY_11",
+      "Icon": "synergy_11",
+      "Condition": 3,
       "Desc": "SYNERGY_3_DESC",
-      "Value": 80
+      "SynergyType": 2,
+      "Value": ""
     },
     {
       "ID": 12,
-      "SynergyID": 3,
-      "Name": "SYNERGY_3",
-      "Icon": "synergy_3",
-      "Condition": 12,
+      "SynergyID": 12,
+      "Name": "SYNERGY_12",
+      "Icon": "synergy_12",
+      "Condition": 4,
       "Desc": "SYNERGY_3_DESC",
-      "Value": 100
+      "SynergyType": 1,
+      "Value": ""
     },
     {
       "ID": 13,
-      "SynergyID": 4,
-      "Name": "SYNERGY_4",
-      "Icon": "synergy_4",
-      "Condition": 3,
+      "SynergyID": 13,
+      "Name": "SYNERGY_13",
+      "Icon": "synergy_13",
+      "Condition": 4,
       "Desc": "SYNERGY_4_DESC",
-      "Value": 1
+      "SynergyType": 3,
+      "Value": ""
     },
     {
       "ID": 14,
-      "SynergyID": 4,
-      "Name": "SYNERGY_4",
-      "Icon": "synergy_4",
-      "Condition": 5,
+      "SynergyID": 14,
+      "Name": "SYNERGY_14",
+      "Icon": "synergy_14",
+      "Condition": 2,
       "Desc": "SYNERGY_4_DESC",
-      "Value": 2
+      "SynergyType": 1,
+      "Value": ""
     },
     {
       "ID": 15,
-      "SynergyID": 4,
-      "Name": "SYNERGY_4",
-      "Icon": "synergy_4",
-      "Condition": 8,
+      "SynergyID": 15,
+      "Name": "SYNERGY_15",
+      "Icon": "synergy_15",
+      "Condition": 2,
       "Desc": "SYNERGY_4_DESC",
-      "Value": 4
+      "SynergyType": 4,
+      "Value": ""
     },
     {
       "ID": 16,
-      "SynergyID": 4,
-      "Name": "SYNERGY_4",
-      "Icon": "synergy_4",
-      "Condition": 10,
+      "SynergyID": 16,
+      "Name": "SYNERGY_16",
+      "Icon": "synergy_16",
+      "Condition": 2,
       "Desc": "SYNERGY_4_DESC",
-      "Value": 6
+      "SynergyType": 4,
+      "Value": ""
     },
     {
       "ID": 17,
-      "SynergyID": 5,
-      "Name": "SYNERGY_5",
-      "Icon": "synergy_5",
+      "SynergyID": 17,
+      "Name": "SYNERGY_17",
+      "Icon": "synergy_17",
       "Condition": 3,
       "Desc": "SYNERGY_5_DESC",
-      "Value": 30
+      "SynergyType": 2,
+      "Value": ""
     },
     {
       "ID": 18,
-      "SynergyID": 5,
-      "Name": "SYNERGY_5",
-      "Icon": "synergy_5",
-      "Condition": 5,
+      "SynergyID": 18,
+      "Name": "SYNERGY_18",
+      "Icon": "synergy_18",
+      "Condition": 3,
       "Desc": "SYNERGY_5_DESC",
-      "Value": 60
+      "SynergyType": 1,
+      "Value": ""
     },
     {
       "ID": 19,
-      "SynergyID": 5,
-      "Name": "SYNERGY_5",
-      "Icon": "synergy_5",
-      "Condition": 8,
+      "SynergyID": 19,
+      "Name": "SYNERGY_19",
+      "Icon": "synergy_19",
+      "Condition": 3,
       "Desc": "SYNERGY_5_DESC",
-      "Value": 100
+      "SynergyType": 2,
+      "Value": ""
     },
     {
       "ID": 20,
-      "SynergyID": 5,
-      "Name": "SYNERGY_5",
-      "Icon": "synergy_5",
-      "Condition": 11,
+      "SynergyID": 20,
+      "Name": "SYNERGY_20",
+      "Icon": "synergy_20",
+      "Condition": 4,
       "Desc": "SYNERGY_5_DESC",
-      "Value": 150
+      "SynergyType": 4,
+      "Value": ""
     },
     {
       "ID": 21,
-      "SynergyID": 6,
-      "Name": "SYNERGY_6",
-      "Icon": "synergy_6",
+      "SynergyID": 21,
+      "Name": "SYNERGY_21",
+      "Icon": "synergy_21",
       "Condition": 3,
       "Desc": "SYNERGY_6_DESC",
-      "Value": 15
+      "SynergyType": 5,
+      "Value": ""
     },
     {
       "ID": 22,
-      "SynergyID": 6,
-      "Name": "SYNERGY_6",
-      "Icon": "synergy_6",
-      "Condition": 5,
+      "SynergyID": 22,
+      "Name": "SYNERGY_22",
+      "Icon": "synergy_22",
+      "Condition": 4,
       "Desc": "SYNERGY_6_DESC",
-      "Value": 30
+      "SynergyType": 2,
+      "Value": ""
     },
     {
       "ID": 23,
-      "SynergyID": 6,
-      "Name": "SYNERGY_6",
-      "Icon": "synergy_6",
-      "Condition": 8,
+      "SynergyID": 23,
+      "Name": "SYNERGY_23",
+      "Icon": "synergy_23",
+      "Condition": 3,
       "Desc": "SYNERGY_6_DESC",
-      "Value": 50
+      "SynergyType": 1,
+      "Value": ""
     },
     {
       "ID": 24,
-      "SynergyID": 6,
-      "Name": "SYNERGY_6",
-      "Icon": "synergy_6",
-      "Condition": 12,
+      "SynergyID": 24,
+      "Name": "SYNERGY_24",
+      "Icon": "synergy_24",
+      "Condition": 3,
       "Desc": "SYNERGY_6_DESC",
-      "Value": 80
-    },
-    {
-      "ID": 25,
-      "SynergyID": 7,
-      "Name": "SYNERGY_7",
-      "Icon": "synergy_7",
-      "Condition": 3,
-      "Desc": "SYNERGY_7_DESC",
-      "Value": 5
-    },
-    {
-      "ID": 26,
-      "SynergyID": 7,
-      "Name": "SYNERGY_7",
-      "Icon": "synergy_7",
-      "Condition": 5,
-      "Desc": "SYNERGY_7_DESC",
-      "Value": 10
-    },
-    {
-      "ID": 27,
-      "SynergyID": 7,
-      "Name": "SYNERGY_7",
-      "Icon": "synergy_7",
-      "Condition": 7,
-      "Desc": "SYNERGY_7_DESC",
-      "Value": 15
-    },
-    {
-      "ID": 28,
-      "SynergyID": 7,
-      "Name": "SYNERGY_7",
-      "Icon": "synergy_7",
-      "Condition": 9,
-      "Desc": "SYNERGY_7_DESC",
-      "Value": 20
-    },
-    {
-      "ID": 29,
-      "SynergyID": 8,
-      "Name": "SYNERGY_8",
-      "Icon": "synergy_8",
-      "Condition": 3,
-      "Desc": "SYNERGY_8_DESC",
-      "Value": 1
-    },
-    {
-      "ID": 30,
-      "SynergyID": 8,
-      "Name": "SYNERGY_8",
-      "Icon": "synergy_8",
-      "Condition": 5,
-      "Desc": "SYNERGY_8_DESC",
-      "Value": 2
-    },
-    {
-      "ID": 31,
-      "SynergyID": 8,
-      "Name": "SYNERGY_8",
-      "Icon": "synergy_8",
-      "Condition": 8,
-      "Desc": "SYNERGY_8_DESC",
-      "Value": 3
-    },
-    {
-      "ID": 33,
-      "SynergyID": 9,
-      "Name": "SYNERGY_9",
-      "Icon": "synergy_9",
-      "Condition": 3,
-      "Desc": "SYNERGY_9_DESC",
-      "Value": 10
-    },
-    {
-      "ID": 34,
-      "SynergyID": 9,
-      "Name": "SYNERGY_9",
-      "Icon": "synergy_9",
-      "Condition": 5,
-      "Desc": "SYNERGY_9_DESC",
-      "Value": 20
-    },
-    {
-      "ID": 35,
-      "SynergyID": 9,
-      "Name": "SYNERGY_9",
-      "Icon": "synergy_9",
-      "Condition": 8,
-      "Desc": "SYNERGY_9_DESC",
-      "Value": 30
-    },
-    {
-      "ID": 37,
-      "SynergyID": 10,
-      "Name": "SYNERGY_10",
-      "Icon": "synergy_10",
-      "Condition": 3,
-      "Desc": "SYNERGY_10_DESC",
-      "Value": 20
-    },
-    {
-      "ID": 38,
-      "SynergyID": 10,
-      "Name": "SYNERGY_10",
-      "Icon": "synergy_10",
-      "Condition": 5,
-      "Desc": "SYNERGY_10_DESC",
-      "Value": 40
-    },
-    {
-      "ID": 39,
-      "SynergyID": 10,
-      "Name": "SYNERGY_10",
-      "Icon": "synergy_10",
-      "Condition": 8,
-      "Desc": "SYNERGY_10_DESC",
-      "Value": 60
-    },
-    {
-      "ID": 41,
-      "SynergyID": 11,
-      "Name": "SYNERGY_11",
-      "Icon": "synergy_11",
-      "Condition": 3,
-      "Desc": "SYNERGY_11_DESC",
-      "Value": 10
-    },
-    {
-      "ID": 42,
-      "SynergyID": 11,
-      "Name": "SYNERGY_11",
-      "Icon": "synergy_11",
-      "Condition": 5,
-      "Desc": "SYNERGY_11_DESC",
-      "Value": 20
-    },
-    {
-      "ID": 43,
-      "SynergyID": 11,
-      "Name": "SYNERGY_11",
-      "Icon": "synergy_11",
-      "Condition": 8,
-      "Desc": "SYNERGY_11_DESC",
-      "Value": 30
-    },
-    {
-      "ID": 45,
-      "SynergyID": 12,
-      "Name": "SYNERGY_12",
-      "Icon": "synergy_12",
-      "Condition": 3,
-      "Desc": "SYNERGY_12_DESC",
-      "Value": 2
-    },
-    {
-      "ID": 46,
-      "SynergyID": 12,
-      "Name": "SYNERGY_12",
-      "Icon": "synergy_12",
-      "Condition": 5,
-      "Desc": "SYNERGY_12_DESC",
-      "Value": 4
-    },
-    {
-      "ID": 47,
-      "SynergyID": 12,
-      "Name": "SYNERGY_12",
-      "Icon": "synergy_12",
-      "Condition": 8,
-      "Desc": "SYNERGY_12_DESC",
-      "Value": 6
-    },
-    {
-      "ID": 49,
-      "SynergyID": 13,
-      "Name": "SYNERGY_13",
-      "Icon": "synergy_13",
-      "Condition": 3,
-      "Desc": "SYNERGY_13_DESC",
-      "Value": 15
-    },
-    {
-      "ID": 50,
-      "SynergyID": 13,
-      "Name": "SYNERGY_13",
-      "Icon": "synergy_13",
-      "Condition": 5,
-      "Desc": "SYNERGY_13_DESC",
-      "Value": 30
-    },
-    {
-      "ID": 51,
-      "SynergyID": 13,
-      "Name": "SYNERGY_13",
-      "Icon": "synergy_13",
-      "Condition": 8,
-      "Desc": "SYNERGY_13_DESC",
-      "Value": 50
-    },
-    {
-      "ID": 53,
-      "SynergyID": 14,
-      "Name": "SYNERGY_14",
-      "Icon": "synergy_14",
-      "Condition": 3,
-      "Desc": "SYNERGY_14_DESC",
-      "Value": 50
-    },
-    {
-      "ID": 54,
-      "SynergyID": 14,
-      "Name": "SYNERGY_14",
-      "Icon": "synergy_14",
-      "Condition": 5,
-      "Desc": "SYNERGY_14_DESC",
-      "Value": 75
-    },
-    {
-      "ID": 55,
-      "SynergyID": 14,
-      "Name": "SYNERGY_14",
-      "Icon": "synergy_14",
-      "Condition": 8,
-      "Desc": "SYNERGY_14_DESC",
-      "Value": 100
+      "SynergyType": 1,
+      "Value": ""
     }
   ]
 }

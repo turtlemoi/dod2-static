@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-09T10:53:51.598Z",
+  "updatedAt": "2026-04-09T13:13:14.380Z",
   "sheets": [
     {
       "name": "Common",
@@ -40,7 +40,7 @@
     {
       "name": "Puzzle",
       "version": 87,
-      "hash": "75e82789625ade07b7f60b2967f8b6ce3b09534002b65eb3cc8c61cdbc8cf518",
+      "hash": "b3203c5135dafa2be3378c90f485af43f3576eb5400f78a02280dbcaf4be929b",
       "url": "/static/Puzzle.json"
     },
     {
@@ -57,8 +57,8 @@
     },
     {
       "name": "Synergy",
-      "version": 8,
-      "hash": "ea4d3a6aaa175495a2d17128a62747425b11fecbbd5c59029aa82c697caa9c47",
+      "version": 10,
+      "hash": "46f1004fa8006c537497c684b8295d525ebe0d6f839e109b5946e8075a22f62b",
       "url": "/static/Synergy.json"
     },
     {
