@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-08T09:03:40.898Z",
+  "updatedAt": "2026-04-09T06:10:37.813Z",
   "sheets": [
     {
       "name": "Common",
@@ -15,14 +15,14 @@
     },
     {
       "name": "CharacterLevel",
-      "version": 9,
-      "hash": "17c678f973b5dc47a5c89bf8e319c84ba2d627da42521f02e78e18b595dd3fbd",
+      "version": 10,
+      "hash": "0f52469d704ea9c0b025090e64e6273dd1b13ad8e1cfc9783180147765763b98",
       "url": "/static/CharacterLevel.json"
     },
     {
       "name": "Creature",
-      "version": 55,
-      "hash": "1913c9d4ca24a294731aab45ae047e665d768179faa9e531ac64281ab1dd13d4",
+      "version": 56,
+      "hash": "93f1984f2b5a85acc0672bfdffff532218762ced42fb4c2d826ce685e415a2f7",
       "url": "/static/Creature.json"
     },
     {
