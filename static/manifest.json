@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-09T13:13:14.380Z",
+  "updatedAt": "2026-04-10T07:45:42.427Z",
   "sheets": [
     {
       "name": "Common",
@@ -27,8 +27,8 @@
     },
     {
       "name": "FloorData",
-      "version": 56,
-      "hash": "e006abc91ad8df1e5929e61de2c8cab460275cdfab3d17c751fe667007b9e95e",
+      "version": 57,
+      "hash": "0989d6be136fbc7963b4c462d4a7d5c004d8262f2fa422b81af15b35cd808e67",
       "url": "/static/FloorData.json"
     },
     {
@@ -45,8 +45,8 @@
     },
     {
       "name": "AttackSkills",
-      "version": 428,
-      "hash": "5ab9b4e582d4524eb9e2a3cea9fc8531a15a503c495a9e6393d7a30ceb458c66",
+      "version": 429,
+      "hash": "573ecd62436b353488f2298e1f9e3ddb90be6ef47f42b5813212e4fbe8153713",
       "url": "/static/AttackSkills.json"
     },
     {
