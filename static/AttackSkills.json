@@ -4895,7 +4895,7 @@
     },
     {
       "ID": 310002,
-      "SkillName": "원형 베기",
+      "SkillName": "추가베기",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 4,
