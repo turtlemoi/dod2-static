@@ -5833,7 +5833,7 @@
       "HitFXName": null
     },
     {
-      "ID": 300012,
+      "ID": 340001,
       "SkillName": "신규 스킬 [해골 폭탄병] 획득",
       "SkillType": null,
       "SkillLevel": null,
@@ -5857,7 +5857,7 @@
       "HitFXName": null
     },
     {
-      "ID": 300013,
+      "ID": 340002,
       "SkillName": "뼈 곡사 발사",
       "SkillType": null,
       "SkillLevel": null,
@@ -5881,7 +5881,7 @@
       "HitFXName": null
     },
     {
-      "ID": 300014,
+      "ID": 340003,
       "SkillName": "신규 스킬 [짐승 골렘] 획득",
       "SkillType": null,
       "SkillLevel": null,
@@ -5905,7 +5905,7 @@
       "HitFXName": null
     },
     {
-      "ID": 300015,
+      "ID": 350001,
       "SkillName": "주먹 방사",
       "SkillType": null,
       "SkillLevel": null,
@@ -5929,7 +5929,7 @@
       "HitFXName": null
     },
     {
-      "ID": 300016,
+      "ID": 350002,
       "SkillName": "발차기 방사",
       "SkillType": null,
       "SkillLevel": null,
@@ -5953,7 +5953,7 @@
       "HitFXName": null
     },
     {
-      "ID": 300017,
+      "ID": 350003,
       "SkillName": "작은 돌맹이 폭파",
       "SkillType": null,
       "SkillLevel": null,
@@ -5977,7 +5977,7 @@
       "HitFXName": null
     },
     {
-      "ID": 300018,
+      "ID": 360001,
       "SkillName": "신규 스킬 [분신] 획득",
       "SkillType": null,
       "SkillLevel": null,
@@ -6001,7 +6001,7 @@
       "HitFXName": null
     },
     {
-      "ID": 300019,
+      "ID": 360002,
       "SkillName": "단검 베기",
       "SkillType": null,
       "SkillLevel": null,
@@ -6025,7 +6025,7 @@
       "HitFXName": null
     },
     {
-      "ID": 300020,
+      "ID": 360003,
       "SkillName": "표창 부메랑",
       "SkillType": null,
       "SkillLevel": null,
@@ -6049,7 +6049,7 @@
       "HitFXName": null
     },
     {
-      "ID": 300021,
+      "ID": 360004,
       "SkillName": "크리티컬 50퍼 증가",
       "SkillType": null,
       "SkillLevel": null,
@@ -6073,7 +6073,7 @@
       "HitFXName": null
     },
     {
-      "ID": 300022,
+      "ID": 370001,
       "SkillName": "독 누적",
       "SkillType": null,
       "SkillLevel": null,
@@ -6097,7 +6097,7 @@
       "HitFXName": null
     },
     {
-      "ID": 300023,
+      "ID": 370002,
       "SkillName": "신규 스킬 [저주의 못] 획득",
       "SkillType": null,
       "SkillLevel": null,
@@ -6121,7 +6121,7 @@
       "HitFXName": null
     },
     {
-      "ID": 300024,
+      "ID": 370003,
       "SkillName": "신규 스킬 [궁극토템] 획득",
       "SkillType": null,
       "SkillLevel": null,
