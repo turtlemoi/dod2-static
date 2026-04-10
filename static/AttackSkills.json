@@ -5612,7 +5612,7 @@
       "Value5": 0,
       "Value6": 0,
       "SoundName": "Attack_swordaura",
-      "PrefabName": "Swing_swordaura_Synergy",
+      "PrefabName": "Strike_swordaura_Synergy",
       "SubPrefabName": null,
       "HitFXName": null
     },
