@@ -78,7 +78,7 @@
       "Condition": 3,
       "Desc": "SYNERGY_2_DESC",
       "SynergyType": 6,
-      "Value": 320002
+      "Value": 2
     },
     {
       "ID": 9,
@@ -208,7 +208,7 @@
       "Condition": 3,
       "Desc": "SYNERGY_6_DESC",
       "SynergyType": 5,
-      "Value": 360004
+      "Value": 50
     },
     {
       "ID": 22,
