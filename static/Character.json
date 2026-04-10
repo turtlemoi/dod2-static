@@ -9,7 +9,7 @@
       "Weight": 99,
       "Speed": 7,
       "Damage": 10,
-      "HP": 1000,
+      "HP": 5000,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
