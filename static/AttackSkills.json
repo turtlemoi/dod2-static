@@ -5183,7 +5183,7 @@
       "Value5": 0.5,
       "Value6": 0.1,
       "SoundName": "Attack_punch",
-      "PrefabName": "BurstProjectile_punch",
+      "PrefabName": "BurstProjectile_punch_synergy",
       "SubPrefabName": "",
       "HitFXName": "FX_Hit_Impact"
     },
@@ -5204,7 +5204,7 @@
       "Value5": 0.5,
       "Value6": 0.1,
       "SoundName": "Attack_punch",
-      "PrefabName": "BurstProjectile_TripleFangKick",
+      "PrefabName": "BurstProjectile_TripleFangKick_synergy",
       "SubPrefabName": null,
       "HitFXName": null
     },
