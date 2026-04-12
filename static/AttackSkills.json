@@ -1573,7 +1573,7 @@
       "SoundName": "Attack_electric",
       "PrefabName": "ChainLightning",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "FX_Hit_Lightning"
     },
     {
       "ID": 130032,
@@ -1594,7 +1594,7 @@
       "SoundName": "Attack_electric",
       "PrefabName": "ChainLightning",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "FX_Hit_Lightning"
     },
     {
       "ID": 130033,
@@ -1615,7 +1615,7 @@
       "SoundName": "Attack_electric",
       "PrefabName": "ChainLightning",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "FX_Hit_Lightning"
     },
     {
       "ID": 130041,
@@ -1762,7 +1762,7 @@
       "SoundName": "Attack_electric",
       "PrefabName": "Wave_electric",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "FX_Hit_Lightning"
     },
     {
       "ID": 130062,
@@ -1783,7 +1783,7 @@
       "SoundName": "Attack_electric",
       "PrefabName": "Wave_electric",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "FX_Hit_Lightning"
     },
     {
       "ID": 130063,
@@ -1804,7 +1804,7 @@
       "SoundName": "Attack_electric",
       "PrefabName": "Wave_electric",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "FX_Hit_Lightning"
     },
     {
       "ID": 130071,
@@ -5142,8 +5142,8 @@
       "Value6": 3,
       "SoundName": "Attack_spear_bone",
       "PrefabName": "Mortar_spear_bone",
-      "SubPrefabName": null,
-      "HitFXName": null
+      "SubPrefabName": "",
+      "HitFXName": "FX_Hit_bone"
     },
     {
       "ID": 340003,
