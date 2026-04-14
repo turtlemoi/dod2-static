@@ -2437,7 +2437,7 @@
       "HitFXName": ""
     },
     {
-      "ID": 140081,
+      "ID": 140071,
       "SkillName": "군단무덤",
       "SkillType": 6,
       "SkillLevel": 1,
@@ -2458,7 +2458,7 @@
       "HitFXName": null
     },
     {
-      "ID": 140082,
+      "ID": 140072,
       "SkillName": "군단무덤",
       "SkillType": 6,
       "SkillLevel": 2,
@@ -2479,7 +2479,7 @@
       "HitFXName": null
     },
     {
-      "ID": 140083,
+      "ID": 140073,
       "SkillName": "군단무덤",
       "SkillType": 6,
       "SkillLevel": 3,
@@ -2500,7 +2500,7 @@
       "HitFXName": null
     },
     {
-      "ID": 140091,
+      "ID": 140081,
       "SkillName": "바위 골렘 소환",
       "SkillType": 6,
       "SkillLevel": 1,
@@ -2521,7 +2521,7 @@
       "HitFXName": null
     },
     {
-      "ID": 140092,
+      "ID": 140082,
       "SkillName": "바위 골렘 소환",
       "SkillType": 6,
       "SkillLevel": 2,
@@ -2542,7 +2542,7 @@
       "HitFXName": null
     },
     {
-      "ID": 140093,
+      "ID": 140083,
       "SkillName": "바위 골렘 소환",
       "SkillType": 6,
       "SkillLevel": 3,
@@ -2563,7 +2563,7 @@
       "HitFXName": null
     },
     {
-      "ID": 140071,
+      "ID": 140091,
       "SkillName": "시체 골렘",
       "SkillType": 1,
       "SkillLevel": 1,
@@ -2584,7 +2584,7 @@
       "HitFXName": "FX_Hit_Impact"
     },
     {
-      "ID": 140072,
+      "ID": 140092,
       "SkillName": "시체 골렘",
       "SkillType": 1,
       "SkillLevel": 2,
@@ -2605,7 +2605,7 @@
       "HitFXName": "FX_Hit_Impact"
     },
     {
-      "ID": 140073,
+      "ID": 140093,
       "SkillName": "시체 골렘",
       "SkillType": 1,
       "SkillLevel": 3,
