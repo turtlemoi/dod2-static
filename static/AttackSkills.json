@@ -5105,7 +5105,7 @@
     },
     {
       "ID": 340001,
-      "SkillName": "신규 스킬 [해골 폭탄병] 획득",
+      "SkillName": "신규 스킬 [리치킹] 획득",
       "SkillType": null,
       "SkillLevel": null,
       "CoolDown": null,
@@ -6131,6 +6131,27 @@
       "PrefabName": "Strike_assassination_Small",
       "SubPrefabName": "",
       "HitFXName": ""
+    },
+    {
+      "ID": 990121,
+      "SkillName": "리치",
+      "SkillType": 13,
+      "SkillLevel": 1,
+      "CoolDown": 15,
+      "SkillValue": 195,
+      "SkillRange": 10,
+      "Pierce": 9999,
+      "KnockbackForce": 1,
+      "Value1": 8,
+      "Value2": 0.2,
+      "Value3": 1,
+      "Value4": 0,
+      "Value5": "",
+      "Value6": "",
+      "SoundName": "",
+      "PrefabName": "FieldZone_Fear",
+      "SubPrefabName": "",
+      "HitFXName": "FX_Hit_Dark"
     }
   ]
 }

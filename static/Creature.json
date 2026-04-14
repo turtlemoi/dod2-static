@@ -597,6 +597,19 @@
       "Weight": 0,
       "BehaviorType": 0,
       "SkillID": "990113"
+    },
+    {
+      "ID": 9014,
+      "Type": 3,
+      "PrefabName": "114_Lich",
+      "DeadFX_Name": "FX_giantskeleton_dead",
+      "DeadSound_Name": "Death_Boss_Ripper",
+      "Speed": 1,
+      "Damage": 1,
+      "HP": 1,
+      "Weight": 0,
+      "BehaviorType": 0,
+      "SkillID": 990121
     }
   ]
 }
