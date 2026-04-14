@@ -178,7 +178,7 @@
       "Condition": 3,
       "Desc": "SYNERGY_5_DESC",
       "SynergyType": 1,
-      "Value": 360001
+      "Value": 360004
     },
     {
       "ID": 19,
@@ -188,7 +188,7 @@
       "Condition": 3,
       "Desc": "SYNERGY_5_DESC",
       "SynergyType": 2,
-      "Value": 360002
+      "Value": 360001
     },
     {
       "ID": 20,
@@ -198,7 +198,7 @@
       "Condition": 4,
       "Desc": "SYNERGY_5_DESC",
       "SynergyType": 4,
-      "Value": 360003
+      "Value": 360002
     },
     {
       "ID": 21,

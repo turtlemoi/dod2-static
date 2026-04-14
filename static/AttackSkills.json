@@ -5230,7 +5230,7 @@
       "HitFXName": null
     },
     {
-      "ID": 360001,
+      "ID": 360004,
       "SkillName": "신규 스킬 [분신] 획득",
       "SkillType": null,
       "SkillLevel": null,
@@ -5251,7 +5251,7 @@
       "HitFXName": null
     },
     {
-      "ID": 360002,
+      "ID": 360001,
       "SkillName": "단검 베기",
       "SkillType": 1,
       "SkillLevel": 1,
@@ -5272,7 +5272,7 @@
       "HitFXName": "FX_Hit_shot_Impact"
     },
     {
-      "ID": 360003,
+      "ID": 360002,
       "SkillName": "냉기 표창",
       "SkillType": 15,
       "SkillLevel": 1,
@@ -5293,7 +5293,7 @@
       "HitFXName": null
     },
     {
-      "ID": 360004,
+      "ID": 360003,
       "SkillName": "크리티컬 50퍼 증가",
       "SkillType": "",
       "SkillLevel": "",

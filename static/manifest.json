@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-14T04:46:40.201Z",
+  "updatedAt": "2026-04-14T06:16:57.275Z",
   "sheets": [
     {
       "name": "Common",
@@ -45,8 +45,8 @@
     },
     {
       "name": "AttackSkills",
-      "version": 467,
-      "hash": "cc429edad41c7ce93ffa82d60edab83ad9a1ecd56fc025965c60093a205a33ef",
+      "version": 468,
+      "hash": "1c785d4e1f62d6ba601c7d0c3b9995e9676edada684b1d569e0b6f92635b93cc",
       "url": "/static/AttackSkills.json"
     },
     {
@@ -57,8 +57,8 @@
     },
     {
       "name": "Synergy",
-      "version": 15,
-      "hash": "a2a52efed362546d28a567e76ccf611e5851a83c4c62e910b0e1b93b71067d25",
+      "version": 16,
+      "hash": "4b2f11a7d1a2dbd1b32280252072419f74d407455410a2e60b1f5875b3d5af6c",
       "url": "/static/Synergy.json"
     },
     {
