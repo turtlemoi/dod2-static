@@ -5070,7 +5070,7 @@
       "SkillValue": 200,
       "SkillRange": 20,
       "Pierce": 9999,
-      "KnockbackForce": 0.5,
+      "KnockbackForce": 0,
       "Value1": 5,
       "Value2": 0.5,
       "Value3": 1,
