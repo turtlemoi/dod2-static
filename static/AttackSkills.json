@@ -5067,7 +5067,7 @@
       "SkillType": 13,
       "SkillLevel": 1,
       "CoolDown": 8.7,
-      "SkillValue": 200,
+      "SkillValue": 20,
       "SkillRange": 20,
       "Pierce": 9999,
       "KnockbackForce": 0,
