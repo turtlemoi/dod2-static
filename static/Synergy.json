@@ -217,7 +217,7 @@
       "Icon": "synergy_22",
       "Condition": 4,
       "Desc": "SYNERGY_6_DESC",
-      "SynergyType": 2,
+      "SynergyType": 3,
       "Value": 370001
     },
     {
