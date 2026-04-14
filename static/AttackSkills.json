@@ -5216,7 +5216,7 @@
       "CoolDown": 999,
       "SkillValue": 224,
       "SkillRange": 999,
-      "Pierce": 0,
+      "Pierce": 9999,
       "KnockbackForce": 5,
       "Value1": 15,
       "Value2": 1,
