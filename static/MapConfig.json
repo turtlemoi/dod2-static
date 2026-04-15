@@ -1,76 +1,76 @@
 {
   "data": [
     {
-      "key": "chapter_1_width",
-      "value": 6
+      "Key": "chapter_1_width",
+      "Value": 6
     },
     {
-      "key": "chapter_1_height",
-      "value": 20
+      "Key": "chapter_1_height",
+      "Value": 20
     },
     {
-      "key": "chapter_1_campfireY",
-      "value": "11,19"
+      "Key": "chapter_1_campfireY",
+      "Value": "11,19"
     },
     {
-      "key": "chapter_1_rate",
-      "value": "0.6:0.1:0.2:0.1"
+      "Key": "chapter_1_rate",
+      "Value": "0.6:0.1:0.2:0.1"
     },
     {
-      "key": "chapter_2_width",
-      "value": 6
+      "Key": "chapter_2_width",
+      "Value": 6
     },
     {
-      "key": "chapter_2_height",
-      "value": 20
+      "Key": "chapter_2_height",
+      "Value": 20
     },
     {
-      "key": "chapter_2_campfireY",
-      "value": "11,19"
+      "Key": "chapter_2_campfireY",
+      "Value": "11,19"
     },
     {
-      "key": "chapter_2_rate",
-      "value": "0.6:0.1:0.2:0.1"
+      "Key": "chapter_2_rate",
+      "Value": "0.6:0.1:0.2:0.1"
     },
     {
-      "key": "chapter_3_width",
-      "value": 6
+      "Key": "chapter_3_width",
+      "Value": 6
     },
     {
-      "key": "chapter_3_height",
-      "value": 20
+      "Key": "chapter_3_height",
+      "Value": 20
     },
     {
-      "key": "chapter_3_campfireY",
-      "value": "11,19"
+      "Key": "chapter_3_campfireY",
+      "Value": "11,19"
     },
     {
-      "key": "chapter_3_rate",
-      "value": "0.6:0.1:0.2:0.1"
+      "Key": "chapter_3_rate",
+      "Value": "0.6:0.1:0.2:0.1"
     },
     {
-      "key": "chapter_4_width",
-      "value": 1
+      "Key": "chapter_4_width",
+      "Value": 1
     },
     {
-      "key": "chapter_4_height",
-      "value": 2
+      "Key": "chapter_4_height",
+      "Value": 2
     },
     {
-      "key": "chapter_4_campfireY",
-      "value": 1
+      "Key": "chapter_4_campfireY",
+      "Value": 1
     },
     {
-      "key": "chapter_4_rate",
-      "value": "0:0:0:1"
+      "Key": "chapter_4_rate",
+      "Value": "0:0:0:1"
     },
     {
-      "key": "normal_chapters",
-      "value": 3
+      "Key": "normal_chapters",
+      "Value": 3
     },
     {
-      "key": "total_chapters",
-      "value": 4
+      "Key": "total_chapters",
+      "Value": 4
     }
   ]
 }
