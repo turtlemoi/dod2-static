@@ -11,7 +11,7 @@
     {
       "ID": 2,
       "Type": 0,
-      "Chapter": 1,
+      "Chapter": 2,
       "Section": 0,
       "EventKey": "blessing_B",
       "Value1": ""
@@ -19,7 +19,7 @@
     {
       "ID": 3,
       "Type": 0,
-      "Chapter": 1,
+      "Chapter": 3,
       "Section": 0,
       "EventKey": "blessing_C",
       "Value1": null
@@ -46,6 +46,22 @@
       "Chapter": 1,
       "Section": "15,20",
       "EventKey": "event_C",
+      "Value1": null
+    },
+    {
+      "ID": 7,
+      "Type": 1,
+      "Chapter": 2,
+      "Section": "1,20",
+      "EventKey": "event_A",
+      "Value1": null
+    },
+    {
+      "ID": 8,
+      "Type": 1,
+      "Chapter": 3,
+      "Section": "1,20",
+      "EventKey": "event_A",
       "Value1": null
     }
   ]

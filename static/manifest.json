@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-15T07:14:25.757Z",
+  "updatedAt": "2026-04-15T07:21:11.801Z",
   "sheets": [
     {
       "name": "Common",
@@ -39,14 +39,14 @@
     },
     {
       "name": "BattleData",
-      "version": 1,
-      "hash": "98c153e23dc0f4f1f13624e9e9e7f6a07c1b10d8e38e8ea270a7500646172f1b",
+      "version": 2,
+      "hash": "7e1f065ae0e874f794b0b43a319ab7c4f72fc310bd6b9cd29b3e57a34e94cd25",
       "url": "/static/BattleData.json"
     },
     {
       "name": "EventData",
-      "version": 1,
-      "hash": "4edd283f53ee7ef8448994427b64c0a8927862bfef1a6b4b0623e65095e4eadf",
+      "version": 2,
+      "hash": "20788f00c2360bdde55a40ff04cff53cb3e35e885b54bd13edf5942a2c64e49a",
       "url": "/static/EventData.json"
     },
     {
