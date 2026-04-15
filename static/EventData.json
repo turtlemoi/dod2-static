@@ -28,7 +28,7 @@
       "ID": 4,
       "Type": 1,
       "Chapter": 1,
-      "Section": "1,11",
+      "Section": "1,7",
       "EventKey": "event_A",
       "Value1": null
     },
@@ -36,7 +36,7 @@
       "ID": 5,
       "Type": 1,
       "Chapter": 1,
-      "Section": 0,
+      "Section": "8,14",
       "EventKey": "event_B",
       "Value1": null
     },
@@ -44,7 +44,7 @@
       "ID": 6,
       "Type": 1,
       "Chapter": 1,
-      "Section": "",
+      "Section": "15,20",
       "EventKey": "event_C",
       "Value1": null
     }
