@@ -5238,7 +5238,7 @@
       "SkillValue": 681,
       "SkillRange": 30,
       "Pierce": 0,
-      "KnockbackForce": 1,
+      "KnockbackForce": 5,
       "Value1": 2,
       "Value2": 2,
       "Value3": 1,
