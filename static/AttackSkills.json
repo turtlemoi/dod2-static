@@ -4999,7 +4999,7 @@
       "HitFXName": null
     },
     {
-      "ID": 320002,
+      "ID": 320003,
       "SkillName": "신규 스킬 [자동석궁] 획득",
       "SkillType": 6,
       "SkillLevel": 1,
@@ -5020,7 +5020,7 @@
       "HitFXName": null
     },
     {
-      "ID": 320002,
+      "ID": 320004,
       "SkillName": "투사체 2개 증가",
       "SkillType": "",
       "SkillLevel": "",
