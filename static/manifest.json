@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-15T06:56:32.752Z",
+  "updatedAt": "2026-04-15T07:02:12.330Z",
   "sheets": [
     {
       "name": "Common",
@@ -40,8 +40,14 @@
     {
       "name": "BattleData",
       "version": 1,
-      "hash": "d3b265e8a71e47e37e009aaf2ae5a70f69dd919b75cfd41b463d5f25bbed9e70",
+      "hash": "98c153e23dc0f4f1f13624e9e9e7f6a07c1b10d8e38e8ea270a7500646172f1b",
       "url": "/static/BattleData.json"
+    },
+    {
+      "name": "EventData",
+      "version": 1,
+      "hash": "e71df76dfc8ddc4ae111cac006a0b4eb6a4f7a8ac6efffcdfe356d862e153db6",
+      "url": "/static/EventData.json"
     },
     {
       "name": "PuzzleShape",
@@ -57,8 +63,8 @@
     },
     {
       "name": "AttackSkills",
-      "version": 492,
-      "hash": "efe98b164360e2679c2177fd3f0cb8e6b33653f50064c81788d88c16155ca817",
+      "version": 493,
+      "hash": "d24b79e7bb75fe2fb17feae8630352ddc57fb3457dc692fe638f720a681d559d",
       "url": "/static/AttackSkills.json"
     },
     {

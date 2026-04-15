@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "ID": 1,
+      "Type": "",
+      "Chapter": 1,
+      "Section": "1,11",
+      "EventKey": "A",
+      "Value1": "카드 ID들"
+    },
+    {
+      "ID": 2,
+      "Type": "",
+      "Chapter": 1,
+      "Section": "1,11",
+      "EventKey": "B",
+      "Value1": "시너지 ID들"
+    },
+    {
+      "ID": 3,
+      "Type": "",
+      "Chapter": 1,
+      "Section": "5,15",
+      "EventKey": "C",
+      "Value1": null
+    },
+    {
+      "ID": 4,
+      "Type": "",
+      "Chapter": 1,
+      "Section": "5,15",
+      "EventKey": "D",
+      "Value1": null
+    },
+    {
+      "ID": 5,
+      "Type": "",
+      "Chapter": 1,
+      "Section": "11,20",
+      "EventKey": "E",
+      "Value1": null
+    },
+    {
+      "ID": 6,
+      "Type": null,
+      "Chapter": null,
+      "Section": null,
+      "EventKey": null,
+      "Value1": null
+    }
+  ]
+}

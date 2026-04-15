@@ -4282,7 +4282,7 @@
       "SoundName": "Attack_thorn_poison",
       "PrefabName": "Projectile_bug",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "FX_Hit_Dark"
     },
     {
       "ID": 170062,
@@ -4303,7 +4303,7 @@
       "SoundName": "Attack_thorn_poison",
       "PrefabName": "Projectile_bug",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "FX_Hit_Dark"
     },
     {
       "ID": 170063,
@@ -4324,7 +4324,7 @@
       "SoundName": "Attack_thorn_poison",
       "PrefabName": "Projectile_bug",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "FX_Hit_Dark"
     },
     {
       "ID": 170071,
@@ -4534,7 +4534,7 @@
       "SoundName": "",
       "PrefabName": "FieldZone_Voodoodoll",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "FX_Hit_Dark"
     },
     {
       "ID": 170102,
@@ -4555,7 +4555,7 @@
       "SoundName": "",
       "PrefabName": "FieldZone_Voodoodoll",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "FX_Hit_Dark"
     },
     {
       "ID": 170103,
@@ -4576,7 +4576,7 @@
       "SoundName": "",
       "PrefabName": "FieldZone_Voodoodoll",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "FX_Hit_Dark"
     },
     {
       "ID": 230011,
@@ -5346,7 +5346,7 @@
       "KnockbackForce": 7,
       "Value1": 6,
       "Value2": 0.3,
-      "Value3": 1,
+      "Value3": 0.5,
       "Value4": 5,
       "Value5": "",
       "Value6": "",

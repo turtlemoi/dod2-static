@@ -2,8 +2,8 @@
   "data": [
     {
       "ID": 1,
-      "Chapter": 1,
       "Type": 0,
+      "Chapter": 1,
       "Section": "1,11",
       "Wave1": "111:8",
       "Duration1": 6,
@@ -18,8 +18,8 @@
     },
     {
       "ID": 2,
-      "Chapter": 1,
       "Type": 0,
+      "Chapter": 1,
       "Section": "1,11",
       "Wave1": "111:6,112:4",
       "Duration1": 6,
@@ -34,8 +34,8 @@
     },
     {
       "ID": 3,
-      "Chapter": 1,
       "Type": 0,
+      "Chapter": 1,
       "Section": "1,11",
       "Wave1": "111:8",
       "Duration1": 6,
@@ -50,8 +50,8 @@
     },
     {
       "ID": 4,
-      "Chapter": 1,
       "Type": 0,
+      "Chapter": 1,
       "Section": "1,11",
       "Wave1": "111:10",
       "Duration1": 4,
@@ -66,8 +66,8 @@
     },
     {
       "ID": 5,
-      "Chapter": 1,
       "Type": 0,
+      "Chapter": 1,
       "Section": "1,11",
       "Wave1": "111:8,112:8",
       "Duration1": 6,
@@ -82,8 +82,8 @@
     },
     {
       "ID": 6,
-      "Chapter": 1,
       "Type": 0,
+      "Chapter": 1,
       "Section": "1,11",
       "Wave1": "111:12",
       "Duration1": 3,
@@ -98,8 +98,8 @@
     },
     {
       "ID": 7,
-      "Chapter": 1,
       "Type": 0,
+      "Chapter": 1,
       "Section": "1,11",
       "Wave1": "111:20",
       "Duration1": 6,
@@ -114,8 +114,8 @@
     },
     {
       "ID": 8,
-      "Chapter": 1,
       "Type": 0,
+      "Chapter": 1,
       "Section": "1,11",
       "Wave1": "111:15,112:7",
       "Duration1": 6,
@@ -130,8 +130,8 @@
     },
     {
       "ID": 9,
-      "Chapter": 1,
       "Type": 0,
+      "Chapter": 1,
       "Section": "1,11",
       "Wave1": "111:16,113:8",
       "Duration1": 6,
@@ -146,8 +146,8 @@
     },
     {
       "ID": 10,
-      "Chapter": 1,
       "Type": 0,
+      "Chapter": 1,
       "Section": "12,20",
       "Wave1": "121:14",
       "Duration1": 6,
@@ -162,8 +162,8 @@
     },
     {
       "ID": 11,
-      "Chapter": 1,
       "Type": 0,
+      "Chapter": 1,
       "Section": "12,20",
       "Wave1": "121:20,122:10",
       "Duration1": 6,
@@ -178,8 +178,8 @@
     },
     {
       "ID": 12,
-      "Chapter": 1,
       "Type": 0,
+      "Chapter": 1,
       "Section": "12,20",
       "Wave1": "121:20",
       "Duration1": 3,
@@ -194,8 +194,8 @@
     },
     {
       "ID": 13,
-      "Chapter": 1,
       "Type": 0,
+      "Chapter": 1,
       "Section": "12,20",
       "Wave1": "151:10",
       "Duration1": 3,
@@ -210,8 +210,8 @@
     },
     {
       "ID": 14,
-      "Chapter": 1,
       "Type": 0,
+      "Chapter": 1,
       "Section": "12,20",
       "Wave1": "121:15,151:5",
       "Duration1": 4,
@@ -226,8 +226,8 @@
     },
     {
       "ID": 15,
-      "Chapter": 1,
       "Type": 0,
+      "Chapter": 1,
       "Section": "12,20",
       "Wave1": "122:25",
       "Duration1": 6,
@@ -242,8 +242,8 @@
     },
     {
       "ID": 16,
-      "Chapter": 1,
       "Type": 0,
+      "Chapter": 1,
       "Section": "12,20",
       "Wave1": "121:20,123:10",
       "Duration1": 5,
@@ -258,8 +258,8 @@
     },
     {
       "ID": 17,
-      "Chapter": 1,
       "Type": 0,
+      "Chapter": 1,
       "Section": "12,20",
       "Wave1": "121:22",
       "Duration1": 3,
@@ -274,8 +274,8 @@
     },
     {
       "ID": 18,
-      "Chapter": 1,
       "Type": 0,
+      "Chapter": 1,
       "Section": "12,20",
       "Wave1": "122:60",
       "Duration1": 4,
@@ -290,8 +290,8 @@
     },
     {
       "ID": 19,
-      "Chapter": 1,
       "Type": 0,
+      "Chapter": 1,
       "Section": "12,20",
       "Wave1": "121:22",
       "Duration1": 6,
@@ -306,8 +306,8 @@
     },
     {
       "ID": 20,
-      "Chapter": 1,
       "Type": 0,
+      "Chapter": 1,
       "Section": "12,20",
       "Wave1": "123:10",
       "Duration1": 6,
@@ -322,8 +322,8 @@
     },
     {
       "ID": 21,
-      "Chapter": 1,
       "Type": "1",
+      "Chapter": 1,
       "Section": "1,7",
       "Wave1": "131:50",
       "Duration1": 10,
@@ -338,8 +338,8 @@
     },
     {
       "ID": 22,
-      "Chapter": 1,
       "Type": "1",
+      "Chapter": 1,
       "Section": "1,7",
       "Wave1": "131:30",
       "Duration1": 10,
@@ -354,8 +354,8 @@
     },
     {
       "ID": 23,
-      "Chapter": 1,
       "Type": "1",
+      "Chapter": 1,
       "Section": "1,7",
       "Wave1": "131:28",
       "Duration1": 8,
@@ -370,8 +370,8 @@
     },
     {
       "ID": 24,
-      "Chapter": 1,
       "Type": "1",
+      "Chapter": 1,
       "Section": "8,14",
       "Wave1": "133:12,161:20",
       "Duration1": 8,
@@ -386,8 +386,8 @@
     },
     {
       "ID": 25,
-      "Chapter": 1,
       "Type": "1",
+      "Chapter": 1,
       "Section": "8,14",
       "Wave1": "131:30,132:10",
       "Duration1": 8,
@@ -402,8 +402,8 @@
     },
     {
       "ID": 26,
-      "Chapter": 1,
       "Type": "1",
+      "Chapter": 1,
       "Section": "8,14",
       "Wave1": "132:30",
       "Duration1": 8,
@@ -418,8 +418,8 @@
     },
     {
       "ID": 27,
-      "Chapter": 1,
       "Type": "1",
+      "Chapter": 1,
       "Section": "15,20",
       "Wave1": "131:30",
       "Duration1": 6,
@@ -434,8 +434,8 @@
     },
     {
       "ID": 28,
-      "Chapter": 1,
       "Type": "1",
+      "Chapter": 1,
       "Section": "15,20",
       "Wave1": "132:60",
       "Duration1": 10,
@@ -450,8 +450,8 @@
     },
     {
       "ID": 29,
-      "Chapter": 1,
       "Type": "1",
+      "Chapter": 1,
       "Section": "15,20",
       "Wave1": "133:60",
       "Duration1": 10,
@@ -466,8 +466,8 @@
     },
     {
       "ID": 30,
-      "Chapter": 1,
       "Type": "2",
+      "Chapter": 1,
       "Section": "20",
       "Wave1": "1001:1",
       "Duration1": 1,
@@ -482,8 +482,8 @@
     },
     {
       "ID": 31,
-      "Chapter": 1,
       "Type": "2",
+      "Chapter": 1,
       "Section": "20",
       "Wave1": "1002:1",
       "Duration1": 1,
@@ -498,8 +498,8 @@
     },
     {
       "ID": 32,
-      "Chapter": "2",
       "Type": 0,
+      "Chapter": "2",
       "Section": "1,20",
       "Wave1": "141:25,151:10,161:10",
       "Duration1": 6,
@@ -514,8 +514,8 @@
     },
     {
       "ID": 33,
-      "Chapter": "2",
       "Type": "1",
+      "Chapter": "2",
       "Section": "1,20",
       "Wave1": "141:44",
       "Duration1": 2,
@@ -530,8 +530,8 @@
     },
     {
       "ID": 34,
-      "Chapter": "2",
       "Type": "2",
+      "Chapter": "2",
       "Section": "20",
       "Wave1": "1003:1",
       "Duration1": 1,
@@ -546,8 +546,8 @@
     },
     {
       "ID": 35,
-      "Chapter": "2",
       "Type": "2",
+      "Chapter": "2",
       "Section": "20",
       "Wave1": "1004:1",
       "Duration1": 1,
@@ -562,8 +562,8 @@
     },
     {
       "ID": 36,
-      "Chapter": "3",
       "Type": 0,
+      "Chapter": "3",
       "Section": "1,20",
       "Wave1": "151:15",
       "Duration1": 6,
@@ -578,8 +578,8 @@
     },
     {
       "ID": 37,
-      "Chapter": "3",
       "Type": "1",
+      "Chapter": "3",
       "Section": "1,20",
       "Wave1": "143:20,151:15",
       "Duration1": 6,
@@ -594,8 +594,8 @@
     },
     {
       "ID": 38,
-      "Chapter": "3",
       "Type": "2",
+      "Chapter": "3",
       "Section": "20",
       "Wave1": "1003:1",
       "Duration1": 1,
@@ -610,8 +610,8 @@
     },
     {
       "ID": 39,
-      "Chapter": "3",
       "Type": "2",
+      "Chapter": "3",
       "Section": "20",
       "Wave1": "1004:1",
       "Duration1": 1,
@@ -626,8 +626,8 @@
     },
     {
       "ID": 36,
-      "Chapter": "4",
       "Type": 0,
+      "Chapter": "4",
       "Section": "1,20",
       "Wave1": "142:90",
       "Duration1": 10,
@@ -642,8 +642,8 @@
     },
     {
       "ID": 37,
-      "Chapter": "4",
       "Type": "1",
+      "Chapter": "4",
       "Section": "1,20",
       "Wave1": "142:35,151:15",
       "Duration1": 7,
@@ -658,8 +658,8 @@
     },
     {
       "ID": 38,
-      "Chapter": "4",
       "Type": "3",
+      "Chapter": "4",
       "Section": "20",
       "Wave1": "1005:1",
       "Duration1": 1,
