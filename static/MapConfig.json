@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "key": "chapter_1_width",
+      "value": 6
+    },
+    {
+      "key": "chapter_1_height",
+      "value": 20
+    },
+    {
+      "key": "chapter_1_campfireY",
+      "value": "11,19"
+    },
+    {
+      "key": "chapter_1_rate",
+      "value": "0.6:0.1:0.2:0.1"
+    },
+    {
+      "key": "chapter_2_width",
+      "value": 6
+    },
+    {
+      "key": "chapter_2_height",
+      "value": 20
+    },
+    {
+      "key": "chapter_2_campfireY",
+      "value": "11,19"
+    },
+    {
+      "key": "chapter_2_rate",
+      "value": "0.6:0.1:0.2:0.1"
+    },
+    {
+      "key": "chapter_3_width",
+      "value": 6
+    },
+    {
+      "key": "chapter_3_height",
+      "value": 20
+    },
+    {
+      "key": "chapter_3_campfireY",
+      "value": "11,19"
+    },
+    {
+      "key": "chapter_3_rate",
+      "value": "0.6:0.1:0.2:0.1"
+    },
+    {
+      "key": "chapter_4_width",
+      "value": 1
+    },
+    {
+      "key": "chapter_4_height",
+      "value": 2
+    },
+    {
+      "key": "chapter_4_campfireY",
+      "value": 1
+    },
+    {
+      "key": "chapter_4_rate",
+      "value": "0:0:0:1"
+    }
+  ]
+}

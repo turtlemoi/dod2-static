@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-14T13:58:40.889Z",
+  "updatedAt": "2026-04-15T06:23:52.910Z",
   "sheets": [
     {
       "name": "Common",
@@ -22,7 +22,7 @@
     {
       "name": "Creature",
       "version": 57,
-      "hash": "68b2f23fcbd15508b8ec07d86f525f1b7368cf33baeb85299870d0f5a9826194",
+      "hash": "4c38728434c1c86a09fe6380b1660abc81f8c5735767ba06c51afc2b205d162d",
       "url": "/static/Creature.json"
     },
     {
@@ -30,6 +30,18 @@
       "version": 60,
       "hash": "74166770c62374662d05beb686d5a41c1113e278998f2e22fc9ec31facde26ec",
       "url": "/static/FloorData.json"
+    },
+    {
+      "name": "MapConfig",
+      "version": 1,
+      "hash": "50f44372bb337fb5b30173d4aa1268a31ab2d65f9e5bbdc432e91d1430ae70dc",
+      "url": "/static/MapConfig.json"
+    },
+    {
+      "name": "FloorDataV2",
+      "version": 1,
+      "hash": "ee7e2dac6028835fb44d2bbb6f8cc56f201ac6228f096a9c67cc0f9b1e162b60",
+      "url": "/static/FloorDataV2.json"
     },
     {
       "name": "PuzzleShape",
@@ -45,8 +57,8 @@
     },
     {
       "name": "AttackSkills",
-      "version": 487,
-      "hash": "4f83829d7fc6a103c9403f6d52052308ac0221065134062ee79676973da08a9a",
+      "version": 489,
+      "hash": "7e7bf620e971d761570acd40936f5012aad2ab965d88d5713de5b3a914a99863",
       "url": "/static/AttackSkills.json"
     },
     {
