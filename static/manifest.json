@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-15T06:38:27.434Z",
+  "updatedAt": "2026-04-15T06:56:32.752Z",
   "sheets": [
     {
       "name": "Common",
@@ -38,10 +38,10 @@
       "url": "/static/MapConfig.json"
     },
     {
-      "name": "FloorDataV2",
+      "name": "BattleData",
       "version": 1,
-      "hash": "ee7e2dac6028835fb44d2bbb6f8cc56f201ac6228f096a9c67cc0f9b1e162b60",
-      "url": "/static/FloorDataV2.json"
+      "hash": "d3b265e8a71e47e37e009aaf2ae5a70f69dd919b75cfd41b463d5f25bbed9e70",
+      "url": "/static/BattleData.json"
     },
     {
       "name": "PuzzleShape",
@@ -57,8 +57,8 @@
     },
     {
       "name": "AttackSkills",
-      "version": 491,
-      "hash": "3ed3fc18810017fc53cd9f011ec888af261d57d700df48b955528f2fa8e7ea43",
+      "version": 492,
+      "hash": "efe98b164360e2679c2177fd3f0cb8e6b33653f50064c81788d88c16155ca817",
       "url": "/static/AttackSkills.json"
     },
     {
