@@ -623,6 +623,19 @@
       "Weight": 999,
       "BehaviorType": 3,
       "SkillID": 990151
+    },
+    {
+      "ID": 9014,
+      "Type": 3,
+      "PrefabName": "116_small_zombiegolem",
+      "DeadFX_Name": "",
+      "DeadSound_Name": "",
+      "Speed": 8,
+      "Damage": 1,
+      "HP": 1,
+      "Weight": 5,
+      "BehaviorType": 0,
+      "SkillID": 990161
     }
   ]
 }

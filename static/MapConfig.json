@@ -63,6 +63,14 @@
     {
       "key": "chapter_4_rate",
       "value": "0:0:0:1"
+    },
+    {
+      "key": "normal_chapters",
+      "value": 3
+    },
+    {
+      "key": "total_chapters",
+      "value": 4
     }
   ]
 }
