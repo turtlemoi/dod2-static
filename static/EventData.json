@@ -2,50 +2,50 @@
   "data": [
     {
       "ID": 1,
-      "Type": "",
+      "Type": 0,
       "Chapter": 1,
-      "Section": "1,11",
-      "EventKey": "A",
-      "Value1": "카드 ID들"
+      "Section": 0,
+      "EventKey": "blessing_A",
+      "Value1": ""
     },
     {
       "ID": 2,
-      "Type": "",
+      "Type": 0,
       "Chapter": 1,
-      "Section": "1,11",
-      "EventKey": "B",
-      "Value1": "시너지 ID들"
+      "Section": 0,
+      "EventKey": "blessing_B",
+      "Value1": ""
     },
     {
       "ID": 3,
-      "Type": "",
+      "Type": 0,
       "Chapter": 1,
-      "Section": "5,15",
-      "EventKey": "C",
+      "Section": 0,
+      "EventKey": "blessing_C",
       "Value1": null
     },
     {
       "ID": 4,
-      "Type": "",
+      "Type": 1,
       "Chapter": 1,
-      "Section": "5,15",
-      "EventKey": "D",
+      "Section": "1,11",
+      "EventKey": "event_A",
       "Value1": null
     },
     {
       "ID": 5,
-      "Type": "",
+      "Type": 1,
       "Chapter": 1,
-      "Section": "11,20",
-      "EventKey": "E",
+      "Section": 0,
+      "EventKey": "event_B",
       "Value1": null
     },
     {
       "ID": 6,
-      "Type": null,
-      "Chapter": null,
-      "Section": null,
-      "EventKey": null,
+      "Type": 1,
+      "Chapter": 1,
+      "Section": "",
+      "EventKey": "event_C",
       "Value1": null
     }
   ]

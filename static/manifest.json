@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-15T07:02:12.330Z",
+  "updatedAt": "2026-04-15T07:12:11.419Z",
   "sheets": [
     {
       "name": "Common",
@@ -46,7 +46,7 @@
     {
       "name": "EventData",
       "version": 1,
-      "hash": "e71df76dfc8ddc4ae111cac006a0b4eb6a4f7a8ac6efffcdfe356d862e153db6",
+      "hash": "189582fdf0881c7d3f503866e9b4fd5840abdbbb9687c176aa9651dc1badb1aa",
       "url": "/static/EventData.json"
     },
     {
@@ -63,8 +63,8 @@
     },
     {
       "name": "AttackSkills",
-      "version": 493,
-      "hash": "d24b79e7bb75fe2fb17feae8630352ddc57fb3457dc692fe638f720a681d559d",
+      "version": 494,
+      "hash": "21b19f852b993ed1dfbe130278baddffc0ce084021c8e0843c350f6c8e29efe2",
       "url": "/static/AttackSkills.json"
     },
     {
@@ -75,8 +75,8 @@
     },
     {
       "name": "Synergy",
-      "version": 20,
-      "hash": "aafd67aa7ab07525cbcf511b7b3ff7bf2e41ec691dff43d61fab400a157e4afd",
+      "version": 21,
+      "hash": "b98fce5f8fcb2680065fdcd20ac51e4f1eea545fb1ccacd21ac860fb52e7ea9a",
       "url": "/static/Synergy.json"
     },
     {

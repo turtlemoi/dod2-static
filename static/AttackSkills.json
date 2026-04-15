@@ -5294,7 +5294,7 @@
     },
     {
       "ID": 360003,
-      "SkillName": "크리티컬 50퍼 증가",
+      "SkillName": "암살 강화",
       "SkillType": "",
       "SkillLevel": "",
       "CoolDown": null,
@@ -5346,7 +5346,7 @@
       "KnockbackForce": 7,
       "Value1": 6,
       "Value2": 0.3,
-      "Value3": 0.5,
+      "Value3": 0,
       "Value4": 5,
       "Value5": "",
       "Value6": "",
