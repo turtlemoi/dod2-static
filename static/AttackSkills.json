@@ -6254,7 +6254,7 @@
       "Value5": 30,
       "Value6": 0,
       "SoundName": "",
-      "PrefabName": " Projectile_poison",
+      "PrefabName": "Projectile_poison",
       "SubPrefabName": "",
       "HitFXName": "FX_Hit_Poison"
     }
