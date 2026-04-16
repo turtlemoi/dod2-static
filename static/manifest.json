@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-16T09:05:56.107Z",
+  "updatedAt": "2026-04-16T10:33:02.119Z",
   "sheets": [
     {
       "name": "Common",
@@ -33,8 +33,8 @@
     },
     {
       "name": "MapConfig",
-      "version": 4,
-      "hash": "282dc8b055c426721b066b860bb6eafd209711d08ac2bf933aabaa955bda4af3",
+      "version": 5,
+      "hash": "613083a3518a0eddcc164a0dddc1d72eac4ad089a1e79e37b6e282ea9cf74dce",
       "url": "/static/MapConfig.json"
     },
     {
@@ -64,7 +64,7 @@
     {
       "name": "AttackSkills",
       "version": 508,
-      "hash": "1ba708e06e9abbc0dd8cccf23bbb31a20532080baef8f15e6423d6e3b918d41a",
+      "hash": "98e3368d4880d6a75846ca11c3f1c8d13505b6d0379b5ea21d4878bf88c4be68",
       "url": "/static/AttackSkills.json"
     },
     {
