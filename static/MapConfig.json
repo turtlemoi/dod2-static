@@ -71,6 +71,10 @@
     {
       "Key": "total_chapters",
       "Value": 4
+    },
+    {
+      "Key": "path_counts_common",
+      "Value": 4
     }
   ]
 }
