@@ -16,7 +16,7 @@
     {
       "ID": 2,
       "Name": "CHACRACTER_NAME_2",
-      "Synergy": 1,
+      "Synergy": "",
       "SKillID": 101,
       "PrefabName": "Player02",
       "Weight": 99,
@@ -29,7 +29,7 @@
     {
       "ID": 3,
       "Name": "CHACRACTER_NAME_3",
-      "Synergy": 2,
+      "Synergy": "",
       "SKillID": 102,
       "PrefabName": "Player03",
       "Weight": 99,
@@ -42,7 +42,7 @@
     {
       "ID": 4,
       "Name": "CHACRACTER_NAME_4",
-      "Synergy": 3,
+      "Synergy": "",
       "SKillID": 103,
       "PrefabName": "Player04",
       "Weight": 99,
@@ -55,7 +55,7 @@
     {
       "ID": 5,
       "Name": "CHACRACTER_NAME_5",
-      "Synergy": 4,
+      "Synergy": "",
       "SKillID": 104,
       "PrefabName": "Player05",
       "Weight": 99,
@@ -68,7 +68,7 @@
     {
       "ID": 6,
       "Name": "CHACRACTER_NAME_6",
-      "Synergy": 5,
+      "Synergy": "",
       "SKillID": 105,
       "PrefabName": "Player06",
       "Weight": 99,
@@ -81,7 +81,7 @@
     {
       "ID": 7,
       "Name": "CHACRACTER_NAME_7",
-      "Synergy": 6,
+      "Synergy": "",
       "SKillID": 106,
       "PrefabName": "Player07",
       "Weight": 99,
@@ -94,7 +94,7 @@
     {
       "ID": 8,
       "Name": "CHACRACTER_NAME_8",
-      "Synergy": 7,
+      "Synergy": "",
       "SKillID": 107,
       "PrefabName": "Player08",
       "Weight": 99,

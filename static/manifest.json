@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-17T06:09:35.975Z",
+  "updatedAt": "2026-04-17T06:11:08.712Z",
   "sheets": [
     {
       "name": "Common",
@@ -9,8 +9,8 @@
     },
     {
       "name": "Character",
-      "version": 16,
-      "hash": "528cdb42bedaa729cfd540f2a8cc24a4821b80afdbd7f90f7257436e6375146a",
+      "version": 17,
+      "hash": "b024810b42748e6b90c89314e7707ef0e1dc6540e336d581733dd1958abc656e",
       "url": "/static/Character.json"
     },
     {
