@@ -4,8 +4,8 @@
       "ID": 1,
       "Type": 0,
       "Chapter": 1,
-      "Section": "1,11",
-      "Wave1": "111:3",
+      "Section": "1,4",
+      "Wave1": "111:4",
       "Duration1": 6,
       "Wave2": "",
       "Duration2": "",
@@ -20,8 +20,8 @@
       "ID": 2,
       "Type": 0,
       "Chapter": 1,
-      "Section": "1,11",
-      "Wave1": "111:6,112:4",
+      "Section": "1,4",
+      "Wave1": "121:6",
       "Duration1": 6,
       "Wave2": "",
       "Duration2": "",
@@ -36,11 +36,11 @@
       "ID": 3,
       "Type": 0,
       "Chapter": 1,
-      "Section": "1,11",
-      "Wave1": "111:8",
+      "Section": "1,4",
+      "Wave1": "131:2",
       "Duration1": 6,
-      "Wave2": "113:4",
-      "Duration2": 2,
+      "Wave2": "",
+      "Duration2": "",
       "Wave3": "",
       "Duration3": "",
       "SuddenWave": "",
@@ -52,11 +52,11 @@
       "ID": 4,
       "Type": 0,
       "Chapter": 1,
-      "Section": "1,11",
-      "Wave1": "111:10",
+      "Section": "1,4",
+      "Wave1": "111:2",
       "Duration1": 4,
-      "Wave2": "112:4",
-      "Duration2": 2,
+      "Wave2": "121:3",
+      "Duration2": 3,
       "Wave3": "",
       "Duration3": "",
       "SuddenWave": "",
@@ -68,7 +68,23 @@
       "ID": 5,
       "Type": 0,
       "Chapter": 1,
-      "Section": "1,11",
+      "Section": "1,4",
+      "Wave1": "111:2",
+      "Duration1": 4,
+      "Wave2": "131:1",
+      "Duration2": 3,
+      "Wave3": null,
+      "Duration3": null,
+      "SuddenWave": null,
+      "Duration4": null,
+      "HPValue": null,
+      "DamageValue": null
+    },
+    {
+      "ID": 6,
+      "Type": 0,
+      "Chapter": 1,
+      "Section": "5,11",
       "Wave1": "111:8,112:8",
       "Duration1": 6,
       "Wave2": "",
@@ -81,10 +97,10 @@
       "DamageValue": 1
     },
     {
-      "ID": 6,
+      "ID": 7,
       "Type": 0,
       "Chapter": 1,
-      "Section": "1,11",
+      "Section": "5,11",
       "Wave1": "111:12",
       "Duration1": 3,
       "Wave2": "113:6",
@@ -97,10 +113,10 @@
       "DamageValue": 1
     },
     {
-      "ID": 7,
+      "ID": 8,
       "Type": 0,
       "Chapter": 1,
-      "Section": "1,11",
+      "Section": "5,11",
       "Wave1": "111:20",
       "Duration1": 6,
       "Wave2": "",
@@ -113,10 +129,10 @@
       "DamageValue": 1
     },
     {
-      "ID": 8,
+      "ID": 9,
       "Type": 0,
       "Chapter": 1,
-      "Section": "1,11",
+      "Section": "5,11",
       "Wave1": "111:15,112:7",
       "Duration1": 6,
       "Wave2": "",
@@ -129,10 +145,10 @@
       "DamageValue": 1
     },
     {
-      "ID": 9,
+      "ID": 10,
       "Type": 0,
       "Chapter": 1,
-      "Section": "1,11",
+      "Section": "5,11",
       "Wave1": "111:16,113:8",
       "Duration1": 6,
       "Wave2": "",
@@ -145,7 +161,7 @@
       "DamageValue": 1
     },
     {
-      "ID": 10,
+      "ID": 11,
       "Type": 0,
       "Chapter": 1,
       "Section": "12,20",
@@ -161,7 +177,7 @@
       "DamageValue": 1
     },
     {
-      "ID": 11,
+      "ID": 12,
       "Type": 0,
       "Chapter": 1,
       "Section": "12,20",
@@ -177,7 +193,7 @@
       "DamageValue": 1
     },
     {
-      "ID": 12,
+      "ID": 13,
       "Type": 0,
       "Chapter": 1,
       "Section": "12,20",
@@ -193,7 +209,7 @@
       "DamageValue": 1
     },
     {
-      "ID": 13,
+      "ID": 14,
       "Type": 0,
       "Chapter": 1,
       "Section": "12,20",
@@ -209,7 +225,7 @@
       "DamageValue": 1
     },
     {
-      "ID": 14,
+      "ID": 15,
       "Type": 0,
       "Chapter": 1,
       "Section": "12,20",
@@ -225,7 +241,7 @@
       "DamageValue": 1
     },
     {
-      "ID": 15,
+      "ID": 16,
       "Type": 0,
       "Chapter": 1,
       "Section": "12,20",
@@ -241,7 +257,7 @@
       "DamageValue": 1
     },
     {
-      "ID": 16,
+      "ID": 17,
       "Type": 0,
       "Chapter": 1,
       "Section": "12,20",
@@ -257,7 +273,7 @@
       "DamageValue": 1
     },
     {
-      "ID": 17,
+      "ID": 18,
       "Type": 0,
       "Chapter": 1,
       "Section": "12,20",
@@ -273,7 +289,7 @@
       "DamageValue": 1
     },
     {
-      "ID": 18,
+      "ID": 19,
       "Type": 0,
       "Chapter": 1,
       "Section": "12,20",
@@ -289,7 +305,7 @@
       "DamageValue": 1
     },
     {
-      "ID": 19,
+      "ID": 20,
       "Type": 0,
       "Chapter": 1,
       "Section": "12,20",
@@ -305,7 +321,7 @@
       "DamageValue": 1
     },
     {
-      "ID": 20,
+      "ID": 21,
       "Type": 0,
       "Chapter": 1,
       "Section": "12,20",
@@ -321,7 +337,7 @@
       "DamageValue": 1
     },
     {
-      "ID": 21,
+      "ID": 22,
       "Type": 1,
       "Chapter": 1,
       "Section": "1,7",
@@ -337,7 +353,7 @@
       "DamageValue": 1
     },
     {
-      "ID": 22,
+      "ID": 23,
       "Type": 1,
       "Chapter": 1,
       "Section": "1,7",
@@ -353,7 +369,7 @@
       "DamageValue": 1
     },
     {
-      "ID": 23,
+      "ID": 24,
       "Type": 1,
       "Chapter": 1,
       "Section": "1,7",
@@ -369,7 +385,7 @@
       "DamageValue": 1
     },
     {
-      "ID": 24,
+      "ID": 25,
       "Type": 1,
       "Chapter": 1,
       "Section": "8,14",
@@ -385,7 +401,7 @@
       "DamageValue": 1
     },
     {
-      "ID": 25,
+      "ID": 26,
       "Type": 1,
       "Chapter": 1,
       "Section": "8,14",
@@ -401,7 +417,7 @@
       "DamageValue": 1
     },
     {
-      "ID": 26,
+      "ID": 27,
       "Type": 1,
       "Chapter": 1,
       "Section": "8,14",
@@ -417,7 +433,7 @@
       "DamageValue": 1
     },
     {
-      "ID": 27,
+      "ID": 28,
       "Type": 1,
       "Chapter": 1,
       "Section": "15,20",
@@ -433,7 +449,7 @@
       "DamageValue": 1
     },
     {
-      "ID": 28,
+      "ID": 29,
       "Type": 1,
       "Chapter": 1,
       "Section": "15,20",
@@ -449,7 +465,7 @@
       "DamageValue": 1
     },
     {
-      "ID": 29,
+      "ID": 30,
       "Type": 1,
       "Chapter": 1,
       "Section": "15,20",
@@ -465,7 +481,7 @@
       "DamageValue": 1
     },
     {
-      "ID": 30,
+      "ID": 31,
       "Type": 2,
       "Chapter": 1,
       "Section": "20",
@@ -481,7 +497,7 @@
       "DamageValue": 1
     },
     {
-      "ID": 31,
+      "ID": 32,
       "Type": 2,
       "Chapter": 1,
       "Section": "20",
@@ -497,7 +513,7 @@
       "DamageValue": 1
     },
     {
-      "ID": 32,
+      "ID": 33,
       "Type": 0,
       "Chapter": 2,
       "Section": "1,20",
@@ -513,7 +529,7 @@
       "DamageValue": 1
     },
     {
-      "ID": 33,
+      "ID": 34,
       "Type": 1,
       "Chapter": 2,
       "Section": "1,20",
@@ -529,7 +545,7 @@
       "DamageValue": 1
     },
     {
-      "ID": 34,
+      "ID": 35,
       "Type": 2,
       "Chapter": 2,
       "Section": "20",
@@ -545,7 +561,7 @@
       "DamageValue": 1
     },
     {
-      "ID": 35,
+      "ID": 36,
       "Type": 2,
       "Chapter": 2,
       "Section": "20",
@@ -561,7 +577,7 @@
       "DamageValue": 1
     },
     {
-      "ID": 36,
+      "ID": 37,
       "Type": 0,
       "Chapter": 3,
       "Section": "1,20",
@@ -577,7 +593,7 @@
       "DamageValue": 1
     },
     {
-      "ID": 37,
+      "ID": 38,
       "Type": 1,
       "Chapter": 3,
       "Section": "1,20",
@@ -593,7 +609,7 @@
       "DamageValue": 1
     },
     {
-      "ID": 38,
+      "ID": 39,
       "Type": 2,
       "Chapter": 3,
       "Section": "20",
@@ -609,7 +625,7 @@
       "DamageValue": 1
     },
     {
-      "ID": 39,
+      "ID": 40,
       "Type": 2,
       "Chapter": 3,
       "Section": "20",
@@ -625,7 +641,7 @@
       "DamageValue": 1
     },
     {
-      "ID": 40,
+      "ID": 41,
       "Type": 0,
       "Chapter": 4,
       "Section": "1,20",
@@ -641,7 +657,7 @@
       "DamageValue": 1
     },
     {
-      "ID": 41,
+      "ID": 42,
       "Type": 1,
       "Chapter": 4,
       "Section": "1,20",
@@ -657,7 +673,7 @@
       "DamageValue": 1
     },
     {
-      "ID": 42,
+      "ID": 43,
       "Type": 3,
       "Chapter": 4,
       "Section": "20",
