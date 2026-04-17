@@ -372,43 +372,43 @@
     },
     {
       "Key": "TUTO_001",
-      "ko": "하단의 상점에서 카드를 드래그해\n퍼즐을 구매하세요!",
-      "en": "Buy Puzzles by dragging Cards\nfrom the Shop below!"
+      "ko": null,
+      "en": null
     },
     {
       "Key": "TUTO_002",
-      "ko": "같은 퍼즐을 3개 모으면 합쳐집니다.",
-      "en": "Collect 3 of the same Puzzle to merge."
+      "ko": null,
+      "en": null
     },
     {
       "Key": "TUTO_003",
-      "ko": "퍼즐을 터치하면 회전합니다.",
-      "en": "Tap to rotate Puzzle."
+      "ko": null,
+      "en": null
     },
     {
       "Key": "TUTO_004",
-      "ko": "상점의 레벨이 올랐네요!\n더 좋은 카드가 등장합니다.",
-      "en": "Shop has leveled up!\nNow better Cards will appear."
+      "ko": null,
+      "en": null
     },
     {
       "Key": "TUTO_005",
-      "ko": "리프레시 버튼을 누르면 \n상품이 갱신됩니다.",
-      "en": "Items will update\nif you tap Refresh button."
+      "ko": null,
+      "en": null
     },
     {
       "Key": "TUTO_006",
-      "ko": "자물쇠 버튼을 눌러 \n상품을 유지할 수 있습니다.",
-      "en": "Keep Item by\npressing Lock button."
+      "ko": null,
+      "en": null
     },
     {
       "Key": "TUTO_007",
-      "ko": "퍼즐을 다시 상점으로 드래그하면\n판매할 수 있습니다.",
-      "en": "You can sell Puzzle by\ndragging them back to the Shop."
+      "ko": null,
+      "en": null
     },
     {
       "Key": "TUTO_008",
-      "ko": "내가 보유한 퍼즐은 상점에 표시됩니다.",
-      "en": "Puzzles you own are displayed in the Shop."
+      "ko": null,
+      "en": null
     },
     {
       "Key": "TUTO_009",
@@ -417,13 +417,13 @@
     },
     {
       "Key": "TUTO_010",
-      "ko": "다음은 보스 스테이지입니다!",
-      "en": "Boss Stage is next!"
+      "ko": null,
+      "en": null
     },
     {
       "Key": "TUTO_011",
-      "ko": "보스를 쓰러뜨리고 부활 기회를 얻었습니다.",
-      "en": "You've defeated the boss and have a chance to respawn."
+      "ko": null,
+      "en": null
     },
     {
       "Key": "TUTO_012",
@@ -432,8 +432,8 @@
     },
     {
       "Key": "TUTO_013",
-      "ko": "캐릭터 아이콘을 누르면 시너지 영역을 접을 수 있습니다.",
-      "en": "Press the character icon to collapse the synergy area."
+      "ko": null,
+      "en": null
     },
     {
       "Key": "TUTO_014",
@@ -442,8 +442,8 @@
     },
     {
       "Key": "TUTO_015",
-      "ko": "같은 문양의 퍼즐을 모을수록\n시너지 효과가 강해집니다.",
-      "en": "The more puzzles of the same pattern\nyou collect the stronger the synergy."
+      "ko": null,
+      "en": null
     },
     {
       "Key": "TUTO_016",
@@ -452,8 +452,8 @@
     },
     {
       "Key": "TUTO_017",
-      "ko": "시너지 아이콘을 누르면 효과를 확인할 수 있습니다.",
-      "en": "Tap the synergy icon to see the effect."
+      "ko": null,
+      "en": null
     },
     {
       "Key": "TUTO_018",
@@ -462,18 +462,18 @@
     },
     {
       "Key": "TUTO_019",
-      "ko": "대량의 몬스터가 몰려옵니다!",
-      "en": "Massive Monsters coming!"
+      "ko": null,
+      "en": null
     },
     {
       "Key": "TUTO_020",
-      "ko": "다음은 보스 스테이지입니다!",
-      "en": "Boss Stage is next!"
+      "ko": null,
+      "en": null
     },
     {
       "Key": "TUTO_021",
-      "ko": "보스를 쓰러뜨리고 부활 기회를 얻었습니다.",
-      "en": "You've defeated the boss and have a chance to respawn."
+      "ko": null,
+      "en": null
     },
     {
       "Key": "TUTO_022",
@@ -482,8 +482,8 @@
     },
     {
       "Key": "TUTO_023",
-      "ko": "4코인을 내고 상점 경험치를 얻을 수 있습니다.",
-      "en": "You can get Shop Exp with 4 Coins."
+      "ko": null,
+      "en": null
     },
     {
       "Key": "TUTO_024",
@@ -492,8 +492,8 @@
     },
     {
       "Key": "TUTO_025",
-      "ko": "강화 퍼즐은 더 많은 면이 주변에 닿을수록 강해집니다.",
-      "en": "Enhance Puzzles get stronger as more puzzles adjacent."
+      "ko": null,
+      "en": null
     },
     {
       "Key": "TUTO_026",
@@ -502,8 +502,8 @@
     },
     {
       "Key": "TUTO_027",
-      "ko": "연결 퍼즐은 입구 쪽 스킬과 출구 쪽 스킬을 이어줍니다.",
-      "en": "Link Puzzle connects a skill at the input to a skill at the output."
+      "ko": null,
+      "en": null
     },
     {
       "Key": "TUTO_028",
@@ -512,18 +512,18 @@
     },
     {
       "Key": "TUTO_029",
-      "ko": "대량의 몬스터가 몰려옵니다!",
-      "en": "Massive Monsters coming!"
+      "ko": null,
+      "en": null
     },
     {
       "Key": "TUTO_030",
-      "ko": "다음은 보스 스테이지입니다!",
-      "en": "Boss Stage is next!"
+      "ko": null,
+      "en": null
     },
     {
       "Key": "TUTO_031",
-      "ko": "보스를 쓰러뜨리고 부활 기회를 얻었습니다.",
-      "en": "You've defeated the boss and have a chance to respawn."
+      "ko": null,
+      "en": null
     },
     {
       "Key": "TUTO_032",
@@ -562,18 +562,18 @@
     },
     {
       "Key": "TUTO_039",
-      "ko": "대량의 몬스터가 몰려옵니다!",
-      "en": "Massive Monsters coming!"
+      "ko": null,
+      "en": null
     },
     {
       "Key": "TUTO_040",
-      "ko": "다음은 보스 스테이지입니다!",
-      "en": "Boss Stage is next!"
+      "ko": null,
+      "en": null
     },
     {
       "Key": "TUTO_041",
-      "ko": "보스를 쓰러뜨리고 부활 기회를 얻었습니다.",
-      "en": "You've defeated the boss and have a chance to respawn."
+      "ko": null,
+      "en": null
     },
     {
       "Key": "TUTO_042",
@@ -612,13 +612,13 @@
     },
     {
       "Key": "TUTO_049",
-      "ko": "대량의 몬스터가 몰려옵니다!",
-      "en": "Massive Monsters coming!"
+      "ko": null,
+      "en": null
     },
     {
       "Key": "TUTO_050",
-      "ko": "던전의 주인이 기다리고 있습니다...",
-      "en": "The Master of the Dungeon is waiting you..."
+      "ko": null,
+      "en": null
     },
     {
       "Key": "DIALOGUE_ADVENTURE_01",
