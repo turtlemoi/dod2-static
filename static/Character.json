@@ -9,7 +9,7 @@
       "Weight": 99,
       "Speed": 7,
       "Damage": 10,
-      "HP": 20000,
+      "HP": 100,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -22,7 +22,7 @@
       "Weight": 99,
       "Speed": 7,
       "Damage": 10,
-      "HP": 1000,
+      "HP": 100,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -35,7 +35,7 @@
       "Weight": 99,
       "Speed": 7,
       "Damage": 10,
-      "HP": 1000,
+      "HP": 100,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -48,7 +48,7 @@
       "Weight": 99,
       "Speed": 7,
       "Damage": 10,
-      "HP": 1000,
+      "HP": 100,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -61,7 +61,7 @@
       "Weight": 99,
       "Speed": 7,
       "Damage": 10,
-      "HP": 1000,
+      "HP": 100,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -74,7 +74,7 @@
       "Weight": 99,
       "Speed": 7,
       "Damage": 10,
-      "HP": 1000,
+      "HP": 100,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -87,7 +87,7 @@
       "Weight": 99,
       "Speed": 7,
       "Damage": 10,
-      "HP": 1000,
+      "HP": 100,
       "CriticalChance": 5,
       "CriticalDamage": 150
     },
@@ -100,7 +100,7 @@
       "Weight": 99,
       "Speed": 7,
       "Damage": 10,
-      "HP": 1000,
+      "HP": 100,
       "CriticalChance": 5,
       "CriticalDamage": 150
     }

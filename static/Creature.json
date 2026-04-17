@@ -8,7 +8,7 @@
       "DeadSound_Name": "Death_Slime",
       "Speed": 6,
       "Damage": 1,
-      "HP": 1,
+      "HP": 15,
       "Weight": 1,
       "BehaviorType": 0,
       "SkillID": "901111"
@@ -21,7 +21,7 @@
       "DeadSound_Name": "Death_Slime",
       "Speed": 10,
       "Damage": 1,
-      "HP": 1,
+      "HP": 10,
       "Weight": 0.8,
       "BehaviorType": 0,
       "SkillID": "901111"
@@ -34,7 +34,7 @@
       "DeadSound_Name": "Death_Slime",
       "Speed": 4,
       "Damage": 1,
-      "HP": 2,
+      "HP": 30,
       "Weight": 5,
       "BehaviorType": 0,
       "SkillID": "901111"
@@ -47,7 +47,7 @@
       "DeadSound_Name": "Death_Bat",
       "Speed": 6,
       "Damage": 1,
-      "HP": 1,
+      "HP": 22,
       "Weight": 1,
       "BehaviorType": 0,
       "SkillID": "901211"
@@ -60,7 +60,7 @@
       "DeadSound_Name": "Death_Bat",
       "Speed": 10,
       "Damage": 1,
-      "HP": 1,
+      "HP": 15,
       "Weight": 0.8,
       "BehaviorType": 0,
       "SkillID": "901211"
@@ -73,7 +73,7 @@
       "DeadSound_Name": "Death_Bat",
       "Speed": 4,
       "Damage": 1,
-      "HP": 2,
+      "HP": 45,
       "Weight": 5,
       "BehaviorType": 0,
       "SkillID": "901211"
@@ -86,7 +86,7 @@
       "DeadSound_Name": "Death_Zombie",
       "Speed": 6,
       "Damage": 1,
-      "HP": 1,
+      "HP": 51,
       "Weight": 1,
       "BehaviorType": 0,
       "SkillID": "901311"
@@ -99,7 +99,7 @@
       "DeadSound_Name": "Death_Zombie",
       "Speed": 10,
       "Damage": 1,
-      "HP": 1,
+      "HP": 34,
       "Weight": 0.8,
       "BehaviorType": 0,
       "SkillID": "901311"
@@ -112,7 +112,7 @@
       "DeadSound_Name": "Death_Zombie",
       "Speed": 4,
       "Damage": 1,
-      "HP": 2,
+      "HP": 101,
       "Weight": 5,
       "BehaviorType": 0,
       "SkillID": "901311"
@@ -125,7 +125,7 @@
       "DeadSound_Name": "Death_Goblin",
       "Speed": 6,
       "Damage": 1,
-      "HP": 1,
+      "HP": 33,
       "Weight": 1,
       "BehaviorType": 0,
       "SkillID": "901411"
@@ -138,7 +138,7 @@
       "DeadSound_Name": "Death_Goblin",
       "Speed": 10,
       "Damage": 1,
-      "HP": 1,
+      "HP": 22,
       "Weight": 0.8,
       "BehaviorType": 0,
       "SkillID": "901411"
@@ -151,7 +151,7 @@
       "DeadSound_Name": "Death_Goblin",
       "Speed": 4,
       "Damage": 1,
-      "HP": 2,
+      "HP": 68,
       "Weight": 5,
       "BehaviorType": 0,
       "SkillID": "901411"
@@ -164,7 +164,7 @@
       "DeadSound_Name": "Death_Wisp",
       "Speed": 2,
       "Damage": 1,
-      "HP": 1,
+      "HP": 20,
       "Weight": 1,
       "BehaviorType": 0,
       "SkillID": "901511"
@@ -177,7 +177,7 @@
       "DeadSound_Name": "Death_Skeleton",
       "Speed": 2,
       "Damage": 1,
-      "HP": 1,
+      "HP": 20,
       "Weight": 1,
       "BehaviorType": 0,
       "SkillID": "901611"
@@ -190,7 +190,7 @@
       "DeadSound_Name": "Death_Slime",
       "Speed": 9,
       "Damage": 1,
-      "HP": 1,
+      "HP": 8,
       "Weight": 1,
       "BehaviorType": 0,
       "SkillID": "901111"
@@ -203,7 +203,7 @@
       "DeadSound_Name": "Death_Slime",
       "Speed": 15,
       "Damage": 1,
-      "HP": 1,
+      "HP": 5,
       "Weight": 0.8,
       "BehaviorType": 0,
       "SkillID": "901111"
@@ -216,7 +216,7 @@
       "DeadSound_Name": "Death_Slime",
       "Speed": 6,
       "Damage": 1,
-      "HP": 2,
+      "HP": 15,
       "Weight": 5,
       "BehaviorType": 0,
       "SkillID": "901111"
@@ -229,7 +229,7 @@
       "DeadSound_Name": "Death_Bat",
       "Speed": 9,
       "Damage": 1,
-      "HP": 1,
+      "HP": 11,
       "Weight": 1,
       "BehaviorType": 0,
       "SkillID": "901211"
@@ -242,7 +242,7 @@
       "DeadSound_Name": "Death_Bat",
       "Speed": 15,
       "Damage": 1,
-      "HP": 1,
+      "HP": 8,
       "Weight": 0.8,
       "BehaviorType": 0,
       "SkillID": "901211"
@@ -255,7 +255,7 @@
       "DeadSound_Name": "Death_Bat",
       "Speed": 6,
       "Damage": 1,
-      "HP": 2,
+      "HP": 23,
       "Weight": 5,
       "BehaviorType": 0,
       "SkillID": "901211"
@@ -268,7 +268,7 @@
       "DeadSound_Name": "Death_Zombie",
       "Speed": 9,
       "Damage": 1,
-      "HP": 1,
+      "HP": 26,
       "Weight": 1,
       "BehaviorType": 0,
       "SkillID": "901311"
@@ -281,7 +281,7 @@
       "DeadSound_Name": "Death_Zombie",
       "Speed": 15,
       "Damage": 1,
-      "HP": 1,
+      "HP": 17,
       "Weight": 0.8,
       "BehaviorType": 0,
       "SkillID": "901311"
@@ -294,7 +294,7 @@
       "DeadSound_Name": "Death_Zombie",
       "Speed": 6,
       "Damage": 1,
-      "HP": 2,
+      "HP": 51,
       "Weight": 5,
       "BehaviorType": 0,
       "SkillID": "901311"
@@ -307,7 +307,7 @@
       "DeadSound_Name": "Death_Goblin",
       "Speed": 9,
       "Damage": 1,
-      "HP": 1,
+      "HP": 17,
       "Weight": 1,
       "BehaviorType": 0,
       "SkillID": "901411"
@@ -320,7 +320,7 @@
       "DeadSound_Name": "Death_Goblin",
       "Speed": 15,
       "Damage": 1,
-      "HP": 1,
+      "HP": 11,
       "Weight": 0.8,
       "BehaviorType": 0,
       "SkillID": "901411"
@@ -333,7 +333,7 @@
       "DeadSound_Name": "Death_Goblin",
       "Speed": 6,
       "Damage": 1,
-      "HP": 2,
+      "HP": 34,
       "Weight": 5,
       "BehaviorType": 0,
       "SkillID": "901411"
@@ -346,7 +346,7 @@
       "DeadSound_Name": "Death_Wisp",
       "Speed": 3,
       "Damage": 1,
-      "HP": 1,
+      "HP": 10,
       "Weight": 1,
       "BehaviorType": 0,
       "SkillID": "901511"
@@ -359,7 +359,7 @@
       "DeadSound_Name": "Death_Skeleton",
       "Speed": 3,
       "Damage": 1,
-      "HP": 1,
+      "HP": 10,
       "Weight": 1,
       "BehaviorType": 0,
       "SkillID": "901611"
@@ -372,7 +372,7 @@
       "DeadSound_Name": "Death_Boss_Golem",
       "Speed": 5,
       "Damage": 1,
-      "HP": 30,
+      "HP": 100,
       "Weight": 99,
       "BehaviorType": 0,
       "SkillID": "910011,910012"
@@ -385,7 +385,7 @@
       "DeadSound_Name": "Death_Boss_Bucher",
       "Speed": 10,
       "Damage": 1,
-      "HP": 50,
+      "HP": 300,
       "Weight": 99,
       "BehaviorType": 0,
       "SkillID": "910021,910022"
@@ -398,7 +398,7 @@
       "DeadSound_Name": "Death_Boss_Ripper",
       "Speed": 5,
       "Damage": 1,
-      "HP": 70,
+      "HP": 900,
       "Weight": 99,
       "BehaviorType": 0,
       "SkillID": "910031,910032,910033"
@@ -411,7 +411,7 @@
       "DeadSound_Name": "Death_Boss_Yeti",
       "Speed": 8,
       "Damage": 1,
-      "HP": 90,
+      "HP": 1500,
       "Weight": 99,
       "BehaviorType": 0,
       "SkillID": "910041,910042,910043"
@@ -424,7 +424,7 @@
       "DeadSound_Name": "Death_Boss_Demon",
       "Speed": 10,
       "Damage": 1,
-      "HP": 110,
+      "HP": 3000,
       "Weight": 99,
       "BehaviorType": 0,
       "SkillID": "910051,910052,910053"

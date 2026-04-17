@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-17T11:10:30.149Z",
+  "updatedAt": "2026-04-17T11:56:17.903Z",
   "sheets": [
     {
       "name": "Common",
@@ -10,20 +10,14 @@
     {
       "name": "Character",
       "version": 17,
-      "hash": "b024810b42748e6b90c89314e7707ef0e1dc6540e336d581733dd1958abc656e",
+      "hash": "12ab5f5632cdee027487fe10a74098318d78501ba80323f9efa582c8afdb61a4",
       "url": "/static/Character.json"
     },
     {
       "name": "Creature",
-      "version": 59,
-      "hash": "aaec79bcf2613f9f6bd044db61bcba6580d032a5f92b7daa4f11bb5eb82e1488",
-      "url": "/static/Creature.json"
-    },
-    {
-      "name": "FloorData",
       "version": 60,
-      "hash": "74166770c62374662d05beb686d5a41c1113e278998f2e22fc9ec31facde26ec",
-      "url": "/static/FloorData.json"
+      "hash": "7f3d6c255a2ba0eac9c08db15c1192fa588cd2961b105735ffdde1e141fb0aa6",
+      "url": "/static/Creature.json"
     },
     {
       "name": "MapConfig",
