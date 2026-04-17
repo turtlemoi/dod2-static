@@ -73,12 +73,12 @@
       "Duration1": 4,
       "Wave2": "131:1",
       "Duration2": 3,
-      "Wave3": null,
-      "Duration3": null,
-      "SuddenWave": null,
-      "Duration4": null,
-      "HPValue": null,
-      "DamageValue": null
+      "Wave3": "",
+      "Duration3": "",
+      "SuddenWave": "",
+      "Duration4": "",
+      "HPValue": 1,
+      "DamageValue": 1
     },
     {
       "ID": 6,
