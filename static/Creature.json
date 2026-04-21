@@ -430,6 +430,45 @@
       "SkillID": "910051,910052,910053"
     },
     {
+      "ID": 2001,
+      "Type": 2,
+      "PrefabName": "01_slime_king",
+      "DeadFX_Name": "",
+      "DeadSound_Name": "",
+      "Speed": 5,
+      "Damage": 1,
+      "HP": 500,
+      "Weight": 99,
+      "BehaviorType": 0,
+      "SkillID": "920011,920012,920015"
+    },
+    {
+      "ID": 2002,
+      "Type": 2,
+      "PrefabName": "01_slime_general",
+      "DeadFX_Name": "",
+      "DeadSound_Name": "",
+      "Speed": 8,
+      "Damage": 1,
+      "HP": 200,
+      "Weight": 10,
+      "BehaviorType": 0,
+      "SkillID": "920013,920016"
+    },
+    {
+      "ID": 2003,
+      "Type": 2,
+      "PrefabName": "01_slime_soldier",
+      "DeadFX_Name": "",
+      "DeadSound_Name": "",
+      "Speed": 10,
+      "Damage": 1,
+      "HP": 100,
+      "Weight": 1,
+      "BehaviorType": 0,
+      "SkillID": "920014"
+    },
+    {
       "ID": 9001,
       "Type": 3,
       "PrefabName": "101_bear",
