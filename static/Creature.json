@@ -437,7 +437,7 @@
       "DeadSound_Name": "",
       "Speed": 5,
       "Damage": 1,
-      "HP": 500,
+      "HP": 700,
       "Weight": 99,
       "BehaviorType": 0,
       "SkillID": "920011,920012,920015"
@@ -450,7 +450,7 @@
       "DeadSound_Name": "",
       "Speed": 8,
       "Damage": 1,
-      "HP": 200,
+      "HP": 400,
       "Weight": 10,
       "BehaviorType": 0,
       "SkillID": "920013,920016"
@@ -463,7 +463,7 @@
       "DeadSound_Name": "",
       "Speed": 10,
       "Damage": 1,
-      "HP": 100,
+      "HP": 200,
       "Weight": 1,
       "BehaviorType": 0,
       "SkillID": "920014"
