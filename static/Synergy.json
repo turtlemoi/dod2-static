@@ -87,7 +87,7 @@
       "Icon": "synergy_9",
       "Condition": 4,
       "Desc": "SYNERGY_3_DESC",
-      "SynergyType": 4,
+      "SynergyType": 1,
       "Value": 330001
     },
     {
