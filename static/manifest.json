@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-23T10:33:45.707Z",
+  "updatedAt": "2026-04-23T11:01:43.723Z",
   "sheets": [
     {
       "name": "Common",
@@ -9,14 +9,14 @@
     },
     {
       "name": "Character",
-      "version": 17,
-      "hash": "12ab5f5632cdee027487fe10a74098318d78501ba80323f9efa582c8afdb61a4",
+      "version": 18,
+      "hash": "caff153b9f093add457d6b28167ae388541e2bb294e48c7f39fecc076a6194b1",
       "url": "/static/Character.json"
     },
     {
       "name": "Creature",
-      "version": 64,
-      "hash": "e272bffe308559507180953cae8c83c126f4602525d08e93abafac6471334678",
+      "version": 65,
+      "hash": "fc8bbffa7c69c124ea648739fb47205719a8caed4e2d595be580c87f0127b973",
       "url": "/static/Creature.json"
     },
     {

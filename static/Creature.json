@@ -10,6 +10,7 @@
       "Damage": 1,
       "HP": 15,
       "Shield": 0,
+      "Armor": 0,
       "Weight": 1,
       "BehaviorType": 0,
       "SkillID": "901111"
@@ -24,6 +25,7 @@
       "Damage": 1,
       "HP": 10,
       "Shield": 0,
+      "Armor": 0,
       "Weight": 0.8,
       "BehaviorType": 0,
       "SkillID": "901111"
@@ -38,6 +40,7 @@
       "Damage": 1,
       "HP": 30,
       "Shield": 0,
+      "Armor": 0,
       "Weight": 5,
       "BehaviorType": 0,
       "SkillID": "901111"
@@ -52,6 +55,7 @@
       "Damage": 1,
       "HP": 22,
       "Shield": 0,
+      "Armor": 0,
       "Weight": 1,
       "BehaviorType": 0,
       "SkillID": "901211"
@@ -66,6 +70,7 @@
       "Damage": 1,
       "HP": 15,
       "Shield": 0,
+      "Armor": 0,
       "Weight": 0.8,
       "BehaviorType": 0,
       "SkillID": "901211"
@@ -80,6 +85,7 @@
       "Damage": 1,
       "HP": 45,
       "Shield": 0,
+      "Armor": 0,
       "Weight": 5,
       "BehaviorType": 0,
       "SkillID": "901211"
@@ -94,6 +100,7 @@
       "Damage": 1,
       "HP": 51,
       "Shield": 0,
+      "Armor": 10,
       "Weight": 1,
       "BehaviorType": 0,
       "SkillID": "901311"
@@ -108,6 +115,7 @@
       "Damage": 1,
       "HP": 34,
       "Shield": 0,
+      "Armor": 5,
       "Weight": 0.8,
       "BehaviorType": 0,
       "SkillID": "901311"
@@ -122,6 +130,7 @@
       "Damage": 1,
       "HP": 101,
       "Shield": 0,
+      "Armor": 15,
       "Weight": 5,
       "BehaviorType": 0,
       "SkillID": "901311"
@@ -136,6 +145,7 @@
       "Damage": 1,
       "HP": 33,
       "Shield": 0,
+      "Armor": 0,
       "Weight": 1,
       "BehaviorType": 0,
       "SkillID": "901411"
@@ -150,6 +160,7 @@
       "Damage": 1,
       "HP": 22,
       "Shield": 0,
+      "Armor": 0,
       "Weight": 0.8,
       "BehaviorType": 0,
       "SkillID": "901411"
@@ -164,6 +175,7 @@
       "Damage": 1,
       "HP": 68,
       "Shield": 5,
+      "Armor": 0,
       "Weight": 5,
       "BehaviorType": 0,
       "SkillID": "901411"
@@ -178,6 +190,7 @@
       "Damage": 1,
       "HP": 20,
       "Shield": 0,
+      "Armor": 0,
       "Weight": 1,
       "BehaviorType": 0,
       "SkillID": "901511"
@@ -192,6 +205,7 @@
       "Damage": 1,
       "HP": 20,
       "Shield": 0,
+      "Armor": 0,
       "Weight": 1,
       "BehaviorType": 0,
       "SkillID": "901611"
@@ -206,6 +220,7 @@
       "Damage": 1,
       "HP": 8,
       "Shield": 0,
+      "Armor": 0,
       "Weight": 1,
       "BehaviorType": 0,
       "SkillID": "901111"
@@ -220,6 +235,7 @@
       "Damage": 1,
       "HP": 5,
       "Shield": 0,
+      "Armor": 0,
       "Weight": 0.8,
       "BehaviorType": 0,
       "SkillID": "901111"
@@ -234,6 +250,7 @@
       "Damage": 1,
       "HP": 15,
       "Shield": 0,
+      "Armor": 0,
       "Weight": 5,
       "BehaviorType": 0,
       "SkillID": "901111"
@@ -248,6 +265,7 @@
       "Damage": 1,
       "HP": 11,
       "Shield": 0,
+      "Armor": 0,
       "Weight": 1,
       "BehaviorType": 0,
       "SkillID": "901211"
@@ -262,6 +280,7 @@
       "Damage": 1,
       "HP": 8,
       "Shield": 0,
+      "Armor": 0,
       "Weight": 0.8,
       "BehaviorType": 0,
       "SkillID": "901211"
@@ -276,6 +295,7 @@
       "Damage": 1,
       "HP": 23,
       "Shield": 0,
+      "Armor": 0,
       "Weight": 5,
       "BehaviorType": 0,
       "SkillID": "901211"
@@ -290,6 +310,7 @@
       "Damage": 1,
       "HP": 26,
       "Shield": 0,
+      "Armor": 0,
       "Weight": 1,
       "BehaviorType": 0,
       "SkillID": "901311"
@@ -304,6 +325,7 @@
       "Damage": 1,
       "HP": 17,
       "Shield": 0,
+      "Armor": 0,
       "Weight": 0.8,
       "BehaviorType": 0,
       "SkillID": "901311"
@@ -318,6 +340,7 @@
       "Damage": 1,
       "HP": 51,
       "Shield": 0,
+      "Armor": 0,
       "Weight": 5,
       "BehaviorType": 0,
       "SkillID": "901311"
@@ -332,6 +355,7 @@
       "Damage": 1,
       "HP": 17,
       "Shield": 0,
+      "Armor": 0,
       "Weight": 1,
       "BehaviorType": 0,
       "SkillID": "901411"
@@ -346,6 +370,7 @@
       "Damage": 1,
       "HP": 11,
       "Shield": 0,
+      "Armor": 0,
       "Weight": 0.8,
       "BehaviorType": 0,
       "SkillID": "901411"
@@ -360,6 +385,7 @@
       "Damage": 1,
       "HP": 34,
       "Shield": 0,
+      "Armor": 0,
       "Weight": 5,
       "BehaviorType": 0,
       "SkillID": "901411"
@@ -374,6 +400,7 @@
       "Damage": 1,
       "HP": 10,
       "Shield": 0,
+      "Armor": 0,
       "Weight": 1,
       "BehaviorType": 0,
       "SkillID": "901511"
@@ -388,6 +415,7 @@
       "Damage": 1,
       "HP": 10,
       "Shield": 0,
+      "Armor": 0,
       "Weight": 1,
       "BehaviorType": 0,
       "SkillID": "901611"
@@ -402,6 +430,7 @@
       "Damage": 1,
       "HP": 100,
       "Shield": 0,
+      "Armor": 0,
       "Weight": 99,
       "BehaviorType": 0,
       "SkillID": "910011,910012"
@@ -416,6 +445,7 @@
       "Damage": 1,
       "HP": 300,
       "Shield": 0,
+      "Armor": 0,
       "Weight": 99,
       "BehaviorType": 0,
       "SkillID": "910021,910022"
@@ -430,6 +460,7 @@
       "Damage": 1,
       "HP": 900,
       "Shield": 0,
+      "Armor": 0,
       "Weight": 99,
       "BehaviorType": 0,
       "SkillID": "910031,910032,910033"
@@ -444,6 +475,7 @@
       "Damage": 1,
       "HP": 1500,
       "Shield": 0,
+      "Armor": 0,
       "Weight": 99,
       "BehaviorType": 0,
       "SkillID": "910041,910042,910043"
@@ -458,6 +490,7 @@
       "Damage": 1,
       "HP": 3000,
       "Shield": 0,
+      "Armor": 0,
       "Weight": 99,
       "BehaviorType": 0,
       "SkillID": "910051,910052,910053"
@@ -472,6 +505,7 @@
       "Damage": 1,
       "HP": 700,
       "Shield": 0,
+      "Armor": 0,
       "Weight": 99,
       "BehaviorType": 0,
       "SkillID": "920011,920012,920015"
@@ -486,6 +520,7 @@
       "Damage": 1,
       "HP": 400,
       "Shield": 0,
+      "Armor": 0,
       "Weight": 10,
       "BehaviorType": 0,
       "SkillID": "920013,920016"
@@ -500,6 +535,7 @@
       "Damage": 1,
       "HP": 200,
       "Shield": 0,
+      "Armor": 0,
       "Weight": 1,
       "BehaviorType": 0,
       "SkillID": "920014"
@@ -514,6 +550,7 @@
       "Damage": 1,
       "HP": 1,
       "Shield": 0,
+      "Armor": 0,
       "Weight": 5,
       "BehaviorType": 0,
       "SkillID": 990011
@@ -528,6 +565,7 @@
       "Damage": 1,
       "HP": 1,
       "Shield": 0,
+      "Armor": 0,
       "Weight": 1,
       "BehaviorType": 0,
       "SkillID": "990021,990022"
@@ -542,6 +580,7 @@
       "Damage": 1,
       "HP": 1,
       "Shield": 0,
+      "Armor": 0,
       "Weight": 1,
       "BehaviorType": 0,
       "SkillID": "990031,990033"
@@ -556,6 +595,7 @@
       "Damage": 1,
       "HP": 1,
       "Shield": 0,
+      "Armor": 0,
       "Weight": 1,
       "BehaviorType": 0,
       "SkillID": 990041
@@ -570,6 +610,7 @@
       "Damage": 1,
       "HP": 1,
       "Shield": 0,
+      "Armor": 0,
       "Weight": 1,
       "BehaviorType": 0,
       "SkillID": 990051
@@ -584,6 +625,7 @@
       "Damage": 1,
       "HP": 1,
       "Shield": 0,
+      "Armor": 0,
       "Weight": 1,
       "BehaviorType": 0,
       "SkillID": "990061,990062"
@@ -598,6 +640,7 @@
       "Damage": 1,
       "HP": 1,
       "Shield": 0,
+      "Armor": 0,
       "Weight": 5,
       "BehaviorType": 0,
       "SkillID": "990071,990072"
@@ -612,6 +655,7 @@
       "Damage": 1,
       "HP": 1,
       "Shield": 0,
+      "Armor": 0,
       "Weight": 5,
       "BehaviorType": 0,
       "SkillID": 990081
@@ -626,6 +670,7 @@
       "Damage": 1,
       "HP": 1,
       "Shield": 0,
+      "Armor": 0,
       "Weight": 9999,
       "BehaviorType": 1,
       "SkillID": 990091
@@ -640,6 +685,7 @@
       "Damage": 1,
       "HP": 1,
       "Shield": 0,
+      "Armor": 0,
       "Weight": 9999,
       "BehaviorType": 1,
       "SkillID": 990101
@@ -654,6 +700,7 @@
       "Damage": 1,
       "HP": 1,
       "Shield": 0,
+      "Armor": 0,
       "Weight": 9999,
       "BehaviorType": 1,
       "SkillID": "990111,990112"
@@ -668,6 +715,7 @@
       "Damage": 1,
       "HP": 1,
       "Shield": 0,
+      "Armor": 0,
       "Weight": 9999,
       "BehaviorType": 2,
       "SkillID": "240041,240011,240051"
@@ -682,6 +730,7 @@
       "Damage": 1,
       "HP": 1,
       "Shield": 0,
+      "Armor": 0,
       "Weight": 0,
       "BehaviorType": 0,
       "SkillID": "990113"
@@ -696,6 +745,7 @@
       "Damage": 1,
       "HP": 1,
       "Shield": 0,
+      "Armor": 0,
       "Weight": 5,
       "BehaviorType": 0,
       "SkillID": 990141
@@ -710,6 +760,7 @@
       "Damage": 1,
       "HP": 1,
       "Shield": 0,
+      "Armor": 0,
       "Weight": 999,
       "BehaviorType": 3,
       "SkillID": 990151
@@ -724,6 +775,7 @@
       "Damage": 1,
       "HP": 1,
       "Shield": 0,
+      "Armor": 0,
       "Weight": 5,
       "BehaviorType": 0,
       "SkillID": 990161
@@ -738,6 +790,7 @@
       "Damage": 1,
       "HP": 1,
       "Shield": 0,
+      "Armor": 0,
       "Weight": 9999,
       "BehaviorType": 1,
       "SkillID": "990171,990172,990173"
