@@ -5792,7 +5792,7 @@
       "Value5": "",
       "Value6": "",
       "SoundName": "Attack_rock",
-      "PrefabName": "Strike_hammering",
+      "PrefabName": "Strike_stump",
       "SubPrefabName": "",
       "HitFXName": "FX_Hit_rocksImpact"
     },
