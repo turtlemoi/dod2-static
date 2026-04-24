@@ -155,6 +155,10 @@
     {
       "Key": "dungeon_fail_score",
       "Value": 10
+    },
+    {
+      "Key": "skillvalue_levelup",
+      "Value": 10
     }
   ]
 }
