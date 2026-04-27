@@ -3,7 +3,7 @@
     {
       "ID": 1,
       "Chapter": 1,
-      "Section": 0,
+      "Section": "0",
       "ImageName": "Event_Image_starting village",
       "EventTitle": "EventTitle_1_001",
       "EventDesc": "EventDesc_1_001",
@@ -20,7 +20,7 @@
     {
       "ID": 2,
       "Chapter": 2,
-      "Section": 0,
+      "Section": "0",
       "ImageName": null,
       "EventTitle": null,
       "EventDesc": null,
@@ -37,7 +37,7 @@
     {
       "ID": 3,
       "Chapter": 3,
-      "Section": 0,
+      "Section": "0",
       "ImageName": null,
       "EventTitle": null,
       "EventDesc": null,
