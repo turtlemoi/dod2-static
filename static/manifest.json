@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-27T12:44:31.592Z",
+  "updatedAt": "2026-04-27T14:21:17.295Z",
   "sheets": [
     {
       "name": "Common",
@@ -33,8 +33,8 @@
     },
     {
       "name": "EventData",
-      "version": 3,
-      "hash": "4f4558774dd51ff4801b420cb2056f263857cf0f6f98dbe2f664d11957b7a886",
+      "version": 4,
+      "hash": "f6755037401916be6c9845388180a328c41ea98869989e61b8358189d99fb3ff",
       "url": "/static/EventData.json"
     },
     {
@@ -62,16 +62,16 @@
       "url": "/static/SubSkills.json"
     },
     {
+      "name": "Locale",
+      "version": 62,
+      "hash": "58ad25c9c56779499691f43b157d2cd218c31899cce7155fef453a8c9343841c",
+      "url": "/static/Locale.json"
+    },
+    {
       "name": "Synergy",
       "version": 21,
       "hash": "5a21dac4dc2203b66b7290ce96de8a5d1220f6da8d649e3c21543269a9e5c342",
       "url": "/static/Synergy.json"
-    },
-    {
-      "name": "Locale",
-      "version": 61,
-      "hash": "002a57d7a8c70ccf9e722ff91fd636ccbdcf56eaa5195733e661c0e3640d8c4a",
-      "url": "/static/Locale.json"
     },
     {
       "name": "InGameShop",
