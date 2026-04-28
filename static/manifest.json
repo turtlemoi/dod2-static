@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-27T14:49:42.238Z",
+  "updatedAt": "2026-04-28T11:50:30.531Z",
   "sheets": [
     {
       "name": "Common",
@@ -38,6 +38,12 @@
       "url": "/static/EventData.json"
     },
     {
+      "name": "Relic",
+      "version": 1,
+      "hash": "76354442ed89716881f55c7b5696f95d5af653473095267fe89b2d56b2a4c173",
+      "url": "/static/Relic.json"
+    },
+    {
       "name": "PuzzleShape",
       "version": 3,
       "hash": "d0e97631027fca2cd892bcd2c57ae974a3cf7da02748368d7c86fa2a1a5312bc",
@@ -64,13 +70,13 @@
     {
       "name": "Locale",
       "version": 63,
-      "hash": "8f1ab4ef2a940d7f6cb98d1ffe8dadb986c5cdf632aa29b76e5ba8ccbb173916",
+      "hash": "c690e9b0b092e4e12e2305d562053b81c09ecab0491c22b1fdc420439cebb9ea",
       "url": "/static/Locale.json"
     },
     {
       "name": "Synergy",
-      "version": 21,
-      "hash": "5a21dac4dc2203b66b7290ce96de8a5d1220f6da8d649e3c21543269a9e5c342",
+      "version": 22,
+      "hash": "0ce9acffbee6dd2bcfb610680220603fdceb517c04c839386e3fbeadbbc56818",
       "url": "/static/Synergy.json"
     },
     {
