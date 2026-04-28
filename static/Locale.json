@@ -3439,6 +3439,26 @@
       "Key": "EventChoice2_1_001",
       "ko": "무기를 받는다",
       "en": null
+    },
+    {
+      "Key": "EventTitle_1_002",
+      "ko": "고블린 조우",
+      "en": null
+    },
+    {
+      "Key": "EventDesc_1_002",
+      "ko": "고블린들을 발견했다.\n이렇게 마을에서 가까운 숲에 고블린이 있는것이 이상하지만 빠르게 판단을 해야할 것 같다.\n\n3마리 뿐이니 지금도 상대할수 있지않을까?",
+      "en": null
+    },
+    {
+      "Key": "EventChoice1_1_002",
+      "ko": "싸운다",
+      "en": null
+    },
+    {
+      "Key": "EventChoice2_1_002",
+      "ko": "피한다",
+      "en": null
     }
   ]
 }

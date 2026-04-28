@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-28T13:16:46.100Z",
+  "updatedAt": "2026-04-28T13:23:28.480Z",
   "sheets": [
     {
       "name": "Common",
@@ -27,8 +27,8 @@
     },
     {
       "name": "BattleData",
-      "version": 15,
-      "hash": "0f9dc066e27bc89e97396b5a4ed63c83b66693dc737392227665ad0de34f5404",
+      "version": 16,
+      "hash": "33e19ad279a112ce6e9129493cf632502c4a78fa9cdff9a18d7edebdd0d627ff",
       "url": "/static/BattleData.json"
     },
     {
@@ -69,8 +69,8 @@
     },
     {
       "name": "Locale",
-      "version": 63,
-      "hash": "c690e9b0b092e4e12e2305d562053b81c09ecab0491c22b1fdc420439cebb9ea",
+      "version": 64,
+      "hash": "39a77ebb3cb69fb6c5131f009325de961012834cf21684fdedf421da9cddfed4",
       "url": "/static/Locale.json"
     },
     {
