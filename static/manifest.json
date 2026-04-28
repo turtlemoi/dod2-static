@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-28T11:50:30.531Z",
+  "updatedAt": "2026-04-28T13:04:34.595Z",
   "sheets": [
     {
       "name": "Common",
@@ -27,20 +27,20 @@
     },
     {
       "name": "BattleData",
-      "version": 14,
-      "hash": "cda81849c59f06612540c9f6f010df69642ed896b75600b7ec7e47af46191e24",
+      "version": 15,
+      "hash": "0f9dc066e27bc89e97396b5a4ed63c83b66693dc737392227665ad0de34f5404",
       "url": "/static/BattleData.json"
     },
     {
       "name": "EventData",
-      "version": 6,
-      "hash": "491cbdd77723387d607d3d8c4a00e9a756535be9c9104d25f11f90ef109b5474",
+      "version": 7,
+      "hash": "f5654240c3510fd134f9a63213a31374416c15fe2771c0dd8af300f930063662",
       "url": "/static/EventData.json"
     },
     {
       "name": "Relic",
       "version": 1,
-      "hash": "76354442ed89716881f55c7b5696f95d5af653473095267fe89b2d56b2a4c173",
+      "hash": "7e26faf587bf3dfb9faed99f4ff5c321ce6542fe5d7d89e62921c23dc4728fa5",
       "url": "/static/Relic.json"
     },
     {

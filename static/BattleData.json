@@ -687,6 +687,22 @@
       "Duration4": "",
       "HPValue": 1,
       "DamageValue": 1
+    },
+    {
+      "ID": 1001,
+      "Type": 9,
+      "Chapter": "",
+      "Section": "",
+      "Wave1": "243:3",
+      "Duration1": 1,
+      "Wave2": "",
+      "Duration2": "",
+      "Wave3": "",
+      "Duration3": "",
+      "SuddenWave": "",
+      "Duration4": "",
+      "HPValue": 1,
+      "DamageValue": 1
     }
   ]
 }
