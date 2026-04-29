@@ -4,7 +4,7 @@
       "ID": 1,
       "Tier": 1,
       "RelicName": "도시락",
-      "RelicDesc": "획득 시, 최대 체력이 5 증가합니다.",
+      "RelicDesc": "Relic_001",
       "Icon": "Packedlunch",
       "RewardType": 102,
       "Value": 5
@@ -13,7 +13,7 @@
       "ID": 2,
       "Tier": 1,
       "RelicName": "낡은 단검",
-      "RelicDesc": "획득 시, 공격력이 1 증가합니다.",
+      "RelicDesc": "Relic_002",
       "Icon": "WornDagger",
       "RewardType": 101,
       "Value": 1
