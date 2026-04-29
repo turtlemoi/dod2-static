@@ -3,8 +3,8 @@
     {
       "ID": 1,
       "Tier": 1,
-      "RelicName": "도시락",
-      "RelicDesc": "Relic_001",
+      "RelicName": "Relic_001",
+      "RelicDesc": "Relic_DESC_001",
       "Icon": "Packedlunch",
       "RewardType": 102,
       "Value": 5
@@ -12,24 +12,24 @@
     {
       "ID": 2,
       "Tier": 1,
-      "RelicName": "낡은 단검",
-      "RelicDesc": "Relic_002",
+      "RelicName": "Relic_002",
+      "RelicDesc": "Relic_DESC_002",
       "Icon": "WornDagger",
       "RewardType": 101,
       "Value": 1
     },
     {
       "ID": 3,
-      "Tier": 2,
-      "RelicName": null,
-      "RelicDesc": null,
+      "Tier": 1,
+      "RelicName": "Relic_003",
+      "RelicDesc": "Relic_DESC_003",
       "Icon": null,
       "RewardType": null,
       "Value": null
     },
     {
       "ID": 4,
-      "Tier": 2,
+      "Tier": null,
       "RelicName": null,
       "RelicDesc": null,
       "Icon": null,
@@ -38,7 +38,7 @@
     },
     {
       "ID": 5,
-      "Tier": 3,
+      "Tier": null,
       "RelicName": null,
       "RelicDesc": null,
       "Icon": null,
@@ -47,7 +47,25 @@
     },
     {
       "ID": 6,
-      "Tier": 3,
+      "Tier": null,
+      "RelicName": null,
+      "RelicDesc": null,
+      "Icon": null,
+      "RewardType": null,
+      "Value": null
+    },
+    {
+      "ID": 101,
+      "Tier": null,
+      "RelicName": null,
+      "RelicDesc": null,
+      "Icon": null,
+      "RewardType": null,
+      "Value": null
+    },
+    {
+      "ID": 102,
+      "Tier": null,
       "RelicName": null,
       "RelicDesc": null,
       "Icon": null,
