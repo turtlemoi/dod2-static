@@ -3461,6 +3461,236 @@
       "en": null
     },
     {
+      "Key": "EventTitle_1_003",
+      "ko": "독버섯 군락",
+      "en": null
+    },
+    {
+      "Key": "EventDesc_1_003",
+      "ko": "선명한 색깔의 버섯들이 군락을 이루고 있다. 독성이 있어 보이지만 뭔가 효능도 있을 것 같다.",
+      "en": null
+    },
+    {
+      "Key": "EventChoice1_1_003",
+      "ko": "먹는다",
+      "en": null
+    },
+    {
+      "Key": "EventChoice2_1_003",
+      "ko": "무기에 바른다",
+      "en": null
+    },
+    {
+      "Key": "EventTitle_1_004",
+      "ko": "이끼 낀 제단",
+      "en": null
+    },
+    {
+      "Key": "EventDesc_1_004",
+      "ko": "오래된 돌 제단에 붉은 글씨가 새겨져 있다. \"피를 바치는 자에게 힘을 주리라.\"",
+      "en": null
+    },
+    {
+      "Key": "EventChoice1_1_004",
+      "ko": "피를 바친다",
+      "en": null
+    },
+    {
+      "Key": "EventChoice2_1_004",
+      "ko": "기도한다",
+      "en": null
+    },
+    {
+      "Key": "EventChoice3_1_004",
+      "ko": "제단을 부순다",
+      "en": null
+    },
+    {
+      "Key": "EventTitle_1_005",
+      "ko": "버려진 야영지",
+      "en": null
+    },
+    {
+      "Key": "EventDesc_1_005",
+      "ko": "급히 떠난 것 같은 야영지. 짐꾸러미와 꺼져가는 불씨가 남아있다.",
+      "en": null
+    },
+    {
+      "Key": "EventChoice1_1_005",
+      "ko": "짐꾸러미를 뒤진다",
+      "en": null
+    },
+    {
+      "Key": "EventChoice2_1_005",
+      "ko": "불씨로 쉰다",
+      "en": null
+    },
+    {
+      "Key": "EventTitle_1_006",
+      "ko": "쓰러진 행상인",
+      "en": null
+    },
+    {
+      "Key": "EventDesc_1_006",
+      "ko": "고블린에게 털린 행상인이 피를 흘리며 쓰러져 있다. 짐이 아직 옆에 놓여 있다.",
+      "en": null
+    },
+    {
+      "Key": "EventChoice1_1_006",
+      "ko": "치료해준다",
+      "en": null
+    },
+    {
+      "Key": "EventChoice2_1_006",
+      "ko": "짐을 가져간다",
+      "en": null
+    },
+    {
+      "Key": "EventChoice3_1_006",
+      "ko": "응급처치만 한다",
+      "en": null
+    },
+    {
+      "Key": "EventTitle_1_007",
+      "ko": "유독한 웅덩이",
+      "en": null
+    },
+    {
+      "Key": "EventDesc_1_007",
+      "ko": "유황 연기가 피어오르는 크레바스. 건너편에 빛나는 상자가 보이지만 독기를 마셔야 건널 수 있다.",
+      "en": null
+    },
+    {
+      "Key": "EventChoice1_1_007",
+      "ko": "강행한다",
+      "en": null
+    },
+    {
+      "Key": "EventChoice2_1_007",
+      "ko": "포기한다",
+      "en": null
+    },
+    {
+      "Key": "EventTitle_1_008",
+      "ko": "묘한 약초상",
+      "en": null
+    },
+    {
+      "Key": "EventDesc_1_008",
+      "ko": "수상한 복장의 약초상이 약 세 가지를 팔고 있다.",
+      "en": null
+    },
+    {
+      "Key": "EventChoice1_1_008",
+      "ko": "빨간 약 (회복제)",
+      "en": null
+    },
+    {
+      "Key": "EventChoice2_1_008",
+      "ko": "파란 약 (강화제)",
+      "en": null
+    },
+    {
+      "Key": "EventChoice3_1_008",
+      "ko": "초록 약 (비약)",
+      "en": null
+    },
+    {
+      "Key": "EventTitle_1_009",
+      "ko": "독사에 물리다",
+      "en": null
+    },
+    {
+      "Key": "EventDesc_1_009",
+      "ko": "독사에게 발목을 물렸다. 해독하지 않으면 점점 약해진다.",
+      "en": null
+    },
+    {
+      "Key": "EventChoice1_1_009",
+      "ko": "독초를 씹어 해독한다",
+      "en": null
+    },
+    {
+      "Key": "EventChoice2_1_009",
+      "ko": "독을 버텨낸다",
+      "en": null
+    },
+    {
+      "Key": "EventChoice3_1_009",
+      "ko": "물린 부위를 잘라낸다",
+      "en": null
+    },
+    {
+      "Key": "EventTitle_1_010",
+      "ko": "부서진 석상",
+      "en": null
+    },
+    {
+      "Key": "EventDesc_1_010",
+      "ko": "산산조각 난 수호신상이 있다. 조각들 사이에서 희미한 광채가 흘러나온다.",
+      "en": null
+    },
+    {
+      "Key": "EventChoice1_1_010",
+      "ko": "복원한다",
+      "en": null
+    },
+    {
+      "Key": "EventChoice2_1_010",
+      "ko": "핵심 파편만 챙긴다",
+      "en": null
+    },
+    {
+      "Key": "EventChoice3_1_010",
+      "ko": "조각을 무기에 붙인다",
+      "en": null
+    },
+    {
+      "Key": "EventTitle_1_011",
+      "ko": "굶주린 늑대 무리",
+      "en": null
+    },
+    {
+      "Key": "EventDesc_1_011",
+      "ko": "늑대 무리가 길을 막고 있다. 아직 공격적이지는 않지만 눈빛이 심상치 않다.",
+      "en": null
+    },
+    {
+      "Key": "EventChoice1_1_011",
+      "ko": "먹이를 던진다",
+      "en": null
+    },
+    {
+      "Key": "EventChoice2_1_011",
+      "ko": "위협한다",
+      "en": null
+    },
+    {
+      "Key": "EventChoice3_1_011",
+      "ko": "싸운다",
+      "en": null
+    },
+    {
+      "Key": "EventTitle_1_012",
+      "ko": "낙뢰 맞은 나무",
+      "en": null
+    },
+    {
+      "Key": "EventDesc_1_012",
+      "ko": "번개에 맞아 불타는 거목. 손을 댈 수 없을 것 같지만 엄청난 에너지가 느껴진다.",
+      "en": null
+    },
+    {
+      "Key": "EventChoice1_1_012",
+      "ko": "손을 댄다",
+      "en": null
+    },
+    {
+      "Key": "EventChoice2_1_012",
+      "ko": "스치듯 흡수한다",
+      "en": null
+    },
+    {
       "Key": "Relic_001",
       "ko": "도시락",
       "en": null
@@ -3478,6 +3708,406 @@
     {
       "Key": "Relic_DESC_002",
       "ko": "획득 시, 공격력이 1 증가합니다.",
+      "en": null
+    },
+    {
+      "Key": "Relic_003",
+      "ko": "독이 발린 검",
+      "en": null
+    },
+    {
+      "Key": "Relic_DESC_003",
+      "ko": "획득 시, 공격력이 2 증가합니다.",
+      "en": null
+    },
+    {
+      "Key": "Relic_004",
+      "ko": "독버섯 포자",
+      "en": null
+    },
+    {
+      "Key": "Relic_DESC_004",
+      "ko": "획득 시, 최대 체력이 10 증가합니다.",
+      "en": null
+    },
+    {
+      "Key": "Relic_005",
+      "ko": "행상인의 부적",
+      "en": null
+    },
+    {
+      "Key": "Relic_DESC_005",
+      "ko": "획득 시, 최대 체력이 8 증가합니다.",
+      "en": null
+    },
+    {
+      "Key": "Relic_007",
+      "ko": "유황 원석",
+      "en": null
+    },
+    {
+      "Key": "Relic_DESC_007",
+      "ko": "획득 시, 공격력이 3 증가합니다.",
+      "en": null
+    },
+    {
+      "Key": "Relic_008",
+      "ko": "제단의 파편",
+      "en": null
+    },
+    {
+      "Key": "Relic_DESC_008",
+      "ko": "획득 시, 치명타 확률이 10% 증가합니다.",
+      "en": null
+    },
+    {
+      "Key": "Relic_009",
+      "ko": "수호신의 가호",
+      "en": null
+    },
+    {
+      "Key": "Relic_DESC_009",
+      "ko": "획득 시, 방어력이 3 증가합니다.",
+      "en": null
+    },
+    {
+      "Key": "Relic_012",
+      "ko": "늑대 가죽",
+      "en": null
+    },
+    {
+      "Key": "Relic_DESC_012",
+      "ko": "획득 시, 방어력이 4 증가합니다.",
+      "en": null
+    },
+    {
+      "Key": "Relic_015",
+      "ko": "약초상의 비약",
+      "en": null
+    },
+    {
+      "Key": "Relic_DESC_015",
+      "ko": "획득 시, 최대 체력이 12 증가합니다.",
+      "en": null
+    },
+    {
+      "Key": "Relic_016",
+      "ko": "독사의 어금니",
+      "en": null
+    },
+    {
+      "Key": "Relic_DESC_016",
+      "ko": "획득 시, 치명타 확률이 8% 증가합니다.",
+      "en": null
+    },
+    {
+      "Key": "Relic_017",
+      "ko": "독사의 흉터",
+      "en": null
+    },
+    {
+      "Key": "Relic_DESC_017",
+      "ko": "획득 시, 실드가 5 증가합니다.",
+      "en": null
+    },
+    {
+      "Key": "Relic_018",
+      "ko": "번개 수정",
+      "en": null
+    },
+    {
+      "Key": "Relic_DESC_018",
+      "ko": "획득 시, 치명타 피해가 25% 증가합니다.",
+      "en": null
+    },
+    {
+      "Key": "Relic_019",
+      "ko": "번개 파편",
+      "en": null
+    },
+    {
+      "Key": "Relic_DESC_019",
+      "ko": "획득 시, 치명타 확률이 5% 증가합니다.",
+      "en": null
+    },
+    {
+      "Key": "Relic_020",
+      "ko": "붕대 뭉치",
+      "en": null
+    },
+    {
+      "Key": "Relic_DESC_020",
+      "ko": "매 전투 시작 시 체력이 3 회복됩니다.",
+      "en": null
+    },
+    {
+      "Key": "Relic_021",
+      "ko": "반응 방패",
+      "en": null
+    },
+    {
+      "Key": "Relic_DESC_021",
+      "ko": "피격 시 실드가 없으면 실드 2를 생성합니다.",
+      "en": null
+    },
+    {
+      "Key": "Relic_022",
+      "ko": "분노의 반지",
+      "en": null
+    },
+    {
+      "Key": "Relic_DESC_022",
+      "ko": "체력이 30% 이하일 때 공격력이 4 증가합니다.",
+      "en": null
+    },
+    {
+      "Key": "Relic_023",
+      "ko": "약자의 역습",
+      "en": null
+    },
+    {
+      "Key": "Relic_DESC_023",
+      "ko": "체력이 50% 이하일 때 치명타 확률이 15% 증가합니다.",
+      "en": null
+    },
+    {
+      "Key": "Relic_024",
+      "ko": "죽음의 각오",
+      "en": null
+    },
+    {
+      "Key": "Relic_DESC_024",
+      "ko": "체력이 20% 이하일 때 모든 공격이 치명타로 발동합니다.",
+      "en": null
+    },
+    {
+      "Key": "Relic_025",
+      "ko": "사냥꾼의 훈장",
+      "en": null
+    },
+    {
+      "Key": "Relic_DESC_025",
+      "ko": "전투 승리마다 공격력이 영구적으로 0.5 증가합니다.",
+      "en": null
+    },
+    {
+      "Key": "Relic_026",
+      "ko": "여정의 기록",
+      "en": null
+    },
+    {
+      "Key": "Relic_DESC_026",
+      "ko": "이벤트 방문마다 최대 체력이 영구적으로 1 증가합니다.",
+      "en": null
+    },
+    {
+      "Key": "Relic_027",
+      "ko": "연쇄의 법칙",
+      "en": null
+    },
+    {
+      "Key": "Relic_DESC_027",
+      "ko": "치명타 발동 시 이번 전투 내 공격력이 1 증가합니다.",
+      "en": null
+    },
+    {
+      "Key": "Relic_028",
+      "ko": "갈증",
+      "en": null
+    },
+    {
+      "Key": "Relic_DESC_028",
+      "ko": "피격당할 때마다 이번 전투 내 공격력이 0.1 증가합니다.",
+      "en": null
+    },
+    {
+      "Key": "Relic_029",
+      "ko": "역발상의 갑옷",
+      "en": null
+    },
+    {
+      "Key": "Relic_DESC_029",
+      "ko": "방어력 수치가 공격력에 그대로 합산됩니다.",
+      "en": null
+    },
+    {
+      "Key": "Relic_030",
+      "ko": "혈전의 칼",
+      "en": null
+    },
+    {
+      "Key": "Relic_DESC_030",
+      "ko": "최대 체력의 5%가 공격력에 추가됩니다.",
+      "en": null
+    },
+    {
+      "Key": "Relic_031",
+      "ko": "모험가의 배낭",
+      "en": null
+    },
+    {
+      "Key": "Relic_DESC_031",
+      "ko": "보유 유물 1개마다 공격력이 0.5 추가됩니다.",
+      "en": null
+    },
+    {
+      "Key": "Relic_032",
+      "ko": "영웅의 문장",
+      "en": null
+    },
+    {
+      "Key": "Relic_DESC_032",
+      "ko": "보스 전투에서만 공격력이 6 증가합니다.",
+      "en": null
+    },
+    {
+      "Key": "Relic_033",
+      "ko": "집중의 안대",
+      "en": null
+    },
+    {
+      "Key": "Relic_DESC_033",
+      "ko": "보스 전투에서만 치명타 확률이 20% 증가합니다.",
+      "en": null
+    },
+    {
+      "Key": "Relic_034",
+      "ko": "유리 대포",
+      "en": null
+    },
+    {
+      "Key": "Relic_DESC_034",
+      "ko": "획득 시 최대 체력이 15 감소하지만 공격력이 5 증가합니다.",
+      "en": null
+    },
+    {
+      "Key": "Relic_035",
+      "ko": "리듬의 검",
+      "en": null
+    },
+    {
+      "Key": "Relic_DESC_035",
+      "ko": "공격할 때마다 이번 전투 내 공격력이 1 누적됩니다. 피격 시 누적량이 초기화됩니다.",
+      "en": null
+    },
+    {
+      "Key": "Relic_036",
+      "ko": "도박사의 동전",
+      "en": null
+    },
+    {
+      "Key": "Relic_DESC_036",
+      "ko": "매 공격 시 50% 확률로 공격력이 2배가 됩니다.",
+      "en": null
+    },
+    {
+      "Key": "Relic_037",
+      "ko": "가시 갑옷",
+      "en": null
+    },
+    {
+      "Key": "Relic_DESC_037",
+      "ko": "받은 피해의 20%를 적에게 반사합니다.",
+      "en": null
+    },
+    {
+      "Key": "Relic_038",
+      "ko": "치명타 갑옷",
+      "en": null
+    },
+    {
+      "Key": "Relic_DESC_038",
+      "ko": "치명타 확률 1%마다 방어력이 0.2 증가합니다.",
+      "en": null
+    },
+    {
+      "Key": "Relic_039",
+      "ko": "생명의 분노",
+      "en": null
+    },
+    {
+      "Key": "Relic_DESC_039",
+      "ko": "현재 체력이 최대 체력에 가까울수록 공격력이 최대 5 증가합니다.",
+      "en": null
+    },
+    {
+      "Key": "Relic_040",
+      "ko": "전투의 흥분",
+      "en": null
+    },
+    {
+      "Key": "Relic_DESC_040",
+      "ko": "전투 중 10초마다 공격력이 1 증가합니다. (전투 종료 시 초기화)",
+      "en": null
+    },
+    {
+      "Key": "Relic_041",
+      "ko": "뱀파이어의 예리함",
+      "en": null
+    },
+    {
+      "Key": "Relic_DESC_041",
+      "ko": "적 20마리를 처치할 때마다 체력이 1 회복됩니다.",
+      "en": null
+    },
+    {
+      "Key": "Relic_042",
+      "ko": "비운의 칼날",
+      "en": null
+    },
+    {
+      "Key": "Relic_DESC_042",
+      "ko": "치명타가 발동되지 않은 공격마다 치명타 확률이 2% 누적됩니다. 치명타 발동 시 초기화됩니다.",
+      "en": null
+    },
+    {
+      "Key": "Relic_043",
+      "ko": "완전 승리",
+      "en": null
+    },
+    {
+      "Key": "Relic_DESC_043",
+      "ko": "피격 없이 전투를 승리하면 최대 체력이 영구적으로 2 증가합니다.",
+      "en": null
+    },
+    {
+      "Key": "Relic_044",
+      "ko": "피 흘린 승리",
+      "en": null
+    },
+    {
+      "Key": "Relic_DESC_044",
+      "ko": "체력이 40% 이하인 상태로 전투를 승리하면 공격력이 영구적으로 1 증가합니다.",
+      "en": null
+    },
+    {
+      "Key": "Relic_045",
+      "ko": "만피의 각오",
+      "en": null
+    },
+    {
+      "Key": "Relic_DESC_045",
+      "ko": "전투 시작 시 체력이 최대이면 이번 전투 내 공격력이 4 증가합니다.",
+      "en": null
+    },
+    {
+      "Key": "Relic_046",
+      "ko": "소진된 각오",
+      "en": null
+    },
+    {
+      "Key": "Relic_DESC_046",
+      "ko": "전투 시작 시 체력이 50% 이하이면 이번 전투 내 방어력이 4 증가합니다.",
+      "en": null
+    },
+    {
+      "Key": "Relic_047",
+      "ko": "승리의 안도",
+      "en": null
+    },
+    {
+      "Key": "Relic_DESC_047",
+      "ko": "전투 승리 후 최대 체력의 5%만큼 체력이 회복됩니다.",
       "en": null
     }
   ]

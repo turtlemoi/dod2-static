@@ -23,54 +23,360 @@
       "Tier": 1,
       "RelicName": "Relic_003",
       "RelicDesc": "Relic_DESC_003",
-      "Icon": null,
-      "RewardType": null,
-      "Value": null
+      "Icon": "PoisonedSword",
+      "RewardType": 101,
+      "Value": 2
     },
     {
       "ID": 4,
-      "Tier": null,
-      "RelicName": null,
-      "RelicDesc": null,
-      "Icon": null,
-      "RewardType": null,
-      "Value": null
+      "Tier": 1,
+      "RelicName": "Relic_004",
+      "RelicDesc": "Relic_DESC_004",
+      "Icon": "MushroomSpore",
+      "RewardType": 102,
+      "Value": 10
     },
     {
       "ID": 5,
-      "Tier": null,
-      "RelicName": null,
-      "RelicDesc": null,
-      "Icon": null,
-      "RewardType": null,
+      "Tier": 1,
+      "RelicName": "Relic_005",
+      "RelicDesc": "Relic_DESC_005",
+      "Icon": "MerchantAmulet",
+      "RewardType": 102,
+      "Value": 8
+    },
+    {
+      "ID": 7,
+      "Tier": 2,
+      "RelicName": "Relic_007",
+      "RelicDesc": "Relic_DESC_007",
+      "Icon": "SulfurCrystal",
+      "RewardType": 101,
+      "Value": 3
+    },
+    {
+      "ID": 8,
+      "Tier": 2,
+      "RelicName": "Relic_008",
+      "RelicDesc": "Relic_DESC_008",
+      "Icon": "AltarShard",
+      "RewardType": 107,
+      "Value": 10
+    },
+    {
+      "ID": 9,
+      "Tier": 2,
+      "RelicName": "Relic_009",
+      "RelicDesc": "Relic_DESC_009",
+      "Icon": "GuardianBlessing",
+      "RewardType": 104,
+      "Value": 3
+    },
+    {
+      "ID": 12,
+      "Tier": 2,
+      "RelicName": "Relic_012",
+      "RelicDesc": "Relic_DESC_012",
+      "Icon": "WolfHide",
+      "RewardType": 104,
+      "Value": 4
+    },
+    {
+      "ID": 15,
+      "Tier": 1,
+      "RelicName": "Relic_015",
+      "RelicDesc": "Relic_DESC_015",
+      "Icon": "HerbalistElixir",
+      "RewardType": 102,
+      "Value": 12
+    },
+    {
+      "ID": 16,
+      "Tier": 2,
+      "RelicName": "Relic_016",
+      "RelicDesc": "Relic_DESC_016",
+      "Icon": "ViperFang",
+      "RewardType": 107,
+      "Value": 8
+    },
+    {
+      "ID": 17,
+      "Tier": 1,
+      "RelicName": "Relic_017",
+      "RelicDesc": "Relic_DESC_017",
+      "Icon": "ViperScar",
+      "RewardType": 105,
+      "Value": 5
+    },
+    {
+      "ID": 18,
+      "Tier": 2,
+      "RelicName": "Relic_018",
+      "RelicDesc": "Relic_DESC_018",
+      "Icon": "ThunderCrystal",
+      "RewardType": 108,
+      "Value": 25
+    },
+    {
+      "ID": 19,
+      "Tier": 1,
+      "RelicName": "Relic_019",
+      "RelicDesc": "Relic_DESC_019",
+      "Icon": "ThunderShard",
+      "RewardType": 107,
+      "Value": 5
+    },
+    {
+      "ID": 20,
+      "Tier": 1,
+      "RelicName": "Relic_020",
+      "RelicDesc": "Relic_DESC_020",
+      "Icon": "BandageRoll",
+      "RewardType": 1001,
+      "Value": 3
+    },
+    {
+      "ID": 21,
+      "Tier": 1,
+      "RelicName": "Relic_021",
+      "RelicDesc": "Relic_DESC_021",
+      "Icon": "ReactiveShield",
+      "RewardType": 1303,
+      "Value": 2
+    },
+    {
+      "ID": 22,
+      "Tier": 2,
+      "RelicName": "Relic_022",
+      "RelicDesc": "Relic_DESC_022",
+      "Icon": "FuryRing",
+      "RewardType": 1101,
+      "Value": "30,4"
+    },
+    {
+      "ID": 23,
+      "Tier": 2,
+      "RelicName": "Relic_023",
+      "RelicDesc": "Relic_DESC_023",
+      "Icon": "WeakRevenge",
+      "RewardType": 1102,
+      "Value": "50,15"
+    },
+    {
+      "ID": 24,
+      "Tier": 3,
+      "RelicName": "Relic_024",
+      "RelicDesc": "Relic_DESC_024",
+      "Icon": "DeathResolve",
+      "RewardType": 1103,
+      "Value": 20
+    },
+    {
+      "ID": 25,
+      "Tier": 2,
+      "RelicName": "Relic_025",
+      "RelicDesc": "Relic_DESC_025",
+      "Icon": "HunterMedal",
+      "RewardType": 1201,
+      "Value": 0.5
+    },
+    {
+      "ID": 26,
+      "Tier": 1,
+      "RelicName": "Relic_026",
+      "RelicDesc": "Relic_DESC_026",
+      "Icon": "JournalRecord",
+      "RewardType": 1202,
+      "Value": 1
+    },
+    {
+      "ID": 27,
+      "Tier": 2,
+      "RelicName": "Relic_027",
+      "RelicDesc": "Relic_DESC_027",
+      "Icon": "ChainLaw",
+      "RewardType": 1301,
+      "Value": 1
+    },
+    {
+      "ID": 28,
+      "Tier": 2,
+      "RelicName": "Relic_028",
+      "RelicDesc": "Relic_DESC_028",
+      "Icon": "Thirst",
+      "RewardType": 1302,
+      "Value": 1
+    },
+    {
+      "ID": 29,
+      "Tier": 3,
+      "RelicName": "Relic_029",
+      "RelicDesc": "Relic_DESC_029",
+      "Icon": "ReversalArmor",
+      "RewardType": 1401,
       "Value": null
     },
     {
-      "ID": 6,
-      "Tier": null,
-      "RelicName": null,
-      "RelicDesc": null,
-      "Icon": null,
-      "RewardType": null,
-      "Value": null
+      "ID": 30,
+      "Tier": 2,
+      "RelicName": "Relic_030",
+      "RelicDesc": "Relic_DESC_030",
+      "Icon": "BloodBattleSword",
+      "RewardType": 1402,
+      "Value": 5
     },
     {
-      "ID": 101,
-      "Tier": null,
-      "RelicName": null,
-      "RelicDesc": null,
-      "Icon": null,
-      "RewardType": null,
-      "Value": null
+      "ID": 31,
+      "Tier": 2,
+      "RelicName": "Relic_031",
+      "RelicDesc": "Relic_DESC_031",
+      "Icon": "AdventurerBag",
+      "RewardType": 1403,
+      "Value": 0.5
     },
     {
-      "ID": 102,
-      "Tier": null,
-      "RelicName": null,
-      "RelicDesc": null,
-      "Icon": null,
-      "RewardType": null,
-      "Value": null
+      "ID": 32,
+      "Tier": 2,
+      "RelicName": "Relic_032",
+      "RelicDesc": "Relic_DESC_032",
+      "Icon": "HeroEmblem",
+      "RewardType": 1701,
+      "Value": 6
+    },
+    {
+      "ID": 33,
+      "Tier": 2,
+      "RelicName": "Relic_033",
+      "RelicDesc": "Relic_DESC_033",
+      "Icon": "FocusEyepatch",
+      "RewardType": 1702,
+      "Value": 20
+    },
+    {
+      "ID": 34,
+      "Tier": 2,
+      "RelicName": "Relic_034",
+      "RelicDesc": "Relic_DESC_034",
+      "Icon": "GlassCannon",
+      "RewardType": 1901,
+      "Value": "15,5"
+    },
+    {
+      "ID": 35,
+      "Tier": 2,
+      "RelicName": "Relic_035",
+      "RelicDesc": "Relic_DESC_035",
+      "Icon": "RhythmSword",
+      "RewardType": 1305,
+      "Value": 1
+    },
+    {
+      "ID": 36,
+      "Tier": 2,
+      "RelicName": "Relic_036",
+      "RelicDesc": "Relic_DESC_036",
+      "Icon": "GamblerCoin",
+      "RewardType": 1501,
+      "Value": 50
+    },
+    {
+      "ID": 37,
+      "Tier": 2,
+      "RelicName": "Relic_037",
+      "RelicDesc": "Relic_DESC_037",
+      "Icon": "ThornArmor",
+      "RewardType": 1601,
+      "Value": 20
+    },
+    {
+      "ID": 38,
+      "Tier": 2,
+      "RelicName": "Relic_038",
+      "RelicDesc": "Relic_DESC_038",
+      "Icon": "CritArmor",
+      "RewardType": 1802,
+      "Value": 0.2
+    },
+    {
+      "ID": 39,
+      "Tier": 2,
+      "RelicName": "Relic_039",
+      "RelicDesc": "Relic_DESC_039",
+      "Icon": "LifeFury",
+      "RewardType": 1803,
+      "Value": 5
+    },
+    {
+      "ID": 40,
+      "Tier": 1,
+      "RelicName": "Relic_040",
+      "RelicDesc": "Relic_DESC_040",
+      "Icon": "BattleFrenzy",
+      "RewardType": 1801,
+      "Value": 10
+    },
+    {
+      "ID": 41,
+      "Tier": 1,
+      "RelicName": "Relic_041",
+      "RelicDesc": "Relic_DESC_041",
+      "Icon": "VampireEdge",
+      "RewardType": 1306,
+      "Value": "20,1"
+    },
+    {
+      "ID": 42,
+      "Tier": 2,
+      "RelicName": "Relic_042",
+      "RelicDesc": "Relic_DESC_042",
+      "Icon": "UnluckyBlade",
+      "RewardType": 1304,
+      "Value": 2
+    },
+    {
+      "ID": 43,
+      "Tier": 2,
+      "RelicName": "Relic_043",
+      "RelicDesc": "Relic_DESC_043",
+      "Icon": "PerfectVictory",
+      "RewardType": 1203,
+      "Value": 2
+    },
+    {
+      "ID": 44,
+      "Tier": 2,
+      "RelicName": "Relic_044",
+      "RelicDesc": "Relic_DESC_044",
+      "Icon": "BloodyVictory",
+      "RewardType": 1204,
+      "Value": "40,1"
+    },
+    {
+      "ID": 45,
+      "Tier": 1,
+      "RelicName": "Relic_045",
+      "RelicDesc": "Relic_DESC_045",
+      "Icon": "FullHpResolve",
+      "RewardType": 1002,
+      "Value": 4
+    },
+    {
+      "ID": 46,
+      "Tier": 1,
+      "RelicName": "Relic_046",
+      "RelicDesc": "Relic_DESC_046",
+      "Icon": "ExhaustedResolve",
+      "RewardType": 1003,
+      "Value": "50,4"
+    },
+    {
+      "ID": 47,
+      "Tier": 1,
+      "RelicName": "Relic_047",
+      "RelicDesc": "Relic_DESC_047",
+      "Icon": "VictoryRelief",
+      "RewardType": 1205,
+      "Value": 5
     }
   ]
 }
