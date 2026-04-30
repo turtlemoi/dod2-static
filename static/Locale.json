@@ -12,73 +12,123 @@
     },
     {
       "Key": "SYNERGY_1",
-      "ko": "전사",
-      "en": "Warrior"
+      "ko": "무기술",
+      "en": null
     },
     {
       "Key": "SYNERGY_2",
-      "ko": "궁수",
-      "en": "Archer"
+      "ko": "베기",
+      "en": null
     },
     {
       "Key": "SYNERGY_3",
-      "ko": "마법사",
-      "en": "Wizard"
+      "ko": "어검술",
+      "en": null
     },
     {
       "Key": "SYNERGY_4",
-      "ko": "강령술사",
-      "en": "Necromancer"
+      "ko": "일격필살",
+      "en": null
     },
     {
       "Key": "SYNERGY_5",
-      "ko": "격투가",
-      "en": "Pugilist"
+      "ko": "사격술",
+      "en": null
     },
     {
       "Key": "SYNERGY_6",
-      "ko": "도적",
-      "en": "Rogue"
+      "ko": "공성병기",
+      "en": null
     },
     {
       "Key": "SYNERGY_7",
-      "ko": "주술사",
-      "en": "Shaman"
+      "ko": "사냥꾼",
+      "en": null
     },
     {
       "Key": "SYNERGY_8",
-      "ko": "화염",
-      "en": "Fire"
+      "ko": "정령화살",
+      "en": null
     },
     {
       "Key": "SYNERGY_9",
-      "ko": "냉기",
-      "en": "Blizzard"
+      "ko": "냉기 마법",
+      "en": null
     },
     {
       "Key": "SYNERGY_10",
-      "ko": "전기",
-      "en": "Electricity"
+      "ko": "화염 마법",
+      "en": null
     },
     {
       "Key": "SYNERGY_11",
-      "ko": "어둠",
-      "en": "Darkness"
+      "ko": "전기 마법",
+      "en": null
     },
     {
       "Key": "SYNERGY_12",
-      "ko": "독",
-      "en": "Poison"
+      "ko": "해골술사",
+      "en": null
     },
     {
       "Key": "SYNERGY_13",
-      "ko": "찌르기",
-      "en": "Stab"
+      "ko": "뼈술사",
+      "en": null
     },
     {
       "Key": "SYNERGY_14",
-      "ko": "충격",
-      "en": "Shock"
+      "ko": "골렘 술사",
+      "en": null
+    },
+    {
+      "Key": "SYNERGY_15",
+      "ko": "철권",
+      "en": null
+    },
+    {
+      "Key": "SYNERGY_16",
+      "ko": "질풍",
+      "en": null
+    },
+    {
+      "Key": "SYNERGY_17",
+      "ko": "야성폭주",
+      "en": null
+    },
+    {
+      "Key": "SYNERGY_18",
+      "ko": "오의",
+      "en": null
+    },
+    {
+      "Key": "SYNERGY_19",
+      "ko": "단검술",
+      "en": null
+    },
+    {
+      "Key": "SYNERGY_20",
+      "ko": "투척술",
+      "en": null
+    },
+    {
+      "Key": "SYNERGY_21",
+      "ko": "암살",
+      "en": null
+    },
+    {
+      "Key": "SYNERGY_22",
+      "ko": "독",
+      "en": null
+    },
+    {
+      "Key": "SYNERGY_23",
+      "ko": "부두술",
+      "en": null
+    },
+    {
+      "Key": "SYNERGY_24",
+      "ko": "토템",
+      "en": null
     },
     {
       "Key": "SYNERGY_1_DESC",
