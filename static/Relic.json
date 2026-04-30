@@ -7,7 +7,8 @@
       "RelicDesc": "Relic_DESC_001",
       "Icon": "Packedlunch",
       "RewardType": 102,
-      "Value": 5
+      "Value1": 5,
+      "Value2": null
     },
     {
       "ID": 2,
@@ -16,7 +17,8 @@
       "RelicDesc": "Relic_DESC_002",
       "Icon": "WornDagger",
       "RewardType": 101,
-      "Value": 1
+      "Value1": 1,
+      "Value2": null
     },
     {
       "ID": 3,
@@ -25,7 +27,8 @@
       "RelicDesc": "Relic_DESC_003",
       "Icon": "PoisonedSword",
       "RewardType": 101,
-      "Value": 2
+      "Value1": 2,
+      "Value2": null
     },
     {
       "ID": 4,
@@ -34,7 +37,8 @@
       "RelicDesc": "Relic_DESC_004",
       "Icon": "MushroomSpore",
       "RewardType": 102,
-      "Value": 10
+      "Value1": 10,
+      "Value2": null
     },
     {
       "ID": 5,
@@ -43,7 +47,8 @@
       "RelicDesc": "Relic_DESC_005",
       "Icon": "MerchantAmulet",
       "RewardType": 102,
-      "Value": 8
+      "Value1": 8,
+      "Value2": null
     },
     {
       "ID": 7,
@@ -52,7 +57,8 @@
       "RelicDesc": "Relic_DESC_007",
       "Icon": "SulfurCrystal",
       "RewardType": 101,
-      "Value": 3
+      "Value1": 3,
+      "Value2": null
     },
     {
       "ID": 8,
@@ -61,7 +67,8 @@
       "RelicDesc": "Relic_DESC_008",
       "Icon": "AltarShard",
       "RewardType": 107,
-      "Value": 10
+      "Value1": 10,
+      "Value2": null
     },
     {
       "ID": 9,
@@ -70,7 +77,8 @@
       "RelicDesc": "Relic_DESC_009",
       "Icon": "GuardianBlessing",
       "RewardType": 104,
-      "Value": 3
+      "Value1": 3,
+      "Value2": null
     },
     {
       "ID": 12,
@@ -79,7 +87,8 @@
       "RelicDesc": "Relic_DESC_012",
       "Icon": "WolfHide",
       "RewardType": 104,
-      "Value": 4
+      "Value1": 4,
+      "Value2": null
     },
     {
       "ID": 15,
@@ -88,7 +97,8 @@
       "RelicDesc": "Relic_DESC_015",
       "Icon": "HerbalistElixir",
       "RewardType": 102,
-      "Value": 12
+      "Value1": 12,
+      "Value2": null
     },
     {
       "ID": 16,
@@ -97,7 +107,8 @@
       "RelicDesc": "Relic_DESC_016",
       "Icon": "ViperFang",
       "RewardType": 107,
-      "Value": 8
+      "Value1": 8,
+      "Value2": null
     },
     {
       "ID": 17,
@@ -106,7 +117,8 @@
       "RelicDesc": "Relic_DESC_017",
       "Icon": "ViperScar",
       "RewardType": 105,
-      "Value": 5
+      "Value1": 5,
+      "Value2": null
     },
     {
       "ID": 18,
@@ -115,7 +127,8 @@
       "RelicDesc": "Relic_DESC_018",
       "Icon": "ThunderCrystal",
       "RewardType": 108,
-      "Value": 25
+      "Value1": 25,
+      "Value2": null
     },
     {
       "ID": 19,
@@ -124,7 +137,8 @@
       "RelicDesc": "Relic_DESC_019",
       "Icon": "ThunderShard",
       "RewardType": 107,
-      "Value": 5
+      "Value1": 5,
+      "Value2": null
     },
     {
       "ID": 20,
@@ -133,7 +147,8 @@
       "RelicDesc": "Relic_DESC_020",
       "Icon": "BandageRoll",
       "RewardType": 1001,
-      "Value": 3
+      "Value1": 3,
+      "Value2": null
     },
     {
       "ID": 21,
@@ -142,7 +157,8 @@
       "RelicDesc": "Relic_DESC_021",
       "Icon": "ReactiveShield",
       "RewardType": 1303,
-      "Value": 2
+      "Value1": 2,
+      "Value2": null
     },
     {
       "ID": 22,
@@ -151,7 +167,8 @@
       "RelicDesc": "Relic_DESC_022",
       "Icon": "FuryRing",
       "RewardType": 1101,
-      "Value": "30,4"
+      "Value1": 30,
+      "Value2": 4
     },
     {
       "ID": 23,
@@ -160,7 +177,8 @@
       "RelicDesc": "Relic_DESC_023",
       "Icon": "WeakRevenge",
       "RewardType": 1102,
-      "Value": "50,15"
+      "Value1": 50,
+      "Value2": 15
     },
     {
       "ID": 24,
@@ -169,7 +187,8 @@
       "RelicDesc": "Relic_DESC_024",
       "Icon": "DeathResolve",
       "RewardType": 1103,
-      "Value": 20
+      "Value1": 20,
+      "Value2": null
     },
     {
       "ID": 25,
@@ -178,7 +197,8 @@
       "RelicDesc": "Relic_DESC_025",
       "Icon": "HunterMedal",
       "RewardType": 1201,
-      "Value": 0.5
+      "Value1": 0.5,
+      "Value2": null
     },
     {
       "ID": 26,
@@ -187,7 +207,8 @@
       "RelicDesc": "Relic_DESC_026",
       "Icon": "JournalRecord",
       "RewardType": 1202,
-      "Value": 1
+      "Value1": 1,
+      "Value2": null
     },
     {
       "ID": 27,
@@ -196,7 +217,8 @@
       "RelicDesc": "Relic_DESC_027",
       "Icon": "ChainLaw",
       "RewardType": 1301,
-      "Value": 1
+      "Value1": 1,
+      "Value2": null
     },
     {
       "ID": 28,
@@ -205,7 +227,8 @@
       "RelicDesc": "Relic_DESC_028",
       "Icon": "Thirst",
       "RewardType": 1302,
-      "Value": 1
+      "Value1": 1,
+      "Value2": null
     },
     {
       "ID": 29,
@@ -214,7 +237,8 @@
       "RelicDesc": "Relic_DESC_029",
       "Icon": "ReversalArmor",
       "RewardType": 1401,
-      "Value": null
+      "Value1": null,
+      "Value2": null
     },
     {
       "ID": 30,
@@ -223,7 +247,8 @@
       "RelicDesc": "Relic_DESC_030",
       "Icon": "BloodBattleSword",
       "RewardType": 1402,
-      "Value": 5
+      "Value1": 5,
+      "Value2": null
     },
     {
       "ID": 31,
@@ -232,7 +257,8 @@
       "RelicDesc": "Relic_DESC_031",
       "Icon": "AdventurerBag",
       "RewardType": 1403,
-      "Value": 0.5
+      "Value1": 0.5,
+      "Value2": null
     },
     {
       "ID": 32,
@@ -241,7 +267,8 @@
       "RelicDesc": "Relic_DESC_032",
       "Icon": "HeroEmblem",
       "RewardType": 1701,
-      "Value": 6
+      "Value1": 6,
+      "Value2": null
     },
     {
       "ID": 33,
@@ -250,7 +277,8 @@
       "RelicDesc": "Relic_DESC_033",
       "Icon": "FocusEyepatch",
       "RewardType": 1702,
-      "Value": 20
+      "Value1": 20,
+      "Value2": null
     },
     {
       "ID": 34,
@@ -259,7 +287,8 @@
       "RelicDesc": "Relic_DESC_034",
       "Icon": "GlassCannon",
       "RewardType": 1901,
-      "Value": "15,5"
+      "Value1": 15,
+      "Value2": 5
     },
     {
       "ID": 35,
@@ -268,7 +297,8 @@
       "RelicDesc": "Relic_DESC_035",
       "Icon": "RhythmSword",
       "RewardType": 1305,
-      "Value": 1
+      "Value1": 1,
+      "Value2": null
     },
     {
       "ID": 36,
@@ -277,7 +307,8 @@
       "RelicDesc": "Relic_DESC_036",
       "Icon": "GamblerCoin",
       "RewardType": 1501,
-      "Value": 50
+      "Value1": 50,
+      "Value2": null
     },
     {
       "ID": 37,
@@ -286,7 +317,8 @@
       "RelicDesc": "Relic_DESC_037",
       "Icon": "ThornArmor",
       "RewardType": 1601,
-      "Value": 20
+      "Value1": 20,
+      "Value2": null
     },
     {
       "ID": 38,
@@ -295,7 +327,8 @@
       "RelicDesc": "Relic_DESC_038",
       "Icon": "CritArmor",
       "RewardType": 1802,
-      "Value": 0.2
+      "Value1": 0.2,
+      "Value2": null
     },
     {
       "ID": 39,
@@ -304,7 +337,8 @@
       "RelicDesc": "Relic_DESC_039",
       "Icon": "LifeFury",
       "RewardType": 1803,
-      "Value": 5
+      "Value1": 5,
+      "Value2": null
     },
     {
       "ID": 40,
@@ -313,7 +347,8 @@
       "RelicDesc": "Relic_DESC_040",
       "Icon": "BattleFrenzy",
       "RewardType": 1801,
-      "Value": 10
+      "Value1": 10,
+      "Value2": null
     },
     {
       "ID": 41,
@@ -322,7 +357,8 @@
       "RelicDesc": "Relic_DESC_041",
       "Icon": "VampireEdge",
       "RewardType": 1306,
-      "Value": "20,1"
+      "Value1": 20,
+      "Value2": 1
     },
     {
       "ID": 42,
@@ -331,7 +367,8 @@
       "RelicDesc": "Relic_DESC_042",
       "Icon": "UnluckyBlade",
       "RewardType": 1304,
-      "Value": 2
+      "Value1": 2,
+      "Value2": null
     },
     {
       "ID": 43,
@@ -340,7 +377,8 @@
       "RelicDesc": "Relic_DESC_043",
       "Icon": "PerfectVictory",
       "RewardType": 1203,
-      "Value": 2
+      "Value1": 2,
+      "Value2": null
     },
     {
       "ID": 44,
@@ -349,7 +387,8 @@
       "RelicDesc": "Relic_DESC_044",
       "Icon": "BloodyVictory",
       "RewardType": 1204,
-      "Value": "40,1"
+      "Value1": 40,
+      "Value2": 1
     },
     {
       "ID": 45,
@@ -358,7 +397,8 @@
       "RelicDesc": "Relic_DESC_045",
       "Icon": "FullHpResolve",
       "RewardType": 1002,
-      "Value": 4
+      "Value1": 4,
+      "Value2": null
     },
     {
       "ID": 46,
@@ -367,7 +407,8 @@
       "RelicDesc": "Relic_DESC_046",
       "Icon": "ExhaustedResolve",
       "RewardType": 1003,
-      "Value": "50,4"
+      "Value1": 50,
+      "Value2": 4
     },
     {
       "ID": 47,
@@ -376,7 +417,8 @@
       "RelicDesc": "Relic_DESC_047",
       "Icon": "VictoryRelief",
       "RewardType": 1205,
-      "Value": 5
+      "Value1": 5,
+      "Value2": null
     }
   ]
 }
