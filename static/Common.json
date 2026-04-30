@@ -159,6 +159,14 @@
     {
       "Key": "skillvalue_levelup",
       "Value": 10
+    },
+    {
+      "Key": "rest_heal_ratio",
+      "Value": 30
+    },
+    {
+      "Key": "rest_second_reward_type",
+      "Value": 302
     }
   ]
 }

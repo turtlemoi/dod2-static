@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-04-30T11:10:00.312Z",
+  "updatedAt": "2026-04-30T13:09:18.566Z",
   "sheets": [
     {
       "name": "Common",
-      "version": 26,
-      "hash": "1937b93c57c7758784b06b356ddc3dac7a0861103b01837b3e502729ba26e4d9",
+      "version": 27,
+      "hash": "42607a687931d1acd4509710ea3045884343225f7766e998d5b21c4fddca854d",
       "url": "/static/Common.json"
     },
     {
@@ -40,7 +40,7 @@
     {
       "name": "Relic",
       "version": 7,
-      "hash": "83c499988d49f17405bad4a907e53206c320a7d7fc45ac6b2e35188bbf5d4a10",
+      "hash": "23061e28e3789532ce166b8643ac5eaa6319205aba79bc1feb32428ec3c8d1b0",
       "url": "/static/Relic.json"
     },
     {
@@ -58,7 +58,7 @@
     {
       "name": "AttackSkills",
       "version": 523,
-      "hash": "d68b524d175fa7f872c7bd2ea2006ec57f85c19a6c89eb0790e61b5e386f930e",
+      "hash": "5890f597030bd8afba421339a07ce7849be84d65579904972aa3675a13be7561",
       "url": "/static/AttackSkills.json"
     },
     {
@@ -70,7 +70,7 @@
     {
       "name": "Locale",
       "version": 67,
-      "hash": "bb43f89766d4deef051a9f020f2227e4e51f5b6bb2a526d8e48471cc06ece743",
+      "hash": "b65c4981ba2bb1130b7769136e9bb998dc776a485966853fae55ce838e1a23cd",
       "url": "/static/Locale.json"
     },
     {
