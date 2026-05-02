@@ -13,12 +13,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "spear",
-      "SkillImageSize": 150,
-      "SkillImageAngle": -30,
-      "NewIcon": "NewIcon_W_spear",
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_001_warrior_spear_thrust"
     },
     {
       "ID": 110012,
@@ -33,12 +28,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "spear",
-      "SkillImageSize": 150,
-      "SkillImageAngle": -30,
-      "NewIcon": "NewIcon_W_spear",
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_001_warrior_spear_thrust"
     },
     {
       "ID": 110013,
@@ -53,12 +43,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "spear",
-      "SkillImageSize": 150,
-      "SkillImageAngle": -30,
-      "NewIcon": "NewIcon_W_spear",
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_001_warrior_spear_thrust"
     },
     {
       "ID": 110021,
@@ -73,12 +58,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "battle_axe",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": "NewIcon_W_battleAxe",
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_002_warrior_axe_throw"
     },
     {
       "ID": 110022,
@@ -93,12 +73,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "battle_axe",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": "NewIcon_W_battleAxe",
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_002_warrior_axe_throw"
     },
     {
       "ID": 110023,
@@ -113,12 +88,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "battle_axe",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": "NewIcon_W_battleAxe",
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_002_warrior_axe_throw"
     },
     {
       "ID": 110031,
@@ -133,12 +103,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "battle_axe",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 45,
-      "NewIcon": "NewIcon_W_swingAxe",
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_003_warrior_swing"
     },
     {
       "ID": 110032,
@@ -153,12 +118,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "battle_axe",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 45,
-      "NewIcon": "NewIcon_W_swingAxe",
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_003_warrior_swing"
     },
     {
       "ID": 110033,
@@ -173,12 +133,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "battle_axe",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 45,
-      "NewIcon": "NewIcon_W_swingAxe",
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_003_warrior_swing"
     },
     {
       "ID": 110041,
@@ -193,12 +148,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "swordaura",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": "NewIcon_W_circleSlash",
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_004_warrior_circular_slash"
     },
     {
       "ID": 110042,
@@ -213,12 +163,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "swordaura",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": "NewIcon_W_circleSlash",
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_004_warrior_circular_slash"
     },
     {
       "ID": 110043,
@@ -233,12 +178,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "swordaura",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": "NewIcon_W_circleSlash",
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_004_warrior_circular_slash"
     },
     {
       "ID": 110051,
@@ -253,12 +193,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "Icon_rotation_sword_fire",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": "NewIcon_W_fireSword",
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_005_warrior_flame_sword"
     },
     {
       "ID": 110052,
@@ -273,12 +208,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "Icon_rotation_sword_fire",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": "NewIcon_W_fireSword",
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_005_warrior_flame_sword"
     },
     {
       "ID": 110053,
@@ -293,12 +223,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "Icon_rotation_sword_fire",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": "NewIcon_W_fireSword",
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_005_warrior_flame_sword"
     },
     {
       "ID": 110061,
@@ -313,12 +238,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "nova_rock",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_006_warrior_combo_slash"
     },
     {
       "ID": 110062,
@@ -333,12 +253,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "nova_rock",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_006_warrior_combo_slash"
     },
     {
       "ID": 110063,
@@ -353,12 +268,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "nova_rock",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_006_warrior_combo_slash"
     },
     {
       "ID": 110071,
@@ -373,12 +283,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "spear_electric",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": "NewIcon_W_flyingSword",
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_007_warrior_flying_sword"
     },
     {
       "ID": 110072,
@@ -393,12 +298,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "spear_electric",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": "NewIcon_W_flyingSword",
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_007_warrior_flying_sword"
     },
     {
       "ID": 110073,
@@ -413,12 +313,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "spear_electric",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": "NewIcon_W_flyingSword",
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_007_warrior_flying_sword"
     },
     {
       "ID": 110081,
@@ -433,12 +328,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "nova_wind",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_008_warrior_hammer_slam"
     },
     {
       "ID": 110082,
@@ -453,12 +343,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "nova_wind",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_008_warrior_hammer_slam"
     },
     {
       "ID": 110083,
@@ -473,12 +358,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "nova_wind",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_008_warrior_hammer_slam"
     },
     {
       "ID": 110091,
@@ -493,12 +373,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "swordaura_fire",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": "NewIcon_W_swordDance",
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_009_warrior_sword_dance"
     },
     {
       "ID": 110092,
@@ -513,12 +388,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "swordaura_fire",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": "NewIcon_W_swordDance",
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_009_warrior_sword_dance"
     },
     {
       "ID": 110093,
@@ -533,12 +403,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "swordaura_fire",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": "NewIcon_W_swordDance",
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_009_warrior_sword_dance"
     },
     {
       "ID": 110101,
@@ -553,12 +418,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "Icon_3_swordaura_ice",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_010_warrior_charged_slash"
     },
     {
       "ID": 110102,
@@ -573,12 +433,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "Icon_3_swordaura_ice",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_010_warrior_charged_slash"
     },
     {
       "ID": 110103,
@@ -593,12 +448,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "Icon_3_swordaura_ice",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_010_warrior_charged_slash"
     },
     {
       "ID": 120011,
@@ -613,12 +463,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "arrow",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 190,
-      "NewIcon": "NewIcon_A_skyArrow",
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_011_archer_aerial_arrow"
     },
     {
       "ID": 120012,
@@ -633,12 +478,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "arrow",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 190,
-      "NewIcon": "NewIcon_A_skyArrow",
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_011_archer_aerial_arrow"
     },
     {
       "ID": 120013,
@@ -653,12 +493,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "arrow",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 190,
-      "NewIcon": "NewIcon_A_skyArrow",
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_011_archer_aerial_arrow"
     },
     {
       "ID": 120021,
@@ -673,12 +508,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "Icon_straight_arrow",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": "NewIcon_A_tripleArrow",
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_012_archer_triple_shot"
     },
     {
       "ID": 120022,
@@ -693,12 +523,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "Icon_straight_arrow",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": "NewIcon_A_tripleArrow",
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_012_archer_triple_shot"
     },
     {
       "ID": 120023,
@@ -713,12 +538,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "Icon_straight_arrow",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": "NewIcon_A_tripleArrow",
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_012_archer_triple_shot"
     },
     {
       "ID": 120031,
@@ -733,12 +553,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "arrow_bomb",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 30,
-      "NewIcon": "NewIcon_A_bombArrow",
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_013_archer_explosive_arrow"
     },
     {
       "ID": 120032,
@@ -753,12 +568,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "arrow_bomb",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 30,
-      "NewIcon": "NewIcon_A_bombArrow",
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_013_archer_explosive_arrow"
     },
     {
       "ID": 120033,
@@ -773,12 +583,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "arrow_bomb",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 30,
-      "NewIcon": "NewIcon_A_bombArrow",
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_013_archer_explosive_arrow"
     },
     {
       "ID": 120041,
@@ -793,12 +598,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "arrow_poison",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 30,
-      "NewIcon": "NewIcon_A_poisonArrow",
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_014_archer_poison_arrow"
     },
     {
       "ID": 120042,
@@ -813,12 +613,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "arrow_poison",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 30,
-      "NewIcon": "NewIcon_A_poisonArrow",
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_014_archer_poison_arrow"
     },
     {
       "ID": 120043,
@@ -833,12 +628,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "arrow_poison",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 30,
-      "NewIcon": "NewIcon_A_poisonArrow",
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_014_archer_poison_arrow"
     },
     {
       "ID": 120051,
@@ -853,12 +643,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "01_bear",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_015_archer_summon_bear"
     },
     {
       "ID": 120052,
@@ -873,12 +658,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "01_bear",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_015_archer_summon_bear"
     },
     {
       "ID": 120053,
@@ -893,12 +673,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "01_bear",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_015_archer_summon_bear"
     },
     {
       "ID": 120061,
@@ -913,12 +688,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "Icon_3_arrow",
-      "SkillImageSize": 120,
-      "SkillImageAngle": -40,
-      "NewIcon": "NewIcon_A_multiShot",
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_016_archer_multishot"
     },
     {
       "ID": 120062,
@@ -933,12 +703,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "Icon_3_arrow",
-      "SkillImageSize": 120,
-      "SkillImageAngle": -40,
-      "NewIcon": "NewIcon_A_multiShot",
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_016_archer_multishot"
     },
     {
       "ID": 120063,
@@ -953,12 +718,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "Icon_3_arrow",
-      "SkillImageSize": 120,
-      "SkillImageAngle": -40,
-      "NewIcon": "NewIcon_A_multiShot",
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_016_archer_multishot"
     },
     {
       "ID": 120071,
@@ -973,12 +733,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "arrow_electric",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 30,
-      "NewIcon": "NewIcon_A_electricShot",
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_017_archer_shock_arrow"
     },
     {
       "ID": 120072,
@@ -993,12 +748,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "arrow_electric",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 30,
-      "NewIcon": "NewIcon_A_electricShot",
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_017_archer_shock_arrow"
     },
     {
       "ID": 120073,
@@ -1013,12 +763,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "arrow_electric",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 30,
-      "NewIcon": "NewIcon_A_electricShot",
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_017_archer_shock_arrow"
     },
     {
       "ID": 120081,
@@ -1033,12 +778,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "arrow_storm",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 20,
-      "NewIcon": "NewIcon_A_tornadoShot",
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_018_archer_piercing_wind"
     },
     {
       "ID": 120082,
@@ -1053,12 +793,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "arrow_storm",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 20,
-      "NewIcon": "NewIcon_A_tornadoShot",
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_018_archer_piercing_wind"
     },
     {
       "ID": 120083,
@@ -1073,12 +808,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "arrow_storm",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 20,
-      "NewIcon": "NewIcon_A_tornadoShot",
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_018_archer_piercing_wind"
     },
     {
       "ID": 120091,
@@ -1093,12 +823,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "Icon_random_arrow",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": "NewIcon_A_arrowRain",
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_019_archer_arrow_rain"
     },
     {
       "ID": 120092,
@@ -1113,12 +838,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "Icon_random_arrow",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": "NewIcon_A_arrowRain",
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_019_archer_arrow_rain"
     },
     {
       "ID": 120093,
@@ -1133,12 +853,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "Icon_random_arrow",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": "NewIcon_A_arrowRain",
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_019_archer_arrow_rain"
     },
     {
       "ID": 120101,
@@ -1153,12 +868,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "arrow_dragon",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 180,
-      "NewIcon": "NewIcon_A_dragonArrow",
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_020_archer_dragon_arrow"
     },
     {
       "ID": 120102,
@@ -1173,12 +883,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "arrow_dragon",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 180,
-      "NewIcon": "NewIcon_A_dragonArrow",
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_020_archer_dragon_arrow"
     },
     {
       "ID": 120103,
@@ -1193,12 +898,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "arrow_dragon",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 180,
-      "NewIcon": "NewIcon_A_dragonArrow",
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_020_archer_dragon_arrow"
     },
     {
       "ID": 130011,
@@ -1213,12 +913,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "ice_pillar",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_021_mage_ice_pillar"
     },
     {
       "ID": 130012,
@@ -1233,12 +928,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "ice_pillar",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_021_mage_ice_pillar"
     },
     {
       "ID": 130013,
@@ -1253,12 +943,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "ice_pillar",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_021_mage_ice_pillar"
     },
     {
       "ID": 130021,
@@ -1273,12 +958,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "energybolt_fire_small",
-      "SkillImageSize": 150,
-      "SkillImageAngle": -20,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_022_mage_fireball"
     },
     {
       "ID": 130022,
@@ -1293,12 +973,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "energybolt_fire_small",
-      "SkillImageSize": 150,
-      "SkillImageAngle": -20,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_022_mage_fireball"
     },
     {
       "ID": 130023,
@@ -1313,12 +988,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "energybolt_fire_small",
-      "SkillImageSize": 150,
-      "SkillImageAngle": -20,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_022_mage_fireball"
     },
     {
       "ID": 130031,
@@ -1333,12 +1003,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "spear_ice",
-      "SkillImageSize": 150,
-      "SkillImageAngle": -80,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_023_mage_chain_lightning"
     },
     {
       "ID": 130032,
@@ -1353,12 +1018,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "spear_ice",
-      "SkillImageSize": 150,
-      "SkillImageAngle": -80,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_023_mage_chain_lightning"
     },
     {
       "ID": 130033,
@@ -1373,12 +1033,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "spear_ice",
-      "SkillImageSize": 150,
-      "SkillImageAngle": -80,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_023_mage_chain_lightning"
     },
     {
       "ID": 130041,
@@ -1393,12 +1048,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "Icon_rotation_ice",
-      "SkillImageSize": 100,
-      "SkillImageAngle": -25,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_024_mage_ice_shard"
     },
     {
       "ID": 130042,
@@ -1413,12 +1063,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "Icon_rotation_ice",
-      "SkillImageSize": 100,
-      "SkillImageAngle": -25,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_024_mage_ice_shard"
     },
     {
       "ID": 130043,
@@ -1433,12 +1078,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "Icon_rotation_ice",
-      "SkillImageSize": 100,
-      "SkillImageAngle": -25,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_024_mage_ice_shard"
     },
     {
       "ID": 130051,
@@ -1453,12 +1093,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "nova_ice",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_025_mage_frozen_orb"
     },
     {
       "ID": 130052,
@@ -1473,12 +1108,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "nova_ice",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_025_mage_frozen_orb"
     },
     {
       "ID": 130053,
@@ -1493,12 +1123,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "nova_ice",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_025_mage_frozen_orb"
     },
     {
       "ID": 130061,
@@ -1513,12 +1138,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "nova_electric",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_026_mage_lightning_nova"
     },
     {
       "ID": 130062,
@@ -1533,12 +1153,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "nova_electric",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_026_mage_lightning_nova"
     },
     {
       "ID": 130063,
@@ -1553,12 +1168,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "nova_electric",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_026_mage_lightning_nova"
     },
     {
       "ID": 130071,
@@ -1573,12 +1183,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "04_spiritelEctrict",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_027_mage_flamethrower"
     },
     {
       "ID": 130072,
@@ -1593,12 +1198,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "04_spiritelEctrict",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_027_mage_flamethrower"
     },
     {
       "ID": 130073,
@@ -1613,12 +1213,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "04_spiritelEctrict",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_027_mage_flamethrower"
     },
     {
       "ID": 130081,
@@ -1633,12 +1228,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "05_spiritfire",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_028_mage_frost_field"
     },
     {
       "ID": 130082,
@@ -1653,12 +1243,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "05_spiritfire",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_028_mage_frost_field"
     },
     {
       "ID": 130083,
@@ -1673,12 +1258,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "05_spiritfire",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_028_mage_frost_field"
     },
     {
       "ID": 130091,
@@ -1693,12 +1273,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "thunder",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_029_mage_lightning"
     },
     {
       "ID": 130092,
@@ -1713,12 +1288,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "thunder",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_029_mage_lightning"
     },
     {
       "ID": 130093,
@@ -1733,12 +1303,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "thunder",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_029_mage_lightning"
     },
     {
       "ID": 130101,
@@ -1753,12 +1318,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "energybolt_fire_large",
-      "SkillImageSize": 150,
-      "SkillImageAngle": -125,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_030_mage_meteor"
     },
     {
       "ID": 130102,
@@ -1773,12 +1333,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "energybolt_fire_large",
-      "SkillImageSize": 150,
-      "SkillImageAngle": -125,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_030_mage_meteor"
     },
     {
       "ID": 130103,
@@ -1793,12 +1348,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "energybolt_fire_large",
-      "SkillImageSize": 150,
-      "SkillImageAngle": -125,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_030_mage_meteor"
     },
     {
       "ID": 140011,
@@ -1813,12 +1363,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "skelctonArcher",
-      "SkillImageSize": 130,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_031_necromancer_skeleton_archer"
     },
     {
       "ID": 140012,
@@ -1833,12 +1378,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "skelctonArcher",
-      "SkillImageSize": 130,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_031_necromancer_skeleton_archer"
     },
     {
       "ID": 140013,
@@ -1853,12 +1393,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "skelctonArcher",
-      "SkillImageSize": 130,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_031_necromancer_skeleton_archer"
     },
     {
       "ID": 140021,
@@ -1873,12 +1408,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "Icon_3_skull_green",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 10,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_032_necromancer_bone_spike"
     },
     {
       "ID": 140022,
@@ -1893,12 +1423,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "Icon_3_skull_green",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 10,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_032_necromancer_bone_spike"
     },
     {
       "ID": 140023,
@@ -1913,12 +1438,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "Icon_3_skull_green",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 10,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_032_necromancer_bone_spike"
     },
     {
       "ID": 140031,
@@ -1933,12 +1453,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "spear_bone",
-      "SkillImageSize": 150,
-      "SkillImageAngle": -125,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_033_necromancer_bone_wrap"
     },
     {
       "ID": 140032,
@@ -1953,12 +1468,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "spear_bone",
-      "SkillImageSize": 150,
-      "SkillImageAngle": -125,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_033_necromancer_bone_wrap"
     },
     {
       "ID": 140033,
@@ -1973,12 +1483,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "spear_bone",
-      "SkillImageSize": 150,
-      "SkillImageAngle": -125,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_033_necromancer_bone_wrap"
     },
     {
       "ID": 140041,
@@ -1993,12 +1498,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "skelctonWarrior",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_034_necromancer_warrior_grave"
     },
     {
       "ID": 140042,
@@ -2013,12 +1513,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "skelctonWarrior",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_034_necromancer_warrior_grave"
     },
     {
       "ID": 140043,
@@ -2033,12 +1528,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "skelctonWarrior",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_034_necromancer_warrior_grave"
     },
     {
       "ID": 140051,
@@ -2053,12 +1543,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "skelctonWitcher",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_035_necromancer_skeleton_mage"
     },
     {
       "ID": 140052,
@@ -2073,12 +1558,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "skelctonWitcher",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_035_necromancer_skeleton_mage"
     },
     {
       "ID": 140053,
@@ -2093,12 +1573,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "skelctonWitcher",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_035_necromancer_skeleton_mage"
     },
     {
       "ID": 140061,
@@ -2113,12 +1588,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "nova_poison",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_036_necromancer_bone_storm"
     },
     {
       "ID": 140062,
@@ -2133,12 +1603,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "nova_poison",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_036_necromancer_bone_storm"
     },
     {
       "ID": 140063,
@@ -2153,12 +1618,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "nova_poison",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_036_necromancer_bone_storm"
     },
     {
       "ID": 140071,
@@ -2173,12 +1633,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "03_zombiegolem",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_037_necromancer_legion_grave"
     },
     {
       "ID": 140072,
@@ -2193,12 +1648,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "03_zombiegolem",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_037_necromancer_legion_grave"
     },
     {
       "ID": 140073,
@@ -2213,12 +1663,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "03_zombiegolem",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_037_necromancer_legion_grave"
     },
     {
       "ID": 140081,
@@ -2233,12 +1678,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "nova_blood",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_038_necromancer_summon_rock_golem"
     },
     {
       "ID": 140082,
@@ -2253,12 +1693,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "nova_blood",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_038_necromancer_summon_rock_golem"
     },
     {
       "ID": 140083,
@@ -2273,12 +1708,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "nova_blood",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_038_necromancer_summon_rock_golem"
     },
     {
       "ID": 140091,
@@ -2293,12 +1723,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "02_golem",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_039_necromancer_corpse_golem"
     },
     {
       "ID": 140092,
@@ -2313,12 +1738,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "02_golem",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_039_necromancer_corpse_golem"
     },
     {
       "ID": 140093,
@@ -2333,12 +1753,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "02_golem",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_039_necromancer_corpse_golem"
     },
     {
       "ID": 140101,
@@ -2353,12 +1768,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "aura_tomb",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_040_necromancer_bone_wave"
     },
     {
       "ID": 140102,
@@ -2373,12 +1783,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "aura_tomb",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_040_necromancer_bone_wave"
     },
     {
       "ID": 140103,
@@ -2393,12 +1798,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "aura_tomb",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_040_necromancer_bone_wave"
     },
     {
       "ID": 150011,
@@ -2413,12 +1813,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "Icon_attack_fire",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_041_fighter_triple_kick"
     },
     {
       "ID": 150012,
@@ -2433,12 +1828,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "Icon_attack_fire",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_041_fighter_triple_kick"
     },
     {
       "ID": 150013,
@@ -2453,12 +1843,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "Icon_attack_fire",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_041_fighter_triple_kick"
     },
     {
       "ID": 150021,
@@ -2473,12 +1858,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "punch",
-      "SkillImageSize": 120,
-      "SkillImageAngle": 5,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_042_fighter_power_punch"
     },
     {
       "ID": 150022,
@@ -2493,12 +1873,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "punch",
-      "SkillImageSize": 120,
-      "SkillImageAngle": 5,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_042_fighter_power_punch"
     },
     {
       "ID": 150023,
@@ -2513,12 +1888,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "punch",
-      "SkillImageSize": 120,
-      "SkillImageAngle": 5,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_042_fighter_power_punch"
     },
     {
       "ID": 150031,
@@ -2533,12 +1903,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "aura_energy",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_043_fighter_rapid_punch"
     },
     {
       "ID": 150032,
@@ -2553,12 +1918,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "aura_energy",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_043_fighter_rapid_punch"
     },
     {
       "ID": 150033,
@@ -2573,12 +1933,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "aura_energy",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_043_fighter_rapid_punch"
     },
     {
       "ID": 150041,
@@ -2593,12 +1948,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "punch_ice",
-      "SkillImageSize": 120,
-      "SkillImageAngle": 5,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_044_fighter_crescent_kick"
     },
     {
       "ID": 150042,
@@ -2613,12 +1963,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "punch_ice",
-      "SkillImageSize": 120,
-      "SkillImageAngle": 5,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_044_fighter_crescent_kick"
     },
     {
       "ID": 150043,
@@ -2633,12 +1978,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "punch_ice",
-      "SkillImageSize": 120,
-      "SkillImageAngle": 5,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_044_fighter_crescent_kick"
     },
     {
       "ID": 150051,
@@ -2653,12 +1993,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "palm_electric",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_045_fighter_stomp"
     },
     {
       "ID": 150052,
@@ -2673,12 +2008,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "palm_electric",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_045_fighter_stomp"
     },
     {
       "ID": 150053,
@@ -2693,12 +2023,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "palm_electric",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_045_fighter_stomp"
     },
     {
       "ID": 150061,
@@ -2713,12 +2038,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "energybolt",
-      "SkillImageSize": 130,
-      "SkillImageAngle": 10,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_046_fighter_frenzy_dance"
     },
     {
       "ID": 150062,
@@ -2733,12 +2053,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "energybolt",
-      "SkillImageSize": 130,
-      "SkillImageAngle": 10,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_046_fighter_frenzy_dance"
     },
     {
       "ID": 150063,
@@ -2753,12 +2068,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "energybolt",
-      "SkillImageSize": 130,
-      "SkillImageAngle": 10,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_046_fighter_frenzy_dance"
     },
     {
       "ID": 150071,
@@ -2773,12 +2083,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "Icon_attack_ice",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_047_fighter_rock_throw"
     },
     {
       "ID": 150072,
@@ -2793,12 +2098,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "Icon_attack_ice",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_047_fighter_rock_throw"
     },
     {
       "ID": 150073,
@@ -2813,12 +2113,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "Icon_attack_ice",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_047_fighter_rock_throw"
     },
     {
       "ID": 150081,
@@ -2833,12 +2128,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "aura_energy_electric",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_048_fighter_whirlwind_kick"
     },
     {
       "ID": 150082,
@@ -2853,12 +2143,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "aura_energy_electric",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_048_fighter_whirlwind_kick"
     },
     {
       "ID": 150083,
@@ -2873,12 +2158,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "aura_energy_electric",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_048_fighter_whirlwind_kick"
     },
     {
       "ID": 150091,
@@ -2893,12 +2173,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "palm_electric_1",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_049_fighter_crushing_combo"
     },
     {
       "ID": 150092,
@@ -2913,12 +2188,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "palm_electric_1",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_049_fighter_crushing_combo"
     },
     {
       "ID": 150093,
@@ -2933,12 +2203,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "palm_electric_1",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_049_fighter_crushing_combo"
     },
     {
       "ID": 150101,
@@ -2953,12 +2218,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "Icon_attack_gold",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_050_fighter_skybreaker_barrage"
     },
     {
       "ID": 150102,
@@ -2973,12 +2233,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "Icon_attack_gold",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_050_fighter_skybreaker_barrage"
     },
     {
       "ID": 150103,
@@ -2993,12 +2248,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "Icon_attack_gold",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_050_fighter_skybreaker_barrage"
     },
     {
       "ID": 160011,
@@ -3013,12 +2263,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "dagger_poison",
-      "SkillImageSize": 120,
-      "SkillImageAngle": 40,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_051_rogue_poison_stab"
     },
     {
       "ID": 160012,
@@ -3033,12 +2278,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "dagger_poison",
-      "SkillImageSize": 120,
-      "SkillImageAngle": 40,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_051_rogue_poison_stab"
     },
     {
       "ID": 160013,
@@ -3053,12 +2293,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "dagger_poison",
-      "SkillImageSize": 120,
-      "SkillImageAngle": 40,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_051_rogue_poison_stab"
     },
     {
       "ID": 160021,
@@ -3073,12 +2308,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "dagger",
-      "SkillImageSize": 120,
-      "SkillImageAngle": -40,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_052_rogue_dagger_throw"
     },
     {
       "ID": 160022,
@@ -3093,12 +2323,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "dagger",
-      "SkillImageSize": 120,
-      "SkillImageAngle": -40,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_052_rogue_dagger_throw"
     },
     {
       "ID": 160023,
@@ -3113,12 +2338,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "dagger",
-      "SkillImageSize": 120,
-      "SkillImageAngle": -40,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_052_rogue_dagger_throw"
     },
     {
       "ID": 160031,
@@ -3133,12 +2353,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "Icon_5_dagger_poison",
-      "SkillImageSize": 150,
-      "SkillImageAngle": -40,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_053_rogue_caltrops"
     },
     {
       "ID": 160032,
@@ -3153,12 +2368,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "Icon_5_dagger_poison",
-      "SkillImageSize": 150,
-      "SkillImageAngle": -40,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_053_rogue_caltrops"
     },
     {
       "ID": 160033,
@@ -3173,12 +2383,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "Icon_5_dagger_poison",
-      "SkillImageSize": 150,
-      "SkillImageAngle": -40,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_053_rogue_caltrops"
     },
     {
       "ID": 160041,
@@ -3193,12 +2398,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "Icon_rotation_kunai",
-      "SkillImageSize": 100,
-      "SkillImageAngle": 40,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_054_rogue_slash_flurry"
     },
     {
       "ID": 160042,
@@ -3213,12 +2413,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "Icon_rotation_kunai",
-      "SkillImageSize": 100,
-      "SkillImageAngle": 40,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_054_rogue_slash_flurry"
     },
     {
       "ID": 160043,
@@ -3233,12 +2428,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "Icon_rotation_kunai",
-      "SkillImageSize": 100,
-      "SkillImageAngle": 40,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_054_rogue_slash_flurry"
     },
     {
       "ID": 160051,
@@ -3253,12 +2443,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "Icon_straight_kunai_ice",
-      "SkillImageSize": 100,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_055_rogue_assassination"
     },
     {
       "ID": 160052,
@@ -3273,12 +2458,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "Icon_straight_kunai_ice",
-      "SkillImageSize": 100,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_055_rogue_assassination"
     },
     {
       "ID": 160053,
@@ -3293,12 +2473,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "Icon_straight_kunai_ice",
-      "SkillImageSize": 100,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_055_rogue_assassination"
     },
     {
       "ID": 160061,
@@ -3313,12 +2488,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "Icon_rotation_kunai_poison",
-      "SkillImageSize": 120,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_056_rogue_giant_javelin"
     },
     {
       "ID": 160062,
@@ -3333,12 +2503,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "Icon_rotation_kunai_poison",
-      "SkillImageSize": 120,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_056_rogue_giant_javelin"
     },
     {
       "ID": 160063,
@@ -3353,12 +2518,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "Icon_rotation_kunai_poison",
-      "SkillImageSize": 120,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_056_rogue_giant_javelin"
     },
     {
       "ID": 160071,
@@ -3373,12 +2533,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "kunai",
-      "SkillImageSize": 100,
-      "SkillImageAngle": -15,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_057_rogue_shuriken_barrage"
     },
     {
       "ID": 160072,
@@ -3393,12 +2548,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "kunai",
-      "SkillImageSize": 100,
-      "SkillImageAngle": -15,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_057_rogue_shuriken_barrage"
     },
     {
       "ID": 160073,
@@ -3413,12 +2563,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "kunai",
-      "SkillImageSize": 100,
-      "SkillImageAngle": -15,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_057_rogue_shuriken_barrage"
     },
     {
       "ID": 160081,
@@ -3433,12 +2578,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "dagger_shadow",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 15,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_058_rogue_shadow_assassin"
     },
     {
       "ID": 160082,
@@ -3453,12 +2593,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "dagger_shadow",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 15,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_058_rogue_shadow_assassin"
     },
     {
       "ID": 160083,
@@ -3473,12 +2608,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "dagger_shadow",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 15,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_058_rogue_shadow_assassin"
     },
     {
       "ID": 160091,
@@ -3493,12 +2623,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "aura_thorn",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_059_rogue_assassination_zone"
     },
     {
       "ID": 160092,
@@ -3513,12 +2638,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "aura_thorn",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_059_rogue_assassination_zone"
     },
     {
       "ID": 160093,
@@ -3533,12 +2653,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "aura_thorn",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_059_rogue_assassination_zone"
     },
     {
       "ID": 160101,
@@ -3553,12 +2668,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "nova_thorn",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_060_rogue_dual_dash"
     },
     {
       "ID": 160102,
@@ -3573,12 +2683,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "nova_thorn",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_060_rogue_dual_dash"
     },
     {
       "ID": 160103,
@@ -3593,12 +2698,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "nova_thorn",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_060_rogue_dual_dash"
     },
     {
       "ID": 170011,
@@ -3613,12 +2713,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "sting_poison",
-      "SkillImageSize": 100,
-      "SkillImageAngle": -15,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_061_shaman_poison_dart"
     },
     {
       "ID": 170012,
@@ -3633,12 +2728,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "sting_poison",
-      "SkillImageSize": 100,
-      "SkillImageAngle": -15,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_061_shaman_poison_dart"
     },
     {
       "ID": 170013,
@@ -3653,12 +2743,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "sting_poison",
-      "SkillImageSize": 100,
-      "SkillImageAngle": -15,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_061_shaman_poison_dart"
     },
     {
       "ID": 170021,
@@ -3673,12 +2758,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "shadowcat",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_062_shaman_shadow_cat"
     },
     {
       "ID": 170022,
@@ -3693,12 +2773,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "shadowcat",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_062_shaman_shadow_cat"
     },
     {
       "ID": 170023,
@@ -3713,12 +2788,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "shadowcat",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_062_shaman_shadow_cat"
     },
     {
       "ID": 170031,
@@ -3733,12 +2803,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "aura_swamp",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_063_shaman_swamp"
     },
     {
       "ID": 170032,
@@ -3753,12 +2818,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "aura_swamp",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_063_shaman_swamp"
     },
     {
       "ID": 170033,
@@ -3773,12 +2833,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "aura_swamp",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_063_shaman_swamp"
     },
     {
       "ID": 170041,
@@ -3793,12 +2848,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "07_totemFire",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_064_shaman_fire_totem"
     },
     {
       "ID": 170042,
@@ -3813,12 +2863,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "07_totemFire",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_064_shaman_fire_totem"
     },
     {
       "ID": 170043,
@@ -3833,12 +2878,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "07_totemFire",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_064_shaman_fire_totem"
     },
     {
       "ID": 170051,
@@ -3853,12 +2893,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "08_totemElectric",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_065_shaman_lightning_totem"
     },
     {
       "ID": 170052,
@@ -3873,12 +2908,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "08_totemElectric",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_065_shaman_lightning_totem"
     },
     {
       "ID": 170053,
@@ -3893,12 +2923,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "08_totemElectric",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_065_shaman_lightning_totem"
     },
     {
       "ID": 170061,
@@ -3913,12 +2938,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "energybolt_green",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_066_shaman_vengeful_worm"
     },
     {
       "ID": 170062,
@@ -3933,12 +2953,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "energybolt_green",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_066_shaman_vengeful_worm"
     },
     {
       "ID": 170063,
@@ -3953,12 +2968,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "energybolt_green",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_066_shaman_vengeful_worm"
     },
     {
       "ID": 170071,
@@ -3973,12 +2983,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "thorn_poison",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_067_shaman_poison_totem"
     },
     {
       "ID": 170072,
@@ -3993,12 +2998,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "thorn_poison",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_067_shaman_poison_totem"
     },
     {
       "ID": 170073,
@@ -4013,12 +3013,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "thorn_poison",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_067_shaman_poison_totem"
     },
     {
       "ID": 170081,
@@ -4033,12 +3028,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "Icon_10_energybolt_blue",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_068_shaman_thorn_vine"
     },
     {
       "ID": 170082,
@@ -4053,12 +3043,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "Icon_10_energybolt_blue",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_068_shaman_thorn_vine"
     },
     {
       "ID": 170083,
@@ -4073,12 +3058,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "Icon_10_energybolt_blue",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_068_shaman_thorn_vine"
     },
     {
       "ID": 170091,
@@ -4093,12 +3073,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "06_totemPoison",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_069_shaman_poison_orb"
     },
     {
       "ID": 170092,
@@ -4113,12 +3088,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "06_totemPoison",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_069_shaman_poison_orb"
     },
     {
       "ID": 170093,
@@ -4133,12 +3103,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "06_totemPoison",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_069_shaman_poison_orb"
     },
     {
       "ID": 170101,
@@ -4153,12 +3118,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "aura_dark",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_070_shaman_voodoo_doll"
     },
     {
       "ID": 170102,
@@ -4173,12 +3133,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "aura_dark",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_070_shaman_voodoo_doll"
     },
     {
       "ID": 170103,
@@ -4193,12 +3148,7 @@
       "ShapeID": 1,
       "SkillType": 1,
       "InOut": "",
-      "SkillImage": "aura_dark",
-      "SkillImageSize": 150,
-      "SkillImageAngle": 0,
-      "NewIcon": null,
-      "NewIconSize": null,
-      "NewIconAngle": null
+      "SkillImage": "skill_070_shaman_voodoo_doll"
     }
   ]
 }
