@@ -55,14 +55,14 @@
       "Section": "2,4",
       "Wave1": "301:3,302:2,303:1",
       "Duration1": 6,
-      "Wave2": null,
-      "Duration2": null,
-      "Wave3": null,
-      "Duration3": null,
-      "SuddenWave": null,
-      "Duration4": null,
-      "HPValue": null,
-      "DamageValue": null
+      "Wave2": "",
+      "Duration2": "",
+      "Wave3": "",
+      "Duration3": "",
+      "SuddenWave": "",
+      "Duration4": "",
+      "HPValue": 1,
+      "DamageValue": 1
     },
     {
       "ID": 5,
