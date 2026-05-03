@@ -83,6 +83,30 @@
     {
       "Key": "rest_second_reward_type",
       "Value": 302
+    },
+    {
+      "Key": "Damage_stat_per_lv",
+      "Value": 2
+    },
+    {
+      "Key": "HP_stat_per_lv",
+      "Value": 5
+    },
+    {
+      "Key": "Armor_stat_per_lv",
+      "Value": 1
+    },
+    {
+      "Key": "CriticalChance_stat_per_lv",
+      "Value": 1
+    },
+    {
+      "Key": "CriticalDamage_stat_per_lv",
+      "Value": 5
+    },
+    {
+      "Key": "Luck_stat_per_lv",
+      "Value": 1
     }
   ]
 }

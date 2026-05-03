@@ -13,7 +13,7 @@
       "Armor": 0,
       "CriticalChance": 5,
       "CriticalDamage": 150,
-      "Luck": 0
+      "Luck": 1
     },
     {
       "ID": 2,
@@ -28,7 +28,7 @@
       "Armor": 0,
       "CriticalChance": 5,
       "CriticalDamage": 150,
-      "Luck": 0
+      "Luck": 1
     },
     {
       "ID": 3,
@@ -43,7 +43,7 @@
       "Armor": 0,
       "CriticalChance": 5,
       "CriticalDamage": 150,
-      "Luck": 0
+      "Luck": 1
     },
     {
       "ID": 4,
@@ -58,7 +58,7 @@
       "Armor": 0,
       "CriticalChance": 5,
       "CriticalDamage": 150,
-      "Luck": 0
+      "Luck": 1
     },
     {
       "ID": 5,
@@ -73,7 +73,7 @@
       "Armor": 0,
       "CriticalChance": 5,
       "CriticalDamage": 150,
-      "Luck": 0
+      "Luck": 1
     },
     {
       "ID": 6,
@@ -88,7 +88,7 @@
       "Armor": 0,
       "CriticalChance": 5,
       "CriticalDamage": 150,
-      "Luck": 0
+      "Luck": 1
     },
     {
       "ID": 7,
@@ -103,7 +103,7 @@
       "Armor": 0,
       "CriticalChance": 5,
       "CriticalDamage": 150,
-      "Luck": 0
+      "Luck": 1
     },
     {
       "ID": 8,
@@ -118,7 +118,7 @@
       "Armor": 0,
       "CriticalChance": 5,
       "CriticalDamage": 150,
-      "Luck": 0
+      "Luck": 1
     }
   ]
 }
