@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-04T11:25:59.016Z",
+  "updatedAt": "2026-05-04T11:33:22.503Z",
   "sheets": [
     {
       "name": "Common",
@@ -63,8 +63,8 @@
     },
     {
       "name": "AttackSkills",
-      "version": 527,
-      "hash": "3e5e2ee581f47428c5c08971618b68f9fb591826f9cb3d1fdd930a1947c647ff",
+      "version": 528,
+      "hash": "465b838c1bb1955f19da57ded228e002c179b9efdb3cbfb6ee48a28a45b6323e",
       "url": "/static/AttackSkills.json"
     },
     {
