@@ -3521,6 +3521,31 @@
       "en": "You're the boss \non the {0}th floor."
     },
     {
+      "Key": "EventChoice_201",
+      "ko": "hp회복",
+      "en": null
+    },
+    {
+      "Key": "EventChoice_301",
+      "ko": "스킬 획득",
+      "en": null
+    },
+    {
+      "Key": "EventChoice_302",
+      "ko": "스킬 제거",
+      "en": null
+    },
+    {
+      "Key": "EventChoice_303",
+      "ko": "스킬 레벨업",
+      "en": null
+    },
+    {
+      "Key": "EventChoice_304",
+      "ko": "스킬 등급업",
+      "en": null
+    },
+    {
       "Key": "EventTitle_1_001",
       "ko": "시작의 마을",
       "en": null
