@@ -132,73 +132,123 @@
     },
     {
       "Key": "SYNERGY_1_DESC",
-      "ko": "받는 피해 {0}% 감소",
-      "en": "Reduce damage taken by {0}%"
+      "ko": "마구찌르기 스킬을 획득합니다.\n쿨타임마다 스킬을 발동합니다.",
+      "en": null
     },
     {
       "Key": "SYNERGY_2_DESC",
-      "ko": "스킬 쿨타임 {0}% 감소",
-      "en": "Decrease Cool Time by {0}%"
+      "ko": "틈새베기 스킬을 획득합니다.\n베기 시너지를 가진 스킬로 타격마다 타격 대상에게 스킬을 발동합니다.",
+      "en": null
     },
     {
       "Key": "SYNERGY_3_DESC",
-      "ko": "확률 {0}%로 스킬 2번 사용",
-      "en": "{0}% chance to use Skill twice"
+      "ko": "비검 스킬을 획득합니다.\n어검술 시너지를 가진 스킬로 타격마다 스킬을 발동합니다.",
+      "en": null
     },
     {
       "Key": "SYNERGY_4_DESC",
-      "ko": "소환수 {0}마리 추가 생성",
-      "en": "Create {0} additional Summoners"
+      "ko": "도끼일섬 스킬을 획득합니다.\n쿨타임마다 스킬을 발동합니다.",
+      "en": null
     },
     {
       "Key": "SYNERGY_5_DESC",
-      "ko": "오오라와 파동의 데미지 \n{0}% 증가",
-      "en": "Increase Aura and Wave Damage\nby {0}%"
+      "ko": "빠른 사격 스킬을 획득합니다.\n사격술 시너지를 가진 스킬로 타격마다 스킬을 발동합니다.",
+      "en": null
     },
     {
       "Key": "SYNERGY_6_DESC",
-      "ko": "크리티컬 데미지 {0}% 증가",
-      "en": "Critical damage increased by {0}%"
+      "ko": "파편 폭파 스킬을 획득합니다.\n공성병기 시너지를 가진 스킬로 타격마다 타격 대상에게 스킬을 발동합니다.",
+      "en": null
     },
     {
       "Key": "SYNERGY_7_DESC",
-      "ko": "받는 피해 {0}% 반사",
-      "en": "Reflect {0}% of damage taken"
+      "ko": "자동석궁 스킬을 획득합니다.\n쿨타임마다 스킬을 발동합니다.",
+      "en": null
     },
     {
       "Key": "SYNERGY_8_DESC",
-      "ko": "화상 - HP비례 {0}% 데미지",
-      "en": "Burn - Damage proportional to HP {0}%"
+      "ko": "투사체 2개 증가 스킬을 획득합니다.\n정령화살 시너지 스킬의 투사체가 2개 증가합니다.",
+      "en": null
     },
     {
       "Key": "SYNERGY_9_DESC",
-      "ko": "빙결 - 공속 이속 {0}% 감소",
-      "en": "Freeze - Attack Speed ​​and Movement Speed ​​reduced by {0}%"
+      "ko": "빙결지대 스킬을 획득합니다.\n쿨타임마다 스킬을 발동합니다.",
+      "en": null
     },
     {
       "Key": "SYNERGY_10_DESC",
-      "ko": "전격 - 데미지 연쇄 {0}%",
-      "en": "Lightning - Damage Chain {0}%"
+      "ko": "불타는 지대 생성 스킬을 획득합니다.\n화염 마법 시너지를 가진 스킬을 발동시킬때마다 스킬을 발동합니다.",
+      "en": null
     },
     {
       "Key": "SYNERGY_11_DESC",
-      "ko": "암흑 - 피해감소 {0}% 부여",
-      "en": "Darkness - Grants {0}% damage reduction"
+      "ko": "작은 번개 스킬을 획득합니다.\n전기 마법 시너지를 가진 스킬로 타격마다 타격 대상에게 스킬을 발동합니다.",
+      "en": null
     },
     {
       "Key": "SYNERGY_12_DESC",
-      "ko": "중독 - 지속데미지 {0}% 씩 누적",
-      "en": "Poison - Accumulates damage over time by {0}%"
+      "ko": "리치 스킬을 획득합니다.\n쿨타임마다 스킬을 발동합니다.",
+      "en": null
     },
     {
       "Key": "SYNERGY_13_DESC",
-      "ko": "크리티컬 확률 {0}% 증가",
-      "en": "Increase Critical Chance by {0}%"
+      "ko": "뼈창 스킬을 획득합니다.\n뼈술사 시너지를 가진 스킬을 발동시킬때마다 스킬을 발동합니다.",
+      "en": null
     },
     {
       "Key": "SYNERGY_14_DESC",
-      "ko": "충격 데미지 {0}% 증가",
-      "en": "Increase shock damage by {0}%"
+      "ko": "작은 시체 골렘 스킬을 획득합니다.\n쿨타임마다 스킬을 발동합니다.",
+      "en": null
+    },
+    {
+      "Key": "SYNERGY_15_DESC",
+      "ko": "쾌속연권 스킬을 획득합니다.\n철권 시너지를 가진 스킬을 발동시킬때마다 스킬을 발동합니다.",
+      "en": null
+    },
+    {
+      "Key": "SYNERGY_16_DESC",
+      "ko": "맹렬각 스킬을 획득합니다.\n질풍 시너지를 가진 스킬을 발동시킬때마다 스킬을 발동합니다.",
+      "en": null
+    },
+    {
+      "Key": "SYNERGY_17_DESC",
+      "ko": "거석 압쇄 스킬을 획득합니다.\n야성폭주 시너지를 가진 스킬을 발동시킬때마다 스킬을 발동합니다.",
+      "en": null
+    },
+    {
+      "Key": "SYNERGY_18_DESC",
+      "ko": "순간타격 스킬을 획득합니다.\n쿨타임마다 스킬을 발동합니다.",
+      "en": null
+    },
+    {
+      "Key": "SYNERGY_19_DESC",
+      "ko": "단검 베기 스킬을 획득합니다.\n단검술 시너지를 가진 스킬로 타격마다 타격 대상에게 스킬을 발동합니다.",
+      "en": null
+    },
+    {
+      "Key": "SYNERGY_20_DESC",
+      "ko": "냉기 표창 스킬을 획득합니다.\n투척술 시너지를 가진 스킬을 발동시킬때마다 스킬을 발동합니다.",
+      "en": null
+    },
+    {
+      "Key": "SYNERGY_21_DESC",
+      "ko": "암살 강화 스킬을 획득합니다.\n암살 시너지 스킬의 크리티컬 확률이 75%증가합니다.",
+      "en": null
+    },
+    {
+      "Key": "SYNERGY_22_DESC",
+      "ko": "독기방출 스킬을 획득합니다.\n독 시너지를 가진 스킬로 타격마다 타격 대상에게 스킬을 발동합니다.",
+      "en": null
+    },
+    {
+      "Key": "SYNERGY_23_DESC",
+      "ko": "저주의 못 스킬을 획득합니다.\n쿨타임마다 스킬을 발동합니다.",
+      "en": null
+    },
+    {
+      "Key": "SYNERGY_24_DESC",
+      "ko": "결합토템 스킬을 획득합니다.\n쿨타임마다 스킬을 발동합니다.",
+      "en": null
     },
     {
       "Key": "SKILLTYPE_1",

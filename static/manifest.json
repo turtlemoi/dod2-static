@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-04T11:46:33.881Z",
+  "updatedAt": "2026-05-04T12:04:53.762Z",
   "sheets": [
     {
       "name": "Common",
@@ -62,6 +62,12 @@
       "url": "/static/Puzzle.json"
     },
     {
+      "name": "Synergy",
+      "version": 24,
+      "hash": "427e02ef3a04f4328531868446cd58636c310e859b9a5f103974a2470443d482",
+      "url": "/static/Synergy.json"
+    },
+    {
       "name": "AttackSkills",
       "version": 528,
       "hash": "465b838c1bb1955f19da57ded228e002c179b9efdb3cbfb6ee48a28a45b6323e",
@@ -75,15 +81,9 @@
     },
     {
       "name": "Locale",
-      "version": 68,
-      "hash": "f2f21a8426904cc200238f6f216e881143066556c41085a7412dfbbd1e7f1245",
+      "version": 69,
+      "hash": "0f700003abb5a55b2e534b6f10167190ea1f43e6401c68a615ce0be896b7a95b",
       "url": "/static/Locale.json"
-    },
-    {
-      "name": "Synergy",
-      "version": 23,
-      "hash": "5870ed08d2db2531e4302c24001d9dcecccf889f5d2b319e4f2e82c29b81f156",
-      "url": "/static/Synergy.json"
     },
     {
       "name": "InGameShop",

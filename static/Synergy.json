@@ -29,7 +29,7 @@
       "Icon": "synergy_3",
       "SynergySkillIcon": "SynergySkill_03",
       "Condition": 2,
-      "Desc": "SYNERGY_1_DESC",
+      "Desc": "SYNERGY_3_DESC",
       "SynergyType": 4,
       "Value": 310003
     },
@@ -40,7 +40,7 @@
       "Icon": "synergy_4",
       "SynergySkillIcon": "SynergySkill_04",
       "Condition": 2,
-      "Desc": "SYNERGY_1_DESC",
+      "Desc": "SYNERGY_4_DESC",
       "SynergyType": 1,
       "Value": 310004
     },
@@ -51,7 +51,7 @@
       "Icon": "synergy_5",
       "SynergySkillIcon": "SynergySkill_05",
       "Condition": 2,
-      "Desc": "SYNERGY_2_DESC",
+      "Desc": "SYNERGY_5_DESC",
       "SynergyType": 3,
       "Value": 320001
     },
@@ -62,7 +62,7 @@
       "Icon": "synergy_6",
       "SynergySkillIcon": "SynergySkill_06",
       "Condition": 3,
-      "Desc": "SYNERGY_2_DESC",
+      "Desc": "SYNERGY_6_DESC",
       "SynergyType": 2,
       "Value": 320002
     },
@@ -73,7 +73,7 @@
       "Icon": "synergy_7",
       "SynergySkillIcon": "SynergySkill_07",
       "Condition": 2,
-      "Desc": "SYNERGY_2_DESC",
+      "Desc": "SYNERGY_7_DESC",
       "SynergyType": 1,
       "Value": 320003
     },
@@ -84,7 +84,7 @@
       "Icon": "synergy_8",
       "SynergySkillIcon": "SynergySkill_08",
       "Condition": 3,
-      "Desc": "SYNERGY_2_DESC",
+      "Desc": "SYNERGY_8_DESC",
       "SynergyType": 6,
       "Value": 2
     },
@@ -95,7 +95,7 @@
       "Icon": "synergy_9",
       "SynergySkillIcon": "SynergySkill_09",
       "Condition": 4,
-      "Desc": "SYNERGY_3_DESC",
+      "Desc": "SYNERGY_9_DESC",
       "SynergyType": 1,
       "Value": 330001
     },
@@ -106,7 +106,7 @@
       "Icon": "synergy_10",
       "SynergySkillIcon": "SynergySkill_10",
       "Condition": 3,
-      "Desc": "SYNERGY_3_DESC",
+      "Desc": "SYNERGY_10_DESC",
       "SynergyType": 4,
       "Value": 330002
     },
@@ -117,7 +117,7 @@
       "Icon": "synergy_11",
       "SynergySkillIcon": "SynergySkill_11",
       "Condition": 3,
-      "Desc": "SYNERGY_3_DESC",
+      "Desc": "SYNERGY_11_DESC",
       "SynergyType": 2,
       "Value": 330003
     },
@@ -128,7 +128,7 @@
       "Icon": "synergy_12",
       "SynergySkillIcon": "SynergySkill_12",
       "Condition": 4,
-      "Desc": "SYNERGY_3_DESC",
+      "Desc": "SYNERGY_12_DESC",
       "SynergyType": 1,
       "Value": 340001
     },
@@ -139,7 +139,7 @@
       "Icon": "synergy_13",
       "SynergySkillIcon": "SynergySkill_13",
       "Condition": 4,
-      "Desc": "SYNERGY_4_DESC",
+      "Desc": "SYNERGY_13_DESC",
       "SynergyType": 4,
       "Value": 340002
     },
@@ -150,7 +150,7 @@
       "Icon": "synergy_14",
       "SynergySkillIcon": "SynergySkill_14",
       "Condition": 2,
-      "Desc": "SYNERGY_4_DESC",
+      "Desc": "SYNERGY_14_DESC",
       "SynergyType": 1,
       "Value": 340003
     },
@@ -161,7 +161,7 @@
       "Icon": "synergy_15",
       "SynergySkillIcon": "SynergySkill_15",
       "Condition": 2,
-      "Desc": "SYNERGY_4_DESC",
+      "Desc": "SYNERGY_15_DESC",
       "SynergyType": 4,
       "Value": 350001
     },
@@ -172,7 +172,7 @@
       "Icon": "synergy_16",
       "SynergySkillIcon": "SynergySkill_16",
       "Condition": 2,
-      "Desc": "SYNERGY_4_DESC",
+      "Desc": "SYNERGY_16_DESC",
       "SynergyType": 4,
       "Value": 350002
     },
@@ -183,7 +183,7 @@
       "Icon": "synergy_17",
       "SynergySkillIcon": "SynergySkill_17",
       "Condition": 3,
-      "Desc": "SYNERGY_5_DESC",
+      "Desc": "SYNERGY_17_DESC",
       "SynergyType": 4,
       "Value": 350003
     },
@@ -194,7 +194,7 @@
       "Icon": "synergy_18",
       "SynergySkillIcon": "SynergySkill_18",
       "Condition": 3,
-      "Desc": "SYNERGY_5_DESC",
+      "Desc": "SYNERGY_18_DESC",
       "SynergyType": 1,
       "Value": 360004
     },
@@ -205,7 +205,7 @@
       "Icon": "synergy_19",
       "SynergySkillIcon": "SynergySkill_19",
       "Condition": 3,
-      "Desc": "SYNERGY_5_DESC",
+      "Desc": "SYNERGY_19_DESC",
       "SynergyType": 2,
       "Value": 360001
     },
@@ -216,7 +216,7 @@
       "Icon": "synergy_20",
       "SynergySkillIcon": "SynergySkill_20",
       "Condition": 4,
-      "Desc": "SYNERGY_5_DESC",
+      "Desc": "SYNERGY_20_DESC",
       "SynergyType": 4,
       "Value": 360002
     },
@@ -227,7 +227,7 @@
       "Icon": "synergy_21",
       "SynergySkillIcon": "SynergySkill_21",
       "Condition": 3,
-      "Desc": "SYNERGY_6_DESC",
+      "Desc": "SYNERGY_21_DESC",
       "SynergyType": 5,
       "Value": 75
     },
@@ -238,7 +238,7 @@
       "Icon": "synergy_22",
       "SynergySkillIcon": "SynergySkill_22",
       "Condition": 4,
-      "Desc": "SYNERGY_6_DESC",
+      "Desc": "SYNERGY_22_DESC",
       "SynergyType": 3,
       "Value": 370001
     },
@@ -249,7 +249,7 @@
       "Icon": "synergy_23",
       "SynergySkillIcon": "SynergySkill_23",
       "Condition": 3,
-      "Desc": "SYNERGY_6_DESC",
+      "Desc": "SYNERGY_23_DESC",
       "SynergyType": 1,
       "Value": 370002
     },
@@ -260,7 +260,7 @@
       "Icon": "synergy_24",
       "SynergySkillIcon": "SynergySkill_24",
       "Condition": 3,
-      "Desc": "SYNERGY_6_DESC",
+      "Desc": "SYNERGY_24_DESC",
       "SynergyType": 1,
       "Value": 370003
     }
