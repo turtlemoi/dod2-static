@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-04T13:52:47.800Z",
+  "updatedAt": "2026-05-05T04:55:03.938Z",
   "sheets": [
     {
       "name": "Common",
@@ -45,8 +45,8 @@
     },
     {
       "name": "Relic",
-      "version": 7,
-      "hash": "23061e28e3789532ce166b8643ac5eaa6319205aba79bc1feb32428ec3c8d1b0",
+      "version": 8,
+      "hash": "37bff711e40fdab6edea6ad3a35037f03426147afb73aefb6bba8b945063e70b",
       "url": "/static/Relic.json"
     },
     {
@@ -82,7 +82,7 @@
     {
       "name": "Locale",
       "version": 69,
-      "hash": "8fa9ec1bc396f8af0f1bc5a0bd6bb7e4b62093469b962b563d5a2e5d50f3abc4",
+      "hash": "0c64eb7d54972c2006a54252a1a3de672dcff680751ce5e33afe2719d3de62b4",
       "url": "/static/Locale.json"
     },
     {
