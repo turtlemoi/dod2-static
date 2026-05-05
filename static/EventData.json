@@ -2,6 +2,31 @@
   "data": [
     {
       "ID": 1,
+      "Type": 1,
+      "Chapter": 0,
+      "Section": "1,20",
+      "ImageName": "Event_Image_bonfire",
+      "EventTitle": "",
+      "EventDesc": "",
+      "Choice1_Desc": "EventChoice_200",
+      "Choice1_type": 204,
+      "Choice1_Value": 30,
+      "Choice1_type2": "",
+      "Choice1_Value2": "",
+      "Choice2_Desc": "EventChoice_302",
+      "Choice2_type": 302,
+      "Choice2_Value": "",
+      "Choice2_type2": "",
+      "Choice2_Value2": "",
+      "Choice3_Desc": null,
+      "Choice3_type": null,
+      "Choice3_Value": null,
+      "Choice3_type2": null,
+      "Choice3_Value2": null
+    },
+    {
+      "ID": 2,
+      "Type": 2,
       "Chapter": 1,
       "Section": "0",
       "ImageName": "Event_Image_starting village",
@@ -24,7 +49,8 @@
       "Choice3_Value2": null
     },
     {
-      "ID": 2,
+      "ID": 3,
+      "Type": 0,
       "Chapter": 1,
       "Section": "1,20",
       "ImageName": "Event_Image_goblin",
@@ -47,7 +73,8 @@
       "Choice3_Value2": null
     },
     {
-      "ID": 3,
+      "ID": 4,
+      "Type": 0,
       "Chapter": 1,
       "Section": "1,20",
       "ImageName": "Event_Image_merchant",
@@ -55,7 +82,7 @@
       "EventDesc": "EventDesc_1_006",
       "Choice1_Desc": "EventChoice_201",
       "Choice1_type": 201,
-      "Choice1_Value": 15,
+      "Choice1_Value": 10,
       "Choice1_type2": "",
       "Choice1_Value2": "",
       "Choice2_Desc": "EventChoice_302",
@@ -70,7 +97,8 @@
       "Choice3_Value2": null
     },
     {
-      "ID": 4,
+      "ID": 5,
+      "Type": 0,
       "Chapter": 1,
       "Section": "1,20",
       "ImageName": "Event_Image_statue",
@@ -93,7 +121,8 @@
       "Choice3_Value2": null
     },
     {
-      "ID": 5,
+      "ID": 6,
+      "Type": 0,
       "Chapter": 1,
       "Section": "1,20",
       "ImageName": "Event_Image_mushroom",
@@ -101,7 +130,7 @@
       "EventDesc": "EventDesc_1_003",
       "Choice1_Desc": "EventChoice_201",
       "Choice1_type": 201,
-      "Choice1_Value": 15,
+      "Choice1_Value": 10,
       "Choice1_type2": "",
       "Choice1_Value2": "",
       "Choice2_Desc": "EventChoice_302",
@@ -116,7 +145,8 @@
       "Choice3_Value2": null
     },
     {
-      "ID": 6,
+      "ID": 7,
+      "Type": 0,
       "Chapter": 1,
       "Section": "1,20",
       "ImageName": "Event_Image_altar",
@@ -139,7 +169,8 @@
       "Choice3_Value2": null
     },
     {
-      "ID": 7,
+      "ID": 8,
+      "Type": 0,
       "Chapter": 1,
       "Section": "1,20",
       "ImageName": "Event_Image_sulfur",
@@ -147,29 +178,6 @@
       "EventDesc": "EventDesc_1_007",
       "Choice1_Desc": "EventChoice_305",
       "Choice1_type": 305,
-      "Choice1_Value": "",
-      "Choice1_type2": "",
-      "Choice1_Value2": "",
-      "Choice2_Desc": "EventChoice_302",
-      "Choice2_type": 302,
-      "Choice2_Value": "",
-      "Choice2_type2": "",
-      "Choice2_Value2": "",
-      "Choice3_Desc": null,
-      "Choice3_type": null,
-      "Choice3_Value": null,
-      "Choice3_type2": null,
-      "Choice3_Value2": null
-    },
-    {
-      "ID": 8,
-      "Chapter": 1,
-      "Section": "1,20",
-      "ImageName": "Event_Image_wolf",
-      "EventTitle": "EventTitle_1_011",
-      "EventDesc": "EventDesc_1_011",
-      "Choice1_Desc": "EventChoice_303",
-      "Choice1_type": 303,
       "Choice1_Value": "",
       "Choice1_type2": "",
       "Choice1_Value2": "",
@@ -186,6 +194,31 @@
     },
     {
       "ID": 9,
+      "Type": 0,
+      "Chapter": 1,
+      "Section": "1,20",
+      "ImageName": "Event_Image_wolf",
+      "EventTitle": "EventTitle_1_011",
+      "EventDesc": "EventDesc_1_011",
+      "Choice1_Desc": "EventChoice_303",
+      "Choice1_type": 303,
+      "Choice1_Value": "",
+      "Choice1_type2": "",
+      "Choice1_Value2": "",
+      "Choice2_Desc": "EventChoice_302",
+      "Choice2_type": 302,
+      "Choice2_Value": "",
+      "Choice2_type2": "",
+      "Choice2_Value2": "",
+      "Choice3_Desc": null,
+      "Choice3_type": null,
+      "Choice3_Value": null,
+      "Choice3_type2": null,
+      "Choice3_Value2": null
+    },
+    {
+      "ID": 10,
+      "Type": 0,
       "Chapter": 1,
       "Section": "1,20",
       "ImageName": "Event_Image_camp",
@@ -198,7 +231,7 @@
       "Choice1_Value2": "",
       "Choice2_Desc": "EventChoice_201",
       "Choice2_type": 201,
-      "Choice2_Value": 15,
+      "Choice2_Value": 10,
       "Choice2_type2": "",
       "Choice2_Value2": "",
       "Choice3_Desc": null,
@@ -208,7 +241,8 @@
       "Choice3_Value2": null
     },
     {
-      "ID": 10,
+      "ID": 11,
+      "Type": 0,
       "Chapter": 1,
       "Section": "1,20",
       "ImageName": "Event_Image_herbalist",
@@ -221,7 +255,7 @@
       "Choice1_Value2": "",
       "Choice2_Desc": "EventChoice_201",
       "Choice2_type": 201,
-      "Choice2_Value": 15,
+      "Choice2_Value": 20,
       "Choice2_type2": "",
       "Choice2_Value2": "",
       "Choice3_Desc": null,
@@ -231,7 +265,8 @@
       "Choice3_Value2": null
     },
     {
-      "ID": 11,
+      "ID": 12,
+      "Type": 0,
       "Chapter": 1,
       "Section": "1,20",
       "ImageName": "Event_Image_viper",
@@ -254,7 +289,8 @@
       "Choice3_Value2": null
     },
     {
-      "ID": 12,
+      "ID": 13,
+      "Type": 0,
       "Chapter": 1,
       "Section": "1,20",
       "ImageName": "Event_Image_thunder",
@@ -277,7 +313,8 @@
       "Choice3_Value2": null
     },
     {
-      "ID": 13,
+      "ID": 14,
+      "Type": 2,
       "Chapter": 2,
       "Section": "0",
       "ImageName": "Event_Image_starting village",
@@ -300,7 +337,8 @@
       "Choice3_Value2": null
     },
     {
-      "ID": 14,
+      "ID": 15,
+      "Type": 0,
       "Chapter": 2,
       "Section": "1,20",
       "ImageName": "Event_Image_goblin",
@@ -323,7 +361,8 @@
       "Choice3_Value2": null
     },
     {
-      "ID": 15,
+      "ID": 16,
+      "Type": 0,
       "Chapter": 2,
       "Section": "1,20",
       "ImageName": "Event_Image_merchant",
@@ -331,7 +370,7 @@
       "EventDesc": "EventDesc_1_006",
       "Choice1_Desc": "EventChoice_201",
       "Choice1_type": 201,
-      "Choice1_Value": 15,
+      "Choice1_Value": 10,
       "Choice1_type2": "",
       "Choice1_Value2": "",
       "Choice2_Desc": "EventChoice_302",
@@ -346,7 +385,8 @@
       "Choice3_Value2": null
     },
     {
-      "ID": 16,
+      "ID": 17,
+      "Type": 0,
       "Chapter": 2,
       "Section": "1,20",
       "ImageName": "Event_Image_statue",
@@ -369,7 +409,8 @@
       "Choice3_Value2": null
     },
     {
-      "ID": 17,
+      "ID": 18,
+      "Type": 0,
       "Chapter": 2,
       "Section": "1,20",
       "ImageName": "Event_Image_mushroom",
@@ -377,7 +418,7 @@
       "EventDesc": "EventDesc_1_003",
       "Choice1_Desc": "EventChoice_201",
       "Choice1_type": 201,
-      "Choice1_Value": 15,
+      "Choice1_Value": 10,
       "Choice1_type2": "",
       "Choice1_Value2": "",
       "Choice2_Desc": "EventChoice_302",
@@ -392,7 +433,8 @@
       "Choice3_Value2": null
     },
     {
-      "ID": 18,
+      "ID": 19,
+      "Type": 0,
       "Chapter": 2,
       "Section": "1,20",
       "ImageName": "Event_Image_altar",
@@ -415,7 +457,8 @@
       "Choice3_Value2": null
     },
     {
-      "ID": 19,
+      "ID": 20,
+      "Type": 0,
       "Chapter": 2,
       "Section": "1,20",
       "ImageName": "Event_Image_sulfur",
@@ -423,29 +466,6 @@
       "EventDesc": "EventDesc_1_007",
       "Choice1_Desc": "EventChoice_305",
       "Choice1_type": 305,
-      "Choice1_Value": "",
-      "Choice1_type2": "",
-      "Choice1_Value2": "",
-      "Choice2_Desc": "EventChoice_302",
-      "Choice2_type": 302,
-      "Choice2_Value": "",
-      "Choice2_type2": "",
-      "Choice2_Value2": "",
-      "Choice3_Desc": null,
-      "Choice3_type": null,
-      "Choice3_Value": null,
-      "Choice3_type2": null,
-      "Choice3_Value2": null
-    },
-    {
-      "ID": 20,
-      "Chapter": 2,
-      "Section": "1,20",
-      "ImageName": "Event_Image_wolf",
-      "EventTitle": "EventTitle_1_011",
-      "EventDesc": "EventDesc_1_011",
-      "Choice1_Desc": "EventChoice_303",
-      "Choice1_type": 303,
       "Choice1_Value": "",
       "Choice1_type2": "",
       "Choice1_Value2": "",
@@ -462,6 +482,31 @@
     },
     {
       "ID": 21,
+      "Type": 0,
+      "Chapter": 2,
+      "Section": "1,20",
+      "ImageName": "Event_Image_wolf",
+      "EventTitle": "EventTitle_1_011",
+      "EventDesc": "EventDesc_1_011",
+      "Choice1_Desc": "EventChoice_303",
+      "Choice1_type": 303,
+      "Choice1_Value": "",
+      "Choice1_type2": "",
+      "Choice1_Value2": "",
+      "Choice2_Desc": "EventChoice_302",
+      "Choice2_type": 302,
+      "Choice2_Value": "",
+      "Choice2_type2": "",
+      "Choice2_Value2": "",
+      "Choice3_Desc": null,
+      "Choice3_type": null,
+      "Choice3_Value": null,
+      "Choice3_type2": null,
+      "Choice3_Value2": null
+    },
+    {
+      "ID": 22,
+      "Type": 0,
       "Chapter": 2,
       "Section": "1,20",
       "ImageName": "Event_Image_camp",
@@ -474,7 +519,7 @@
       "Choice1_Value2": "",
       "Choice2_Desc": "EventChoice_201",
       "Choice2_type": 201,
-      "Choice2_Value": 15,
+      "Choice2_Value": 10,
       "Choice2_type2": "",
       "Choice2_Value2": "",
       "Choice3_Desc": null,
@@ -484,7 +529,8 @@
       "Choice3_Value2": null
     },
     {
-      "ID": 22,
+      "ID": 23,
+      "Type": 0,
       "Chapter": 2,
       "Section": "1,20",
       "ImageName": "Event_Image_herbalist",
@@ -497,7 +543,7 @@
       "Choice1_Value2": "",
       "Choice2_Desc": "EventChoice_201",
       "Choice2_type": 201,
-      "Choice2_Value": 15,
+      "Choice2_Value": 20,
       "Choice2_type2": "",
       "Choice2_Value2": "",
       "Choice3_Desc": null,
@@ -507,7 +553,8 @@
       "Choice3_Value2": null
     },
     {
-      "ID": 23,
+      "ID": 24,
+      "Type": 0,
       "Chapter": 2,
       "Section": "1,20",
       "ImageName": "Event_Image_viper",
@@ -530,7 +577,8 @@
       "Choice3_Value2": null
     },
     {
-      "ID": 24,
+      "ID": 25,
+      "Type": 0,
       "Chapter": 2,
       "Section": "1,20",
       "ImageName": "Event_Image_thunder",
@@ -553,7 +601,8 @@
       "Choice3_Value2": null
     },
     {
-      "ID": 25,
+      "ID": 26,
+      "Type": 2,
       "Chapter": 3,
       "Section": "0",
       "ImageName": "Event_Image_starting village",
@@ -576,7 +625,8 @@
       "Choice3_Value2": null
     },
     {
-      "ID": 26,
+      "ID": 27,
+      "Type": 0,
       "Chapter": 3,
       "Section": "1,20",
       "ImageName": "Event_Image_goblin",
@@ -599,7 +649,8 @@
       "Choice3_Value2": null
     },
     {
-      "ID": 27,
+      "ID": 28,
+      "Type": 0,
       "Chapter": 3,
       "Section": "1,20",
       "ImageName": "Event_Image_merchant",
@@ -607,7 +658,7 @@
       "EventDesc": "EventDesc_1_006",
       "Choice1_Desc": "EventChoice_201",
       "Choice1_type": 201,
-      "Choice1_Value": 15,
+      "Choice1_Value": 10,
       "Choice1_type2": "",
       "Choice1_Value2": "",
       "Choice2_Desc": "EventChoice_302",
@@ -622,7 +673,8 @@
       "Choice3_Value2": null
     },
     {
-      "ID": 28,
+      "ID": 29,
+      "Type": 0,
       "Chapter": 3,
       "Section": "1,20",
       "ImageName": "Event_Image_statue",
@@ -645,7 +697,8 @@
       "Choice3_Value2": null
     },
     {
-      "ID": 29,
+      "ID": 30,
+      "Type": 0,
       "Chapter": 3,
       "Section": "1,20",
       "ImageName": "Event_Image_mushroom",
@@ -653,7 +706,7 @@
       "EventDesc": "EventDesc_1_003",
       "Choice1_Desc": "EventChoice_201",
       "Choice1_type": 201,
-      "Choice1_Value": 15,
+      "Choice1_Value": 10,
       "Choice1_type2": "",
       "Choice1_Value2": "",
       "Choice2_Desc": "EventChoice_302",
@@ -668,7 +721,8 @@
       "Choice3_Value2": null
     },
     {
-      "ID": 30,
+      "ID": 31,
+      "Type": 0,
       "Chapter": 3,
       "Section": "1,20",
       "ImageName": "Event_Image_altar",
@@ -691,7 +745,8 @@
       "Choice3_Value2": null
     },
     {
-      "ID": 31,
+      "ID": 32,
+      "Type": 0,
       "Chapter": 3,
       "Section": "1,20",
       "ImageName": "Event_Image_sulfur",
@@ -714,7 +769,8 @@
       "Choice3_Value2": null
     },
     {
-      "ID": 32,
+      "ID": 33,
+      "Type": 0,
       "Chapter": 3,
       "Section": "1,20",
       "ImageName": "Event_Image_wolf",
@@ -737,7 +793,8 @@
       "Choice3_Value2": null
     },
     {
-      "ID": 33,
+      "ID": 34,
+      "Type": 0,
       "Chapter": 3,
       "Section": "1,20",
       "ImageName": "Event_Image_camp",
@@ -750,7 +807,7 @@
       "Choice1_Value2": "",
       "Choice2_Desc": "EventChoice_201",
       "Choice2_type": 201,
-      "Choice2_Value": 15,
+      "Choice2_Value": 10,
       "Choice2_type2": "",
       "Choice2_Value2": "",
       "Choice3_Desc": null,
@@ -760,7 +817,8 @@
       "Choice3_Value2": null
     },
     {
-      "ID": 34,
+      "ID": 35,
+      "Type": 0,
       "Chapter": 3,
       "Section": "1,20",
       "ImageName": "Event_Image_herbalist",
@@ -773,7 +831,7 @@
       "Choice1_Value2": "",
       "Choice2_Desc": "EventChoice_201",
       "Choice2_type": 201,
-      "Choice2_Value": 15,
+      "Choice2_Value": 20,
       "Choice2_type2": "",
       "Choice2_Value2": "",
       "Choice3_Desc": null,
@@ -783,7 +841,8 @@
       "Choice3_Value2": null
     },
     {
-      "ID": 35,
+      "ID": 36,
+      "Type": 0,
       "Chapter": 3,
       "Section": "1,20",
       "ImageName": "Event_Image_viper",
@@ -806,7 +865,8 @@
       "Choice3_Value2": null
     },
     {
-      "ID": 36,
+      "ID": 37,
+      "Type": 0,
       "Chapter": 3,
       "Section": "1,20",
       "ImageName": "Event_Image_thunder",
@@ -822,6 +882,30 @@
       "Choice2_Value": "",
       "Choice2_type2": "",
       "Choice2_Value2": "",
+      "Choice3_Desc": null,
+      "Choice3_type": null,
+      "Choice3_Value": null,
+      "Choice3_type2": null,
+      "Choice3_Value2": null
+    },
+    {
+      "ID": "",
+      "Type": "",
+      "Chapter": "",
+      "Section": "",
+      "ImageName": "",
+      "EventTitle": "",
+      "EventDesc": "",
+      "Choice1_Desc": "",
+      "Choice1_type": "",
+      "Choice1_Value": "",
+      "Choice1_type2": "",
+      "Choice1_Value2": 0,
+      "Choice2_Desc": null,
+      "Choice2_type": null,
+      "Choice2_Value": null,
+      "Choice2_type2": null,
+      "Choice2_Value2": null,
       "Choice3_Desc": null,
       "Choice3_type": null,
       "Choice3_Value": null,
