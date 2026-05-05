@@ -2,24 +2,10 @@
   "data": [
     {
       "ID": 1,
-      "Name": "CHACRACTER_NAME_1",
-      "Synergy": "",
-      "SKillID": 100,
-      "PrefabName": "Player01",
-      "Weight": 99,
-      "Speed": 7,
-      "Damage": 10,
-      "HP": 100,
-      "Armor": 0,
-      "CriticalChance": 5,
-      "CriticalDamage": 150,
-      "Luck": 1
-    },
-    {
-      "ID": 2,
       "Name": "CHACRACTER_NAME_2",
       "Synergy": "",
       "SKillID": 101,
+      "PuzzleID": "110011,110021",
       "PrefabName": "Player02",
       "Weight": 99,
       "Speed": 7,
@@ -31,10 +17,11 @@
       "Luck": 1
     },
     {
-      "ID": 3,
+      "ID": 2,
       "Name": "CHACRACTER_NAME_3",
       "Synergy": "",
       "SKillID": 102,
+      "PuzzleID": "120011,120021",
       "PrefabName": "Player03",
       "Weight": 99,
       "Speed": 7,
@@ -46,10 +33,11 @@
       "Luck": 1
     },
     {
-      "ID": 4,
+      "ID": 3,
       "Name": "CHACRACTER_NAME_4",
       "Synergy": "",
       "SKillID": 103,
+      "PuzzleID": "130011,130021",
       "PrefabName": "Player04",
       "Weight": 99,
       "Speed": 7,
@@ -61,10 +49,11 @@
       "Luck": 1
     },
     {
-      "ID": 5,
+      "ID": 4,
       "Name": "CHACRACTER_NAME_5",
       "Synergy": "",
       "SKillID": 104,
+      "PuzzleID": "140011,140021",
       "PrefabName": "Player05",
       "Weight": 99,
       "Speed": 7,
@@ -76,10 +65,11 @@
       "Luck": 1
     },
     {
-      "ID": 6,
+      "ID": 5,
       "Name": "CHACRACTER_NAME_6",
       "Synergy": "",
       "SKillID": 105,
+      "PuzzleID": "150011,150021",
       "PrefabName": "Player06",
       "Weight": 99,
       "Speed": 7,
@@ -91,10 +81,11 @@
       "Luck": 1
     },
     {
-      "ID": 7,
+      "ID": 6,
       "Name": "CHACRACTER_NAME_7",
       "Synergy": "",
       "SKillID": 106,
+      "PuzzleID": "160011,160021",
       "PrefabName": "Player07",
       "Weight": 99,
       "Speed": 7,
@@ -106,10 +97,11 @@
       "Luck": 1
     },
     {
-      "ID": 8,
+      "ID": 7,
       "Name": "CHACRACTER_NAME_8",
       "Synergy": "",
       "SKillID": 107,
+      "PuzzleID": "170011,170021",
       "PrefabName": "Player08",
       "Weight": 99,
       "Speed": 7,
