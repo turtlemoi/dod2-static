@@ -6095,7 +6095,7 @@
       "SkillName": "할퀴기",
       "SkillType": 1,
       "SkillLevel": 1,
-      "CoolDown": 1.2,
+      "CoolDown": 0.8,
       "SkillValue": 100,
       "SkillRange": 8,
       "Pierce": 0,
