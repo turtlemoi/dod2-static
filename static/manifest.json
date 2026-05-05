@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T06:41:16.564Z",
+  "updatedAt": "2026-05-05T07:02:08.820Z",
   "sheets": [
     {
       "name": "Common",
@@ -45,8 +45,8 @@
     },
     {
       "name": "Relic",
-      "version": 9,
-      "hash": "c5a210985e27651984d92077d7cc928884ccea2b0b9041c0dd1aa9886c113fd7",
+      "version": 10,
+      "hash": "d7939339f0160ffbe519f028129b679fb35b423081fafdef28062606a93a4bf0",
       "url": "/static/Relic.json"
     },
     {
