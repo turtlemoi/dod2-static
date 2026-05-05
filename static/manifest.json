@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T11:13:15.065Z",
+  "updatedAt": "2026-05-05T11:25:15.148Z",
   "sheets": [
     {
       "name": "Common",
@@ -22,7 +22,7 @@
     {
       "name": "Creature",
       "version": 69,
-      "hash": "1697fe97e402b420b6cbb6a9f8a7994c5651d072dbd2292b9a800b8a385526d8",
+      "hash": "c58075cada393c5b2223b53d47c851b1fe64794720e07a1480e32ea0a78979da",
       "url": "/static/Creature.json"
     },
     {
@@ -33,8 +33,8 @@
     },
     {
       "name": "BattleData",
-      "version": 21,
-      "hash": "cdc87e2caf5744940cdc1bde278bd312811017e36bf16ae3fb65b2a07bd55af7",
+      "version": 23,
+      "hash": "a9e9a52aef0bf8ce3b338a06476dd0b86ce8f005f777ccfa33114db6c6436e85",
       "url": "/static/BattleData.json"
     },
     {
