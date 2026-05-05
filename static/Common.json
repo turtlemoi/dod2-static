@@ -74,7 +74,7 @@
     },
     {
       "Key": "skillvalue_levelup",
-      "Value": 10
+      "Value": 20
     },
     {
       "Key": "rest_heal_ratio",
