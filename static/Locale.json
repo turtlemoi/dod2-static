@@ -3546,6 +3546,16 @@
       "en": null
     },
     {
+      "Key": "EventChoice_305",
+      "ko": "스킬 변환",
+      "en": null
+    },
+    {
+      "Key": "EventChoice_306",
+      "ko": "스킬 진화",
+      "en": null
+    },
+    {
       "Key": "EventTitle_1_001",
       "ko": "시작의 마을",
       "en": null
