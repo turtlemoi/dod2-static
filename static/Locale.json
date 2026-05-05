@@ -3809,6 +3809,26 @@
       "Key": "EventChoice2_1_012",
       "ko": "스치듯 흡수한다",
       "en": null
+    },
+    {
+      "Key": "Relic_001",
+      "ko": "노획",
+      "en": null
+    },
+    {
+      "Key": "Relic_DESC_001",
+      "ko": "적 {0}마리를 처치할 때마다 체력이 {1} 회복됩니다.",
+      "en": null
+    },
+    {
+      "Key": "Relic_002",
+      "ko": "평안",
+      "en": null
+    },
+    {
+      "Key": "Relic_DESC_002",
+      "ko": "전투 종료 후 체력이 {0} 회복됩니다.",
+      "en": null
     }
   ]
 }
