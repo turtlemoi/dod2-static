@@ -3821,6 +3821,21 @@
       "en": null
     },
     {
+      "Key": "EventTitle_0_001",
+      "ko": "모닥불",
+      "en": null
+    },
+    {
+      "Key": "EventDesc_0_001",
+      "ko": "잠깐 쉬었다 가자.",
+      "en": null
+    },
+    {
+      "Key": "EventChoice_204",
+      "ko": "휴식\\n(최대 체력의 {0}% 회복)",
+      "en": null
+    },
+    {
       "Key": "Relic_001",
       "ko": "생존술",
       "en": null
