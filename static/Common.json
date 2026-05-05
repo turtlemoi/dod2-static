@@ -107,6 +107,10 @@
     {
       "Key": "Luck_stat_per_lv",
       "Value": 1
+    },
+    {
+      "Key": "next_chapter_heal_ratio",
+      "Value": 80
     }
   ]
 }
