@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T05:41:30.463Z",
+  "updatedAt": "2026-05-05T06:04:50.405Z",
   "sheets": [
     {
       "name": "Common",
@@ -40,7 +40,7 @@
     {
       "name": "EventData",
       "version": 12,
-      "hash": "c59be6d92c5bd12d92d79f70867defdd9a0f785e0108cd99dec2cbc6cab866f0",
+      "hash": "522984037ce1ad727e0c0f37291b3976a2af4208650f94d92d507b2023dcdc50",
       "url": "/static/EventData.json"
     },
     {
@@ -81,8 +81,8 @@
     },
     {
       "name": "Locale",
-      "version": 70,
-      "hash": "f48eb7d2918a0070ec6125ddd46c0712178984f02d861414327cb1138aea1f9b",
+      "version": 71,
+      "hash": "b348476503f7266a4ed72061dff3c2ced6c2b55827ddc8fcc4b4030bc4faa49e",
       "url": "/static/Locale.json"
     },
     {
