@@ -111,6 +111,22 @@
     {
       "Key": "next_chapter_heal_ratio",
       "Value": 80
+    },
+    {
+      "Key": "route_weight_monster",
+      "Value": 7
+    },
+    {
+      "Key": "route_weight_elite",
+      "Value": 1
+    },
+    {
+      "Key": "route_weight_event",
+      "Value": 1
+    },
+    {
+      "Key": "route_weight_rest",
+      "Value": 1
     }
   ]
 }
