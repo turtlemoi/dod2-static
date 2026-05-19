@@ -471,6 +471,16 @@
       "en": "New Dungeon"
     },
     {
+      "Key": "MESSAGEBOX_CONFIRM",
+      "ko": "확인",
+      "en": "CONFIRM"
+    },
+    {
+      "Key": "MESSAGEBOX_CANCEL",
+      "ko": "취소",
+      "en": "CANCEL"
+    },
+    {
       "Key": "TUTO_001",
       "ko": null,
       "en": null
@@ -3287,7 +3297,7 @@
     },
     {
       "Key": "SKILL_300015_DESC",
-      "ko": "핸드의 모든 카드 쿨타임을 핸드 중 가장 많이 찬 상태로 동기화한다.",
+      "ko": "핸드의 모든 카드 쿨타임을 제일 짧은 쿨타임으로 동기화한다.",
       "en": null
     },
     {
