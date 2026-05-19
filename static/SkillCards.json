@@ -1,0 +1,194 @@
+{
+  "data": [
+    {
+      "ID": 300001,
+      "CoolDown": 6,
+      "EffectType": 1,
+      "Value1": 2,
+      "Value2": 0,
+      "Value3": 0,
+      "SoundName": null,
+      "PrefabName": null
+    },
+    {
+      "ID": 300002,
+      "CoolDown": 4,
+      "EffectType": 2,
+      "Value1": 0,
+      "Value2": 0,
+      "Value3": 0,
+      "SoundName": null,
+      "PrefabName": null
+    },
+    {
+      "ID": 300003,
+      "CoolDown": 7,
+      "EffectType": 3,
+      "Value1": 0,
+      "Value2": 0,
+      "Value3": 0,
+      "SoundName": null,
+      "PrefabName": null
+    },
+    {
+      "ID": 300004,
+      "CoolDown": 3.5,
+      "EffectType": 4,
+      "Value1": 0,
+      "Value2": 0,
+      "Value3": 0,
+      "SoundName": null,
+      "PrefabName": null
+    },
+    {
+      "ID": 300005,
+      "CoolDown": 8,
+      "EffectType": 5,
+      "Value1": 0,
+      "Value2": 0,
+      "Value3": 0,
+      "SoundName": null,
+      "PrefabName": null
+    },
+    {
+      "ID": 300006,
+      "CoolDown": 5,
+      "EffectType": 6,
+      "Value1": 50,
+      "Value2": 0,
+      "Value3": 0,
+      "SoundName": null,
+      "PrefabName": null
+    },
+    {
+      "ID": 300007,
+      "CoolDown": 4.5,
+      "EffectType": 7,
+      "Value1": 0,
+      "Value2": 0,
+      "Value3": 0,
+      "SoundName": null,
+      "PrefabName": null
+    },
+    {
+      "ID": 300008,
+      "CoolDown": 9,
+      "EffectType": 8,
+      "Value1": 0,
+      "Value2": 0,
+      "Value3": 0,
+      "SoundName": null,
+      "PrefabName": null
+    },
+    {
+      "ID": 300009,
+      "CoolDown": 10,
+      "EffectType": 9,
+      "Value1": 0,
+      "Value2": 0,
+      "Value3": 0,
+      "SoundName": null,
+      "PrefabName": null
+    },
+    {
+      "ID": 300010,
+      "CoolDown": 12,
+      "EffectType": 10,
+      "Value1": 0,
+      "Value2": 0,
+      "Value3": 0,
+      "SoundName": null,
+      "PrefabName": null
+    },
+    {
+      "ID": 300011,
+      "CoolDown": 7,
+      "EffectType": 11,
+      "Value1": 20,
+      "Value2": 0,
+      "Value3": 0,
+      "SoundName": null,
+      "PrefabName": null
+    },
+    {
+      "ID": 300012,
+      "CoolDown": 4,
+      "EffectType": 12,
+      "Value1": 40,
+      "Value2": 0,
+      "Value3": 0,
+      "SoundName": null,
+      "PrefabName": null
+    },
+    {
+      "ID": 300013,
+      "CoolDown": 5.5,
+      "EffectType": 13,
+      "Value1": 2,
+      "Value2": 0,
+      "Value3": 0,
+      "SoundName": null,
+      "PrefabName": null
+    },
+    {
+      "ID": 300014,
+      "CoolDown": 3,
+      "EffectType": 14,
+      "Value1": 0,
+      "Value2": 0,
+      "Value3": 0,
+      "SoundName": null,
+      "PrefabName": null
+    },
+    {
+      "ID": 300015,
+      "CoolDown": 6,
+      "EffectType": 15,
+      "Value1": 0,
+      "Value2": 0,
+      "Value3": 0,
+      "SoundName": null,
+      "PrefabName": null
+    },
+    {
+      "ID": 300016,
+      "CoolDown": 8,
+      "EffectType": 16,
+      "Value1": 0,
+      "Value2": 0,
+      "Value3": 0,
+      "SoundName": null,
+      "PrefabName": null
+    },
+    {
+      "ID": 300017,
+      "CoolDown": 9,
+      "EffectType": 17,
+      "Value1": 0,
+      "Value2": 0,
+      "Value3": 0,
+      "SoundName": null,
+      "PrefabName": null
+    },
+    {
+      "ID": 300018,
+      "CoolDown": 5,
+      "EffectType": 18,
+      "Value1": 0,
+      "Value2": 0,
+      "Value3": 0,
+      "SoundName": null,
+      "PrefabName": null
+    },
+    {
+      "ID": 300019,
+      "CoolDown": 3.5,
+      "EffectType": 19,
+      "Value1": 2,
+      "Value2": 0,
+      "Value3": 0,
+      "SoundName": null,
+      "PrefabName": null
+    }
+  ]
+}

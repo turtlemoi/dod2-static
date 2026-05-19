@@ -3141,384 +3141,194 @@
       "en": "DMG {0}% CD {1}s \n[Distant] [Splash]\n[Duration]"
     },
     {
-      "Key": "PUZZLE_210011",
-      "ko": "연쇄 발동",
-      "en": "Chain Trigger"
+      "Key": "SKILL_300001",
+      "ko": "연속타",
+      "en": null
     },
     {
-      "Key": "PUZZLE_210021",
-      "ko": "소환수 스킬 변경",
-      "en": "Change Summoner's Skill"
+      "Key": "SKILL_300001_DESC",
+      "ko": "다음 발동될 공격카드가 2회 추가 발동한다.",
+      "en": null
     },
     {
-      "Key": "PUZZLE_210031",
-      "ko": "동시 공격",
-      "en": "Simultaneous Attacks"
+      "Key": "SKILL_300002",
+      "ko": "메아리",
+      "en": null
     },
     {
-      "Key": "PUZZLE_210011_DESC",
-      "ko": "입력 스킬에 맞은적에게서 출력 스킬이 발동됩니다.",
-      "en": "Enemy hit by input skill will trigger output skill."
+      "Key": "SKILL_300002_DESC",
+      "ko": "직전에 발동된 공격카드를 즉시 1회 복사 발동한다.",
+      "en": null
     },
     {
-      "Key": "PUZZLE_210021_DESC",
-      "ko": "입력 스킬로 소환된 아군이 출력 스킬을 사용합니다.",
-      "en": "Allies summoned by input skill will use output skill."
+      "Key": "SKILL_300003",
+      "ko": "반향",
+      "en": null
     },
     {
-      "Key": "PUZZLE_210031_DESC",
-      "ko": "입력 스킬이 발동될 때 출력 스킬도 발동됩니다.",
-      "en": "When an input skill is triggered, the output skill is also triggered."
+      "Key": "SKILL_300003_DESC",
+      "ko": "직전 발동된 카드와 다음 발동될 카드를 동시에 1회씩 즉시 발동한다.",
+      "en": null
     },
     {
-      "Key": "PUZZLE_310011",
-      "ko": "확산 범위 증가",
-      "en": "Splash Range Increase"
+      "Key": "SKILL_300004",
+      "ko": "난사",
+      "en": null
     },
     {
-      "Key": "PUZZLE_310012",
-      "ko": "확산 범위 증가",
-      "en": "Splash Range Increase"
+      "Key": "SKILL_300004_DESC",
+      "ko": "핸드의 공격카드 중 랜덤 1장을 즉시 발동한다.",
+      "en": null
     },
     {
-      "Key": "PUZZLE_310013",
-      "ko": "확산 범위 증가",
-      "en": "Splash Range Increase"
+      "Key": "SKILL_300005",
+      "ko": "저격",
+      "en": null
     },
     {
-      "Key": "PUZZLE_310021",
-      "ko": "소환체 강화",
-      "en": "Enhance Summoner"
+      "Key": "SKILL_300005_DESC",
+      "ko": "핸드와 더미에서 가장 높은 티어의 공격카드 1장을 즉시 발동한다.",
+      "en": null
     },
     {
-      "Key": "PUZZLE_310022",
-      "ko": "소환체 강화",
-      "en": "Enhance Summoner"
+      "Key": "SKILL_300006",
+      "ko": "강격",
+      "en": null
     },
     {
-      "Key": "PUZZLE_310023",
-      "ko": "소환체 강화",
-      "en": "Enhance Summoner"
+      "Key": "SKILL_300006_DESC",
+      "ko": "다음 발동될 공격카드의 피해량이 50% 증가한다.",
+      "en": null
     },
     {
-      "Key": "PUZZLE_310031",
-      "ko": "다중 투사체",
-      "en": "Multi-Proj."
+      "Key": "SKILL_300007",
+      "ko": "화력 집중",
+      "en": null
     },
     {
-      "Key": "PUZZLE_310032",
-      "ko": "다중 투사체",
-      "en": "Multi-Proj."
+      "Key": "SKILL_300007_DESC",
+      "ko": "더미에서 무작위 카드 1장을 즉시 발동한다.",
+      "en": null
     },
     {
-      "Key": "PUZZLE_310033",
-      "ko": "다중 투사체",
-      "en": "Multi-Proj."
+      "Key": "SKILL_300008",
+      "ko": "봉화",
+      "en": null
     },
     {
-      "Key": "PUZZLE_310041",
-      "ko": "지속시간 보조",
-      "en": "Support Duration"
+      "Key": "SKILL_300008_DESC",
+      "ko": "이미 사용된 카드들을 모두 즉시 재발동한다.",
+      "en": null
     },
     {
-      "Key": "PUZZLE_310042",
-      "ko": "지속시간 보조",
-      "en": "Support Duration"
+      "Key": "SKILL_300009",
+      "ko": "돌격",
+      "en": null
     },
     {
-      "Key": "PUZZLE_310043",
-      "ko": "지속시간 보조",
-      "en": "Support Duration"
+      "Key": "SKILL_300009_DESC",
+      "ko": "핸드 소진 전까지, 다음 스킬카드를 만나기 전의 공격카드를 모두 즉시 발동한다.",
+      "en": null
     },
     {
-      "Key": "PUZZLE_310051",
-      "ko": "순수한 힘",
-      "en": "Pure Strength"
+      "Key": "SKILL_300010",
+      "ko": "일제 사격",
+      "en": null
     },
     {
-      "Key": "PUZZLE_310052",
-      "ko": "순수한 힘",
-      "en": "Pure Strength"
+      "Key": "SKILL_300010_DESC",
+      "ko": "대기 중인 카드를 모두 즉시 발동한다. 발동 후 카드는 핸드에 남아 사이클을 계속한다.",
+      "en": null
     },
     {
-      "Key": "PUZZLE_310053",
-      "ko": "순수한 힘",
-      "en": "Pure Strength"
+      "Key": "SKILL_300011",
+      "ko": "상승 전투",
+      "en": null
     },
     {
-      "Key": "PUZZLE_310061",
-      "ko": "무자비",
-      "en": "Ruthless"
+      "Key": "SKILL_300011_DESC",
+      "ko": "이 카드 이후 발동되는 공격카드들이 순서가 지날수록 피해가 20%씩 증가한다.",
+      "en": null
     },
     {
-      "Key": "PUZZLE_310062",
-      "ko": "무자비",
-      "en": "Ruthless"
+      "Key": "SKILL_300012",
+      "ko": "가속",
+      "en": null
     },
     {
-      "Key": "PUZZLE_310063",
-      "ko": "무자비",
-      "en": "Ruthless"
+      "Key": "SKILL_300012_DESC",
+      "ko": "핸드의 모든 카드 쿨타임을 40% 단축한다.",
+      "en": null
     },
     {
-      "Key": "PUZZLE_310071",
-      "ko": "치명타 피해 증가",
-      "en": "Increase Crit Damage"
+      "Key": "SKILL_300013",
+      "ko": "과부하",
+      "en": null
     },
     {
-      "Key": "PUZZLE_310072",
-      "ko": "치명타 피해 증가",
-      "en": "Increase Crit Damage"
+      "Key": "SKILL_300013_DESC",
+      "ko": "아직 대기 중인 공격카드 중 무작위 2장을 즉시 발동 준비 상태로 만든다.",
+      "en": null
     },
     {
-      "Key": "PUZZLE_310073",
-      "ko": "치명타 피해 증가",
-      "en": "Increase Crit Damage"
+      "Key": "SKILL_300014",
+      "ko": "집중",
+      "en": null
     },
     {
-      "Key": "PUZZLE_310081",
-      "ko": "응축",
-      "en": "Condensate"
+      "Key": "SKILL_300014_DESC",
+      "ko": "다음 발동될 카드를 즉시 발동 준비 상태로 만든다.",
+      "en": null
     },
     {
-      "Key": "PUZZLE_310082",
-      "ko": "응축",
-      "en": "Condensate"
+      "Key": "SKILL_300015",
+      "ko": "동기화",
+      "en": null
     },
     {
-      "Key": "PUZZLE_310083",
-      "ko": "응축",
-      "en": "Condensate"
+      "Key": "SKILL_300015_DESC",
+      "ko": "핸드의 모든 카드 쿨타임을 핸드 중 가장 많이 찬 상태로 동기화한다.",
+      "en": null
     },
     {
-      "Key": "PUZZLE_310091",
-      "ko": "흡혈",
-      "en": "Drain"
+      "Key": "SKILL_300016",
+      "ko": "긴급 셔플",
+      "en": null
     },
     {
-      "Key": "PUZZLE_310092",
-      "ko": "흡혈",
-      "en": "Drain"
+      "Key": "SKILL_300016_DESC",
+      "ko": "사용한 카드 더미를 즉시 셔플하여 덱으로 되돌린다.",
+      "en": null
     },
     {
-      "Key": "PUZZLE_310093",
-      "ko": "흡혈",
-      "en": "Drain"
+      "Key": "SKILL_300017",
+      "ko": "선별",
+      "en": null
     },
     {
-      "Key": "PUZZLE_310101",
-      "ko": "다중 소환",
-      "en": "Multi Summon"
+      "Key": "SKILL_300017_DESC",
+      "ko": "더미에서 가장 높은 티어의 공격카드 1장을 핸드에 즉시 추가한다.",
+      "en": null
     },
     {
-      "Key": "PUZZLE_310102",
-      "ko": "다중 소환",
-      "en": "Multi Summon"
+      "Key": "SKILL_300018",
+      "ko": "무작위 방출",
+      "en": null
     },
     {
-      "Key": "PUZZLE_310103",
-      "ko": "다중 소환",
-      "en": "Multi Summon"
+      "Key": "SKILL_300018_DESC",
+      "ko": "더미에서 무작위 카드 1장을 핸드에 즉시 추가한다.",
+      "en": null
     },
     {
-      "Key": "PUZZLE_310111",
-      "ko": "빠른 공격",
-      "en": "Fast Attack"
+      "Key": "SKILL_300019",
+      "ko": "빠른 드로우",
+      "en": null
     },
     {
-      "Key": "PUZZLE_310112",
-      "ko": "빠른 공격",
-      "en": "Fast Attack"
-    },
-    {
-      "Key": "PUZZLE_310113",
-      "ko": "빠른 공격",
-      "en": "Fast Attack"
-    },
-    {
-      "Key": "PUZZLE_310011_DESC",
-      "ko": "맞닿은 만큼 주변 퍼즐의 확산 범위 +{0}",
-      "en": "Splash Range of all Puzzles adjacent +{0}"
-    },
-    {
-      "Key": "PUZZLE_310012_DESC",
-      "ko": "맞닿은 만큼 주변 퍼즐의 확산 범위 +{0}",
-      "en": "Splash Range of all Puzzles adjacent +{0}"
-    },
-    {
-      "Key": "PUZZLE_310013_DESC",
-      "ko": "맞닿은 만큼 주변 퍼즐의 확산 범위 +{0}",
-      "en": "Splash Range of all Puzzles adjacent +{0}"
-    },
-    {
-      "Key": "PUZZLE_310021_DESC",
-      "ko": "맞닿은 만큼 주변 퍼즐의 소환수 데미지 +{0}%, 생명력 +{1}%",
-      "en": "Summoners' Damage +{0}%, HP +{1}% of all Puzzles adjacent"
-    },
-    {
-      "Key": "PUZZLE_310022_DESC",
-      "ko": "맞닿은 만큼 주변 퍼즐의 소환수 데미지 +{0}%, 생명력 +{1}%",
-      "en": "Summoners' Damage +{0}%, HP +{1}% of all Puzzles adjacent"
-    },
-    {
-      "Key": "PUZZLE_310023_DESC",
-      "ko": "맞닿은 만큼 주변 퍼즐의 소환수 데미지 +{0}%, 생명력 +{1}%",
-      "en": "Summoners' Damage +{0}%, HP +{1}% of all Puzzles adjacent"
-    },
-    {
-      "Key": "PUZZLE_310031_DESC",
-      "ko": "맞닿은 만큼 주변 퍼즐의  투사체 수 +{0}",
-      "en": "Number of Proj. of all Puzzles adjacent +{0}"
-    },
-    {
-      "Key": "PUZZLE_310032_DESC",
-      "ko": "맞닿은 만큼 주변 퍼즐의  투사체 수 +{0}",
-      "en": "Number of Proj. of all Puzzles adjacent +{0}"
-    },
-    {
-      "Key": "PUZZLE_310033_DESC",
-      "ko": "맞닿은 만큼 주변 퍼즐의  투사체 수 +{0}",
-      "en": "Number of Proj. of all Puzzles adjacent +{0}"
-    },
-    {
-      "Key": "PUZZLE_310041_DESC",
-      "ko": "맞닿은 만큼 주변 퍼즐의 지속시간 +{0}%",
-      "en": "Duration of all Puzzles adjacent +{0}%"
-    },
-    {
-      "Key": "PUZZLE_310042_DESC",
-      "ko": "맞닿은 만큼 주변 퍼즐의 지속시간 +{0}%",
-      "en": "Duration of all Puzzles adjacent +{0}%"
-    },
-    {
-      "Key": "PUZZLE_310043_DESC",
-      "ko": "맞닿은 만큼 주변 퍼즐의 지속시간 +{0}%",
-      "en": "Duration of all Puzzles adjacent +{0}%"
-    },
-    {
-      "Key": "PUZZLE_310051_DESC",
-      "ko": "맞닿은 만큼 주변 퍼즐의 데미지 +{0}%",
-      "en": "Damage of all Puzzles adjacent +{0}%"
-    },
-    {
-      "Key": "PUZZLE_310052_DESC",
-      "ko": "맞닿은 만큼 주변 퍼즐의 데미지 +{0}%",
-      "en": "Damage of all Puzzles adjacent +{0}%"
-    },
-    {
-      "Key": "PUZZLE_310053_DESC",
-      "ko": "맞닿은 만큼 주변 퍼즐의 데미지 +{0}%",
-      "en": "Damage of all Puzzles adjacent +{0}%"
-    },
-    {
-      "Key": "PUZZLE_310061_DESC",
-      "ko": "맞닿은 만큼 주변 퍼즐의 치명타 확률 +{0}%, 데미지 {1}%",
-      "en": "Crit Rate +{0}%, Damage {1}% of all Puzzles adjacent"
-    },
-    {
-      "Key": "PUZZLE_310062_DESC",
-      "ko": "맞닿은 만큼 주변 퍼즐의 치명타 확률 +{0}%, 데미지 {1}%",
-      "en": "Crit Rate +{0}%, Damage {1}% of all Puzzles adjacent"
-    },
-    {
-      "Key": "PUZZLE_310063_DESC",
-      "ko": "맞닿은 만큼 주변 퍼즐의 치명타 확률 +{0}%, 데미지 {1}%",
-      "en": "Crit Rate +{0}%, Damage {1}% of all Puzzles adjacent"
-    },
-    {
-      "Key": "PUZZLE_310071_DESC",
-      "ko": "맞닿은 만큼 주변 퍼즐의 치명타 피해 +{0}%",
-      "en": "Crit Rate of all Puzzles adjacent +{0}%"
-    },
-    {
-      "Key": "PUZZLE_310072_DESC",
-      "ko": "맞닿은 만큼 주변 퍼즐의 치명타 피해 +{0}%",
-      "en": "Crit Rate of all Puzzles adjacent +{0}%"
-    },
-    {
-      "Key": "PUZZLE_310073_DESC",
-      "ko": "맞닿은 만큼 주변 퍼즐의 치명타 피해 +{0}%",
-      "en": "Crit Rate of all Puzzles adjacent +{0}%"
-    },
-    {
-      "Key": "PUZZLE_310081_DESC",
-      "ko": "맞닿은 만큼 주변 퍼즐의 데미지 +{0}%, 쿨다운 +{1}%",
-      "en": "Damage +{0}%, Cool Down {1}% of all Puzzles adjacent"
-    },
-    {
-      "Key": "PUZZLE_310082_DESC",
-      "ko": "맞닿은 만큼 주변 퍼즐의 데미지 +{0}%, 쿨다운 +{1}%",
-      "en": "Damage +{0}%, Cool Down {1}% of all Puzzles adjacent"
-    },
-    {
-      "Key": "PUZZLE_310083_DESC",
-      "ko": "맞닿은 만큼 주변 퍼즐의 데미지 +{0}%, 쿨다운 +{1}%",
-      "en": "Damage +{0}%, Cool Down {1}% of all Puzzles adjacent"
-    },
-    {
-      "Key": "PUZZLE_310091_DESC",
-      "ko": "맞닿은 만큼 주변 퍼즐의 데미지의 {0}% 만큼 흡혈",
-      "en": "Drain {0}% amount of damage given of all Puzzles adjacent"
-    },
-    {
-      "Key": "PUZZLE_310092_DESC",
-      "ko": "맞닿은 만큼 주변 퍼즐의 데미지의 {0}% 만큼 흡혈",
-      "en": "Drain {0}% amount of damage given of all Puzzles adjacent"
-    },
-    {
-      "Key": "PUZZLE_310093_DESC",
-      "ko": "맞닿은 만큼 주변 퍼즐의 데미지의 {0}% 만큼 흡혈",
-      "en": "Drain {0}% amount of damage given of all Puzzles adjacent"
-    },
-    {
-      "Key": "PUZZLE_310101_DESC",
-      "ko": "맞닿은 만큼 주변 퍼즐의 소환체 소환 개수 +{0}",
-      "en": "Number of Summoners of all Puzzles adjacent +{0}"
-    },
-    {
-      "Key": "PUZZLE_310102_DESC",
-      "ko": "맞닿은 만큼 주변 퍼즐의 소환체 소환 개수 +{0}",
-      "en": "Number of Summoners of all Puzzles adjacent +{0}"
-    },
-    {
-      "Key": "PUZZLE_310103_DESC",
-      "ko": "맞닿은 만큼 주변 퍼즐의 소환체 소환 개수 +{0}",
-      "en": "Number of Summoners of all Puzzles adjacent +{0}"
-    },
-    {
-      "Key": "PUZZLE_310111_DESC",
-      "ko": "맞닿은 만큼 주변 퍼즐의 쿨다운 {0}%",
-      "en": "Cool Down time of all Puzzles adjacent {0}%"
-    },
-    {
-      "Key": "PUZZLE_310112_DESC",
-      "ko": "맞닿은 만큼 주변 퍼즐의 쿨다운 {0}%",
-      "en": "Cool Down time of all Puzzles adjacent {0}%"
-    },
-    {
-      "Key": "PUZZLE_310113_DESC",
-      "ko": "맞닿은 만큼 주변 퍼즐의 쿨다운 {0}%",
-      "en": "Cool Down time of all Puzzles adjacent {0}%"
-    },
-    {
-      "Key": "MESSAGEBOX_CONFIRM",
-      "ko": "확인",
-      "en": "CONFIRM"
-    },
-    {
-      "Key": "MESSAGEBOX_CANCEL",
-      "ko": "취소",
-      "en": "CANCEL"
-    },
-    {
-      "Key": "MYINFO_HERODESC",
-      "ko": "<color=#568BF6>{0}</color>의 던전 <color=#FFF692>{1}</color> 정화",
-      "en": "Purified <color=#FFF692>{1}</color> made by <color=#568BF6>{0}</color>"
-    },
-    {
-      "Key": "IGCLEARUI_DESC",
-      "ko": "당신의 캐릭터가 {0}층의 보스가 되었습니다.",
-      "en": "You're the boss \non the {0}th floor."
+      "Key": "SKILL_300019_DESC",
+      "ko": "덱에서 카드 2장을 즉시 드로우한다.",
+      "en": null
     },
     {
       "Key": "EventChoice_201",
