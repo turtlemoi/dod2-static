@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-19T15:08:26.236Z",
+  "updatedAt": "2026-05-20T13:58:14.769Z",
   "sheets": [
     {
       "name": "Common",
@@ -51,8 +51,8 @@
     },
     {
       "name": "Puzzle",
-      "version": 96,
-      "hash": "19ff2efc91065cdee79f8971d4681ca42d909b9bae554086a47d5f056a2a42b8",
+      "version": 97,
+      "hash": "cf3ece6b52fff6e40bead29126c38a27ba2511c97df75de48c2379429f9e0847",
       "url": "/static/Puzzle.json"
     },
     {
@@ -74,6 +74,12 @@
       "url": "/static/SkillCards.json"
     },
     {
+      "name": "PowerCards",
+      "version": 2,
+      "hash": "aa46eb8f8aaa314ac09b379c27d6371c5b7163d3b66cbc107d071088923f5c5c",
+      "url": "/static/PowerCards.json"
+    },
+    {
       "name": "SubSkills",
       "version": 23,
       "hash": "85479d2ee7b1cd63a0943dd9d8bf64153ebf3ec5122507cbed590ba32ab8590a",
@@ -81,8 +87,8 @@
     },
     {
       "name": "Locale",
-      "version": 75,
-      "hash": "5aab0073d610b840da1cbb987f2fbc1dfb253600fac7ca5d91aeecc4c0ba0c7c",
+      "version": 76,
+      "hash": "20324ecf0d2ebfb0411f4baeef6ee529bc93e920903b0319cb7e22a4457cbd2d",
       "url": "/static/Locale.json"
     },
     {
