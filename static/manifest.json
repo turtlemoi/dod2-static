@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-21T05:32:32.033Z",
+  "updatedAt": "2026-05-21T06:46:06.601Z",
   "sheets": [
     {
       "name": "Common",
@@ -16,7 +16,7 @@
     {
       "name": "Creature",
       "version": 69,
-      "hash": "0c3eebd3674e14147ce7574585b0c81a9e310e92c93168321bdaff331b10ffb7",
+      "hash": "be28b1e7aca3f750bee864f7724a31a3e3066b45a5ea8725d3d43840887c7a98",
       "url": "/static/Creature.json"
     },
     {
@@ -27,8 +27,8 @@
     },
     {
       "name": "BattleData",
-      "version": 25,
-      "hash": "08c225777ce328955afc28543e9ddda0a2331ff1268b4fe4ce265e3926853187",
+      "version": 27,
+      "hash": "ec1c0228dab6e2f002ef99d5e7a96288f15f8fdce69e344c712de7150e1fb662",
       "url": "/static/BattleData.json"
     },
     {
@@ -52,7 +52,7 @@
     {
       "name": "Puzzle",
       "version": 98,
-      "hash": "570f7e03043b20fd5ebab55196c2167611bfa376a95304e6b28c9d14fbfcd745",
+      "hash": "0909d4e6b974dd046374d22a471dbab4f3eac7b62dc590de9cc2d8c75ee941d9",
       "url": "/static/Puzzle.json"
     },
     {
@@ -64,7 +64,7 @@
     {
       "name": "AttackSkills",
       "version": 535,
-      "hash": "f59c984624f9e6cdf54b22d4088bc08300571429eb37748e510160cacd074a3d",
+      "hash": "1d5e2b76043f15ac42659ee33d6cadeef3773bb63f098bed81fd572660fcec35",
       "url": "/static/AttackSkills.json"
     },
     {

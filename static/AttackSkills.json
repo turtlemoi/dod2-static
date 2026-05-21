@@ -3,6 +3,7 @@
     {
       "ID": 100,
       "SkillName": "모험가 공격",
+      "Tier": 1,
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 1,
@@ -19,11 +20,13 @@
       "SoundName": "Attack_Character_Sword",
       "PrefabName": "Character_Attack_1_Strike",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 101,
       "SkillName": "전사 공격",
+      "Tier": 1,
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 1,
@@ -40,11 +43,13 @@
       "SoundName": "Attack_Character_Axe",
       "PrefabName": "Character_Attack_2_Strike",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 102,
       "SkillName": "궁수 공격",
+      "Tier": 1,
       "SkillType": 7,
       "SkillLevel": 1,
       "CoolDown": 1,
@@ -61,11 +66,13 @@
       "SoundName": "Attack_arrow",
       "PrefabName": "Mortar_arrow",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 103,
       "SkillName": "마법사 공격",
+      "Tier": 1,
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 1,
@@ -82,11 +89,13 @@
       "SoundName": "Attack_energybolt",
       "PrefabName": "Projectile_energybolt",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 104,
       "SkillName": "강령술사 공격",
+      "Tier": 1,
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 1,
@@ -103,11 +112,13 @@
       "SoundName": "Attack_energybolt_green",
       "PrefabName": "Projectile_energybolt_green",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 105,
       "SkillName": "격투가 공격",
+      "Tier": 1,
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 1,
@@ -124,11 +135,13 @@
       "SoundName": "Attack_Character_Palm",
       "PrefabName": "Character_Attack_6_Strike",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 106,
       "SkillName": "도적 공격",
+      "Tier": 1,
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 1,
@@ -145,11 +158,13 @@
       "SoundName": "Attack_dagger",
       "PrefabName": "Character_Attack_7_Strike",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 107,
       "SkillName": "주술사 공격",
+      "Tier": 1,
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 1,
@@ -166,11 +181,13 @@
       "SoundName": "Attack_skull_green",
       "PrefabName": "Projectile_skull_green",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 110011,
       "SkillName": "창찌르기",
+      "Tier": 1,
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 1.1,
@@ -187,11 +204,13 @@
       "SoundName": "Attack_spear",
       "PrefabName": "Strike_spear",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 110012,
       "SkillName": "창찌르기",
+      "Tier": 1,
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 1.1,
@@ -208,11 +227,13 @@
       "SoundName": "Attack_spear",
       "PrefabName": "Strike_spear",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 110013,
       "SkillName": "창찌르기",
+      "Tier": 1,
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 1.1,
@@ -229,11 +250,13 @@
       "SoundName": "Attack_spear",
       "PrefabName": "Strike_spear",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 110021,
       "SkillName": "도끼던지기",
+      "Tier": 1,
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 2.3,
@@ -250,11 +273,13 @@
       "SoundName": "Attack_battle_axe_throw",
       "PrefabName": "Projectile_battle_axe",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 110022,
       "SkillName": "도끼던지기",
+      "Tier": 1,
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 2.3,
@@ -271,11 +296,13 @@
       "SoundName": "Attack_battle_axe_throw",
       "PrefabName": "Projectile_battle_axe",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 110023,
       "SkillName": "도끼던지기",
+      "Tier": 1,
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 2.3,
@@ -292,11 +319,13 @@
       "SoundName": "Attack_battle_axe_throw",
       "PrefabName": "Projectile_battle_axe",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 110031,
       "SkillName": "휘두르기",
+      "Tier": 2,
       "SkillType": 8,
       "SkillLevel": 1,
       "CoolDown": 1.7,
@@ -313,11 +342,13 @@
       "SoundName": "Attack_battle_axe",
       "PrefabName": "Swing_battle_axe",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 110032,
       "SkillName": "휘두르기",
+      "Tier": 2,
       "SkillType": 8,
       "SkillLevel": 1,
       "CoolDown": 1.7,
@@ -334,11 +365,13 @@
       "SoundName": "Attack_battle_axe",
       "PrefabName": "Swing_battle_axe",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 110033,
       "SkillName": "휘두르기",
+      "Tier": 2,
       "SkillType": 8,
       "SkillLevel": 1,
       "CoolDown": 1.7,
@@ -355,11 +388,13 @@
       "SoundName": "Attack_battle_axe",
       "PrefabName": "Swing_battle_axe",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 110041,
       "SkillName": "원형 베기",
+      "Tier": 2,
       "SkillType": 8,
       "SkillLevel": 1,
       "CoolDown": 2.7,
@@ -376,11 +411,13 @@
       "SoundName": "Attack_swordaura",
       "PrefabName": "Swing_swordaura",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 110042,
       "SkillName": "원형 베기",
+      "Tier": 2,
       "SkillType": 8,
       "SkillLevel": 1,
       "CoolDown": 2.7,
@@ -397,11 +434,13 @@
       "SoundName": "Attack_swordaura",
       "PrefabName": "Swing_swordaura",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 110043,
       "SkillName": "원형 베기",
+      "Tier": 2,
       "SkillType": 8,
       "SkillLevel": 1,
       "CoolDown": 2.7,
@@ -418,11 +457,13 @@
       "SoundName": "Attack_swordaura",
       "PrefabName": "Swing_swordaura",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 110051,
       "SkillName": "불꽃검",
+      "Tier": 3,
       "SkillType": 9,
       "SkillLevel": 1,
       "CoolDown": 12,
@@ -439,11 +480,13 @@
       "SoundName": "Attack_sword_fire",
       "PrefabName": "Homing_sword_fire",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 110052,
       "SkillName": "불꽃검",
+      "Tier": 3,
       "SkillType": 9,
       "SkillLevel": 1,
       "CoolDown": 12,
@@ -460,11 +503,13 @@
       "SoundName": "Attack_sword_fire",
       "PrefabName": "Homing_sword_fire",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 110053,
       "SkillName": "불꽃검",
+      "Tier": 3,
       "SkillType": 9,
       "SkillLevel": 1,
       "CoolDown": 12,
@@ -481,11 +526,13 @@
       "SoundName": "Attack_sword_fire",
       "PrefabName": "Homing_sword_fire",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 110061,
       "SkillName": "연속 베기",
+      "Tier": 3,
       "SkillType": 10,
       "SkillLevel": 1,
       "CoolDown": 2.1,
@@ -502,11 +549,13 @@
       "SoundName": "Attack_rock",
       "PrefabName": "BurstProjectile_slash",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 110062,
       "SkillName": "연속 베기",
+      "Tier": 3,
       "SkillType": 10,
       "SkillLevel": 1,
       "CoolDown": 2.1,
@@ -523,11 +572,13 @@
       "SoundName": "Attack_rock",
       "PrefabName": "BurstProjectile_slash",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 110063,
       "SkillName": "연속 베기",
+      "Tier": 3,
       "SkillType": 10,
       "SkillLevel": 1,
       "CoolDown": 2.1,
@@ -544,11 +595,13 @@
       "SoundName": "Attack_rock",
       "PrefabName": "BurstProjectile_slash",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 110071,
       "SkillName": "이기어검",
+      "Tier": 4,
       "SkillType": 9,
       "SkillLevel": 1,
       "CoolDown": 18,
@@ -565,11 +618,13 @@
       "SoundName": "Attack_spear_electric",
       "PrefabName": "Homing_sword",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 110072,
       "SkillName": "이기어검",
+      "Tier": 4,
       "SkillType": 9,
       "SkillLevel": 1,
       "CoolDown": 18,
@@ -586,11 +641,13 @@
       "SoundName": "Attack_spear_electric",
       "PrefabName": "Homing_sword",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 110073,
       "SkillName": "이기어검",
+      "Tier": 4,
       "SkillType": 9,
       "SkillLevel": 1,
       "CoolDown": 18,
@@ -607,11 +664,13 @@
       "SoundName": "Attack_spear_electric",
       "PrefabName": "Homing_sword",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 110081,
       "SkillName": "망치찍기",
+      "Tier": 4,
       "SkillType": 18,
       "SkillLevel": 1,
       "CoolDown": 5.3,
@@ -628,11 +687,13 @@
       "SoundName": "Attack_rock",
       "PrefabName": "Strike_hammering",
       "SubPrefabName": "Sub_hammer",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 110082,
       "SkillName": "망치찍기",
+      "Tier": 4,
       "SkillType": 18,
       "SkillLevel": 1,
       "CoolDown": 5.3,
@@ -649,11 +710,13 @@
       "SoundName": "Attack_rock",
       "PrefabName": "Strike_hammering",
       "SubPrefabName": "Sub_hammer",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 110083,
       "SkillName": "망치찍기",
+      "Tier": 4,
       "SkillType": 18,
       "SkillLevel": 1,
       "CoolDown": 5.3,
@@ -670,11 +733,13 @@
       "SoundName": "Attack_rock",
       "PrefabName": "Strike_hammering",
       "SubPrefabName": "Sub_hammer",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 110091,
       "SkillName": "검무",
+      "Tier": 5,
       "SkillType": 4,
       "SkillLevel": 1,
       "CoolDown": 5.7,
@@ -691,11 +756,13 @@
       "SoundName": "Attack_swordaura_fire",
       "PrefabName": "Aura_SlashDance",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 110092,
       "SkillName": "검무",
+      "Tier": 5,
       "SkillType": 4,
       "SkillLevel": 1,
       "CoolDown": 5.7,
@@ -712,11 +779,13 @@
       "SoundName": "Attack_swordaura_fire",
       "PrefabName": "Aura_SlashDance",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 110093,
       "SkillName": "검무",
+      "Tier": 5,
       "SkillType": 4,
       "SkillLevel": 1,
       "CoolDown": 5.7,
@@ -733,11 +802,13 @@
       "SoundName": "Attack_swordaura_fire",
       "PrefabName": "Aura_SlashDance",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 110101,
       "SkillName": "모아베기",
+      "Tier": 5,
       "SkillType": 13,
       "SkillLevel": 1,
       "CoolDown": 4.7,
@@ -754,11 +825,13 @@
       "SoundName": "Attack_rock",
       "PrefabName": "FieldZone_TrueChargedSlash",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 110102,
       "SkillName": "모아베기",
+      "Tier": 5,
       "SkillType": 13,
       "SkillLevel": 1,
       "CoolDown": 4.7,
@@ -775,11 +848,13 @@
       "SoundName": "Attack_rock",
       "PrefabName": "FieldZone_TrueChargedSlash",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 110103,
       "SkillName": "모아베기",
+      "Tier": 5,
       "SkillType": 13,
       "SkillLevel": 1,
       "CoolDown": 4.7,
@@ -796,11 +871,13 @@
       "SoundName": "Attack_rock",
       "PrefabName": "FieldZone_TrueChargedSlash",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 120011,
       "SkillName": "공중 화살",
+      "Tier": 1,
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 1.1,
@@ -817,11 +894,13 @@
       "SoundName": "Attack_arrow_Strike",
       "PrefabName": "Strike_arrow",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 120012,
       "SkillName": "공중 화살",
+      "Tier": 1,
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 1.1,
@@ -838,11 +917,13 @@
       "SoundName": "Attack_arrow_Strike",
       "PrefabName": "Strike_arrow",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 120013,
       "SkillName": "공중 화살",
+      "Tier": 1,
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 1.1,
@@ -859,11 +940,13 @@
       "SoundName": "Attack_arrow_Strike",
       "PrefabName": "Strike_arrow",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 120021,
       "SkillName": "연속사격",
+      "Tier": 1,
       "SkillType": 7,
       "SkillLevel": 1,
       "CoolDown": 2.3,
@@ -880,11 +963,13 @@
       "SoundName": "Attack_arrow",
       "PrefabName": "Mortar_arrow",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_arrow"
+      "HitFXName": "FX_Hit_arrow",
+      "SkillImage": ""
     },
     {
       "ID": 120022,
       "SkillName": "연속사격",
+      "Tier": 1,
       "SkillType": 7,
       "SkillLevel": 1,
       "CoolDown": 2.3,
@@ -901,11 +986,13 @@
       "SoundName": "Attack_arrow",
       "PrefabName": "Mortar_arrow",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_arrow"
+      "HitFXName": "FX_Hit_arrow",
+      "SkillImage": ""
     },
     {
       "ID": 120023,
       "SkillName": "연속사격",
+      "Tier": 1,
       "SkillType": 7,
       "SkillLevel": 1,
       "CoolDown": 2.3,
@@ -922,11 +1009,13 @@
       "SoundName": "Attack_arrow",
       "PrefabName": "Mortar_arrow",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_arrow"
+      "HitFXName": "FX_Hit_arrow",
+      "SkillImage": ""
     },
     {
       "ID": 120031,
       "SkillName": "폭발 화살",
+      "Tier": 2,
       "SkillType": 7,
       "SkillLevel": 1,
       "CoolDown": 2.3,
@@ -943,11 +1032,13 @@
       "SoundName": "Attack_arrow_bomb",
       "PrefabName": "Mortar_arrow_bomb",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_boom"
+      "HitFXName": "FX_Hit_boom",
+      "SkillImage": ""
     },
     {
       "ID": 120032,
       "SkillName": "폭발 화살",
+      "Tier": 2,
       "SkillType": 7,
       "SkillLevel": 1,
       "CoolDown": 2.3,
@@ -964,11 +1055,13 @@
       "SoundName": "Attack_arrow_bomb",
       "PrefabName": "Mortar_arrow_bomb",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_boom"
+      "HitFXName": "FX_Hit_boom",
+      "SkillImage": ""
     },
     {
       "ID": 120033,
       "SkillName": "폭발 화살",
+      "Tier": 2,
       "SkillType": 7,
       "SkillLevel": 1,
       "CoolDown": 2.3,
@@ -985,11 +1078,13 @@
       "SoundName": "Attack_arrow_bomb",
       "PrefabName": "Mortar_arrow_bomb",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_boom"
+      "HitFXName": "FX_Hit_boom",
+      "SkillImage": ""
     },
     {
       "ID": 120041,
       "SkillName": "독 화살",
+      "Tier": 2,
       "SkillType": 7,
       "SkillLevel": 1,
       "CoolDown": 1.8,
@@ -1006,11 +1101,13 @@
       "SoundName": "Attack_arrow_poison",
       "PrefabName": "Mortar_arrow_poison",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_arrow_poison"
+      "HitFXName": "FX_Hit_arrow_poison",
+      "SkillImage": ""
     },
     {
       "ID": 120042,
       "SkillName": "독 화살",
+      "Tier": 2,
       "SkillType": 7,
       "SkillLevel": 1,
       "CoolDown": 1.8,
@@ -1027,11 +1124,13 @@
       "SoundName": "Attack_arrow_poison",
       "PrefabName": "Mortar_arrow_poison",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_arrow_poison"
+      "HitFXName": "FX_Hit_arrow_poison",
+      "SkillImage": ""
     },
     {
       "ID": 120043,
       "SkillName": "독 화살",
+      "Tier": 2,
       "SkillType": 7,
       "SkillLevel": 1,
       "CoolDown": 1.8,
@@ -1048,11 +1147,13 @@
       "SoundName": "Attack_arrow_poison",
       "PrefabName": "Mortar_arrow_poison",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_arrow_poison"
+      "HitFXName": "FX_Hit_arrow_poison",
+      "SkillImage": ""
     },
     {
       "ID": 120051,
       "SkillName": "곰소환",
+      "Tier": 3,
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 20,
@@ -1069,11 +1170,13 @@
       "SoundName": null,
       "PrefabName": null,
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 120052,
       "SkillName": "곰소환",
+      "Tier": 3,
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 10,
@@ -1090,11 +1193,13 @@
       "SoundName": null,
       "PrefabName": null,
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 120053,
       "SkillName": "곰소환",
+      "Tier": 3,
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 5,
@@ -1111,11 +1216,13 @@
       "SoundName": null,
       "PrefabName": null,
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 120061,
       "SkillName": "멀티샷",
+      "Tier": 3,
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 2,
@@ -1132,11 +1239,13 @@
       "SoundName": "Attack_arrow",
       "PrefabName": "Projectile_arrow_big",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 120062,
       "SkillName": "멀티샷",
+      "Tier": 3,
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 2,
@@ -1153,11 +1262,13 @@
       "SoundName": "Attack_arrow",
       "PrefabName": "Projectile_arrow_big",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 120063,
       "SkillName": "멀티샷",
+      "Tier": 3,
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 2,
@@ -1174,11 +1285,13 @@
       "SoundName": "Attack_arrow",
       "PrefabName": "Projectile_arrow_big",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 120071,
       "SkillName": "감전 화살",
+      "Tier": 4,
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 1.6,
@@ -1195,11 +1308,13 @@
       "SoundName": "Attack_arrow_electric",
       "PrefabName": "Projectile_arrow_electric",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 120072,
       "SkillName": "감전 화살",
+      "Tier": 4,
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 1.6,
@@ -1216,11 +1331,13 @@
       "SoundName": "Attack_arrow_electric",
       "PrefabName": "Projectile_arrow_electric",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 120073,
       "SkillName": "감전 화살",
+      "Tier": 4,
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 1.6,
@@ -1237,11 +1354,13 @@
       "SoundName": "Attack_arrow_electric",
       "PrefabName": "Projectile_arrow_electric",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 120081,
       "SkillName": "꿰뚫는 바람",
+      "Tier": 4,
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 2.7,
@@ -1258,11 +1377,13 @@
       "SoundName": "Attack_arrow_storm",
       "PrefabName": "Projectile_arrow_storm",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 120082,
       "SkillName": "꿰뚫는 바람",
+      "Tier": 4,
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 2.7,
@@ -1279,11 +1400,13 @@
       "SoundName": "Attack_arrow_storm",
       "PrefabName": "Projectile_arrow_storm",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 120083,
       "SkillName": "꿰뚫는 바람",
+      "Tier": 4,
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 2.7,
@@ -1300,11 +1423,13 @@
       "SoundName": "Attack_arrow_storm",
       "PrefabName": "Projectile_arrow_storm",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 120091,
       "SkillName": "화살비",
+      "Tier": 5,
       "SkillType": 7,
       "SkillLevel": 1,
       "CoolDown": 3,
@@ -1321,11 +1446,13 @@
       "SoundName": "Attack_arrow",
       "PrefabName": "Mortar_arrow",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_arrow"
+      "HitFXName": "FX_Hit_arrow",
+      "SkillImage": ""
     },
     {
       "ID": 120092,
       "SkillName": "화살비",
+      "Tier": 5,
       "SkillType": 7,
       "SkillLevel": 1,
       "CoolDown": 3,
@@ -1342,11 +1469,13 @@
       "SoundName": "Attack_arrow",
       "PrefabName": "Mortar_arrow",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_arrow"
+      "HitFXName": "FX_Hit_arrow",
+      "SkillImage": ""
     },
     {
       "ID": 120093,
       "SkillName": "화살비",
+      "Tier": 5,
       "SkillType": 7,
       "SkillLevel": 1,
       "CoolDown": 3,
@@ -1363,11 +1492,13 @@
       "SoundName": "Attack_arrow",
       "PrefabName": "Mortar_arrow",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_arrow"
+      "HitFXName": "FX_Hit_arrow",
+      "SkillImage": ""
     },
     {
       "ID": 120101,
       "SkillName": "용 화살",
+      "Tier": 5,
       "SkillType": 9,
       "SkillLevel": 1,
       "CoolDown": 30,
@@ -1384,11 +1515,13 @@
       "SoundName": "Attack_arrow_dragon",
       "PrefabName": "Homing_dragon",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 120102,
       "SkillName": "용 화살",
+      "Tier": 5,
       "SkillType": 9,
       "SkillLevel": 1,
       "CoolDown": 30,
@@ -1405,11 +1538,13 @@
       "SoundName": "Attack_arrow_dragon",
       "PrefabName": "Homing_dragon",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 120103,
       "SkillName": "용 화살",
+      "Tier": 5,
       "SkillType": 9,
       "SkillLevel": 1,
       "CoolDown": 30,
@@ -1426,11 +1561,13 @@
       "SoundName": "Attack_arrow_dragon",
       "PrefabName": "Homing_dragon",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 130011,
       "SkillName": "얼음 기둥",
+      "Tier": 1,
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 1.2,
@@ -1447,11 +1584,13 @@
       "SoundName": "Attack_ice_pillar",
       "PrefabName": "Strike_ice_pillar",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 130012,
       "SkillName": "얼음 기둥",
+      "Tier": 1,
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 1.2,
@@ -1468,11 +1607,13 @@
       "SoundName": "Attack_ice_pillar",
       "PrefabName": "Strike_ice_pillar",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 130013,
       "SkillName": "얼음 기둥",
+      "Tier": 1,
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 1.2,
@@ -1489,11 +1630,13 @@
       "SoundName": "Attack_ice_pillar",
       "PrefabName": "Strike_ice_pillar",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 130021,
       "SkillName": "화염구",
+      "Tier": 1,
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 2.3,
@@ -1510,11 +1653,13 @@
       "SoundName": "Attack_energybolt_fire_middle",
       "PrefabName": "Projectile_energybolt_fire_middle",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 130022,
       "SkillName": "화염구",
+      "Tier": 1,
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 2.3,
@@ -1531,11 +1676,13 @@
       "SoundName": "Attack_energybolt_fire_middle",
       "PrefabName": "Projectile_energybolt_fire_middle",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 130023,
       "SkillName": "화염구",
+      "Tier": 1,
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 2.3,
@@ -1552,11 +1699,13 @@
       "SoundName": "Attack_energybolt_fire_middle",
       "PrefabName": "Projectile_energybolt_fire_middle",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 130031,
       "SkillName": "체인 라이트닝",
+      "Tier": 2,
       "SkillType": 11,
       "SkillLevel": 1,
       "CoolDown": 2,
@@ -1573,11 +1722,13 @@
       "SoundName": "Attack_electric",
       "PrefabName": "ChainLightning",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Lightning"
+      "HitFXName": "FX_Hit_Lightning",
+      "SkillImage": ""
     },
     {
       "ID": 130032,
       "SkillName": "체인 라이트닝",
+      "Tier": 2,
       "SkillType": 11,
       "SkillLevel": 1,
       "CoolDown": 2,
@@ -1594,11 +1745,13 @@
       "SoundName": "Attack_electric",
       "PrefabName": "ChainLightning",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Lightning"
+      "HitFXName": "FX_Hit_Lightning",
+      "SkillImage": ""
     },
     {
       "ID": 130033,
       "SkillName": "체인 라이트닝",
+      "Tier": 2,
       "SkillType": 11,
       "SkillLevel": 1,
       "CoolDown": 2,
@@ -1615,11 +1768,13 @@
       "SoundName": "Attack_electric",
       "PrefabName": "ChainLightning",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Lightning"
+      "HitFXName": "FX_Hit_Lightning",
+      "SkillImage": ""
     },
     {
       "ID": 130041,
       "SkillName": "얼음 파편",
+      "Tier": 2,
       "SkillType": 5,
       "SkillLevel": 1,
       "CoolDown": 4,
@@ -1636,11 +1791,13 @@
       "SoundName": "Attack_rotation_thorn_ice",
       "PrefabName": "Rotation_thorn_ice",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 130042,
       "SkillName": "얼음 파편",
+      "Tier": 2,
       "SkillType": 5,
       "SkillLevel": 1,
       "CoolDown": 4,
@@ -1657,11 +1814,13 @@
       "SoundName": "Attack_rotation_thorn_ice",
       "PrefabName": "Rotation_thorn_ice",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 130043,
       "SkillName": "얼음 파편",
+      "Tier": 2,
       "SkillType": 5,
       "SkillLevel": 1,
       "CoolDown": 4,
@@ -1678,11 +1837,13 @@
       "SoundName": "Attack_rotation_thorn_ice",
       "PrefabName": "Rotation_thorn_ice",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 130051,
       "SkillName": "프로즌 오브",
+      "Tier": 3,
       "SkillType": 12,
       "SkillLevel": 1,
       "CoolDown": 5.5,
@@ -1699,11 +1860,13 @@
       "SoundName": "Attack_wave_ice",
       "PrefabName": "Orb_ice",
       "SubPrefabName": "OrbSub_thorn_ice",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 130052,
       "SkillName": "프로즌 오브",
+      "Tier": 3,
       "SkillType": 12,
       "SkillLevel": 1,
       "CoolDown": 5.5,
@@ -1720,11 +1883,13 @@
       "SoundName": "Attack_wave_ice",
       "PrefabName": "Orb_ice",
       "SubPrefabName": "OrbSub_thorn_ice",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 130053,
       "SkillName": "프로즌 오브",
+      "Tier": 3,
       "SkillType": 12,
       "SkillLevel": 1,
       "CoolDown": 5.5,
@@ -1741,11 +1906,13 @@
       "SoundName": "Attack_wave_ice",
       "PrefabName": "Orb_ice",
       "SubPrefabName": "OrbSub_thorn_ice",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 130061,
       "SkillName": "라이트닝 노바",
+      "Tier": 3,
       "SkillType": 3,
       "SkillLevel": 1,
       "CoolDown": 2.8,
@@ -1762,11 +1929,13 @@
       "SoundName": "Attack_electric",
       "PrefabName": "Wave_electric",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Lightning"
+      "HitFXName": "FX_Hit_Lightning",
+      "SkillImage": ""
     },
     {
       "ID": 130062,
       "SkillName": "라이트닝 노바",
+      "Tier": 3,
       "SkillType": 3,
       "SkillLevel": 1,
       "CoolDown": 2.8,
@@ -1783,11 +1952,13 @@
       "SoundName": "Attack_electric",
       "PrefabName": "Wave_electric",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Lightning"
+      "HitFXName": "FX_Hit_Lightning",
+      "SkillImage": ""
     },
     {
       "ID": 130063,
       "SkillName": "라이트닝 노바",
+      "Tier": 3,
       "SkillType": 3,
       "SkillLevel": 1,
       "CoolDown": 2.8,
@@ -1804,11 +1975,13 @@
       "SoundName": "Attack_electric",
       "PrefabName": "Wave_electric",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Lightning"
+      "HitFXName": "FX_Hit_Lightning",
+      "SkillImage": ""
     },
     {
       "ID": 130071,
       "SkillName": "화염방사",
+      "Tier": 4,
       "SkillType": 10,
       "SkillLevel": 1,
       "CoolDown": 5,
@@ -1825,11 +1998,13 @@
       "SoundName": "Attack_energybolt_fire_middle",
       "PrefabName": "BurstProjectile _fire",
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 130072,
       "SkillName": "화염방사",
+      "Tier": 4,
       "SkillType": 10,
       "SkillLevel": 1,
       "CoolDown": 5,
@@ -1846,11 +2021,13 @@
       "SoundName": "Attack_energybolt_fire_middle",
       "PrefabName": "BurstProjectile _fire",
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 130073,
       "SkillName": "화염방사",
+      "Tier": 4,
       "SkillType": 10,
       "SkillLevel": 1,
       "CoolDown": 5,
@@ -1867,11 +2044,13 @@
       "SoundName": "Attack_energybolt_fire_middle",
       "PrefabName": "BurstProjectile _fire",
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 130081,
       "SkillName": "얼음창",
+      "Tier": 4,
       "SkillType": 13,
       "SkillLevel": 1,
       "CoolDown": 8.7,
@@ -1888,11 +2067,13 @@
       "SoundName": "Attack_wave_ice",
       "PrefabName": "FieldZone_spear_ice",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 130082,
       "SkillName": "얼음창",
+      "Tier": 4,
       "SkillType": 13,
       "SkillLevel": 1,
       "CoolDown": 8.7,
@@ -1909,11 +2090,13 @@
       "SoundName": "Attack_wave_ice",
       "PrefabName": "FieldZone_spear_ice",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 130083,
       "SkillName": "얼음창",
+      "Tier": 4,
       "SkillType": 13,
       "SkillLevel": 1,
       "CoolDown": 8.7,
@@ -1930,11 +2113,13 @@
       "SoundName": "Attack_wave_ice",
       "PrefabName": "FieldZone_spear_ice",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 130091,
       "SkillName": "번개",
+      "Tier": 5,
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 4,
@@ -1951,11 +2136,13 @@
       "SoundName": "Attack_thunder",
       "PrefabName": "Strike_thunder",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 130092,
       "SkillName": "번개",
+      "Tier": 5,
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 4,
@@ -1972,11 +2159,13 @@
       "SoundName": "Attack_thunder",
       "PrefabName": "Strike_thunder",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 130093,
       "SkillName": "번개",
+      "Tier": 5,
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 4,
@@ -1993,11 +2182,13 @@
       "SoundName": "Attack_thunder",
       "PrefabName": "Strike_thunder",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 130101,
       "SkillName": "메테오",
+      "Tier": 5,
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 2.2,
@@ -2014,11 +2205,13 @@
       "SoundName": "Attack_energybolt_fire_large",
       "PrefabName": "Strike_energybolt_fire_large",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 130102,
       "SkillName": "메테오",
+      "Tier": 5,
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 2.2,
@@ -2035,11 +2228,13 @@
       "SoundName": "Attack_energybolt_fire_large",
       "PrefabName": "Strike_energybolt_fire_large",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 130103,
       "SkillName": "메테오",
+      "Tier": 5,
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 2.2,
@@ -2056,11 +2251,13 @@
       "SoundName": "Attack_energybolt_fire_large",
       "PrefabName": "Strike_energybolt_fire_large",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 140011,
       "SkillName": "해골 궁수",
+      "Tier": 1,
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 12,
@@ -2077,11 +2274,13 @@
       "SoundName": null,
       "PrefabName": null,
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 140012,
       "SkillName": "해골 궁수",
+      "Tier": 1,
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 10,
@@ -2098,11 +2297,13 @@
       "SoundName": null,
       "PrefabName": null,
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 140013,
       "SkillName": "해골 궁수",
+      "Tier": 1,
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 8,
@@ -2119,11 +2320,13 @@
       "SoundName": null,
       "PrefabName": null,
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 140021,
       "SkillName": "뼈 가시",
+      "Tier": 1,
       "SkillType": 13,
       "SkillLevel": 1,
       "CoolDown": 5,
@@ -2140,11 +2343,13 @@
       "SoundName": "Attack_skull_green",
       "PrefabName": "FieldZone_bonethorn",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 140022,
       "SkillName": "뼈 가시",
+      "Tier": 1,
       "SkillType": 13,
       "SkillLevel": 1,
       "CoolDown": 5,
@@ -2161,11 +2366,13 @@
       "SoundName": "Attack_skull_green",
       "PrefabName": "FieldZone_bonethorn",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 140023,
       "SkillName": "뼈 가시",
+      "Tier": 1,
       "SkillType": 13,
       "SkillLevel": 1,
       "CoolDown": 5,
@@ -2182,11 +2389,13 @@
       "SoundName": "Attack_skull_green",
       "PrefabName": "FieldZone_bonethorn",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 140031,
       "SkillName": "뼈두르기",
+      "Tier": 2,
       "SkillType": 5,
       "SkillLevel": 1,
       "CoolDown": 3,
@@ -2203,11 +2412,13 @@
       "SoundName": "Attack_spear_bone",
       "PrefabName": "Rotation_bone",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 140032,
       "SkillName": "뼈두르기",
+      "Tier": 2,
       "SkillType": 5,
       "SkillLevel": 1,
       "CoolDown": 3,
@@ -2224,11 +2435,13 @@
       "SoundName": "Attack_spear_bone",
       "PrefabName": "Rotation_bone",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 140033,
       "SkillName": "뼈두르기",
+      "Tier": 2,
       "SkillType": 5,
       "SkillLevel": 1,
       "CoolDown": 3,
@@ -2245,11 +2458,13 @@
       "SoundName": "Attack_spear_bone",
       "PrefabName": "Rotation_bone",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 140041,
       "SkillName": "전사의 무덤",
+      "Tier": 2,
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 13,
@@ -2266,11 +2481,13 @@
       "SoundName": "Attack_rock",
       "PrefabName": "Strike_tomb",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 140042,
       "SkillName": "전사의 무덤",
+      "Tier": 2,
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 13,
@@ -2287,11 +2504,13 @@
       "SoundName": "Attack_rock",
       "PrefabName": "Strike_tomb",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 140043,
       "SkillName": "전사의 무덤",
+      "Tier": 2,
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 13,
@@ -2308,11 +2527,13 @@
       "SoundName": "Attack_rock",
       "PrefabName": "Strike_tomb",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 140051,
       "SkillName": "해골 마법사",
+      "Tier": 3,
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 15,
@@ -2329,11 +2550,13 @@
       "SoundName": null,
       "PrefabName": null,
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 140052,
       "SkillName": "해골 마법사",
+      "Tier": 3,
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 13,
@@ -2350,11 +2573,13 @@
       "SoundName": null,
       "PrefabName": null,
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 140053,
       "SkillName": "해골 마법사",
+      "Tier": 3,
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 11,
@@ -2371,11 +2596,13 @@
       "SoundName": null,
       "PrefabName": null,
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 140061,
       "SkillName": "뼈 폭풍",
+      "Tier": 3,
       "SkillType": 9,
       "SkillLevel": 1,
       "CoolDown": 18,
@@ -2392,11 +2619,13 @@
       "SoundName": "Attack_arrow_storm",
       "PrefabName": "Homing_bone",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 140062,
       "SkillName": "뼈 폭풍",
+      "Tier": 3,
       "SkillType": 9,
       "SkillLevel": 1,
       "CoolDown": 18,
@@ -2413,11 +2642,13 @@
       "SoundName": "Attack_arrow_storm",
       "PrefabName": "Homing_bone",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 140063,
       "SkillName": "뼈 폭풍",
+      "Tier": 3,
       "SkillType": 9,
       "SkillLevel": 1,
       "CoolDown": 18,
@@ -2434,11 +2665,13 @@
       "SoundName": "Attack_arrow_storm",
       "PrefabName": "Homing_bone",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 140071,
       "SkillName": "군단무덤",
+      "Tier": 4,
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 20,
@@ -2455,11 +2688,13 @@
       "SoundName": null,
       "PrefabName": null,
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 140072,
       "SkillName": "군단무덤",
+      "Tier": 4,
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 20,
@@ -2476,11 +2711,13 @@
       "SoundName": null,
       "PrefabName": null,
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 140073,
       "SkillName": "군단무덤",
+      "Tier": 4,
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 20,
@@ -2497,11 +2734,13 @@
       "SoundName": null,
       "PrefabName": null,
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 140081,
       "SkillName": "바위 골렘 소환",
+      "Tier": 4,
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 17,
@@ -2518,11 +2757,13 @@
       "SoundName": null,
       "PrefabName": null,
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 140082,
       "SkillName": "바위 골렘 소환",
+      "Tier": 4,
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 15,
@@ -2539,11 +2780,13 @@
       "SoundName": null,
       "PrefabName": null,
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 140083,
       "SkillName": "바위 골렘 소환",
+      "Tier": 4,
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 13,
@@ -2560,11 +2803,13 @@
       "SoundName": null,
       "PrefabName": null,
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 140091,
       "SkillName": "시체 골렘",
+      "Tier": 5,
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 20,
@@ -2581,11 +2826,13 @@
       "SoundName": "Attack_rock_palm",
       "PrefabName": "Strike_zombiegolem",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 140092,
       "SkillName": "시체 골렘",
+      "Tier": 5,
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 18,
@@ -2602,11 +2849,13 @@
       "SoundName": "Attack_rock_palm",
       "PrefabName": "Strike_zombiegolem",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 140093,
       "SkillName": "시체 골렘",
+      "Tier": 5,
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 16,
@@ -2623,11 +2872,13 @@
       "SoundName": "Attack_rock_palm",
       "PrefabName": "Strike_zombiegolem",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 140101,
       "SkillName": "뼈 파도",
+      "Tier": 5,
       "SkillType": 13,
       "SkillLevel": 1,
       "CoolDown": 25,
@@ -2644,11 +2895,13 @@
       "SoundName": "",
       "PrefabName": "FieldZone_bonewaves",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 140102,
       "SkillName": "뼈 파도",
+      "Tier": 5,
       "SkillType": 13,
       "SkillLevel": 1,
       "CoolDown": 25,
@@ -2665,11 +2918,13 @@
       "SoundName": "",
       "PrefabName": "FieldZone_bonewaves",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 140103,
       "SkillName": "뼈 파도",
+      "Tier": 5,
       "SkillType": 13,
       "SkillLevel": 1,
       "CoolDown": 25,
@@ -2686,11 +2941,13 @@
       "SoundName": "",
       "PrefabName": "FieldZone_bonewaves",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 150011,
       "SkillName": "삼아각",
+      "Tier": 1,
       "SkillType": 10,
       "SkillLevel": 1,
       "CoolDown": 1.3,
@@ -2707,11 +2964,13 @@
       "SoundName": "Attack_fire",
       "PrefabName": "BurstProjectile_TripleFangKick",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 150012,
       "SkillName": "삼아각",
+      "Tier": 1,
       "SkillType": 10,
       "SkillLevel": 1,
       "CoolDown": 1.3,
@@ -2728,11 +2987,13 @@
       "SoundName": "Attack_fire",
       "PrefabName": "BurstProjectile_TripleFangKick",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 150013,
       "SkillName": "삼아각",
+      "Tier": 1,
       "SkillType": 10,
       "SkillLevel": 1,
       "CoolDown": 1.3,
@@ -2749,11 +3010,13 @@
       "SoundName": "Attack_fire",
       "PrefabName": "BurstProjectile_TripleFangKick",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 150021,
       "SkillName": "일격권",
+      "Tier": 1,
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 1,
@@ -2770,11 +3033,13 @@
       "SoundName": "Attack_punch",
       "PrefabName": "Strike_punch",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 150022,
       "SkillName": "일격권",
+      "Tier": 1,
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 1,
@@ -2791,11 +3056,13 @@
       "SoundName": "Attack_punch",
       "PrefabName": "Strike_punch",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 150023,
       "SkillName": "일격권",
+      "Tier": 1,
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 1,
@@ -2812,11 +3079,13 @@
       "SoundName": "Attack_punch",
       "PrefabName": "Strike_punch",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 150031,
       "SkillName": "백열권",
+      "Tier": 2,
       "SkillType": 10,
       "SkillLevel": 1,
       "CoolDown": 3.3,
@@ -2833,11 +3102,13 @@
       "SoundName": "Attack_punch",
       "PrefabName": "BurstProjectile_punch",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 150032,
       "SkillName": "백열권",
+      "Tier": 2,
       "SkillType": 10,
       "SkillLevel": 1,
       "CoolDown": 3.3,
@@ -2854,11 +3125,13 @@
       "SoundName": "Attack_punch",
       "PrefabName": "BurstProjectile_punch",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 150033,
       "SkillName": "백열권",
+      "Tier": 2,
       "SkillType": 10,
       "SkillLevel": 1,
       "CoolDown": 3.3,
@@ -2875,11 +3148,13 @@
       "SoundName": "Attack_punch",
       "PrefabName": "BurstProjectile_punch",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 150041,
       "SkillName": "반월각",
+      "Tier": 2,
       "SkillType": 8,
       "SkillLevel": 1,
       "CoolDown": 3.7,
@@ -2896,11 +3171,13 @@
       "SoundName": "Attack_punch_ice",
       "PrefabName": "Swing_Crescent Kick",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 150042,
       "SkillName": "반월각",
+      "Tier": 2,
       "SkillType": 8,
       "SkillLevel": 1,
       "CoolDown": 3.7,
@@ -2917,11 +3194,13 @@
       "SoundName": "Attack_punch_ice",
       "PrefabName": "Swing_Crescent Kick",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 150043,
       "SkillName": "반월각",
+      "Tier": 2,
       "SkillType": 8,
       "SkillLevel": 1,
       "CoolDown": 3.7,
@@ -2938,11 +3217,13 @@
       "SoundName": "Attack_punch_ice",
       "PrefabName": "Swing_Crescent Kick",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 150051,
       "SkillName": "발구르기",
+      "Tier": 3,
       "SkillType": 13,
       "SkillLevel": 1,
       "CoolDown": 6.3,
@@ -2959,11 +3240,13 @@
       "SoundName": "Attack_rock",
       "PrefabName": "FieldZone_stomp",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 150052,
       "SkillName": "발구르기",
+      "Tier": 3,
       "SkillType": 13,
       "SkillLevel": 1,
       "CoolDown": 6.3,
@@ -2980,11 +3263,13 @@
       "SoundName": "Attack_rock",
       "PrefabName": "FieldZone_stomp",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 150053,
       "SkillName": "발구르기",
+      "Tier": 3,
       "SkillType": 13,
       "SkillLevel": 1,
       "CoolDown": 6.3,
@@ -3001,11 +3286,13 @@
       "SoundName": "Attack_rock",
       "PrefabName": "FieldZone_stomp",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 150061,
       "SkillName": "광란광무",
+      "Tier": 3,
       "SkillType": 13,
       "SkillLevel": 1,
       "CoolDown": 1.7,
@@ -3022,11 +3309,13 @@
       "SoundName": "Attack_punch",
       "PrefabName": "FieldZone_continuoushitting",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 150062,
       "SkillName": "광란광무",
+      "Tier": 3,
       "SkillType": 13,
       "SkillLevel": 1,
       "CoolDown": 1.3,
@@ -3043,11 +3332,13 @@
       "SoundName": "Attack_punch",
       "PrefabName": "FieldZone_continuoushitting",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 150063,
       "SkillName": "광란광무",
+      "Tier": 3,
       "SkillType": 13,
       "SkillLevel": 1,
       "CoolDown": 1,
@@ -3064,11 +3355,13 @@
       "SoundName": "Attack_punch",
       "PrefabName": "FieldZone_continuoushitting",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 150071,
       "SkillName": "바위 던지기",
+      "Tier": 4,
       "SkillType": 7,
       "SkillLevel": 1,
       "CoolDown": 10,
@@ -3085,11 +3378,13 @@
       "SoundName": "Attack_rock",
       "PrefabName": "Mortar_rocks",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_rocksImpact"
+      "HitFXName": "FX_Hit_rocksImpact",
+      "SkillImage": ""
     },
     {
       "ID": 150072,
       "SkillName": "바위 던지기",
+      "Tier": 4,
       "SkillType": 7,
       "SkillLevel": 1,
       "CoolDown": 10,
@@ -3106,11 +3401,13 @@
       "SoundName": "Attack_rock",
       "PrefabName": "Mortar_rocks",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_rocksImpact"
+      "HitFXName": "FX_Hit_rocksImpact",
+      "SkillImage": ""
     },
     {
       "ID": 150073,
       "SkillName": "바위 던지기",
+      "Tier": 4,
       "SkillType": 7,
       "SkillLevel": 1,
       "CoolDown": 10,
@@ -3127,11 +3424,13 @@
       "SoundName": "Attack_rock",
       "PrefabName": "Mortar_rocks",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_rocksImpact"
+      "HitFXName": "FX_Hit_rocksImpact",
+      "SkillImage": ""
     },
     {
       "ID": 150081,
       "SkillName": "선풍각",
+      "Tier": 4,
       "SkillType": 17,
       "SkillLevel": 1,
       "CoolDown": 5.1,
@@ -3148,11 +3447,13 @@
       "SoundName": "",
       "PrefabName": "ChargeObject_TripleKick",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 150082,
       "SkillName": "선풍각",
+      "Tier": 4,
       "SkillType": 17,
       "SkillLevel": 1,
       "CoolDown": 5.1,
@@ -3169,11 +3470,13 @@
       "SoundName": "",
       "PrefabName": "ChargeObject_TripleKick",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 150083,
       "SkillName": "선풍각",
+      "Tier": 4,
       "SkillType": 17,
       "SkillLevel": 1,
       "CoolDown": 5.1,
@@ -3190,11 +3493,13 @@
       "SoundName": "",
       "PrefabName": "ChargeObject_TripleKick",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 150091,
       "SkillName": "파쇄연참",
+      "Tier": 5,
       "SkillType": 13,
       "SkillLevel": 1,
       "CoolDown": 4.5,
@@ -3211,11 +3516,13 @@
       "SoundName": "Attack_palm",
       "PrefabName": "FieldZone_stompstompstomp",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 150092,
       "SkillName": "파쇄연참",
+      "Tier": 5,
       "SkillType": 13,
       "SkillLevel": 1,
       "CoolDown": 4.5,
@@ -3232,11 +3539,13 @@
       "SoundName": "Attack_palm",
       "PrefabName": "FieldZone_stompstompstomp",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 150093,
       "SkillName": "파쇄연참",
+      "Tier": 5,
       "SkillType": 13,
       "SkillLevel": 1,
       "CoolDown": 4.5,
@@ -3253,11 +3562,13 @@
       "SoundName": "Attack_palm",
       "PrefabName": "FieldZone_stompstompstomp",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 150101,
       "SkillName": "파천난타",
+      "Tier": 5,
       "SkillType": 13,
       "SkillLevel": 1,
       "CoolDown": 8.7,
@@ -3274,11 +3585,13 @@
       "SoundName": "Attack_punch",
       "PrefabName": "FieldZone_SkyShatteringDance",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 150102,
       "SkillName": "파천난타",
+      "Tier": 5,
       "SkillType": 13,
       "SkillLevel": 1,
       "CoolDown": 8.7,
@@ -3295,11 +3608,13 @@
       "SoundName": "Attack_punch",
       "PrefabName": "FieldZone_SkyShatteringDance",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 150103,
       "SkillName": "파천난타",
+      "Tier": 5,
       "SkillType": 13,
       "SkillLevel": 1,
       "CoolDown": 8.7,
@@ -3316,11 +3631,13 @@
       "SoundName": "Attack_punch",
       "PrefabName": "FieldZone_SkyShatteringDance",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 160011,
       "SkillName": "독 찌르기",
+      "Tier": 1,
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 0.8,
@@ -3337,11 +3654,13 @@
       "SoundName": "Attack_dagger_poison",
       "PrefabName": "Strike_dagger_poison",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Poison"
+      "HitFXName": "FX_Hit_Poison",
+      "SkillImage": ""
     },
     {
       "ID": 160012,
       "SkillName": "독 찌르기",
+      "Tier": 1,
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 0.8,
@@ -3358,11 +3677,13 @@
       "SoundName": "Attack_dagger_poison",
       "PrefabName": "Strike_dagger_poison",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Poison"
+      "HitFXName": "FX_Hit_Poison",
+      "SkillImage": ""
     },
     {
       "ID": 160013,
       "SkillName": "독 찌르기",
+      "Tier": 1,
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 0.8,
@@ -3379,11 +3700,13 @@
       "SoundName": "Attack_dagger_poison",
       "PrefabName": "Strike_dagger_poison",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Poison"
+      "HitFXName": "FX_Hit_Poison",
+      "SkillImage": ""
     },
     {
       "ID": 160021,
       "SkillName": "단검 던지기",
+      "Tier": 1,
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 2,
@@ -3400,11 +3723,13 @@
       "SoundName": "Attack_dagger_throw",
       "PrefabName": "Projectile_dagger",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_shot_Impact"
+      "HitFXName": "FX_Hit_shot_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 160022,
       "SkillName": "단검 던지기",
+      "Tier": 1,
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 2,
@@ -3421,11 +3746,13 @@
       "SoundName": "Attack_dagger_throw",
       "PrefabName": "Projectile_dagger",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_shot_Impact"
+      "HitFXName": "FX_Hit_shot_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 160023,
       "SkillName": "단검 던지기",
+      "Tier": 1,
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 2,
@@ -3442,11 +3769,13 @@
       "SoundName": "Attack_dagger_throw",
       "PrefabName": "Projectile_dagger",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_shot_Impact"
+      "HitFXName": "FX_Hit_shot_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 160031,
       "SkillName": "마름쇠",
+      "Tier": 2,
       "SkillType": 13,
       "SkillLevel": 1,
       "CoolDown": 4.3,
@@ -3463,11 +3792,13 @@
       "SoundName": "Attack_kunai_poison",
       "PrefabName": "FieldZone_Caltrops",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 160032,
       "SkillName": "마름쇠",
+      "Tier": 2,
       "SkillType": 13,
       "SkillLevel": 1,
       "CoolDown": 4.3,
@@ -3484,11 +3815,13 @@
       "SoundName": "Attack_kunai_poison",
       "PrefabName": "FieldZone_Caltrops",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 160033,
       "SkillName": "마름쇠",
+      "Tier": 2,
       "SkillType": 13,
       "SkillLevel": 1,
       "CoolDown": 4.3,
@@ -3505,11 +3838,13 @@
       "SoundName": "Attack_kunai_poison",
       "PrefabName": "FieldZone_Caltrops",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 160041,
       "SkillName": "난도질",
+      "Tier": 2,
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 4,
@@ -3526,11 +3861,13 @@
       "SoundName": "Attack_TwinStrike",
       "PrefabName": "Strike_TwinStrike_R",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_shot_Impact"
+      "HitFXName": "FX_Hit_shot_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 160042,
       "SkillName": "난도질",
+      "Tier": 2,
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 4,
@@ -3547,11 +3884,13 @@
       "SoundName": "Attack_TwinStrike",
       "PrefabName": "Strike_TwinStrike_R",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_shot_Impact"
+      "HitFXName": "FX_Hit_shot_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 160043,
       "SkillName": "난도질",
+      "Tier": 2,
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 4,
@@ -3568,11 +3907,13 @@
       "SoundName": "Attack_TwinStrike",
       "PrefabName": "Strike_TwinStrike_R",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_shot_Impact"
+      "HitFXName": "FX_Hit_shot_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 160051,
       "SkillName": "암살",
+      "Tier": 3,
       "SkillType": 16,
       "SkillLevel": 1,
       "CoolDown": 5.3,
@@ -3589,11 +3930,13 @@
       "SoundName": "Attack_TwinStrike",
       "PrefabName": "Strike_assassination",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_shot_Impact"
+      "HitFXName": "FX_Hit_shot_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 160052,
       "SkillName": "암살",
+      "Tier": 3,
       "SkillType": 16,
       "SkillLevel": 1,
       "CoolDown": 3.8,
@@ -3610,11 +3953,13 @@
       "SoundName": "Attack_TwinStrike",
       "PrefabName": "Strike_assassination",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_shot_Impact"
+      "HitFXName": "FX_Hit_shot_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 160053,
       "SkillName": "암살",
+      "Tier": 3,
       "SkillType": 16,
       "SkillLevel": 1,
       "CoolDown": 2.3,
@@ -3631,11 +3976,13 @@
       "SoundName": "Attack_TwinStrike",
       "PrefabName": "Strike_assassination",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_shot_Impact"
+      "HitFXName": "FX_Hit_shot_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 160061,
       "SkillName": "거대표창",
+      "Tier": 3,
       "SkillType": 15,
       "SkillLevel": 1,
       "CoolDown": 1.8,
@@ -3652,11 +3999,13 @@
       "SoundName": "Attack_dagger_throw",
       "PrefabName": "Boomerang_kunai_poison",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 160062,
       "SkillName": "거대표창",
+      "Tier": 3,
       "SkillType": 15,
       "SkillLevel": 1,
       "CoolDown": 1.8,
@@ -3673,11 +4022,13 @@
       "SoundName": "Attack_dagger_throw",
       "PrefabName": "Boomerang_kunai_poison",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 160063,
       "SkillName": "거대표창",
+      "Tier": 3,
       "SkillType": 15,
       "SkillLevel": 1,
       "CoolDown": 1.8,
@@ -3694,11 +4045,13 @@
       "SoundName": "Attack_dagger_throw",
       "PrefabName": "Boomerang_kunai_poison",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 160071,
       "SkillName": "수리검 난사",
+      "Tier": 4,
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 4.5,
@@ -3715,11 +4068,13 @@
       "SoundName": "Attack_kunai",
       "PrefabName": "Projectile_kunai",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_shot_Impact"
+      "HitFXName": "FX_Hit_shot_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 160072,
       "SkillName": "수리검 난사",
+      "Tier": 4,
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 4.5,
@@ -3736,11 +4091,13 @@
       "SoundName": "Attack_kunai",
       "PrefabName": "Projectile_kunai",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_shot_Impact"
+      "HitFXName": "FX_Hit_shot_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 160073,
       "SkillName": "수리검 난사",
+      "Tier": 4,
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 4.5,
@@ -3757,11 +4114,13 @@
       "SoundName": "Attack_kunai",
       "PrefabName": "Projectile_kunai",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_shot_Impact"
+      "HitFXName": "FX_Hit_shot_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 160081,
       "SkillName": "그림자 암살자",
+      "Tier": 4,
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 10,
@@ -3778,11 +4137,13 @@
       "SoundName": "Attack_dagger_shadow",
       "PrefabName": "Strike_dagger_shadow",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 160082,
       "SkillName": "그림자 암살자",
+      "Tier": 4,
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 10,
@@ -3799,11 +4160,13 @@
       "SoundName": "Attack_dagger_shadow",
       "PrefabName": "Strike_dagger_shadow",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 160083,
       "SkillName": "그림자 암살자",
+      "Tier": 4,
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 10,
@@ -3820,11 +4183,13 @@
       "SoundName": "Attack_dagger_shadow",
       "PrefabName": "Strike_dagger_shadow",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 160091,
       "SkillName": "암살 영역",
+      "Tier": 5,
       "SkillType": 4,
       "SkillLevel": 1,
       "CoolDown": 20,
@@ -3841,11 +4206,13 @@
       "SoundName": "",
       "PrefabName": "Aura_thorn",
       "SubPrefabName": "",
-      "HitFXName": "FX_Player07"
+      "HitFXName": "FX_Player07",
+      "SkillImage": ""
     },
     {
       "ID": 160092,
       "SkillName": "암살 영역",
+      "Tier": 5,
       "SkillType": 4,
       "SkillLevel": 1,
       "CoolDown": 20,
@@ -3862,11 +4229,13 @@
       "SoundName": "",
       "PrefabName": "Aura_thorn",
       "SubPrefabName": "",
-      "HitFXName": "FX_Player07"
+      "HitFXName": "FX_Player07",
+      "SkillImage": ""
     },
     {
       "ID": 160093,
       "SkillName": "암살 영역",
+      "Tier": 5,
       "SkillType": 4,
       "SkillLevel": 1,
       "CoolDown": 20,
@@ -3883,11 +4252,13 @@
       "SoundName": "",
       "PrefabName": "Aura_thorn",
       "SubPrefabName": "",
-      "HitFXName": "FX_Player07"
+      "HitFXName": "FX_Player07",
+      "SkillImage": ""
     },
     {
       "ID": 160101,
       "SkillName": "쌍수돌진",
+      "Tier": 5,
       "SkillType": 17,
       "SkillLevel": 1,
       "CoolDown": 5.3,
@@ -3904,11 +4275,13 @@
       "SoundName": "Attack_thorn",
       "PrefabName": "ChargeObject_SlashDash",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_shot_Impact"
+      "HitFXName": "FX_Hit_shot_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 160102,
       "SkillName": "쌍수돌진",
+      "Tier": 5,
       "SkillType": 17,
       "SkillLevel": 1,
       "CoolDown": 5.3,
@@ -3925,11 +4298,13 @@
       "SoundName": "Attack_thorn",
       "PrefabName": "ChargeObject_SlashDash",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_shot_Impact"
+      "HitFXName": "FX_Hit_shot_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 160103,
       "SkillName": "쌍수돌진",
+      "Tier": 5,
       "SkillType": 17,
       "SkillLevel": 1,
       "CoolDown": 5.3,
@@ -3946,11 +4321,13 @@
       "SoundName": "Attack_thorn",
       "PrefabName": "ChargeObject_SlashDash",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_shot_Impact"
+      "HitFXName": "FX_Hit_shot_Impact",
+      "SkillImage": ""
     },
     {
       "ID": 170011,
       "SkillName": "독침",
+      "Tier": 1,
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 1.5,
@@ -3967,11 +4344,13 @@
       "SoundName": "Attack_sting_poison",
       "PrefabName": "Projectile_sting_poison",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 170012,
       "SkillName": "독침",
+      "Tier": 1,
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 1.5,
@@ -3988,11 +4367,13 @@
       "SoundName": "Attack_sting_poison",
       "PrefabName": "Projectile_sting_poison",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 170013,
       "SkillName": "독침",
+      "Tier": 1,
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 1.5,
@@ -4009,11 +4390,13 @@
       "SoundName": "Attack_sting_poison",
       "PrefabName": "Projectile_sting_poison",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 170021,
       "SkillName": "그림자고양이",
+      "Tier": 1,
       "SkillType": 5,
       "SkillLevel": 1,
       "CoolDown": 4,
@@ -4030,11 +4413,13 @@
       "SoundName": "Attack_shadowcat",
       "PrefabName": "Rotation_shadowcat",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 170022,
       "SkillName": "그림자고양이",
+      "Tier": 1,
       "SkillType": 5,
       "SkillLevel": 1,
       "CoolDown": 4,
@@ -4051,11 +4436,13 @@
       "SoundName": "Attack_shadowcat",
       "PrefabName": "Rotation_shadowcat",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 170023,
       "SkillName": "그림자고양이",
+      "Tier": 1,
       "SkillType": 5,
       "SkillLevel": 1,
       "CoolDown": 4,
@@ -4072,11 +4459,13 @@
       "SoundName": "Attack_shadowcat",
       "PrefabName": "Rotation_shadowcat",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 170031,
       "SkillName": "늪지대",
+      "Tier": 2,
       "SkillType": 13,
       "SkillLevel": 1,
       "CoolDown": 12,
@@ -4093,11 +4482,13 @@
       "SoundName": "",
       "PrefabName": "FieldZone_swamp",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 170032,
       "SkillName": "늪지대",
+      "Tier": 2,
       "SkillType": 13,
       "SkillLevel": 1,
       "CoolDown": 12,
@@ -4114,11 +4505,13 @@
       "SoundName": "",
       "PrefabName": "FieldZone_swamp",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 170033,
       "SkillName": "늪지대",
+      "Tier": 2,
       "SkillType": 13,
       "SkillLevel": 1,
       "CoolDown": 12,
@@ -4135,11 +4528,13 @@
       "SoundName": "",
       "PrefabName": "FieldZone_swamp",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 170041,
       "SkillName": "화염 토템",
+      "Tier": 2,
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 8,
@@ -4156,11 +4551,13 @@
       "SoundName": null,
       "PrefabName": null,
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 170042,
       "SkillName": "화염 토템",
+      "Tier": 2,
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 8,
@@ -4177,11 +4574,13 @@
       "SoundName": null,
       "PrefabName": null,
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 170043,
       "SkillName": "화염 토템",
+      "Tier": 2,
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 8,
@@ -4198,11 +4597,13 @@
       "SoundName": null,
       "PrefabName": null,
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 170051,
       "SkillName": "번개 토템",
+      "Tier": 3,
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 10,
@@ -4219,11 +4620,13 @@
       "SoundName": null,
       "PrefabName": null,
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 170052,
       "SkillName": "번개 토템",
+      "Tier": 3,
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 10,
@@ -4240,11 +4643,13 @@
       "SoundName": null,
       "PrefabName": null,
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 170053,
       "SkillName": "번개 토템",
+      "Tier": 3,
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 10,
@@ -4261,11 +4666,13 @@
       "SoundName": null,
       "PrefabName": null,
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 170061,
       "SkillName": "원한의 벌레",
+      "Tier": 3,
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 5,
@@ -4282,11 +4689,13 @@
       "SoundName": "Attack_thorn_poison",
       "PrefabName": "Projectile_bug",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Dark"
+      "HitFXName": "FX_Hit_Dark",
+      "SkillImage": ""
     },
     {
       "ID": 170062,
       "SkillName": "원한의 벌레",
+      "Tier": 3,
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 5,
@@ -4303,11 +4712,13 @@
       "SoundName": "Attack_thorn_poison",
       "PrefabName": "Projectile_bug",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Dark"
+      "HitFXName": "FX_Hit_Dark",
+      "SkillImage": ""
     },
     {
       "ID": 170063,
       "SkillName": "원한의 벌레",
+      "Tier": 3,
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 5,
@@ -4324,11 +4735,13 @@
       "SoundName": "Attack_thorn_poison",
       "PrefabName": "Projectile_bug",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Dark"
+      "HitFXName": "FX_Hit_Dark",
+      "SkillImage": ""
     },
     {
       "ID": 170071,
       "SkillName": "독 토템",
+      "Tier": 4,
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 8,
@@ -4345,11 +4758,13 @@
       "SoundName": null,
       "PrefabName": null,
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 170072,
       "SkillName": "독 토템",
+      "Tier": 4,
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 8,
@@ -4366,11 +4781,13 @@
       "SoundName": null,
       "PrefabName": null,
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 170073,
       "SkillName": "독 토템",
+      "Tier": 4,
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 8,
@@ -4387,11 +4804,13 @@
       "SoundName": null,
       "PrefabName": null,
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 170081,
       "SkillName": "가시 줄기",
+      "Tier": 4,
       "SkillType": 20,
       "SkillLevel": 1,
       "CoolDown": 11.3,
@@ -4408,11 +4827,13 @@
       "SoundName": "Attack_thorn_poison",
       "PrefabName": "Strike_thorn_poison",
       "SubPrefabName": "InfectionProjectile_thorn_poison",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 170082,
       "SkillName": "가시 줄기",
+      "Tier": 4,
       "SkillType": 20,
       "SkillLevel": 1,
       "CoolDown": 11.3,
@@ -4429,11 +4850,13 @@
       "SoundName": "Attack_thorn_poison",
       "PrefabName": "Strike_thorn_poison",
       "SubPrefabName": "InfectionProjectile_thorn_poison",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 170083,
       "SkillName": "가시 줄기",
+      "Tier": 4,
       "SkillType": 20,
       "SkillLevel": 1,
       "CoolDown": 11.3,
@@ -4450,11 +4873,13 @@
       "SoundName": "Attack_thorn_poison",
       "PrefabName": "Strike_thorn_poison",
       "SubPrefabName": "InfectionProjectile_thorn_poison",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 170091,
       "SkillName": "독 구슬",
+      "Tier": 5,
       "SkillType": 19,
       "SkillLevel": 1,
       "CoolDown": 8,
@@ -4471,11 +4896,13 @@
       "SoundName": "Attack_thorn_poison",
       "PrefabName": "Strike_poison",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 170092,
       "SkillName": "독 구슬",
+      "Tier": 5,
       "SkillType": 19,
       "SkillLevel": 1,
       "CoolDown": 8,
@@ -4492,11 +4919,13 @@
       "SoundName": "Attack_thorn_poison",
       "PrefabName": "Strike_poison",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 170093,
       "SkillName": "독 구슬",
+      "Tier": 5,
       "SkillType": 19,
       "SkillLevel": 1,
       "CoolDown": 8,
@@ -4513,11 +4942,13 @@
       "SoundName": "Attack_thorn_poison",
       "PrefabName": "Strike_poison",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 170101,
       "SkillName": "부두인형",
+      "Tier": 5,
       "SkillType": 13,
       "SkillLevel": 1,
       "CoolDown": 10,
@@ -4534,11 +4965,13 @@
       "SoundName": "",
       "PrefabName": "FieldZone_Voodoodoll",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Dark"
+      "HitFXName": "FX_Hit_Dark",
+      "SkillImage": ""
     },
     {
       "ID": 170102,
       "SkillName": "부두인형",
+      "Tier": 5,
       "SkillType": 13,
       "SkillLevel": 1,
       "CoolDown": 10,
@@ -4555,11 +4988,13 @@
       "SoundName": "",
       "PrefabName": "FieldZone_Voodoodoll",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Dark"
+      "HitFXName": "FX_Hit_Dark",
+      "SkillImage": ""
     },
     {
       "ID": 170103,
       "SkillName": "부두인형",
+      "Tier": 5,
       "SkillType": 13,
       "SkillLevel": 1,
       "CoolDown": 10,
@@ -4576,11 +5011,13 @@
       "SoundName": "",
       "PrefabName": "FieldZone_Voodoodoll",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Dark"
+      "HitFXName": "FX_Hit_Dark",
+      "SkillImage": ""
     },
     {
       "ID": 230011,
       "SkillName": "번개 보조 체인 라이트닝",
+      "Tier": 1,
       "SkillType": 11,
       "SkillLevel": 1,
       "CoolDown": 2,
@@ -4597,11 +5034,13 @@
       "SoundName": "Attack_electric",
       "PrefabName": "ChainLightning",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 230012,
       "SkillName": "번개 보조 체인 라이트닝",
+      "Tier": 1,
       "SkillType": 11,
       "SkillLevel": 2,
       "CoolDown": 2,
@@ -4618,11 +5057,13 @@
       "SoundName": "Attack_electric",
       "PrefabName": "ChainLightning",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 230013,
       "SkillName": "번개 보조 체인 라이트닝",
+      "Tier": 1,
       "SkillType": 11,
       "SkillLevel": 3,
       "CoolDown": 2,
@@ -4639,11 +5080,13 @@
       "SoundName": "Attack_electric",
       "PrefabName": "ChainLightning",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 240041,
       "SkillName": "해골 전사",
+      "Tier": 1,
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 5,
@@ -4660,11 +5103,13 @@
       "SoundName": null,
       "PrefabName": null,
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 240042,
       "SkillName": "해골 전사",
+      "Tier": 1,
       "SkillType": 6,
       "SkillLevel": 2,
       "CoolDown": 5,
@@ -4681,11 +5126,13 @@
       "SoundName": null,
       "PrefabName": null,
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 240043,
       "SkillName": "해골 전사",
+      "Tier": 1,
       "SkillType": 6,
       "SkillLevel": 3,
       "CoolDown": 5,
@@ -4702,11 +5149,13 @@
       "SoundName": null,
       "PrefabName": null,
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 240011,
       "SkillName": "해골 궁수",
+      "Tier": 1,
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 5,
@@ -4723,11 +5172,13 @@
       "SoundName": null,
       "PrefabName": null,
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 240051,
       "SkillName": "해골 마법사",
+      "Tier": 1,
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 5,
@@ -4744,11 +5195,13 @@
       "SoundName": null,
       "PrefabName": null,
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 240071,
       "SkillName": "시체 골렘",
+      "Tier": 5,
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 20,
@@ -4765,11 +5218,13 @@
       "SoundName": null,
       "PrefabName": null,
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 240072,
       "SkillName": "시체 골렘",
+      "Tier": 5,
       "SkillType": 6,
       "SkillLevel": 2,
       "CoolDown": 20,
@@ -4786,11 +5241,13 @@
       "SoundName": null,
       "PrefabName": null,
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 240073,
       "SkillName": "시체 골렘",
+      "Tier": 5,
       "SkillType": 6,
       "SkillLevel": 3,
       "CoolDown": 20,
@@ -4807,11 +5264,13 @@
       "SoundName": null,
       "PrefabName": null,
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 260041,
       "SkillName": "난도질(회전칼날)",
+      "Tier": 2,
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 4,
@@ -4828,11 +5287,13 @@
       "SoundName": "Attack_TwinStrike",
       "PrefabName": "Strike_TwinStrike_L",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 260042,
       "SkillName": "난도질(회전칼날)",
+      "Tier": 2,
       "SkillType": 1,
       "SkillLevel": 2,
       "CoolDown": 4,
@@ -4849,11 +5310,13 @@
       "SoundName": "Attack_TwinStrike",
       "PrefabName": "Strike_TwinStrike_L",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 260043,
       "SkillName": "난도질(회전칼날)",
+      "Tier": 2,
       "SkillType": 1,
       "SkillLevel": 3,
       "CoolDown": 4,
@@ -4870,11 +5333,13 @@
       "SoundName": "Attack_TwinStrike",
       "PrefabName": "Strike_TwinStrike_L",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 310001,
       "SkillName": "마구찌르기",
+      "Tier": "시너지",
       "SkillType": 10,
       "SkillLevel": 1,
       "CoolDown": 3.3,
@@ -4891,11 +5356,13 @@
       "SoundName": "Attack_spear",
       "PrefabName": "BurstProjectile_spear",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_Impact",
+      "SkillImage": null
     },
     {
       "ID": 310002,
       "SkillName": "틈새베기",
+      "Tier": "시너지",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 999,
@@ -4912,11 +5379,13 @@
       "SoundName": "Attack_swordaura",
       "PrefabName": "Strike_swordaura_Synergy",
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 310003,
       "SkillName": "비검",
+      "Tier": "시너지",
       "SkillType": 9,
       "SkillLevel": 1,
       "CoolDown": 999,
@@ -4933,11 +5402,13 @@
       "SoundName": "Attack_spear_electric",
       "PrefabName": "Homing_sword_small",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_Impact",
+      "SkillImage": null
     },
     {
       "ID": 310004,
       "SkillName": "도끼일섬",
+      "Tier": "시너지",
       "SkillType": 17,
       "SkillLevel": 3,
       "CoolDown": 6.3,
@@ -4954,11 +5425,13 @@
       "SoundName": "Attack_thorn",
       "PrefabName": "ChargeObject_OneSlash",
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 320001,
       "SkillName": "빠른 사격",
+      "Tier": "시너지",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 999,
@@ -4975,11 +5448,13 @@
       "SoundName": "Attack_arrow",
       "PrefabName": "Projectile_arrow",
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 320002,
       "SkillName": "파편 폭파",
+      "Tier": "시너지",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 999,
@@ -4996,11 +5471,13 @@
       "SoundName": "",
       "PrefabName": "Strike_boom_small",
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 320003,
       "SkillName": "자동석궁",
+      "Tier": "시너지",
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 8,
@@ -5017,11 +5494,13 @@
       "SoundName": null,
       "PrefabName": null,
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 320004,
       "SkillName": "투사체 2개 증가",
+      "Tier": "시너지",
       "SkillType": "",
       "SkillLevel": "",
       "CoolDown": null,
@@ -5038,11 +5517,13 @@
       "SoundName": null,
       "PrefabName": null,
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 330001,
       "SkillName": "빙결지대",
+      "Tier": "시너지",
       "SkillType": 4,
       "SkillLevel": 1,
       "CoolDown": 20,
@@ -5059,11 +5540,13 @@
       "SoundName": "",
       "PrefabName": "Aura_iceage",
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 330002,
       "SkillName": "불타는 지대 생성",
+      "Tier": "시너지",
       "SkillType": 13,
       "SkillLevel": 1,
       "CoolDown": 8.7,
@@ -5080,11 +5563,13 @@
       "SoundName": "",
       "PrefabName": "FieldZone_fireZone",
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 330003,
       "SkillName": "작은 번개",
+      "Tier": "시너지",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 999,
@@ -5101,11 +5586,13 @@
       "SoundName": "Attack_thunder",
       "PrefabName": "Strike_thunder_small",
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 340001,
       "SkillName": "리치",
+      "Tier": "시너지",
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 30,
@@ -5122,11 +5609,13 @@
       "SoundName": null,
       "PrefabName": null,
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 340002,
       "SkillName": "뼈창",
+      "Tier": "시너지",
       "SkillType": 7,
       "SkillLevel": 1,
       "CoolDown": 2.3,
@@ -5143,11 +5632,13 @@
       "SoundName": "Attack_spear_bone",
       "PrefabName": "Mortar_spear_bone",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_bone"
+      "HitFXName": "FX_Hit_bone",
+      "SkillImage": null
     },
     {
       "ID": 340003,
       "SkillName": "작은 시체 골렘",
+      "Tier": "시너지",
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 20,
@@ -5164,11 +5655,13 @@
       "SoundName": null,
       "PrefabName": null,
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 350001,
       "SkillName": "쾌속연권",
+      "Tier": "시너지",
       "SkillType": 10,
       "SkillLevel": 1,
       "CoolDown": 3.3,
@@ -5185,11 +5678,13 @@
       "SoundName": "Attack_punch",
       "PrefabName": "BurstProjectile_punch_synergy",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_Impact",
+      "SkillImage": null
     },
     {
       "ID": 350002,
       "SkillName": "맹렬각",
+      "Tier": "시너지",
       "SkillType": 10,
       "SkillLevel": 1,
       "CoolDown": 3.3,
@@ -5206,11 +5701,13 @@
       "SoundName": "Attack_punch",
       "PrefabName": "BurstProjectile_TripleFangKick_synergy",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Impact"
+      "HitFXName": "FX_Hit_Impact",
+      "SkillImage": null
     },
     {
       "ID": 350003,
       "SkillName": "거석 압쇄",
+      "Tier": "시너지",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 999,
@@ -5227,11 +5724,13 @@
       "SoundName": "",
       "PrefabName": "Projectile_boulder",
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 360004,
       "SkillName": "순간타격",
+      "Tier": "시너지",
       "SkillType": 16,
       "SkillLevel": 1,
       "CoolDown": 4.7,
@@ -5248,11 +5747,13 @@
       "SoundName": "",
       "PrefabName": "Strike_InstantHit",
       "SubPrefabName": "DashTrailFX",
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 360001,
       "SkillName": "단검 베기",
+      "Tier": "시너지",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 1.1,
@@ -5269,11 +5770,13 @@
       "SoundName": "Attack_swordaura",
       "PrefabName": "Strike_dagger",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_shot_Impact"
+      "HitFXName": "FX_Hit_shot_Impact",
+      "SkillImage": null
     },
     {
       "ID": 360002,
       "SkillName": "냉기 표창",
+      "Tier": "시너지",
       "SkillType": 15,
       "SkillLevel": 1,
       "CoolDown": 1.8,
@@ -5290,11 +5793,13 @@
       "SoundName": "Attack_kunai_ice",
       "PrefabName": "Boomerang_kunai_ice",
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 360003,
       "SkillName": "암살 강화",
+      "Tier": "시너지",
       "SkillType": "",
       "SkillLevel": "",
       "CoolDown": null,
@@ -5311,11 +5816,13 @@
       "SoundName": null,
       "PrefabName": null,
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 370001,
       "SkillName": "독기방출",
+      "Tier": "시너지",
       "SkillType": 7,
       "SkillLevel": 1,
       "CoolDown": 3,
@@ -5332,11 +5839,13 @@
       "SoundName": "",
       "PrefabName": "Mortar_poison",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Poison"
+      "HitFXName": "FX_Hit_Poison",
+      "SkillImage": null
     },
     {
       "ID": 370002,
       "SkillName": "저주의 못",
+      "Tier": "시너지",
       "SkillType": 19,
       "SkillLevel": 1,
       "CoolDown": 13.4,
@@ -5353,11 +5862,13 @@
       "SoundName": "",
       "PrefabName": "Strike_nail",
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 370003,
       "SkillName": "결합토템",
+      "Tier": "시너지",
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 20,
@@ -5374,11 +5885,13 @@
       "SoundName": null,
       "PrefabName": null,
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 400049,
       "SkillName": "사냥 종",
+      "Tier": "유물",
       "SkillType": null,
       "SkillLevel": null,
       "CoolDown": null,
@@ -5395,11 +5908,13 @@
       "SoundName": null,
       "PrefabName": null,
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 400050,
       "SkillName": "깨지는 방패",
+      "Tier": "유물",
       "SkillType": null,
       "SkillLevel": null,
       "CoolDown": null,
@@ -5416,11 +5931,13 @@
       "SoundName": null,
       "PrefabName": null,
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 400051,
       "SkillName": "겁쟁이 폭탄",
+      "Tier": "유물",
       "SkillType": null,
       "SkillLevel": null,
       "CoolDown": null,
@@ -5437,11 +5954,13 @@
       "SoundName": null,
       "PrefabName": null,
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 400052,
       "SkillName": "연쇄 폭탄",
+      "Tier": "유물",
       "SkillType": null,
       "SkillLevel": null,
       "CoolDown": null,
@@ -5458,11 +5977,13 @@
       "SoundName": null,
       "PrefabName": null,
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 400053,
       "SkillName": "반격 못",
+      "Tier": "유물",
       "SkillType": null,
       "SkillLevel": null,
       "CoolDown": null,
@@ -5479,11 +6000,13 @@
       "SoundName": null,
       "PrefabName": null,
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 900001,
       "SkillName": "공용 몸통박치기",
+      "Tier": 1,
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 2,
@@ -5500,11 +6023,13 @@
       "SoundName": "",
       "PrefabName": "Strike",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 900002,
       "SkillName": "배회타격",
+      "Tier": 1,
       "SkillType": 22,
       "SkillLevel": 1,
       "CoolDown": 1,
@@ -5521,11 +6046,13 @@
       "SoundName": "",
       "PrefabName": "Strike",
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 900003,
       "SkillName": "배회타격",
+      "Tier": 1,
       "SkillType": 22,
       "SkillLevel": 1,
       "CoolDown": 1,
@@ -5542,11 +6069,13 @@
       "SoundName": "",
       "PrefabName": "Strike",
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 900004,
       "SkillName": "배회타격",
+      "Tier": 1,
       "SkillType": 22,
       "SkillLevel": 1,
       "CoolDown": 1,
@@ -5563,11 +6092,13 @@
       "SoundName": "",
       "PrefabName": "Strike",
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 901111,
       "SkillName": "슬라임 박치기",
+      "Tier": 1,
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 1,
@@ -5584,11 +6115,13 @@
       "SoundName": "",
       "PrefabName": "",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 901211,
       "SkillName": "박쥐 돌진",
+      "Tier": 1,
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 1,
@@ -5605,11 +6138,13 @@
       "SoundName": "",
       "PrefabName": "",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 901311,
       "SkillName": "좀비 깨물기",
+      "Tier": 1,
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 1,
@@ -5626,11 +6161,13 @@
       "SoundName": "",
       "PrefabName": "",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 901411,
       "SkillName": "고블린 곤봉",
+      "Tier": 1,
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 1,
@@ -5647,11 +6184,13 @@
       "SoundName": "",
       "PrefabName": "",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 901511,
       "SkillName": "위습 마법",
+      "Tier": 1,
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 1.8,
@@ -5668,11 +6207,13 @@
       "SoundName": "",
       "PrefabName": "Projectile_energybolt",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 901611,
       "SkillName": "스켈레톤 화살",
+      "Tier": 1,
       "SkillType": 7,
       "SkillLevel": 1,
       "CoolDown": 2,
@@ -5689,11 +6230,13 @@
       "SoundName": "",
       "PrefabName": "Mortar_arrow",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 910011,
       "SkillName": "숲 골렘 내려치기",
+      "Tier": 1,
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 1,
@@ -5710,11 +6253,13 @@
       "SoundName": "",
       "PrefabName": "Strike_earth",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 910012,
       "SkillName": "숲 골렘 원거리 뿌리공격",
+      "Tier": 1,
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 1,
@@ -5731,11 +6276,13 @@
       "SoundName": "",
       "PrefabName": "Strike_root",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 910021,
       "SkillName": "도살자 갈고리 타격",
+      "Tier": 1,
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 1,
@@ -5752,11 +6299,13 @@
       "SoundName": "",
       "PrefabName": "Strike_hook",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 910022,
       "SkillName": "도살자 힘껏치기",
+      "Tier": 1,
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 1,
@@ -5773,11 +6322,13 @@
       "SoundName": "",
       "PrefabName": "Strike_axe",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 910031,
       "SkillName": "해골 사신 낫 휘두르기",
+      "Tier": 1,
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 0.75,
@@ -5794,11 +6345,13 @@
       "SoundName": "",
       "PrefabName": "Strike_slash",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 910032,
       "SkillName": "해골 사신 원거리 저주공격",
+      "Tier": 1,
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 2,
@@ -5815,11 +6368,13 @@
       "SoundName": "",
       "PrefabName": "Projectile_skull_green",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 910033,
       "SkillName": "해골 사신 해골궁수 소환",
+      "Tier": 1,
       "SkillType": 6,
       "SkillLevel": 1,
       "CoolDown": 8,
@@ -5836,11 +6391,13 @@
       "SoundName": null,
       "PrefabName": null,
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 910041,
       "SkillName": "예티 짓밟기",
+      "Tier": 1,
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 1,
@@ -5857,11 +6414,13 @@
       "SoundName": "",
       "PrefabName": "Strike_foot",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 910042,
       "SkillName": "예티 철권",
+      "Tier": 1,
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 0.5,
@@ -5878,11 +6437,13 @@
       "SoundName": "",
       "PrefabName": "Strike_punch_ice",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 910043,
       "SkillName": "예티 냉기 오오라",
+      "Tier": 4,
       "SkillType": 4,
       "SkillLevel": 1,
       "CoolDown": 5,
@@ -5899,11 +6460,13 @@
       "SoundName": "",
       "PrefabName": "Aura_ice",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 910051,
       "SkillName": "대악마 화염구",
+      "Tier": 1,
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 2,
@@ -5920,11 +6483,13 @@
       "SoundName": "",
       "PrefabName": "Projectile_energybolt_fire_large",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 910052,
       "SkillName": "대악마 지옥할퀴기",
+      "Tier": 1,
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 2,
@@ -5941,11 +6506,13 @@
       "SoundName": "",
       "PrefabName": "Strike_hellslash",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 910053,
       "SkillName": "대악마 어둠의 영역",
+      "Tier": 5,
       "SkillType": 4,
       "SkillLevel": 1,
       "CoolDown": 5,
@@ -5962,11 +6529,13 @@
       "SoundName": "",
       "PrefabName": "Aura_dark",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 920011,
       "SkillName": "슬라임킹_점프",
+      "Tier": "",
       "SkillType": 18,
       "SkillLevel": 1,
       "CoolDown": 5.3,
@@ -5983,11 +6552,13 @@
       "SoundName": "Attack_rock",
       "PrefabName": "Strike_stump",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_rocksImpact"
+      "HitFXName": "FX_Hit_rocksImpact",
+      "SkillImage": null
     },
     {
       "ID": 920012,
       "SkillName": "슬라임킹_공격",
+      "Tier": "",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 3,
@@ -6004,11 +6575,13 @@
       "SoundName": null,
       "PrefabName": null,
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 920013,
       "SkillName": "슬라임장군_공격",
+      "Tier": "",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 2,
@@ -6025,11 +6598,13 @@
       "SoundName": null,
       "PrefabName": null,
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 920014,
       "SkillName": "슬라임병사_공격",
+      "Tier": "",
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 1,
@@ -6046,11 +6621,13 @@
       "SoundName": null,
       "PrefabName": null,
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 920015,
       "SkillName": "슬라임킹_분열",
+      "Tier": "",
       "SkillType": 21,
       "SkillLevel": 1,
       "CoolDown": 999,
@@ -6067,11 +6644,13 @@
       "SoundName": null,
       "PrefabName": null,
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 920016,
       "SkillName": "슬라임장군_분열",
+      "Tier": "",
       "SkillType": 21,
       "SkillLevel": 1,
       "CoolDown": 999,
@@ -6088,11 +6667,13 @@
       "SoundName": null,
       "PrefabName": null,
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 990011,
       "SkillName": "할퀴기",
+      "Tier": 3,
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 0.8,
@@ -6109,11 +6690,13 @@
       "SoundName": "Attack_claw",
       "PrefabName": "Strike_claw",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 990021,
       "SkillName": "라이트닝볼트 3연발",
+      "Tier": 4,
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 1.8,
@@ -6130,11 +6713,13 @@
       "SoundName": "Attack_energybolt_electric",
       "PrefabName": "Projectile_energybolt_electric",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 990022,
       "SkillName": "전기위습 라이트닝 노바",
+      "Tier": 4,
       "SkillType": 3,
       "SkillLevel": 1,
       "CoolDown": 3,
@@ -6151,11 +6736,13 @@
       "SoundName": "Attack_electric",
       "PrefabName": "Wave_electric",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 990031,
       "SkillName": "범위 파이어볼트",
+      "Tier": 4,
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 1.8,
@@ -6172,11 +6759,13 @@
       "SoundName": "Attack_energybolt_fire_small",
       "PrefabName": "Projectile_energybolt_fire_small",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 990033,
       "SkillName": "파이어위습 불꽃 회전",
+      "Tier": 4,
       "SkillType": 5,
       "SkillLevel": 1,
       "CoolDown": 3,
@@ -6193,11 +6782,13 @@
       "SoundName": "Attack_rotation_energybolt_fire_small",
       "PrefabName": "Rotation_energybolt_fire_small",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 990041,
       "SkillName": "해골 궁수 화살",
+      "Tier": 1,
       "SkillType": 7,
       "SkillLevel": 1,
       "CoolDown": 2.1,
@@ -6214,11 +6805,13 @@
       "SoundName": "Attack_arrow_poison",
       "PrefabName": "Mortar_arrow_poison",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 990051,
       "SkillName": "양날도끼 휘두르기",
+      "Tier": 2,
       "SkillType": 8,
       "SkillLevel": 1,
       "CoolDown": 0.8,
@@ -6235,11 +6828,13 @@
       "SoundName": "Attack_Character_Axe",
       "PrefabName": "Swing_skelctonWarrior_battle_axe",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 990061,
       "SkillName": "원거리 아이스볼트",
+      "Tier": 3,
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 1.8,
@@ -6256,11 +6851,13 @@
       "SoundName": "Attack_energybolt_ice",
       "PrefabName": "Projectile_energybolt_ice",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 990062,
       "SkillName": "고드름",
+      "Tier": 3,
       "SkillType": 1,
       "SkillLevel": 1,
       "CoolDown": 0.8,
@@ -6277,11 +6874,13 @@
       "SoundName": "Attack_rotation_thorn_ice",
       "PrefabName": "Strike_thorn_ice",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 990071,
       "SkillName": "시체 골렘 범위타격",
+      "Tier": 5,
       "SkillType": 1,
       "SkillLevel": 2,
       "CoolDown": 1,
@@ -6298,11 +6897,13 @@
       "SoundName": "",
       "PrefabName": "Strike_earth",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 990072,
       "SkillName": "시체 골렘 주변오오라",
+      "Tier": 5,
       "SkillType": 4,
       "SkillLevel": 2,
       "CoolDown": 5,
@@ -6319,11 +6920,13 @@
       "SoundName": "",
       "PrefabName": "Aura_blood",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 990081,
       "SkillName": "땅 파동",
+      "Tier": 4,
       "SkillType": 3,
       "SkillLevel": 1,
       "CoolDown": 3.3,
@@ -6340,11 +6943,13 @@
       "SoundName": "Attack_rock",
       "PrefabName": "Wave_rock",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 990091,
       "SkillName": "파이어볼트 3연발",
+      "Tier": 2,
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 2.1,
@@ -6361,11 +6966,13 @@
       "SoundName": "Attack_energybolt_fire_small",
       "PrefabName": "Projectile_energybolt_fire_small",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 990101,
       "SkillName": "전기 1회 투사체",
+      "Tier": 3,
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 2.3,
@@ -6382,11 +6989,13 @@
       "SoundName": "Attack_energybolt_electric",
       "PrefabName": "Projectile_energybolt_electric",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 990111,
       "SkillName": "독 노바",
+      "Tier": 5,
       "SkillType": 3,
       "SkillLevel": 3,
       "CoolDown": 5,
@@ -6403,11 +7012,13 @@
       "SoundName": "Attack_poison",
       "PrefabName": "Wave_poison",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 990112,
       "SkillName": "독 발사",
+      "Tier": 5,
       "SkillType": 2,
       "SkillLevel": 3,
       "CoolDown": 0.5,
@@ -6424,11 +7035,13 @@
       "SoundName": "Attack_energybolt_green",
       "PrefabName": "Projectile_energybolt_green",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 990113,
       "SkillName": "그림자 암살자",
+      "Tier": "",
       "SkillType": 16,
       "SkillLevel": 1,
       "CoolDown": 1,
@@ -6445,11 +7058,13 @@
       "SoundName": "Attack_TwinStrike",
       "PrefabName": "Strike_assassination_Small",
       "SubPrefabName": "",
-      "HitFXName": ""
+      "HitFXName": "",
+      "SkillImage": ""
     },
     {
       "ID": 990141,
       "SkillName": "리치",
+      "Tier": "",
       "SkillType": 4,
       "SkillLevel": 1,
       "CoolDown": 10,
@@ -6466,11 +7081,13 @@
       "SoundName": "",
       "PrefabName": "Aura_Fear",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Dark"
+      "HitFXName": "FX_Hit_Dark",
+      "SkillImage": ""
     },
     {
       "ID": 990151,
       "SkillName": "자동석궁",
+      "Tier": "",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 0.5,
@@ -6487,11 +7104,13 @@
       "SoundName": "Attack_arrow",
       "PrefabName": "Projectile_arrow_big",
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 990161,
       "SkillName": "작은 시체 골렘",
+      "Tier": "",
       "SkillType": 7,
       "SkillLevel": 1,
       "CoolDown": 5.1,
@@ -6508,11 +7127,13 @@
       "SoundName": "",
       "PrefabName": "Mortar_zombierocks",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_zombierocks"
+      "HitFXName": "FX_Hit_zombierocks",
+      "SkillImage": null
     },
     {
       "ID": 990171,
       "SkillName": "결합토템 전기",
+      "Tier": "",
       "SkillType": 4,
       "SkillLevel": 1,
       "CoolDown": 10,
@@ -6529,11 +7150,13 @@
       "SoundName": "",
       "PrefabName": "Aura_electric",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Lightning"
+      "HitFXName": "FX_Hit_Lightning",
+      "SkillImage": null
     },
     {
       "ID": 990172,
       "SkillName": "결합토템 불",
+      "Tier": "",
       "SkillType": 5,
       "SkillLevel": 1,
       "CoolDown": 10,
@@ -6550,11 +7173,13 @@
       "SoundName": "",
       "PrefabName": "Rotation_fire",
       "SubPrefabName": null,
-      "HitFXName": null
+      "HitFXName": null,
+      "SkillImage": null
     },
     {
       "ID": 990173,
       "SkillName": "결합토템 독",
+      "Tier": "",
       "SkillType": 2,
       "SkillLevel": 1,
       "CoolDown": 1,
@@ -6571,7 +7196,8 @@
       "SoundName": "",
       "PrefabName": "Projectile_poison",
       "SubPrefabName": "",
-      "HitFXName": "FX_Hit_Poison"
+      "HitFXName": "FX_Hit_Poison",
+      "SkillImage": null
     }
   ]
 }
