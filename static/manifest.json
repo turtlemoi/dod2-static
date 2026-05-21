@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-21T12:55:26.986Z",
+  "updatedAt": "2026-05-21T16:26:29.902Z",
   "sheets": [
     {
       "name": "Common",
@@ -42,6 +42,12 @@
       "version": 10,
       "hash": "d7939339f0160ffbe519f028129b679fb35b423081fafdef28062606a93a4bf0",
       "url": "/static/Relic.json"
+    },
+    {
+      "name": "Augment",
+      "version": 1,
+      "hash": "bf36b4fcc29b76304d2c5483b4f84f181631a3c5b5303bfa84d3ed4afc6b50b7",
+      "url": "/static/Augment.json"
     },
     {
       "name": "PuzzleShape",
@@ -88,7 +94,7 @@
     {
       "name": "Locale",
       "version": 77,
-      "hash": "d71634ab483887031dcef339a26ac58ebdb532b49f7e93e603dc3b5271f79d43",
+      "hash": "62bcd4878f2cf0e82d0e049ede976e33c7218993b5c1508f0f1bc113d2448142",
       "url": "/static/Locale.json"
     },
     {

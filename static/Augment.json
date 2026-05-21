@@ -1,0 +1,314 @@
+{
+  "data": [
+    {
+      "ID": 2001,
+      "Tier": 1,
+      "AugmentName": "aug_name_2001",
+      "AugmentDesc": "aug_desc_2001",
+      "Icon": "aug_draw_power_first",
+      "EffectType": 101,
+      "Value1": 0,
+      "Value2": 0
+    },
+    {
+      "ID": 2002,
+      "Tier": 2,
+      "AugmentName": "aug_name_2002",
+      "AugmentDesc": "aug_desc_2002",
+      "Icon": "aug_extra_draw",
+      "EffectType": 102,
+      "Value1": 3,
+      "Value2": 0
+    },
+    {
+      "ID": 2003,
+      "Tier": 3,
+      "AugmentName": "aug_name_2003",
+      "AugmentDesc": "aug_desc_2003",
+      "Icon": "aug_quality_vs_quantity",
+      "EffectType": 103,
+      "Value1": 0,
+      "Value2": 0
+    },
+    {
+      "ID": 2004,
+      "Tier": 2,
+      "AugmentName": "aug_name_2004",
+      "AugmentDesc": "aug_desc_2004",
+      "Icon": "aug_overload",
+      "EffectType": 104,
+      "Value1": 0,
+      "Value2": 0
+    },
+    {
+      "ID": 2005,
+      "Tier": 2,
+      "AugmentName": "aug_name_2005",
+      "AugmentDesc": "aug_desc_2005",
+      "Icon": "aug_chain_draw",
+      "EffectType": 105,
+      "Value1": 40,
+      "Value2": 0
+    },
+    {
+      "ID": 2006,
+      "Tier": 1,
+      "AugmentName": "aug_name_2006",
+      "AugmentDesc": "aug_desc_2006",
+      "Icon": "aug_kill_draw",
+      "EffectType": 106,
+      "Value1": 50,
+      "Value2": 0
+    },
+    {
+      "ID": 2007,
+      "Tier": 1,
+      "AugmentName": "aug_name_2007",
+      "AugmentDesc": "aug_desc_2007",
+      "Icon": "aug_skill_card_draw",
+      "EffectType": 107,
+      "Value1": 0,
+      "Value2": 0
+    },
+    {
+      "ID": 2008,
+      "Tier": 3,
+      "AugmentName": "aug_name_2008",
+      "AugmentDesc": "aug_desc_2008",
+      "Icon": "aug_summon_instant",
+      "EffectType": 108,
+      "Value1": 0,
+      "Value2": 0
+    },
+    {
+      "ID": 2009,
+      "Tier": 2,
+      "AugmentName": "aug_name_2009",
+      "AugmentDesc": "aug_desc_2009",
+      "Icon": "aug_hp_draw",
+      "EffectType": 109,
+      "Value1": 10,
+      "Value2": 0
+    },
+    {
+      "ID": 2010,
+      "Tier": 3,
+      "AugmentName": "aug_name_2010",
+      "AugmentDesc": "aug_desc_2010",
+      "Icon": "aug_mass_draw_discard",
+      "EffectType": 110,
+      "Value1": 5,
+      "Value2": 5
+    },
+    {
+      "ID": 2011,
+      "Tier": 1,
+      "AugmentName": "aug_name_2011",
+      "AugmentDesc": "aug_desc_2011",
+      "Icon": "aug_attack_after_draw",
+      "EffectType": 111,
+      "Value1": 30,
+      "Value2": 0
+    },
+    {
+      "ID": 2021,
+      "Tier": 2,
+      "AugmentName": "aug_name_2021",
+      "AugmentDesc": "aug_desc_2021",
+      "Icon": "aug_last_flame",
+      "EffectType": 201,
+      "Value1": 0,
+      "Value2": 0
+    },
+    {
+      "ID": 2031,
+      "Tier": 3,
+      "AugmentName": "aug_name_2031",
+      "AugmentDesc": "aug_desc_2031",
+      "Icon": "aug_reshuffle_barrage",
+      "EffectType": 301,
+      "Value1": 20,
+      "Value2": 0
+    },
+    {
+      "ID": 2032,
+      "Tier": 1,
+      "AugmentName": "aug_name_2032",
+      "AugmentDesc": "aug_desc_2032",
+      "Icon": "aug_cycle_of_life",
+      "EffectType": 302,
+      "Value1": 10,
+      "Value2": 0
+    },
+    {
+      "ID": 2033,
+      "Tier": 2,
+      "AugmentName": "aug_name_2033",
+      "AugmentDesc": "aug_desc_2033",
+      "Icon": "aug_rage_stack",
+      "EffectType": 303,
+      "Value1": 10,
+      "Value2": 0
+    },
+    {
+      "ID": 2041,
+      "Tier": 3,
+      "AugmentName": "aug_name_2041",
+      "AugmentDesc": "aug_desc_2041",
+      "Icon": "aug_ice_age",
+      "EffectType": 401,
+      "Value1": 10,
+      "Value2": 0
+    },
+    {
+      "ID": 2042,
+      "Tier": 3,
+      "AugmentName": "aug_name_2042",
+      "AugmentDesc": "aug_desc_2042",
+      "Icon": "aug_preemptive_summon",
+      "EffectType": 402,
+      "Value1": 0,
+      "Value2": 0
+    },
+    {
+      "ID": 2043,
+      "Tier": 2,
+      "AugmentName": "aug_name_2043",
+      "AugmentDesc": "aug_desc_2043",
+      "Icon": "aug_battle_ready",
+      "EffectType": 403,
+      "Value1": 0,
+      "Value2": 0
+    },
+    {
+      "ID": 2051,
+      "Tier": 2,
+      "AugmentName": "aug_name_2051",
+      "AugmentDesc": "aug_desc_2051",
+      "Icon": "aug_echo_strike",
+      "EffectType": 501,
+      "Value1": 20,
+      "Value2": 0
+    },
+    {
+      "ID": 2052,
+      "Tier": 3,
+      "AugmentName": "aug_name_2052",
+      "AugmentDesc": "aug_desc_2052",
+      "Icon": "aug_barrage",
+      "EffectType": 502,
+      "Value1": 0,
+      "Value2": 0
+    },
+    {
+      "ID": 2053,
+      "Tier": 2,
+      "AugmentName": "aug_name_2053",
+      "AugmentDesc": "aug_desc_2053",
+      "Icon": "aug_resonance_shot",
+      "EffectType": 503,
+      "Value1": 0,
+      "Value2": 0
+    },
+    {
+      "ID": 2054,
+      "Tier": 3,
+      "AugmentName": "aug_name_2054",
+      "AugmentDesc": "aug_desc_2054",
+      "Icon": "aug_all_in",
+      "EffectType": 504,
+      "Value1": 0,
+      "Value2": 0
+    },
+    {
+      "ID": 2055,
+      "Tier": 3,
+      "AugmentName": "aug_name_2055",
+      "AugmentDesc": "aug_desc_2055",
+      "Icon": "aug_synergy_resonance",
+      "EffectType": 505,
+      "Value1": 0,
+      "Value2": 0
+    },
+    {
+      "ID": 2061,
+      "Tier": 2,
+      "AugmentName": "aug_name_2061",
+      "AugmentDesc": "aug_desc_2061",
+      "Icon": "aug_divine_shield",
+      "EffectType": 601,
+      "Value1": 20,
+      "Value2": 0
+    },
+    {
+      "ID": 2062,
+      "Tier": 2,
+      "AugmentName": "aug_name_2062",
+      "AugmentDesc": "aug_desc_2062",
+      "Icon": "aug_thorns_counter",
+      "EffectType": 602,
+      "Value1": 30,
+      "Value2": 0
+    },
+    {
+      "ID": 2063,
+      "Tier": 1,
+      "AugmentName": "aug_name_2063",
+      "AugmentDesc": "aug_desc_2063",
+      "Icon": "aug_damage_regen",
+      "EffectType": 603,
+      "Value1": 5,
+      "Value2": 0
+    },
+    {
+      "ID": 2071,
+      "Tier": 2,
+      "AugmentName": "aug_name_2071",
+      "AugmentDesc": "aug_desc_2071",
+      "Icon": "aug_martyr_summon",
+      "EffectType": 701,
+      "Value1": 0,
+      "Value2": 0
+    },
+    {
+      "ID": 2072,
+      "Tier": 2,
+      "AugmentName": "aug_name_2072",
+      "AugmentDesc": "aug_desc_2072",
+      "Icon": "aug_summon_rhythm",
+      "EffectType": 702,
+      "Value1": 3,
+      "Value2": 0
+    },
+    {
+      "ID": 2081,
+      "Tier": 1,
+      "AugmentName": "aug_name_2081",
+      "AugmentDesc": "aug_desc_2081",
+      "Icon": "aug_synergy_draw",
+      "EffectType": 801,
+      "Value1": 0,
+      "Value2": 0
+    },
+    {
+      "ID": 2082,
+      "Tier": 2,
+      "AugmentName": "aug_name_2082",
+      "AugmentDesc": "aug_desc_2082",
+      "Icon": "aug_synergy_chain",
+      "EffectType": 802,
+      "Value1": 0,
+      "Value2": 0
+    },
+    {
+      "ID": 2091,
+      "Tier": 3,
+      "AugmentName": "aug_name_2091",
+      "AugmentDesc": "aug_desc_2091",
+      "Icon": "aug_chain_explosion",
+      "EffectType": 901,
+      "Value1": 30,
+      "Value2": 0
+    }
+  ]
+}
