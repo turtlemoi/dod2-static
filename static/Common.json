@@ -127,6 +127,14 @@
     {
       "Key": "route_weight_rest",
       "Value": 1
+    },
+    {
+      "Key": "initial_draw_count",
+      "Value": 4
+    },
+    {
+      "Key": "max_hand_size",
+      "Value": 4
     }
   ]
 }

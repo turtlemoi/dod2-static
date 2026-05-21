@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-05-20T14:33:04.172Z",
+  "updatedAt": "2026-05-21T05:30:28.630Z",
   "sheets": [
     {
       "name": "Common",
-      "version": 32,
-      "hash": "b0e8bd68f8c8c66cfe70d4bbd0450863b80043bbdb45ab2cca2ab9b2c47ba5a2",
+      "version": 33,
+      "hash": "20b4f6d50fa7893b442c4a5be18a1c691546b7ebced7114f18fe42e757a43781",
       "url": "/static/Common.json"
     },
     {
@@ -52,7 +52,7 @@
     {
       "name": "Puzzle",
       "version": 98,
-      "hash": "fc043b721d0d0252dac4af726a227223b1740d63901ab595d30d74a0d7d4f5b6",
+      "hash": "570f7e03043b20fd5ebab55196c2167611bfa376a95304e6b28c9d14fbfcd745",
       "url": "/static/Puzzle.json"
     },
     {
@@ -69,8 +69,8 @@
     },
     {
       "name": "SkillCards",
-      "version": 1,
-      "hash": "92a5895fd84907df8eded82863e20d6d2dbf0cd4075775fe0a05f9151485a2b8",
+      "version": 2,
+      "hash": "9328d1d61b9b5a9c66aa11dfd75addf1b47e02513f0e9f8d46356218c37f547f",
       "url": "/static/SkillCards.json"
     },
     {
@@ -88,7 +88,7 @@
     {
       "name": "Locale",
       "version": 76,
-      "hash": "20324ecf0d2ebfb0411f4baeef6ee529bc93e920903b0319cb7e22a4457cbd2d",
+      "hash": "7ccf72ad08b15efdead4f207b700094e6078d7da00048e5989c1c5e33e471d8d",
       "url": "/static/Locale.json"
     },
     {

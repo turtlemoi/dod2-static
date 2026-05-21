@@ -2,7 +2,7 @@
   "data": [
     {
       "ID": 300001,
-      "CoolDown": 6,
+      "CoolDown": 0.5,
       "EffectType": 1,
       "Value1": 2,
       "Value2": 0,
@@ -12,7 +12,7 @@
     },
     {
       "ID": 300002,
-      "CoolDown": 4,
+      "CoolDown": 0.5,
       "EffectType": 2,
       "Value1": 0,
       "Value2": 0,
@@ -22,7 +22,7 @@
     },
     {
       "ID": 300003,
-      "CoolDown": 7,
+      "CoolDown": 1,
       "EffectType": 3,
       "Value1": 0,
       "Value2": 0,
@@ -32,7 +32,7 @@
     },
     {
       "ID": 300004,
-      "CoolDown": 3.5,
+      "CoolDown": 0.5,
       "EffectType": 4,
       "Value1": 0,
       "Value2": 0,
@@ -42,7 +42,7 @@
     },
     {
       "ID": 300005,
-      "CoolDown": 8,
+      "CoolDown": 1.5,
       "EffectType": 5,
       "Value1": 0,
       "Value2": 0,
@@ -52,7 +52,7 @@
     },
     {
       "ID": 300006,
-      "CoolDown": 5,
+      "CoolDown": 0.5,
       "EffectType": 6,
       "Value1": 50,
       "Value2": 0,
@@ -62,7 +62,7 @@
     },
     {
       "ID": 300007,
-      "CoolDown": 4.5,
+      "CoolDown": 1,
       "EffectType": 7,
       "Value1": 0,
       "Value2": 0,
@@ -72,7 +72,7 @@
     },
     {
       "ID": 300008,
-      "CoolDown": 9,
+      "CoolDown": 3,
       "EffectType": 8,
       "Value1": 0,
       "Value2": 0,
@@ -82,7 +82,7 @@
     },
     {
       "ID": 300009,
-      "CoolDown": 10,
+      "CoolDown": 2,
       "EffectType": 9,
       "Value1": 0,
       "Value2": 0,
@@ -92,7 +92,7 @@
     },
     {
       "ID": 300010,
-      "CoolDown": 12,
+      "CoolDown": 3,
       "EffectType": 10,
       "Value1": 0,
       "Value2": 0,
@@ -102,7 +102,7 @@
     },
     {
       "ID": 300011,
-      "CoolDown": 7,
+      "CoolDown": 0.5,
       "EffectType": 11,
       "Value1": 20,
       "Value2": 0,
@@ -112,7 +112,7 @@
     },
     {
       "ID": 300012,
-      "CoolDown": 4,
+      "CoolDown": 1,
       "EffectType": 12,
       "Value1": 40,
       "Value2": 0,
@@ -122,7 +122,7 @@
     },
     {
       "ID": 300013,
-      "CoolDown": 5.5,
+      "CoolDown": 0.5,
       "EffectType": 13,
       "Value1": 2,
       "Value2": 0,
@@ -132,7 +132,7 @@
     },
     {
       "ID": 300014,
-      "CoolDown": 3,
+      "CoolDown": 1,
       "EffectType": 14,
       "Value1": 0,
       "Value2": 0,
@@ -142,7 +142,7 @@
     },
     {
       "ID": 300015,
-      "CoolDown": 6,
+      "CoolDown": 2,
       "EffectType": 15,
       "Value1": 0,
       "Value2": 0,
@@ -152,7 +152,7 @@
     },
     {
       "ID": 300016,
-      "CoolDown": 8,
+      "CoolDown": 0.5,
       "EffectType": 16,
       "Value1": 0,
       "Value2": 0,
@@ -162,7 +162,7 @@
     },
     {
       "ID": 300017,
-      "CoolDown": 9,
+      "CoolDown": 0.5,
       "EffectType": 17,
       "Value1": 0,
       "Value2": 0,
@@ -172,7 +172,7 @@
     },
     {
       "ID": 300018,
-      "CoolDown": 5,
+      "CoolDown": 0.5,
       "EffectType": 18,
       "Value1": 0,
       "Value2": 0,
@@ -182,7 +182,7 @@
     },
     {
       "ID": 300019,
-      "CoolDown": 3.5,
+      "CoolDown": 0.5,
       "EffectType": 19,
       "Value1": 2,
       "Value2": 0,
