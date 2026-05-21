@@ -134,7 +134,7 @@
     },
     {
       "Key": "max_hand_size",
-      "Value": 4
+      "Value": 10
     }
   ]
 }
