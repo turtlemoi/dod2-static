@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-21T06:46:06.601Z",
+  "updatedAt": "2026-05-21T07:08:57.717Z",
   "sheets": [
     {
       "name": "Common",
@@ -27,8 +27,8 @@
     },
     {
       "name": "BattleData",
-      "version": 27,
-      "hash": "ec1c0228dab6e2f002ef99d5e7a96288f15f8fdce69e344c712de7150e1fb662",
+      "version": 28,
+      "hash": "21b8a1f750211ad2979fcdccb4b7560aedd6f82322a280944d163e999f8d6ee0",
       "url": "/static/BattleData.json"
     },
     {
@@ -52,7 +52,7 @@
     {
       "name": "Puzzle",
       "version": 98,
-      "hash": "0909d4e6b974dd046374d22a471dbab4f3eac7b62dc590de9cc2d8c75ee941d9",
+      "hash": "88a988464dc2a34019f7f63959064a5266744c478a0d2c77e8e5c487c2bffbb2",
       "url": "/static/Puzzle.json"
     },
     {
