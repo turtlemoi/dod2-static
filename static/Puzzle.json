@@ -10,8 +10,8 @@
       "Synergy1": "",
       "Synergy2": "",
       "SkillType": 1,
-      "InOut": null,
-      "SkillImage": null
+      "InOut": "",
+      "SkillImage": "skill_adventurer"
     },
     {
       "ID": 101,
@@ -23,8 +23,8 @@
       "Synergy1": "",
       "Synergy2": "",
       "SkillType": 1,
-      "InOut": null,
-      "SkillImage": null
+      "InOut": "",
+      "SkillImage": "skill_warrior"
     },
     {
       "ID": 102,
@@ -36,8 +36,8 @@
       "Synergy1": "",
       "Synergy2": "",
       "SkillType": 1,
-      "InOut": null,
-      "SkillImage": null
+      "InOut": "",
+      "SkillImage": "skill_archer"
     },
     {
       "ID": 103,
@@ -49,8 +49,8 @@
       "Synergy1": "",
       "Synergy2": "",
       "SkillType": 1,
-      "InOut": null,
-      "SkillImage": null
+      "InOut": "",
+      "SkillImage": "skill_mage"
     },
     {
       "ID": 104,
@@ -62,8 +62,8 @@
       "Synergy1": "",
       "Synergy2": "",
       "SkillType": 1,
-      "InOut": null,
-      "SkillImage": null
+      "InOut": "",
+      "SkillImage": "skill_necromancer"
     },
     {
       "ID": 105,
@@ -75,8 +75,8 @@
       "Synergy1": "",
       "Synergy2": "",
       "SkillType": 1,
-      "InOut": null,
-      "SkillImage": null
+      "InOut": "",
+      "SkillImage": "skill_fighter"
     },
     {
       "ID": 106,
@@ -88,8 +88,8 @@
       "Synergy1": "",
       "Synergy2": "",
       "SkillType": 1,
-      "InOut": null,
-      "SkillImage": null
+      "InOut": "",
+      "SkillImage": "skill_rogue"
     },
     {
       "ID": 107,
@@ -101,8 +101,8 @@
       "Synergy1": "",
       "Synergy2": "",
       "SkillType": 1,
-      "InOut": null,
-      "SkillImage": null
+      "InOut": "",
+      "SkillImage": "skill_shaman"
     },
     {
       "ID": 110011,
