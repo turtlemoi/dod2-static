@@ -135,6 +135,26 @@
     {
       "Key": "max_hand_size",
       "Value": 10
+    },
+    {
+      "Key": "augment_drop_init",
+      "Value": "100,0,0"
+    },
+    {
+      "Key": "augment_drop_10",
+      "Value": "50,40,10"
+    },
+    {
+      "Key": "augment_drop_20",
+      "Value": "50,40,10"
+    },
+    {
+      "Key": "augment_drop_30",
+      "Value": "50,40,10"
+    },
+    {
+      "Key": "augment_drop_40",
+      "Value": "50,40,10"
     }
   ]
 }
