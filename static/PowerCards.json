@@ -85,8 +85,8 @@
       "CoolDown": 2,
       "TriggerType": 3,
       "EffectType": 9,
-      "Value1": 25,
-      "Value2": 8,
+      "Value1": 20,
+      "Value2": 1,
       "Value3": 0,
       "벨류값": "기사회생 V1: 발동 확률% (25), V2: 회복량 (8)"
     },

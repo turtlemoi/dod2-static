@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-22T10:50:18.936Z",
+  "updatedAt": "2026-05-22T12:36:14.524Z",
   "sheets": [
     {
       "name": "Common",
@@ -81,8 +81,8 @@
     },
     {
       "name": "PowerCards",
-      "version": 2,
-      "hash": "aa46eb8f8aaa314ac09b379c27d6371c5b7163d3b66cbc107d071088923f5c5c",
+      "version": 3,
+      "hash": "d3a36b88959431f46618b8f9fabaf4f5461cd6b354196b231fbecb47e091f63c",
       "url": "/static/PowerCards.json"
     },
     {
