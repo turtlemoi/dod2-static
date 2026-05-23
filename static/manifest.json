@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-23T04:55:24.761Z",
+  "updatedAt": "2026-05-23T10:28:53.014Z",
   "sheets": [
     {
       "name": "Common",
@@ -27,8 +27,8 @@
     },
     {
       "name": "BattleData",
-      "version": 35,
-      "hash": "a253de6611529618f30a9a336c9e23ed3ba8bb7665cb0d16d7b425e852186c2a",
+      "version": 36,
+      "hash": "c539b8c9c85c825e7c5cb74d6fa8a560f93e6c7702ac0afcb33f488ac429b885",
       "url": "/static/BattleData.json"
     },
     {
@@ -58,7 +58,7 @@
     {
       "name": "Puzzle",
       "version": 100,
-      "hash": "af85af99e986c481717a354916bf9e898acc62edeaae0914492358142e685765",
+      "hash": "a5566dc8eea45883be0b9bbac9cf5810c4012b3828acd294c580225bf3549bee",
       "url": "/static/Puzzle.json"
     },
     {
@@ -76,7 +76,7 @@
     {
       "name": "SkillCards",
       "version": 2,
-      "hash": "9328d1d61b9b5a9c66aa11dfd75addf1b47e02513f0e9f8d46356218c37f547f",
+      "hash": "dccf39d880abbcbe9d667948dfe4f75d1351ff1289a5d5b8ba8fe791a6e928e3",
       "url": "/static/SkillCards.json"
     },
     {
