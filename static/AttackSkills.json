@@ -6816,7 +6816,7 @@
       "SkillLevel": 1,
       "CoolDown": 0.8,
       "SkillValue": 100,
-      "SkillRange": 8,
+      "SkillRange": 5,
       "Pierce": 0,
       "KnockbackForce": 3,
       "Value1": 1,
