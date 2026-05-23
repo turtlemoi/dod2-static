@@ -7137,7 +7137,7 @@
       "SkillType": 4,
       "SkillLevel": 1,
       "CoolDown": 10,
-      "SkillValue": 20,
+      "SkillValue": 50,
       "SkillRange": 20,
       "Pierce": 9999,
       "KnockbackForce": 0,

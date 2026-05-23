@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-23T04:41:49.139Z",
+  "updatedAt": "2026-05-23T04:55:24.761Z",
   "sheets": [
     {
       "name": "Common",
@@ -27,8 +27,8 @@
     },
     {
       "name": "BattleData",
-      "version": 34,
-      "hash": "bc2472399411c56565284465a688b22fd7659800a6e8d94b87c46ecaf78b4130",
+      "version": 35,
+      "hash": "a253de6611529618f30a9a336c9e23ed3ba8bb7665cb0d16d7b425e852186c2a",
       "url": "/static/BattleData.json"
     },
     {
@@ -70,7 +70,7 @@
     {
       "name": "AttackSkills",
       "version": 546,
-      "hash": "61c6bc6f3b7f62e06da913b2771cf2dd62348ad5fb203b2c414277778cd8fe5b",
+      "hash": "b4921b600875e703bd90c690fd8681a5c9e77f9bc2a88e933aed9a696c1ec7c3",
       "url": "/static/AttackSkills.json"
     },
     {
