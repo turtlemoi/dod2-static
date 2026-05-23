@@ -20,7 +20,7 @@
       "SoundName": "Attack_Character_Sword",
       "PrefabName": "Character_Attack_1_Strike",
       "SubPrefabName": "",
-      "HitFXName": "",
+      "HitFXName": "FX_Hit_Impact",
       "SkillImage": ""
     },
     {
@@ -43,7 +43,7 @@
       "SoundName": "Attack_Character_Axe",
       "PrefabName": "Character_Attack_2_Strike",
       "SubPrefabName": "",
-      "HitFXName": "",
+      "HitFXName": "FX_Hit_Impact",
       "SkillImage": ""
     },
     {
@@ -66,8 +66,8 @@
       "SoundName": "Attack_arrow",
       "PrefabName": "Mortar_arrow",
       "SubPrefabName": "",
-      "HitFXName": "",
-      "SkillImage": ""
+      "HitFXName": "FX_Hit_arrow",
+      "SkillImage": null
     },
     {
       "ID": 103,
@@ -135,7 +135,7 @@
       "SoundName": "Attack_Character_Palm",
       "PrefabName": "Character_Attack_6_Strike",
       "SubPrefabName": "",
-      "HitFXName": "",
+      "HitFXName": "FX_Hit_Impact",
       "SkillImage": ""
     },
     {
