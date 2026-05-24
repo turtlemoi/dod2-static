@@ -189,6 +189,26 @@
       "Value3": 0,
       "SoundName": null,
       "PrefabName": null
+    },
+    {
+      "ID": 300020,
+      "CoolDown": 0.5,
+      "EffectType": 20,
+      "Value1": 4,
+      "Value2": 0,
+      "Value3": 0,
+      "SoundName": null,
+      "PrefabName": null
+    },
+    {
+      "ID": 300021,
+      "CoolDown": 0.5,
+      "EffectType": 21,
+      "Value1": 0,
+      "Value2": 0,
+      "Value3": 0,
+      "SoundName": null,
+      "PrefabName": null
     }
   ]
 }

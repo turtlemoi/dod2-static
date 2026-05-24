@@ -3082,6 +3082,32 @@
       "SkillImage": "skillcard_319_quick_draw"
     },
     {
+      "ID": 300020,
+      "Name": "SKILL_300020",
+      "Desc": "SKILL_300020_DESC",
+      "Tier": 1,
+      "JobName": "",
+      "JobIcon": "",
+      "Synergy1": 0,
+      "Synergy2": 0,
+      "SkillType": 3,
+      "InOut": "",
+      "SkillImage": "skillcard_320_emergency_heal"
+    },
+    {
+      "ID": 300021,
+      "Name": "SKILL_300021",
+      "Desc": "SKILL_300021_DESC",
+      "Tier": 3,
+      "JobName": "",
+      "JobIcon": "",
+      "Synergy1": 0,
+      "Synergy2": 0,
+      "SkillType": 3,
+      "InOut": "",
+      "SkillImage": "skillcard_321_combat_recovery"
+    },
+    {
       "ID": 400001,
       "Name": "SKILL_400001",
       "Desc": "SKILL_400001_DESC",
@@ -3327,6 +3353,45 @@
       "SkillType": 4,
       "InOut": "",
       "SkillImage": "powercard_419_gambler"
+    },
+    {
+      "ID": 400020,
+      "Name": "SKILL_400020",
+      "Desc": "SKILL_400020_DESC",
+      "Tier": 4,
+      "JobName": "",
+      "JobIcon": "",
+      "Synergy1": 0,
+      "Synergy2": 0,
+      "SkillType": 4,
+      "InOut": "",
+      "SkillImage": "powercard_420_skill_heal"
+    },
+    {
+      "ID": 400021,
+      "Name": "SKILL_400021",
+      "Desc": "SKILL_400021_DESC",
+      "Tier": 3,
+      "JobName": "",
+      "JobIcon": "",
+      "Synergy1": 0,
+      "Synergy2": 0,
+      "SkillType": 4,
+      "InOut": "",
+      "SkillImage": "powercard_421_cycle_heal"
+    },
+    {
+      "ID": 400022,
+      "Name": "SKILL_400022",
+      "Desc": "SKILL_400022_DESC",
+      "Tier": 2,
+      "JobName": "",
+      "JobIcon": "",
+      "Synergy1": 0,
+      "Synergy2": 0,
+      "SkillType": 4,
+      "InOut": "",
+      "SkillImage": "powercard_422_reshuffle_heal"
     }
   ]
 }

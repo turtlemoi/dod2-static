@@ -189,6 +189,36 @@
       "Value2": 0,
       "Value3": 0,
       "벨류값": null
+    },
+    {
+      "ID": 400020,
+      "CoolDown": 2,
+      "TriggerType": 2,
+      "EffectType": 20,
+      "Value1": 1,
+      "Value2": 0,
+      "Value3": 0,
+      "벨류값": "스킬카드 회복 V1: 회복량 (1)"
+    },
+    {
+      "ID": 400021,
+      "CoolDown": 2,
+      "TriggerType": 5,
+      "EffectType": 21,
+      "Value1": 2,
+      "Value2": 0,
+      "Value3": 0,
+      "벨류값": "순환 회복 V1: 회복량 (2)"
+    },
+    {
+      "ID": 400022,
+      "CoolDown": 2,
+      "TriggerType": 6,
+      "EffectType": 22,
+      "Value1": 5,
+      "Value2": 0,
+      "Value3": 0,
+      "벨류값": "리셔플 회복 V1: 회복량 (5)"
     }
   ]
 }
